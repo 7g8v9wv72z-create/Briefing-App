@@ -188,6 +188,16 @@ html, body {
 .section-content .item-title { font-weight: 700; margin-bottom: 4px; }
 .section-content p { margin: 0 0 12px; }
 
+.section-content.audio-playing {
+  border-left: 4px solid var(--highlight);
+  padding-left: 12px;
+  animation: audiopulse 2s ease-in-out infinite;
+}
+@keyframes audiopulse {
+  0%, 100% { border-left-color: var(--highlight); }
+  50% { border-left-color: var(--accent); }
+}
+
 .speak-chunk { transition: background 0.2s; border-radius: 8px; padding: 2px 4px; }
 .speak-chunk.speaking {
   background: var(--highlight-bg);

@@ -34,8 +34,18 @@ jobs:
         with:
           node-version: "20"
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
       - name: Build news.json
         run: node scripts/build-news.mjs
+
+      - name: Build news audio (edge-tts, optional)
+        run: |
+          python -m pip install --quiet edge-tts || echo "edge-tts Installation fehlgeschlagen – Audio wird übersprungen"
+          python scripts/build-audio.py || echo "Audio-Build übersprungen"
 
       - name: Commit news.json, falls geändert
         run: |

@@ -11,6 +11,13 @@
 const DEFAULT_RATE = 0.85;
 const SPEECH_PITCH = 1.0;
 const SENTENCE_GAP_MS = 180; // kurze Pause zwischen Sätzen – leichter zu folgen
+
+// Kurze Stille zum Freischalten der Audio-Wiedergabe auf iOS (User-Geste nötig).
+const SILENT_WAV = "data:audio/wav;base64,UklGRrQBAABXQVZFZm10IBAAAAABAAEAQB8AAEAfAAABAAgAZGF0YZABAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA";
+
+// Gemeinsames Audio-Element für die vorproduzierten Nachrichten-MP3s.
+const briefingAudio = typeof Audio !== "undefined" ? new Audio() : null;
+if (briefingAudio) briefingAudio.preload = "auto";
 const LS_KEY = "morgenBriefingSettings";
 
 const DEFAULT_SETTINGS = {
@@ -279,14 +286,17 @@ async function buildBriefing(settings, setStep) {
 
   const newsSection = (label, key, fallback) => {
     let items;
+    let audioUrl = null;
     if (news.error) {
       items = [{ text: news.error }];
     } else if (Array.isArray(news[key]) && news[key].length) {
       items = news[key].map((it) => ({ title: it.title || "", text: it.text || "" }));
+      // Vorproduzierte natürliche Audio-Datei (falls vorhanden); Cache-Busting.
+      audioUrl = `./news-${key}.mp3?t=${Date.now()}`;
     } else {
       items = [{ text: fallback }];
     }
-    sections.push({ label, items });
+    sections.push({ label, items, audioUrl });
   };
 
   newsSection("Weltweite Top-News", "world", "Aktuell liegen keine internationalen Meldungen vor.");
@@ -399,6 +409,7 @@ const Player = {
     this.secIndex = 0;
     this.chunkIndex = 0;
     this.playing = false;
+    this.mode = "tts";
     const s = loadSettings();
     this.rate = s.rate || DEFAULT_RATE;
     this.pickVoice();
@@ -456,21 +467,78 @@ const Player = {
     }
   },
 
+  // iOS: Audio-Element innerhalb der Start-Geste „freischalten“.
+  unlockAudio() {
+    if (!briefingAudio) return;
+    try {
+      briefingAudio.src = SILENT_WAV;
+      const p = briefingAudio.play();
+      if (p && p.then) p.then(() => { briefingAudio.pause(); briefingAudio.currentTime = 0; }).catch(() => {});
+    } catch (_) {}
+  },
+
+  // Startet die Wiedergabe des aktuellen Abschnitts (Audio-MP3 oder Gerätestimme).
+  playCurrent() {
+    if (!this.playing) return;
+    const sec = this.sections[this.secIndex];
+    if (sec.audioUrl && !sec.audioFailed && briefingAudio) {
+      this.playAudio(sec);
+    } else {
+      this.mode = "tts";
+      this.speakCurrent();
+    }
+  },
+
+  advanceSection() {
+    if (this.secIndex < this.sections.length - 1) {
+      this.secIndex++;
+      this.chunkIndex = 0;
+      this.renderSection();
+      this.playCurrent();
+    } else {
+      this.finish();
+    }
+  },
+
+  // --- Audio-Abschnitt (vorproduzierte MP3) ---
+  playAudio(sec) {
+    this.mode = "audio";
+    const myToken = ++this.token;
+    this.highlightSection(true);
+    briefingAudio.onended = () => {
+      if (myToken !== this.token || !this.playing) return;
+      this.highlightSection(false);
+      this.advanceSection();
+    };
+    briefingAudio.onerror = () => {
+      if (myToken !== this.token) return;
+      // Keine MP3 verfügbar → auf Gerätestimme zurückfallen.
+      sec.audioFailed = true;
+      this.highlightSection(false);
+      this.mode = "tts";
+      this.chunkIndex = 0;
+      this.speakCurrent();
+    };
+    // Falls schon dieselbe Quelle geladen ist (Resume), nicht neu setzen.
+    const want = sec.audioUrl;
+    if (briefingAudio.src !== want) { briefingAudio.src = want; }
+    const p = briefingAudio.play();
+    if (p && p.then) p.catch(() => {
+      if (myToken !== this.token) return;
+      sec.audioFailed = true;
+      this.mode = "tts";
+      this.chunkIndex = 0;
+      this.speakCurrent();
+    });
+  },
+
+  // --- TTS-Abschnitt (Gerätestimme, Satz für Satz) ---
   speakCurrent() {
     if (!this.playing) return;
     if (this.chunkIndex >= this.chunks.length) {
-      // Abschnitt fertig → nächster Abschnitt
-      if (this.secIndex < this.sections.length - 1) {
-        this.secIndex++;
-        this.chunkIndex = 0;
-        this.renderSection();
-        this.speakCurrent();
-      } else {
-        this.finish();
-      }
+      this.advanceSection();
       return;
     }
-
     this.highlight(this.chunkIndex);
     const myToken = ++this.token;
     const u = new SpeechSynthesisUtterance(this.chunks[this.chunkIndex]);
@@ -499,56 +567,77 @@ const Player = {
     if (this.playing) return;
     this.playing = true;
     updatePlayPauseIcon(true);
-    this.speakCurrent();
+    // Audio-Abschnitt mitten in der Wiedergabe → fortsetzen statt neu starten.
+    const sec = this.sections[this.secIndex];
+    if (this.mode === "audio" && sec.audioUrl && !sec.audioFailed &&
+        briefingAudio && briefingAudio.currentTime > 0 && !briefingAudio.ended) {
+      briefingAudio.play().catch(() => this.playCurrent());
+    } else {
+      this.playCurrent();
+    }
   },
 
   pause() {
     this.playing = false;
-    this.token++; // laufende onend-Callbacks entwerten
-    window.speechSynthesis.cancel();
+    if (this.mode === "audio" && briefingAudio) {
+      briefingAudio.pause(); // Position bleibt erhalten (Resume möglich)
+    } else {
+      this.token++; // laufende onend-Callbacks entwerten
+      window.speechSynthesis.cancel();
+    }
     updatePlayPauseIcon(false);
   },
 
   toggle() { this.playing ? this.pause() : this.play(); },
 
-  stopSpeech() {
+  stopPlayback() {
     this.token++;
-    window.speechSynthesis.cancel();
+    if (window.speechSynthesis) window.speechSynthesis.cancel();
+    if (briefingAudio) {
+      briefingAudio.onended = null;
+      briefingAudio.onerror = null;
+      briefingAudio.pause();
+    }
   },
 
   next() {
     if (this.secIndex >= this.sections.length - 1) return;
     const wasPlaying = this.playing;
-    this.stopSpeech();
+    this.stopPlayback();
     this.secIndex++;
     this.chunkIndex = 0;
     this.renderSection();
-    if (wasPlaying) { this.playing = true; this.speakCurrent(); }
+    if (wasPlaying) { this.playing = true; this.playCurrent(); }
   },
 
   prev() {
     const wasPlaying = this.playing;
-    this.stopSpeech();
-    // Wenn wir schon mitten im Abschnitt sind, zum Anfang dieses Abschnitts.
-    if (this.chunkIndex > 0) {
-      this.chunkIndex = 0;
-    } else if (this.secIndex > 0) {
-      this.secIndex--;
-    }
+    this.stopPlayback();
+    // Mitten im (Audio- oder TTS-)Abschnitt → zum Anfang dieses Abschnitts.
+    const inMiddle = (this.mode === "audio" && briefingAudio && briefingAudio.currentTime > 1) ||
+                     this.chunkIndex > 0;
+    if (!inMiddle && this.secIndex > 0) this.secIndex--;
+    this.chunkIndex = 0;
     this.renderSection();
-    if (wasPlaying) { this.playing = true; this.speakCurrent(); }
+    if (wasPlaying) { this.playing = true; this.playCurrent(); }
   },
 
   finish() {
     this.playing = false;
     this.highlight(-1);
+    this.highlightSection(false);
     updatePlayPauseIcon(false);
   },
 
   stopAll() {
     this.playing = false;
-    this.stopSpeech();
+    this.stopPlayback();
     updatePlayPauseIcon(false);
+  },
+
+  highlightSection(on) {
+    const c = $("section-content");
+    if (c) c.classList.toggle("audio-playing", !!on);
   }
 };
 
@@ -599,6 +688,8 @@ async function startBriefing() {
       window.speechSynthesis.cancel();
     } catch (_) {}
   }
+  // iOS: Audio-Wiedergabe innerhalb derselben Geste freischalten.
+  Player.unlockAudio();
 
   if (!navigator.onLine) { showScreen("offline"); return; }
 

@@ -1,5 +1,5 @@
 // Service Worker für die Morgen-Briefing PWA
-const CACHE = "morgen-briefing-v5";
+const CACHE = "morgen-briefing-v6";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -34,8 +34,10 @@ self.addEventListener("fetch", (event) => {
   const isApi = /api\.tomtom\.com|open-meteo\.com/.test(url.host);
   if (isApi) return; // Browser-Standardverhalten; bei Offline schlägt der fetch im app.js fehl.
 
-  // news.json immer frisch aus dem Netz (mit Cache als Offline-Fallback).
-  if (url.origin === self.location.origin && url.pathname.endsWith("/news.json")) {
+  // news.json und die vorproduzierten Audio-MP3s immer frisch aus dem Netz
+  // (mit Cache als Offline-Fallback).
+  if (url.origin === self.location.origin &&
+      (url.pathname.endsWith("/news.json") || /\/news-[a-z]+\.mp3$/.test(url.pathname))) {
     event.respondWith(
       fetch(req)
         .then((res) => {

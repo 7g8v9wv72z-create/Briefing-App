@@ -1,0 +1,3 @@
+# Vorproduzierte Audio-Dateien werden im Workflow erzeugt und direkt zu
+# GitHub Pages deployt – nicht ins Repo committen (Binär-Bloat vermeiden).
+news-*.mp3

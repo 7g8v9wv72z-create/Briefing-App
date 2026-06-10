@@ -89,6 +89,22 @@ gibt, werden die Feeds **server-seitig** geholt:
 Der News-Stand entspricht also dem letzten Workflow-Lauf. Feeds/Kategorien lassen
 sich oben in `scripts/build-news.mjs` anpassen.
 
+### Natürliche Vorlese-Stimme (Audio)
+
+Da iOS-Safari Web-Apps nur eine Standard-Stimme freigibt, werden die
+**Nachrichten** zusätzlich morgens server-seitig in **natürliche neuronale
+MP3s** umgewandelt (`scripts/build-audio.py` via [`edge-tts`](https://github.com/rany2/edge-tts),
+Microsoft-Neural-Stimme „Katja", kostenlos & ohne Key). Die App spielt pro
+Kategorie eine Datei `news-<kategorie>.mp3` ab.
+
+- Die MP3s werden im Workflow erzeugt und **direkt zu Pages deployt** (nicht ins
+  Repo committet – siehe `.gitignore`).
+- Begrüßung, Verkehr, Wetter und Abschluss bleiben Gerätestimme (Verkehr/Wetter
+  sind erst zur Fahrtzeit bekannt).
+- Fehlt eine MP3 (z. B. edge-tts nicht erreichbar), fällt die App für den
+  Abschnitt automatisch auf die Gerätestimme zurück.
+- Stimme/Tempo: oben in `scripts/build-audio.py` (`VOICE`, `RATE`).
+
 ## Einstellungen
 
 - **Heimadresse** (Vorbelegung: `89284`)
