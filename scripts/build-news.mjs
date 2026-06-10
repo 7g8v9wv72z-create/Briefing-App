@@ -17,8 +17,8 @@ const FEEDS = {
     "https://t3n.de/rss.xml"
   ],
   local: [
-    "https://www.swr.de/swraktuell/baden-wuerttemberg/index~rss2.xml",
-    "https://www.tagesschau.de/inland/regional/badenwuerttemberg/index~rss2.xml"
+    "https://www.tagesschau.de/inland/regional/badenwuerttemberg/index~rss2.xml",
+    "https://www.tagesschau.de/inland/regional/bayern/index~rss2.xml"
   ]
 };
 
