@@ -11,7 +11,7 @@ import json
 import os
 import sys
 
-VOICE = "de-DE-KatjaNeural"   # natürliche weibliche Stimme; Alternative: de-DE-ConradNeural
+VOICE = "de-DE-ConradNeural"  # natürliche männliche Stimme; Alternative: de-DE-KatjaNeural (weiblich)
 RATE = "-8%"                  # etwas ruhiger – leichter zu folgen
 CATEGORIES = ["world", "economy", "automotive", "tech", "local"]
 
