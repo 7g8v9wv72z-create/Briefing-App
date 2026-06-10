@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T12:58:23.461Z",
+  "generatedAt": "2026-06-10T14:08:30.137Z",
   "world": [
     {
       "title": "Ausschreitungen in Belfast: Politiker warnen vor Hass und Spaltung",
@@ -42,30 +42,30 @@
   ],
   "automotive": [
     {
-      "title": "Mercedes-Benz baut ab sofort Axialflussmotoren in Berlin",
-      "text": "Mercedes-Benz hat im Werk Berlin-Marienfelde die Produktion seines neuen elektrischen Axialflussmotors gestartet. Hintergrund ist, dass Mercedes-Benz 2021 den britischen E-Motor-Spezialisten Yasa übernommen und dessen Axialfluss-Motortechnologie seitdem weiterentwickelt hat."
+      "title": "2nd Life: Alte GM-Akkus werden zu stationärem Fabrik-Batteriespeicher",
+      "text": "Der US-Recycler Redwood Materials gibt eine Erweiterung seiner Partnerschaft mit General Motors bekannt: Redwood bereitet den Einsatz von rund 100 ausgemusterten GM-Batteriepacks in einem der GM-Werke in Michigan vor, um den Standort mit 1,5 MW bzw. 7,2 MWh regelbarer Energie zu versorgen."
     },
     {
-      "title": "Milence eröffnet seinen ersten Lkw-Ladehub in Dänemark",
-      "text": "Der neue Standort in Padborg an der deutsch-dänischen Grenze bietet zunächst vier CCS-Ladepunkte mit bis zu 400 kW und bietet ab sofort eine Anlaufstelle für den elektrischen Güterverkehr zwischen Skandinavien und Mitteleuropa."
+      "title": "China erreicht NEV-Rekordanteil – Exporte treiben Wachstum",
+      "text": "China kam im Mai auf fast 1,5 Millionen abgesetzte Elektroautos und Plug-in-Hybride. Damit legte der NEV-Absatz wieder deutlicher zu als in den Vormonaten. Der Anteil am gesamten Automarkt stieg auf einen neuen Höchstwert von 56,9 Prozent. Doch erneut zeigt sich: Das Wachstum wird vor allem vom Auslandsgeschäft getragen."
     },
     {
-      "title": "Harley-Tochter LiveWire startet Produktion der S4 Honcho",
-      "text": "Die auf E-Motorräder spezialisierte Harley-Davidson-Tochter LiveWire beginnt mit der Produktion ihrer neuesten Modelle, der S4 Honcho Trail und der S4 Honcho Street. Die Plattform S4 Honcho steht für die Expansion von LiveWire in den Bereich leichter und erschwinglicher Elektromotorräder."
+      "title": "Grünes Licht für den „Battery Booster“ der EU",
+      "text": "Die EU-Kommission hatte schon vor längerer Zeit angekündigt, mit einem \"Battery Booster\" die Produktion von Batteriezellen in Europa fördern zu wollen. Nun ist es soweit und 1,5 Milliarden Euro stehen in Form von zinslosen Krediten bereit. Der Förderaufruf soll bereits im dritten Quartal veröffentlicht werden."
     }
   ],
   "tech": [
     {
-      "title": "Artemis III: Das ist die neue Mondbesatzung",
-      "text": "Die Nasa hat die Artemis-Besatzung für den dritten Flug vorgestellt."
+      "title": "Mercedes-Benz: Elektrischer GLC kann in günstigeren Varianten bestellt werden",
+      "text": "Nach dem GLC 400 4Matic kommen zwei preiswertere Varianten in den Handel. Die Preise starten bei knapp 65.000 Euro."
     },
     {
-      "title": "Zugvögel: Abschaltung von Windrädern für Vögel kostet kaum Strom",
-      "text": "Mit einer ungewöhnlichen Ortungsmethode und einem ganz neuen Kosten-Nutzen-Modell verlieren Windräder auch für Vögel ihren Schrecken."
+      "title": "Zweifelhafte Studie: Untersuchung verknüpft Windräder und Herzerkrankungen",
+      "text": "Eine vermeintlich wissenschaftliche Untersuchung vergleicht Gemeinden mit und ohne Windkraftanlagen und sieht ein Risiko durch Infraschall."
     },
     {
-      "title": "Einblick in Unterlagen: Was der Börsengang über Bending Spoons verrät",
-      "text": "Nach SpaceX, Anthropic und OpenAI strebt auch die Software-Heuschrecke Bending Spoons an die US-Börse. Wer hatte das auf seiner Bingo-Karte? Eine Analyse von Mike Faust"
+      "title": "Neural Dawn: ARM und Sumo Digital zeigen Mali-KI-Rendering-Features",
+      "text": "ARMs Neural Technology soll auf Smartphones zu PCs und Konsolen vergleichbare Grafik ermöglichen. Einen Haken hat die Technik aber."
     }
   ],
   "local": [
