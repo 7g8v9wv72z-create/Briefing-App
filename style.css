@@ -246,4 +246,22 @@ html, body {
   padding: 16px;
 }
 .settings-form input:focus { outline: 2px solid var(--accent); }
+
+.settings-form select {
+  background: var(--bg-elev);
+  border: 1px solid var(--bg-elev-2);
+  border-radius: 12px;
+  color: var(--fg);
+  font-size: 1.1rem;
+  padding: 16px;
+  width: 100%;
+  appearance: none;
+}
+.settings-form select:focus { outline: 2px solid var(--accent); }
+
+.settings-form input[type="range"] {
+  padding: 0;
+  height: 36px;
+  accent-color: var(--accent);
+}
 .saved-hint { color: var(--ok); font-weight: 700; text-align: center; }

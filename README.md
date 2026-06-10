@@ -94,6 +94,15 @@ sich oben in `scripts/build-news.mjs` anpassen.
 - **Heimadresse** (Vorbelegung: `89284`)
 - **Arbeitsadresse** (Vorbelegung: `Driventic, Heidenheim`)
 - **Traffic API Key (TomTom)**
+- **Vorlese-Stimme** – Auswahl aus den auf dem Gerät installierten deutschen
+  Stimmen (Standard: automatisch die beste verfügbare). Mit „Stimme testen"
+  vorhören.
+- **Geschwindigkeit** – Vorlese-Tempo (0.6×–1.2×, Standard 0.95×).
+
+> **Natürlichere Stimme:** Auf dem iPhone unter *Einstellungen →
+> Bedienungshilfen → Gesprochene Inhalte → Stimmen → Deutsch* eine
+> „Premium"/„Erweitert"-Stimme laden; auf Android/Chrome ist „Google Deutsch"
+> die beste Wahl. Danach in den App-Einstellungen auswählen.
 
 ## Dateistruktur
 

@@ -8,14 +8,16 @@
  * ========================================================================= */
 
 /* ---------- Konfiguration / Konstanten ---------- */
-const SPEECH_RATE = 0.92;
+const DEFAULT_RATE = 0.95;
 const SPEECH_PITCH = 1.0;
 const LS_KEY = "morgenBriefingSettings";
 
 const DEFAULT_SETTINGS = {
   home: "89284",
   work: "Driventic, Heidenheim",
-  trafficKey: ""
+  trafficKey: "",
+  voiceURI: "",
+  rate: DEFAULT_RATE
 };
 
 /* Fallback-Koordinaten für PLZ 89284 (Pfaffenhofen a.d. Roth), falls keine
@@ -302,6 +304,70 @@ async function buildBriefing(settings, setStep) {
 }
 
 /* =========================================================================
+ * Stimmen-Auswahl (TTS)
+ * ========================================================================= */
+function getGermanVoices() {
+  const voices = window.speechSynthesis ? window.speechSynthesis.getVoices() : [];
+  return voices.filter((v) => v.lang && /^de\b|^de[-_]/i.test(v.lang));
+}
+
+// Bewertet Stimmen: hochwertige (Google/Premium/Enhanced/online) bevorzugen,
+// robotische „Kompakt"- und Novelty-Stimmen abwerten.
+function voiceScore(v) {
+  const n = (v.name || "").toLowerCase();
+  let s = 0;
+  if (/google/.test(n)) s += 6;
+  if (/(premium|enhanced|erweitert|natural|neural|siri)/.test(n)) s += 5;
+  if (v.localService === false) s += 2; // Online-Stimmen sind meist natürlicher
+  if (/(anna|petra|markus|viktor|yannick)/.test(n)) s += 1;
+  if (/(compact|kompakt|eddy|flo|grandma|grandpa|reed|rocko|sandy|shelley|trinoids|whisper|bells|bubbles|jester|organ|superstar|wobble|albert|bad|boing)/.test(n)) s -= 6;
+  return s;
+}
+
+function chooseVoice(preferredURI) {
+  const voices = window.speechSynthesis ? window.speechSynthesis.getVoices() : [];
+  if (preferredURI) {
+    const v = voices.find((x) => x.voiceURI === preferredURI);
+    if (v) return v;
+  }
+  const de = getGermanVoices();
+  if (!de.length) return voices.find((v) => v.lang && v.lang.startsWith("de")) || null;
+  return de.slice().sort((a, b) => voiceScore(b) - voiceScore(a))[0];
+}
+
+function populateVoiceOptions() {
+  const sel = $("set-voice");
+  if (!sel) return;
+  const current = loadSettings().voiceURI;
+  const de = getGermanVoices().slice().sort((a, b) => voiceScore(b) - voiceScore(a));
+  sel.innerHTML = '<option value="">Automatisch (beste verfügbare)</option>';
+  de.forEach((v) => {
+    const opt = document.createElement("option");
+    opt.value = v.voiceURI;
+    const quality = v.localService === false ? " – online" : "";
+    opt.textContent = `${v.name} (${v.lang})${quality}`;
+    if (v.voiceURI === current) opt.selected = true;
+    sel.appendChild(opt);
+  });
+}
+
+function testVoice() {
+  if (!window.speechSynthesis) return;
+  const uri = $("set-voice").value;
+  const rate = parseFloat($("set-speed").value) || DEFAULT_RATE;
+  window.speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(
+    "Guten Morgen! Das ist ein Test deiner Vorlese-Stimme. Gute Fahrt und einen erfolgreichen Tag!"
+  );
+  u.lang = "de-DE";
+  u.rate = rate;
+  u.pitch = SPEECH_PITCH;
+  const v = chooseVoice(uri);
+  if (v) u.voice = v;
+  window.speechSynthesis.speak(u);
+}
+
+/* =========================================================================
  * Player (TTS)
  * ========================================================================= */
 const Player = {
@@ -319,14 +385,14 @@ const Player = {
     this.secIndex = 0;
     this.chunkIndex = 0;
     this.playing = false;
+    const s = loadSettings();
+    this.rate = s.rate || DEFAULT_RATE;
     this.pickVoice();
     this.renderSection();
   },
 
   pickVoice() {
-    const voices = window.speechSynthesis ? window.speechSynthesis.getVoices() : [];
-    this.voice = voices.find((v) => v.lang === "de-DE") ||
-                 voices.find((v) => v.lang && v.lang.startsWith("de")) || null;
+    this.voice = chooseVoice(loadSettings().voiceURI);
   },
 
   renderSection() {
@@ -395,7 +461,7 @@ const Player = {
     const myToken = ++this.token;
     const u = new SpeechSynthesisUtterance(this.chunks[this.chunkIndex]);
     u.lang = "de-DE";
-    u.rate = SPEECH_RATE;
+    u.rate = this.rate || DEFAULT_RATE;
     u.pitch = SPEECH_PITCH;
     if (this.voice) u.voice = this.voice;
     u.onend = () => {
@@ -560,6 +626,10 @@ function fillSettingsForm() {
   $("set-home").value = s.home;
   $("set-work").value = s.work;
   $("set-traffic").value = s.trafficKey;
+  populateVoiceOptions();
+  $("set-voice").value = s.voiceURI || "";
+  $("set-speed").value = s.rate || DEFAULT_RATE;
+  $("speed-value").textContent = (s.rate || DEFAULT_RATE).toFixed(2);
 }
 
 function wireEvents() {
@@ -592,7 +662,9 @@ function wireEvents() {
     saveSettings({
       home: $("set-home").value.trim() || DEFAULT_SETTINGS.home,
       work: $("set-work").value.trim() || DEFAULT_SETTINGS.work,
-      trafficKey: $("set-traffic").value.trim()
+      trafficKey: $("set-traffic").value.trim(),
+      voiceURI: $("set-voice").value,
+      rate: parseFloat($("set-speed").value) || DEFAULT_RATE
     });
     $("settings-saved").classList.remove("hidden");
   });
@@ -602,9 +674,18 @@ function wireEvents() {
   $("btn-next").addEventListener("click", () => Player.next());
   $("btn-prev").addEventListener("click", () => Player.prev());
 
+  // Stimmen-Einstellungen
+  $("set-speed").addEventListener("input", () => {
+    $("speed-value").textContent = parseFloat($("set-speed").value).toFixed(2);
+  });
+  $("btn-test-voice").addEventListener("click", testVoice);
+
   // Stimmen werden u.U. asynchron geladen
   if (window.speechSynthesis) {
-    window.speechSynthesis.onvoiceschanged = () => Player.pickVoice();
+    window.speechSynthesis.onvoiceschanged = () => {
+      Player.pickVoice();
+      if ($("screen-settings").classList.contains("active")) populateVoiceOptions();
+    };
   }
 }
 

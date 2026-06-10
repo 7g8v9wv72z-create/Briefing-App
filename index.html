@@ -93,6 +93,23 @@
           <span>Traffic API Key (TomTom)</span>
           <input type="password" id="set-traffic" placeholder="TomTom API Key" />
         </label>
+
+        <label>
+          <span>Vorlese-Stimme</span>
+          <select id="set-voice">
+            <option value="">Automatisch (beste verfügbare)</option>
+          </select>
+        </label>
+
+        <label>
+          <span>Geschwindigkeit: <strong id="speed-value">0.95</strong>×</span>
+          <input type="range" id="set-speed" min="0.6" max="1.2" step="0.05" value="0.95" />
+        </label>
+
+        <button type="button" id="btn-test-voice" class="ghost-btn">▶ Stimme testen</button>
+
+        <p class="muted small">Tipp: Auf dem iPhone klingt es deutlich natürlicher, wenn du unter <em>Einstellungen → Bedienungshilfen → Gesprochene Inhalte → Stimmen → Deutsch</em> eine „Premium"- oder „Erweitert"-Stimme lädst. Auf Android/Chrome ist „Google Deutsch" am besten.</p>
+
         <p class="muted small">Wetter (Open-Meteo) und Nachrichten (öffentliche Feeds) benötigen keinen Key. Nur TomTom ist für die Verkehrslage nötig. Alle Werte werden nur lokal auf diesem Gerät gespeichert.</p>
         <button type="submit" class="primary-btn">Speichern</button>
         <p id="settings-saved" class="saved-hint hidden">Gespeichert ✓</p>
