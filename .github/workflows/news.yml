@@ -7,16 +7,21 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write   # news.json committen
+  pages: write      # Pages deployen
+  id-token: write   # OIDC für Pages-Deploy
 
-# Kein paralleler Lauf, damit Pushes sich nicht überholen.
+# Gleiche Gruppe wie der Deploy-Workflow, damit sich Pages-Deploys nicht überholen.
 concurrency:
-  group: build-news
-  cancel-in-progress: true
+  group: pages
+  cancel-in-progress: false
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -40,3 +45,18 @@ jobs:
             git commit -m "Update news.json (automatisch)"
             git push
           fi
+
+      # Pages direkt aus diesem Job deployen (ein Token-Commit triggert deploy.yml nicht).
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Upload static site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
