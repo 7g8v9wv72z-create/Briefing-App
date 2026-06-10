@@ -37,7 +37,20 @@ async function fetchText(url) {
   try {
     const res = await fetch(url, { headers: { "user-agent": UA }, signal: ctrl.signal });
     if (!res.ok) throw new Error("HTTP " + res.status);
-    return await res.text();
+    const buf = Buffer.from(await res.arrayBuffer());
+
+    // Charset bestimmen: HTTP-Header → XML-Deklaration → UTF-8 (Fallback).
+    let charset = (res.headers.get("content-type") || "").match(/charset=([^;]+)/i)?.[1];
+    if (!charset) {
+      const head = buf.subarray(0, 200).toString("latin1");
+      charset = head.match(/encoding=["']([^"']+)["']/i)?.[1];
+    }
+    charset = (charset || "utf-8").toLowerCase().trim();
+    try {
+      return new TextDecoder(charset).decode(buf);
+    } catch (_) {
+      return new TextDecoder("utf-8").decode(buf);
+    }
   } finally {
     clearTimeout(t);
   }
