@@ -8,8 +8,9 @@
  * ========================================================================= */
 
 /* ---------- Konfiguration / Konstanten ---------- */
-const DEFAULT_RATE = 0.95;
+const DEFAULT_RATE = 0.85;
 const SPEECH_PITCH = 1.0;
+const SENTENCE_GAP_MS = 180; // kurze Pause zwischen Sätzen – leichter zu folgen
 const LS_KEY = "morgenBriefingSettings";
 
 const DEFAULT_SETTINGS = {
@@ -480,7 +481,11 @@ const Player = {
     u.onend = () => {
       if (myToken !== this.token || !this.playing) return;
       this.chunkIndex++;
-      this.speakCurrent();
+      // Kleine Pause zwischen den Sätzen für bessere Verständlichkeit.
+      setTimeout(() => {
+        if (myToken !== this.token || !this.playing) return;
+        this.speakCurrent();
+      }, SENTENCE_GAP_MS);
     };
     u.onerror = () => {
       if (myToken !== this.token || !this.playing) return;
