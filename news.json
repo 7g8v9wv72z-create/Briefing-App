@@ -1,8 +1,89 @@
 {
-  "generatedAt": null,
-  "world": [],
-  "economy": [],
-  "automotive": [],
-  "tech": [],
-  "local": []
+  "generatedAt": "2026-06-10T12:14:47.801Z",
+  "world": [
+    {
+      "title": "Ausschreitungen in Belfast: Politiker warnen vor Hass und Spaltung",
+      "text": "Brennende Autos und Mülleimer: Nach einem Messerangriff in Belfast gab es heftige Ausschreitungen gegen Einwanderung. Anwohner sind erschüttert. Politiker schlagen Alarm und warnen davor, die Tat zu instrumentalisieren. Von Franziska Hoppen."
+    },
+    {
+      "title": "Neue niederländische Regierung: Die Euphorie ist verflogen",
+      "text": "Rob Jetten wurde im Februar der jüngste Regierungschef der Niederlande - doch rund 100 Tage später ist die Euphorie verflogen. Die Umfragewerte für die Regierung sind gesunken. Heute ist Bundespräsident Steinmeier zu Besuch. Von Sabrina Fritz."
+    },
+    {
+      "title": "Die Sagrada Família - eine Kirche, die fasziniert und spaltet",
+      "text": "Seit mehr als 140 Jahren wird sie gebaut - und heute weiht Papst Leo XIV. den Hauptturm der Sagrada Família in Barcelona. Die Baustelle war ein Touristenmagnet - doch an einigen Superlativen gibt es auch Kritik. Von Sebastian Kisters."
+    },
+    {
+      "title": "Nordirland: Schwere Krawalle nach Messerattacke in Belfast",
+      "text": "Eine Messerattacke hat die nordirische Stadt Belfast in Aufruhr versetzt. Ein Video der Tat wurde vielfach geteilt. Der mutmaßliche Täter stammt aus dem Sudan. Das löste nun gewaltsame Proteste gegen Einwanderung aus."
+    },
+    {
+      "title": "EU plant neue Russland-Sanktionen - Einreiseverbot für Soldaten",
+      "text": "Die EU plant ihr mittlerweile 21. Sanktionspaket gegen Russland. Unter den Vorschlägen findet sich ein Einreiseverbot für russische Ukraine-Kämpfer. Erstmals könnten die Sanktionen auch die russische Fischerei treffen."
+    },
+    {
+      "title": "Überreste von Buckelwal werden in dänischer Fabrik verarbeitet",
+      "text": "Das Fett wird zu Biodiesel, alles andere zu Biomasse: Der Kadaver des in Dänemark angespülten Buckelwals soll in einer Fabrik verwertet werden. Manche Knochen kommen ins Museum."
+    }
+  ],
+  "economy": [
+    {
+      "title": "Einzelhandel hofft auf WM-Euphorie gegen die Konsumflaute",
+      "text": "Das Konsumklima in Deutschland ist so schlecht wie seit Jahren nicht mehr. Handel und Gastronomie hoffen auf einen \"WM-Effekt\". Doch selbst beim \"Sommermärchen\" 2006 war der nicht sehr nachhaltig. Von Fabian Siegel."
+    },
+    {
+      "title": "Fast drei Viertel der Neubauten 2025 mit Wärmepumpen-Heizung",
+      "text": "Ein immer größerer Teil der neuen Wohngebäude in Deutschland wird mit Wärmepumpen beheizt - vor allem Ein- und Zweifamilienhäuser. Binnen zehn Jahren hat sich der Anteil mehr als verdoppelt."
+    },
+    {
+      "title": "Warum Apple die Einführung von Siri AI in der EU verschiebt",
+      "text": "Der KI-Assistent Siri AI auf iPhones sorgt für Streit zwischen Apple und der EU-Kommission. Während die Kommission von nicht erfüllten Anforderungen spricht, macht der Konzern Sicherheitsbedenken geltend."
+    }
+  ],
+  "automotive": [
+    {
+      "title": "Milence eröffnet seinen ersten Lkw-Ladehub in Dänemark",
+      "text": "Der neue Standort in Padborg an der deutsch-dänischen Grenze bietet zunächst vier CCS-Ladepunkte mit bis zu 400 kW und bietet ab sofort eine Anlaufstelle für den elektrischen Güterverkehr zwischen Skandinavien und Mitteleuropa."
+    },
+    {
+      "title": "Harley-Tochter LiveWire startet Produktion der S4 Honcho",
+      "text": "Die auf E-Motorräder spezialisierte Harley-Davidson-Tochter LiveWire beginnt mit der Produktion ihrer neuesten Modelle, der S4 Honcho Trail und der S4 Honcho Street. Die Plattform S4 Honcho steht für die Expansion von LiveWire in den Bereich leichter und erschwinglicher Elektromotorräder."
+    },
+    {
+      "title": "Deutschland kommt auf knapp 204.000 öffentliche Ladepunkte",
+      "text": "Die Bundesnetzagentur hat neue Zahlen zum Ausbau der öffentlichen Ladeinfrastruktur publik gemacht. Zum Stichtag 1. Mai 2026 nennt die Behörde bundesweit 203.951 öffentlich zugängliche Ladepunkte – und damit 17 Prozent mehr als vor einem Jahr."
+    }
+  ],
+  "tech": [
+    {
+      "title": "(g+) Hungary: AI used to hunt Viktor Orb�n's alleged corruption",
+      "text": "Head of Hungary's anti-graft body says �160bn may have been siphoned off during ex-PM's 16 years in power (<a href=\"https://www.golem.de/specials/politik-recht/\">Politik</a>, <a href=\"https://www.golem.de/specials/ki/\">KI</a>) <img src=\"https://cpx.golem.de/cpx.php?class=17&amp;aid=209618&amp;page=1&amp;ts=1781093402\" alt=\"\" width=\"1\" height=\"1\" />"
+    },
+    {
+      "title": "Einblick in Unterlagen: Was der B�rsengang �ber Bending Spoons verr�t",
+      "text": "Nach SpaceX, Anthropic und OpenAI strebt auch die Software-Heuschrecke Bending Spoons an die US-B�rse. Wer hatte das auf seiner Bingo-Karte? Eine Analyse von Mike Faust (<a href=\"https://www.golem.de/specials/unternehmen/\">Unternehmen</a>, <a href=\"https://www.golem.de/specials/evernote/\">Evernote</a>) <img src=\"https://cpx.golem.de/cpx.php?class=1 …"
+    },
+    {
+      "title": "Anzeige: Outdoor-Bluetooth-Lautsprecher von JBL zum Tiefstpreis bei Amazon",
+      "text": "Ein Outdoor-Bluetooth-Lautsprecher von JBL mit kraftvollem Sound, Hintergrundbeleuchtung und starkem Akku ist bei Amazon g�nstig wie nie. (<a href=\"https://www.golem.de/specials/technik-und-hardware/\">Technik/Hardware</a>) <img src=\"https://cpx.golem.de/cpx.php?class=17&amp;aid=209619&amp;page=1&amp;ts=1781092381\" alt=\"\" width=\"1\" height=\"1\" />"
+    }
+  ],
+  "local": [
+    {
+      "title": "Live-Übertragung von Kindesmissbrauch auf Bestellung: Lange Haftstrafe für 46-Jährigen möglich",
+      "text": "Er soll von seinem Computer aus Befehle gegeben haben, wie anderswo auf der Welt ein Kind missbraucht werden soll. Deshalb steht ein 46-Jähriger aus dem Kreis Heidenheim nun vor Gericht."
+    },
+    {
+      "title": "Radfahrer in Ulm bei Zusammenstoß mit Straßenbahn getötet",
+      "text": "Bei einem Zusammenstoß mit einer Straßenbahn ist am Montagnachmittag in Ulm ein Radler ums Leben gekommen."
+    },
+    {
+      "title": "Wolfsabwehr im Lonetal: Schutzhunde für Inas Ziegenherde",
+      "text": "Ina Kraus pflegt mit ihren Burenziegen Flächen vom Lonetal bis nach Ulm. Die Herden sind das ganze Jahr auf der Weide. Damit ihnen nichts passiert, leben Herdenschutzhunde bei den Ziegen."
+    },
+    {
+      "title": "Auto prallt bei Hermaringen gegen Baum - Fahrer stirbt",
+      "text": "Ein 34-jähriger Fahrer ist im Kreis Heidenheim tödlich verunglückt. Die Polizei untersucht den Unfallhergang, die Ursache ist noch unklar."
+    }
+  ]
 }
