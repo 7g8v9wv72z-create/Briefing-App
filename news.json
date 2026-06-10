@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T12:20:41.049Z",
+  "generatedAt": "2026-06-10T12:36:16.907Z",
   "world": [
     {
       "title": "Ausschreitungen in Belfast: Politiker warnen vor Hass und Spaltung",
@@ -42,30 +42,30 @@
   ],
   "automotive": [
     {
+      "title": "Mercedes-Benz baut ab sofort Axialflussmotoren in Berlin",
+      "text": "Mercedes-Benz hat im Werk Berlin-Marienfelde die Produktion seines neuen elektrischen Axialflussmotors gestartet. Hintergrund ist, dass Mercedes-Benz 2021 den britischen E-Motor-Spezialisten Yasa übernommen und dessen Axialfluss-Motortechnologie seitdem weiterentwickelt hat."
+    },
+    {
       "title": "Milence eröffnet seinen ersten Lkw-Ladehub in Dänemark",
       "text": "Der neue Standort in Padborg an der deutsch-dänischen Grenze bietet zunächst vier CCS-Ladepunkte mit bis zu 400 kW und bietet ab sofort eine Anlaufstelle für den elektrischen Güterverkehr zwischen Skandinavien und Mitteleuropa."
     },
     {
       "title": "Harley-Tochter LiveWire startet Produktion der S4 Honcho",
       "text": "Die auf E-Motorräder spezialisierte Harley-Davidson-Tochter LiveWire beginnt mit der Produktion ihrer neuesten Modelle, der S4 Honcho Trail und der S4 Honcho Street. Die Plattform S4 Honcho steht für die Expansion von LiveWire in den Bereich leichter und erschwinglicher Elektromotorräder."
-    },
-    {
-      "title": "Deutschland kommt auf knapp 204.000 öffentliche Ladepunkte",
-      "text": "Die Bundesnetzagentur hat neue Zahlen zum Ausbau der öffentlichen Ladeinfrastruktur publik gemacht. Zum Stichtag 1. Mai 2026 nennt die Behörde bundesweit 203.951 öffentlich zugängliche Ladepunkte – und damit 17 Prozent mehr als vor einem Jahr."
     }
   ],
   "tech": [
     {
+      "title": "Artemis III: Das ist die neue Mondbesatzung",
+      "text": "Die Nasa hat die Artemis-Besatzung für den dritten Flug vorgestellt."
+    },
+    {
+      "title": "Zugvögel: Abschaltung von Windrädern für Vögel kostet kaum Strom",
+      "text": "Mit einer ungewöhnlichen Ortungsmethode und einem ganz neuen Kosten-Nutzen-Modell verlieren Windräder auch für Vögel ihren Schrecken."
+    },
+    {
       "title": "Einblick in Unterlagen: Was der Börsengang über Bending Spoons verrät",
       "text": "Nach SpaceX, Anthropic und OpenAI strebt auch die Software-Heuschrecke Bending Spoons an die US-Börse. Wer hatte das auf seiner Bingo-Karte? Eine Analyse von Mike Faust"
-    },
-    {
-      "title": "Servicenow: Großer Cloudanbieter informiert Kunden über Datenpanne",
-      "text": "Bei Servicenow konnten Angreifer ohne Authentifizierung über ein API Kundendaten ausleiten. Mindestens ein Cyberakteur hat das ausgenutzt."
-    },
-    {
-      "title": "Ende einer Ära: BBC streicht Doctor-Who-Weihnachtsspecial",
-      "text": "Doctor Who bekommt kein Weihnachtsspecial. Die BBC bereitet stattdessen einen umfassenden Neustart der Serie vor."
     }
   ],
   "local": [
