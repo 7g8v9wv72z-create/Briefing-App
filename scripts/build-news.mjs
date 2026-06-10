@@ -62,15 +62,24 @@ function pick(block, tag) {
   return m ? m[1] : "";
 }
 
+function decodeEntities(s) {
+  s = s.replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)));
+  s = s.replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(parseInt(n, 10)));
+  s = s
+    .replace(/&quot;/g, '"').replace(/&apos;/g, "'").replace(/&nbsp;/g, " ")
+    .replace(/&lt;/g, "<").replace(/&gt;/g, ">")
+    .replace(/&amp;/g, "&"); // &amp; zuletzt
+  return s;
+}
+
 function clean(s) {
   if (!s) return "";
   s = s.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1");
+  // Erst Entities dekodieren (macht aus &lt;a&gt; echtes <a>), dann ALLE Tags strippen.
+  s = decodeEntities(s);
   s = s.replace(/<[^>]+>/g, " ");
-  s = s
-    .replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">")
-    .replace(/&quot;/g, '"').replace(/&apos;/g, "'").replace(/&nbsp;/g, " ");
-  s = s.replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)));
-  s = s.replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(parseInt(n, 10)));
+  // Von Feeds angehängte Kategorie-/Tracking-Reste am Ende entfernen, z. B. "(Politik, KI)".
+  s = s.replace(/\(\s*[A-Za-zÄÖÜäöü/ ,.&-]+\s*\)\s*$/g, "");
   s = s.replace(/\s+/g, " ").trim();
   return s;
 }
@@ -91,6 +100,8 @@ function parseFeed(xml) {
     const title = clean(pick(block, "title"));
     let text = clean(pick(block, "description") || pick(block, "summary") || pick(block, "content"));
     if (!title) continue;
+    // Werbung und (oft englische) Plus-Teaser überspringen.
+    if (/^\(g\+\)/i.test(title) || /^anzeige\b/i.test(title) || /\bsponsored\b/i.test(title)) continue;
     // Titel-Wiederholung am Anfang der Beschreibung vermeiden
     if (text && text.startsWith(title)) text = text.slice(title.length).trim();
     items.push({ title, text: truncate(text, 350) });
