@@ -29,6 +29,9 @@ jobs:
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
+        with:
+          # Pages automatisch aktivieren, falls noch nicht geschehen.
+          enablement: true
 
       - name: Upload static site
         uses: actions/upload-pages-artifact@v3
