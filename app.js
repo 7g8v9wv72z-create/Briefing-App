@@ -3,12 +3,11 @@
 /* =========================================================================
  * Morgen-Briefing PWA
  * - Begrüßung, Verkehr (TomTom), Wetter (Open-Meteo) lokal zusammengesetzt
- * - Nachrichten via Claude API (claude-sonnet-4-20250514) + Web Search
+ * - Nachrichten aus kostenlosen Feeds (news.json, täglich via GitHub Action gebaut)
  * - Vorlesen via Web Speech API (de-DE)
  * ========================================================================= */
 
 /* ---------- Konfiguration / Konstanten ---------- */
-const CLAUDE_MODEL = "claude-sonnet-4-20250514";
 const SPEECH_RATE = 0.92;
 const SPEECH_PITCH = 1.0;
 const LS_KEY = "morgenBriefingSettings";
@@ -16,7 +15,6 @@ const LS_KEY = "morgenBriefingSettings";
 const DEFAULT_SETTINGS = {
   home: "89284",
   work: "Driventic, Heidenheim",
-  anthropicKey: "",
   trafficKey: ""
 };
 
@@ -197,68 +195,16 @@ function buildWeatherText(daily, today, isThursday) {
   return msg.trim();
 }
 
-/* ---- Nachrichten (Claude API + Web Search) ---- */
-function buildNewsPrompt(dateStr, weekdayName, homeLabel) {
-  return `Du bist ein deutschsprachiger Nachrichten-Redakteur und erstellst ein gesprochenes Morgen-Briefing.
-Heutiges Datum: ${weekdayName}, ${dateStr}.
-Verwende das Web-Search-Tool und nutze AUSSCHLIESSLICH Meldungen von heute oder gestern.
-
-Erstelle ein aktuelles Nachrichten-Briefing auf Deutsch mit folgenden Kategorien:
-- "world": 5 bis 7 wichtigste internationale Schlagzeilen, je 2-3 Sätze.
-- "economy": 2 bis 3 Meldungen zu Märkten, Konjunktur, Unternehmen.
-- "automotive": 2 bis 3 Meldungen aus Fahrzeugindustrie, Zulieferern, E-Mobilität, Verkehrspolitik.
-- "tech": 2 bis 3 Meldungen aus Technologie und Künstlicher Intelligenz.
-- "local": 2 bis 4 lokale Meldungen aus der Region ${homeLabel} und Umkreis ca. 30 km (Neu-Ulm, Ulm, Region Heidenheim).
-
-Schreibe in klarem, gut vorlesbarem Deutsch (vollständige Sätze, keine Stichpunkte, keine Quellen-URLs im Text).
-
-Antworte AUSSCHLIESSLICH mit gültigem JSON in genau dieser Struktur, ohne Markdown, ohne Kommentar:
-{
-  "world": [{"title": "...", "text": "..."}],
-  "economy": [{"title": "...", "text": "..."}],
-  "automotive": [{"title": "...", "text": "..."}],
-  "tech": [{"title": "...", "text": "..."}],
-  "local": [{"title": "...", "text": "..."}]
-}`;
-}
-
-function extractJSON(text) {
-  const start = text.indexOf("{");
-  const end = text.lastIndexOf("}");
-  if (start === -1 || end === -1 || end <= start) return null;
-  const slice = text.slice(start, end + 1);
-  try { return JSON.parse(slice); } catch (_) { return null; }
-}
-
-async function getNews(anthropicKey, dateStr, weekdayName, homeLabel) {
-  if (!anthropicKey) {
-    return { error: "Kein Anthropic API Key hinterlegt – Nachrichten nicht verfügbar." };
+/* ---- Nachrichten (kostenlose Feeds, täglich via GitHub Action in news.json gebaut) ---- */
+async function getNews() {
+  try {
+    // cache-busting, damit immer die aktuelle news.json geladen wird
+    const res = await fetch("./news.json?t=" + Date.now(), { cache: "no-store" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    return await res.json();
+  } catch (_) {
+    return { error: "Nachrichten konnten nicht geladen werden." };
   }
-  const body = {
-    model: CLAUDE_MODEL,
-    max_tokens: 8000,
-    tools: [{ type: "web_search_20250305", name: "web_search", max_uses: 8 }],
-    messages: [{ role: "user", content: buildNewsPrompt(dateStr, weekdayName, homeLabel) }]
-  };
-  const data = await fetchJSON("https://api.anthropic.com/v1/messages", {
-    method: "POST",
-    headers: {
-      "content-type": "application/json",
-      "x-api-key": anthropicKey,
-      "anthropic-version": "2023-06-01",
-      "anthropic-dangerous-direct-browser-access": "true"
-    },
-    body: JSON.stringify(body)
-  });
-
-  const text = (data.content || [])
-    .filter((b) => b.type === "text")
-    .map((b) => b.text)
-    .join("\n");
-
-  const parsed = extractJSON(text);
-  if (!parsed) return { error: "Nachrichten konnten nicht verarbeitet werden." };
-  return parsed;
 }
 
 /* =========================================================================
@@ -292,7 +238,7 @@ async function buildBriefing(settings, setStep) {
   const [trafficRes, weatherRes, newsRes] = await Promise.allSettled([
     getTraffic(homeCoords, workCoords, settings.trafficKey),
     getWeather(homeCoords),
-    getNews(settings.anthropicKey, dateStr, weekdayName, homeLabel)
+    getNews()
   ]);
 
   // Verkehr
@@ -573,9 +519,9 @@ async function startBriefing() {
   if (!navigator.onLine) { showScreen("offline"); return; }
 
   const settings = loadSettings();
-  if (!settings.anthropicKey || !settings.trafficKey) {
+  if (!settings.trafficKey) {
     $("home-warning").textContent =
-      "Bitte hinterlege zuerst deinen Anthropic API Key und den Traffic API Key in den Einstellungen.";
+      "Hinweis: Ohne Traffic API Key (TomTom) bleibt die Verkehrslage leer. Wetter und Nachrichten funktionieren trotzdem.";
     $("home-warning").classList.remove("hidden");
   }
 
@@ -613,7 +559,6 @@ function fillSettingsForm() {
   const s = loadSettings();
   $("set-home").value = s.home;
   $("set-work").value = s.work;
-  $("set-anthropic").value = s.anthropicKey;
   $("set-traffic").value = s.trafficKey;
 }
 
@@ -647,7 +592,6 @@ function wireEvents() {
     saveSettings({
       home: $("set-home").value.trim() || DEFAULT_SETTINGS.home,
       work: $("set-work").value.trim() || DEFAULT_SETTINGS.work,
-      anthropicKey: $("set-anthropic").value.trim(),
       trafficKey: $("set-traffic").value.trim()
     });
     $("settings-saved").classList.remove("hidden");

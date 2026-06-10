@@ -62,37 +62,52 @@ In den **Einstellungen** (Zahnrad-Symbol) eintragen:
 | Dienst | Zweck | Key nötig? | Bezug |
 |--------|-------|-----------|-------|
 | **Open-Meteo** | Wetter | **Nein – kostenlos & ohne Key** | https://open-meteo.com |
-| **TomTom** | Verkehr (Routing + Geocoding, Echtzeit-Traffic) | Ja | https://developer.tomtom.com → kostenloses Konto, „Maps API Key" erstellen |
-| **Anthropic** | Nachrichten (Claude `claude-sonnet-4-20250514` + Web Search) | Ja | https://console.anthropic.com → „API Keys" |
+| **Öffentliche News-Feeds** | Nachrichten | **Nein – kostenlos & ohne Key** | siehe „Nachrichten" unten |
+| **TomTom** | Verkehr (Routing + Geocoding, Echtzeit-Traffic) | Ja (nur für Verkehr) | https://developer.tomtom.com → kostenloses Konto, „Maps API Key" erstellen |
 
-> **Hinweis Open-Meteo:** Der Wetterdienst ist kostenlos und benötigt **keinen**
-> API-Key. Ohne TomTom-Key wird die Geocodierung über Open-Meteo durchgeführt;
-> die Verkehrslage bleibt dann allerdings leer.
+> **Komplett kostenlos außer Verkehr:** Wetter und Nachrichten laufen ohne Key.
+> Nur die Verkehrslage braucht einen (kostenlosen) TomTom-Key. Ohne TomTom-Key
+> bleibt der Verkehrs-Abschnitt leer, der Rest funktioniert.
 
-### Sicherheit der Keys
-Die Keys werden ausschließlich im Browser (`localStorage`) gespeichert und
-direkt an die jeweiligen APIs gesendet – es gibt **kein Backend**. Der
-Anthropic-Aufruf nutzt den Header `anthropic-dangerous-direct-browser-access`,
-um den Direktzugriff aus dem Browser zu erlauben. Verwende für den
-persönlichen Gebrauch idealerweise einen Key mit begrenztem Budget.
+### Sicherheit des Keys
+Der TomTom-Key wird ausschließlich im Browser (`localStorage`) gespeichert und
+direkt an TomTom gesendet – es gibt **kein Backend**.
+
+## Nachrichten (kostenlos, ohne Key)
+
+Die Nachrichten kommen aus **öffentlichen RSS/Atom-Feeds** (Tagesschau, Golem,
+t3n, electrive, SWR). Damit es in einer reinen Browser-App **kein CORS-Problem**
+gibt, werden die Feeds **server-seitig** geholt:
+
+- Der GitHub-Action-Workflow `.github/workflows/news.yml` läuft werktags früh
+  morgens (Cron `30 4 * * 1-5` ≈ 06:30 Uhr MESZ) und kann unter **Actions →
+  „Build news.json" → „Run workflow"** auch manuell ausgelöst werden.
+- Das Skript `scripts/build-news.mjs` baut daraus eine `news.json` und committet
+  sie ins Repo.
+- Die PWA lädt `news.json` vom **selben Server** (same-origin) – kein Key, kein CORS.
+
+Der News-Stand entspricht also dem letzten Workflow-Lauf. Feeds/Kategorien lassen
+sich oben in `scripts/build-news.mjs` anpassen.
 
 ## Einstellungen
 
 - **Heimadresse** (Vorbelegung: `89284`)
 - **Arbeitsadresse** (Vorbelegung: `Driventic, Heidenheim`)
-- **Anthropic API Key**
 - **Traffic API Key (TomTom)**
 
 ## Dateistruktur
 
 ```
-index.html          App-Struktur & Screens
-app.js              Logik: Daten laden, Briefing bauen, TTS-Player
-style.css           Dunkles, kontrastreiches Design
-manifest.json       PWA-Manifest
-service-worker.js   Caching & Offline-Fallback
-icon.svg            App-Icon
-README.md           Diese Datei
+index.html               App-Struktur & Screens
+app.js                   Logik: Daten laden, Briefing bauen, TTS-Player
+style.css                Dunkles, kontrastreiches Design
+manifest.json            PWA-Manifest
+service-worker.js        Caching & Offline-Fallback
+icon.svg                 App-Icon
+news.json                Tagesaktuelle Nachrichten (automatisch erzeugt)
+scripts/build-news.mjs   Baut news.json aus kostenlosen Feeds
+.github/workflows/       Pages-Deploy + täglicher News-Build
+README.md                Diese Datei
 ```
 
 ## Technische Hinweise
@@ -100,8 +115,8 @@ README.md           Diese Datei
 - **Verkehr:** TomTom *Calculate Route* API mit `traffic=true` – liefert aktuelle
   Fahrzeit, Normalzeit und Verzögerung.
 - **Wetter:** Open-Meteo *Forecast* API (7 Tage, Zeitzone Europe/Berlin).
-- **Nachrichten:** Claude API mit aktiviertem **Web-Search-Tool**; das aktuelle
-  Datum wird übergeben, es werden nur Meldungen von heute/gestern berücksichtigt.
-  Donnerstags wird die Wochenend-Wettervorschau lokal aus den Forecast-Daten ergänzt.
+- **Nachrichten:** kostenlose öffentliche RSS/Atom-Feeds, server-seitig per
+  GitHub Action in `news.json` gebaut (kein Key, kein CORS). Donnerstags wird die
+  Wochenend-Wettervorschau lokal aus den Forecast-Daten ergänzt.
 - Begrüßung, Verkehr und Wetter werden **lokal** aus den API-Daten formuliert
-  (zuverlässig & ohne Halluzinationen); nur die Nachrichten kommen von Claude.
+  (zuverlässig & ohne Halluzinationen).
