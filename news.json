@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T14:11:52.418Z",
+  "generatedAt": "2026-06-10T14:32:31.814Z",
   "world": [
     {
       "title": "Ausschreitungen in Belfast: Politiker warnen vor Hass und Spaltung",
@@ -42,19 +42,23 @@
   ],
   "automotive": [
     {
+      "title": "Stellantis testet mit Partnern autonomen Fahrdienst in Luxemburg",
+      "text": "Stellantis, Bolt und Pony.ai schieben ein Pilotprogramm für autonome Mobilität in Luxemburg an: In \"Living Lab\" wollen sie sich mit entsprechenden Fahrzeugen, deren Integration in Ride-Hailing-Plattformen und der Koordination gesetzlicher Vorgaben befassen."
+    },
+    {
       "title": "2nd Life: Alte GM-Akkus werden zu stationärem Fabrik-Batteriespeicher",
       "text": "Der US-Recycler Redwood Materials gibt eine Erweiterung seiner Partnerschaft mit General Motors bekannt: Redwood bereitet den Einsatz von rund 100 ausgemusterten GM-Batteriepacks in einem der GM-Werke in Michigan vor, um den Standort mit 1,5 MW bzw. 7,2 MWh regelbarer Energie zu versorgen."
     },
     {
       "title": "China erreicht NEV-Rekordanteil – Exporte treiben Wachstum",
       "text": "China kam im Mai auf fast 1,5 Millionen abgesetzte Elektroautos und Plug-in-Hybride. Damit legte der NEV-Absatz wieder deutlicher zu als in den Vormonaten. Der Anteil am gesamten Automarkt stieg auf einen neuen Höchstwert von 56,9 Prozent. Doch erneut zeigt sich: Das Wachstum wird vor allem vom Auslandsgeschäft getragen."
-    },
-    {
-      "title": "Grünes Licht für den „Battery Booster“ der EU",
-      "text": "Die EU-Kommission hatte schon vor längerer Zeit angekündigt, mit einem \"Battery Booster\" die Produktion von Batteriezellen in Europa fördern zu wollen. Nun ist es soweit und 1,5 Milliarden Euro stehen in Form von zinslosen Krediten bereit. Der Förderaufruf soll bereits im dritten Quartal veröffentlicht werden."
     }
   ],
   "tech": [
+    {
+      "title": "Porsche-CEO: Porsche 911 wird es nicht als Elektroversion geben",
+      "text": "Der Porsche 911 ist eine Ikone - und wird wohl nicht als Elektroauto erscheinen, zumindest wenn es nach Porsche-Chef Michael Leiters geht."
+    },
     {
       "title": "Mercedes-Benz: Elektrischer GLC kann in günstigeren Varianten bestellt werden",
       "text": "Nach dem GLC 400 4Matic kommen zwei preiswertere Varianten in den Handel. Die Preise starten bei knapp 65.000 Euro."
@@ -62,10 +66,6 @@
     {
       "title": "Zweifelhafte Studie: Untersuchung verknüpft Windräder und Herzerkrankungen",
       "text": "Eine vermeintlich wissenschaftliche Untersuchung vergleicht Gemeinden mit und ohne Windkraftanlagen und sieht ein Risiko durch Infraschall."
-    },
-    {
-      "title": "Neural Dawn: ARM und Sumo Digital zeigen Mali-KI-Rendering-Features",
-      "text": "ARMs Neural Technology soll auf Smartphones zu PCs und Konsolen vergleichbare Grafik ermöglichen. Einen Haken hat die Technik aber."
     }
   ],
   "local": [
