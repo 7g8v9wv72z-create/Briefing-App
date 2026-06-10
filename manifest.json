@@ -1,0 +1,20 @@
+{
+  "name": "Morgen-Briefing",
+  "short_name": "Briefing",
+  "description": "Personalisiertes tägliches Morgen-Briefing, das auf Deutsch vorgelesen wird.",
+  "lang": "de",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0f19",
+  "theme_color": "#0b0f19",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
