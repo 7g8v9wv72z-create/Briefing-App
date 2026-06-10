@@ -1,5 +1,5 @@
 // Service Worker für die Morgen-Briefing PWA
-const CACHE = "morgen-briefing-v3";
+const CACHE = "morgen-briefing-v4";
 const APP_SHELL = [
   "./",
   "./index.html",

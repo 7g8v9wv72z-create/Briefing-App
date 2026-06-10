@@ -338,7 +338,8 @@ function chooseVoice(preferredURI) {
 function populateVoiceOptions() {
   const sel = $("set-voice");
   if (!sel) return;
-  const current = loadSettings().voiceURI;
+  // Aktuelle (evtl. noch ungespeicherte) Auswahl merken und wiederherstellen.
+  const keep = sel.value || loadSettings().voiceURI || "";
   const de = getGermanVoices().slice().sort((a, b) => voiceScore(b) - voiceScore(a));
   sel.innerHTML = '<option value="">Automatisch (beste verfügbare)</option>';
   de.forEach((v) => {
@@ -346,9 +347,21 @@ function populateVoiceOptions() {
     opt.value = v.voiceURI;
     const quality = v.localService === false ? " – online" : "";
     opt.textContent = `${v.name} (${v.lang})${quality}`;
-    if (v.voiceURI === current) opt.selected = true;
     sel.appendChild(opt);
   });
+  // Auswahl wiederherstellen, falls noch vorhanden.
+  if ([...sel.options].some((o) => o.value === keep)) sel.value = keep;
+
+  const info = $("voice-count");
+  if (info) info.textContent = de.length
+    ? `${de.length} deutsche Stimme${de.length === 1 ? "" : "n"} gefunden.`
+    : "Es wurden noch keine deutschen Stimmen gefunden.";
+}
+
+// iOS lädt die Stimmen oft verzögert – mehrfach nachladen.
+function refreshVoicesWithRetry() {
+  populateVoiceOptions();
+  [300, 1000, 2500].forEach((ms) => setTimeout(populateVoiceOptions, ms));
 }
 
 function testVoice() {
@@ -649,6 +662,8 @@ function wireEvents() {
     fillSettingsForm();
     $("settings-saved").classList.add("hidden");
     showScreen("settings");
+    // Stimmen ggf. verzögert nachladen (v. a. iOS).
+    refreshVoicesWithRetry();
   });
 
   $("btn-start").addEventListener("click", () => {
@@ -684,7 +699,7 @@ function wireEvents() {
   if (window.speechSynthesis) {
     window.speechSynthesis.onvoiceschanged = () => {
       Player.pickVoice();
-      if ($("screen-settings").classList.contains("active")) populateVoiceOptions();
+      populateVoiceOptions();
     };
   }
 }
