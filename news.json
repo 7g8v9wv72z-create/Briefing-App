@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-06-10T15:22:34.455Z",
+  "generatedAt": "2026-06-11T17:48:43.805Z",
   "world": [
+    {
+      "title": "EuGH: Kunde hat ein Recht auf Basis-Konto trotz US-Sanktionen",
+      "text": "Privatpersonen haben in der EU ein Recht auf ein Basis-Konto. Das gilt auch dann noch, wenn jemand auf einer Sanktionsliste der USA steht, wie nun der Europäische Gerichtshof geurteilt hat. Von Max Brauer."
+    },
+    {
+      "title": "Papst beklagt Gleichgültigkeit gegenüber Schicksal von Migranten",
+      "text": "Auf Gran Canaria trifft Papst Leo XIV in einem Hafen mit Migranten zusammen. Er fordert, Europa dürfe nicht hinnehmen, dass das Mittelmeer und der Atlantik zu \"Friedhöfen ohne Grabsteine\" würden."
+    },
+    {
+      "title": "Britischer Verteidigungsminister tritt im Etatstreit zurück",
+      "text": "Noch ein Dämpfer für Premier Starmer: Im Streit um den Militärhaushalt hat der britische Verteidigungsminister Healey seinen Rücktritt angekündigt. Weitere schlechte Nachrichten für Starmer könnten bald folgen."
+    },
+    {
+      "title": "EU schreibt TFA schädliche Wirkung auf die Fortpflanzung zu",
+      "text": "Die Chemie- und Pharmabranche setzt Trifluoressigsäure, kurz TFA, als Lösungsmittel und Katalysator ein. Nun stuft die EU sie als besonders schädlich ein. TFA könne die Fruchtbarkeit verringern. Von A. Meyer-Feist."
+    },
     {
       "title": "Ausschreitungen in Belfast: Politiker warnen vor Hass und Spaltung",
       "text": "Brennende Autos und Mülleimer: Nach einem Messerangriff in Belfast gab es heftige Ausschreitungen gegen Einwanderung. Anwohner sind erschüttert. Politiker schlagen Alarm und warnen davor, die Tat zu instrumentalisieren. Von Franziska Hoppen."
@@ -8,67 +24,55 @@
     {
       "title": "Neue niederländische Regierung: Die Euphorie ist verflogen",
       "text": "Rob Jetten wurde im Februar der jüngste Regierungschef der Niederlande - doch rund 100 Tage später ist die Euphorie verflogen. Die Umfragewerte für die Regierung sind gesunken. Heute ist Bundespräsident Steinmeier zu Besuch. Von Sabrina Fritz."
-    },
-    {
-      "title": "Die Sagrada Família - eine Kirche, die fasziniert und spaltet",
-      "text": "Seit mehr als 140 Jahren wird sie gebaut - und heute weiht Papst Leo XIV. den Hauptturm der Sagrada Família in Barcelona. Die Baustelle war ein Touristenmagnet - doch an einigen Superlativen gibt es auch Kritik. Von Sebastian Kisters."
-    },
-    {
-      "title": "Nordirland: Schwere Krawalle nach Messerattacke in Belfast",
-      "text": "Eine Messerattacke hat die nordirische Stadt Belfast in Aufruhr versetzt. Ein Video der Tat wurde vielfach geteilt. Der mutmaßliche Täter stammt aus dem Sudan. Das löste nun gewaltsame Proteste gegen Einwanderung aus."
-    },
-    {
-      "title": "EU plant neue Russland-Sanktionen - Einreiseverbot für Soldaten",
-      "text": "Die EU plant ihr mittlerweile 21. Sanktionspaket gegen Russland. Unter den Vorschlägen findet sich ein Einreiseverbot für russische Ukraine-Kämpfer. Erstmals könnten die Sanktionen auch die russische Fischerei treffen."
-    },
-    {
-      "title": "Überreste von Buckelwal werden in dänischer Fabrik verarbeitet",
-      "text": "Das Fett wird zu Biodiesel, alles andere zu Biomasse: Der Kadaver des in Dänemark angespülten Buckelwals soll in einer Fabrik verwertet werden. Manche Knochen kommen ins Museum."
     }
   ],
   "economy": [
     {
-      "title": "Einzelhandel hofft auf WM-Euphorie gegen die Konsumflaute",
-      "text": "Das Konsumklima in Deutschland ist so schlecht wie seit Jahren nicht mehr. Handel und Gastronomie hoffen auf einen \"WM-Effekt\". Doch selbst beim \"Sommermärchen\" 2006 war der nicht sehr nachhaltig. Von Fabian Siegel."
+      "title": "EZB erhöht erstmals seit 2023 die Leitzinsen",
+      "text": "Der Ölpreisschock infolge des Iran-Kriegs treibt die Verbraucherpreise nach oben. Nun hat die Europäische Zentralbank reagiert und erstmals seit September 2023 die Leitzinsen im Euroraum angehoben - auf nun 2,25 Prozent."
     },
     {
-      "title": "Fast drei Viertel der Neubauten 2025 mit Wärmepumpen-Heizung",
-      "text": "Ein immer größerer Teil der neuen Wohngebäude in Deutschland wird mit Wärmepumpen beheizt - vor allem Ein- und Zweifamilienhäuser. Binnen zehn Jahren hat sich der Anteil mehr als verdoppelt."
+      "title": "Nach Ölpreis-Schock: Warum die Zinswende \"unvermeidlich\" ist",
+      "text": "Zum ersten Mal seit rund drei Jahren erhöht die EZB die Leitzinsen. Der EZB-Rat hält ein Handeln für zwingend notwendig. Während sich Sparer freuen, werden Kredite deutlich teurer. Von Klaus-Rainer Jackisch."
     },
     {
-      "title": "Warum Apple die Einführung von Siri AI in der EU verschiebt",
-      "text": "Der KI-Assistent Siri AI auf iPhones sorgt für Streit zwischen Apple und der EU-Kommission. Während die Kommission von nicht erfüllten Anforderungen spricht, macht der Konzern Sicherheitsbedenken geltend."
+      "title": "Deutsche Haushalte geben mehr Geld für digitale Abos aus",
+      "text": "Die Deutschen lassen sich digitale Abos immer mehr kosten. Fast jeder fünfte Haushalt gibt mehr als 100 Euro im Monat dafür aus. Auf Akzeptanz stoßen mittlerweile auch werbefinanzierte Modelle, so sie denn einen Preisvorteil bieten."
     }
   ],
   "automotive": [
     {
-      "title": "Solaris liefert 40 Elektrobusse an MZK Toruń",
-      "text": "Der polnische Verkehrsbetrieb MZK Toruń hat 40 Elektrobusse des Typs Solaris Urbino 12 electric übernommen. Zum Auftrag gehört auch die Bereitstellung der Ladeinfrastruktur."
+      "title": "DKV Mobility baut Ladeangebot in Italien und der Schweiz aus",
+      "text": "Der Tank- und Ladekarten-Anbieter DKV Mobility erweitert sein internationales Angebot: Ab sofort bietet das Unternehmen seine Ladelösungen für Zuhause (@home) und den Arbeitsplatz (@work) auch in der Schweiz und Italien an. Zuvor war in beiden Ländern über DKV nur öffentliches Laden (@road) möglich."
     },
     {
-      "title": "Stellantis testet mit Partnern autonomen Fahrdienst in Luxemburg",
-      "text": "Stellantis, Bolt und Pony.ai schieben ein Pilotprogramm für autonome Mobilität in Luxemburg an: In \"Living Lab\" wollen sie sich mit entsprechenden Fahrzeugen, deren Integration in Ride-Hailing-Plattformen und der Koordination gesetzlicher Vorgaben befassen."
+      "title": "Einride geht an die Börse – und legt zum Handelsstart kräftig zu",
+      "text": "Der schwedische Anbieter für elektrifizierte und autonome Gütertransporte Einride ist per SPAC-Fusion an die Nasdaq gegangen. Die Aktie legte am ersten Handelstag zeitweise um mehr als 100 Prozent zu."
     },
     {
-      "title": "2nd Life: Alte GM-Akkus werden zu stationärem Fabrik-Batteriespeicher",
-      "text": "Der US-Recycler Redwood Materials gibt eine Erweiterung seiner Partnerschaft mit General Motors bekannt: Redwood bereitet den Einsatz von rund 100 ausgemusterten GM-Batteriepacks in einem der GM-Werke in Michigan vor, um den Standort mit 1,5 MW bzw. 7,2 MWh regelbarer Energie zu versorgen."
+      "title": "Ford setzt für Ladeinfrastruktur-Management auf Chargecloud",
+      "text": "Ford setzt in Deutschland künftig für das Management der eigenen Ladeinfrastruktur auf die Software von Chargecloud. Die Vereinbarung umfasst rund 1.400 Ladepunkte an den Standorten Köln und Saarlouis sowie eine Home-Charging-Anwendung für ausgewählte Mitarbeiter mit Dienstwagen. …"
     }
   ],
   "tech": [
     {
-      "title": "Valve: Bald gibt es keine Steam-Geschenkkarten im Handel mehr",
-      "text": "Valve wird die Produktion der physischen Kärtchen einstellen. Sie werden gern von Scammern genutzt."
+      "title": "Humanoide Roboter: Warum der Bosch-Chef Elon Musk gut findet",
+      "text": "Der Autozulieferer Bosch hofft auf ein gutes Geschäft mit humanoiden Robotern. Doch diese sollen keine \"Frankensteins\" werden. Ein Bericht von Friedhelm Greis"
     },
     {
-      "title": "Halo Campaign Evolved: Der Master Chief kehrt stark zurück",
-      "text": "Golem hat Halo - Campaign Evolved angespielt. Der erste Eindruck: Halo bleibt Halo, sieht aber besser aus als je zuvor. Ein Hands-on von Peter Steinlechner"
+      "title": "Streaming: Youtube Premium wird in Deutschland teurer",
+      "text": "Kunden zahlen künftig für Youtube Premium im Einzelabo über 15 Prozent mehr. Auch Bestandskunden sollen die Preisänderungen betreffen."
     },
     {
-      "title": "Fable: Ein sprechendes Schwein, gebrochene Herzen und 1.000 NPCs",
-      "text": "Die Welt retten? Kann warten. Fable setzt auf eine tiefgehende Lebenssimulation mit Beziehungen und Wirtschaftsleben. Von Peter Steinlechner"
+      "title": "Kameras: Über 400 Falschparker in Frankfurt von Bussen aufgezeichnet",
+      "text": "Seit Februar 2026 machen Busse in Frankfurt/Main Fotos von Falschparkern an Bushaltestellen und auf Busspuren - mit Erfolg."
     }
   ],
   "local": [
+    {
+      "title": "Millionen Coronamasken lagern in Ulm - und müssen jetzt verbrannt werden",
+      "text": "Millionen Schutzmasken aus der Coronazeit lagern in einem Logistikzentrum im Ulmer Norden. Die 2.000 Tonnen Material sind abgelaufen und nun zur Entsorgung ausgeschrieben."
+    },
     {
       "title": "Live-Übertragung von Kindesmissbrauch auf Bestellung: Lange Haftstrafe für 46-Jährigen möglich",
       "text": "Er soll vom Computer aus Befehle gegeben haben, wie anderswo auf der Welt ein Kind missbraucht werden soll. Deshalb steht ein 46-Jähriger aus dem Kreis Heidenheim nun vor Gericht."
@@ -80,10 +84,6 @@
     {
       "title": "Wolfsabwehr im Lonetal: Schutzhunde für Inas Ziegenherde",
       "text": "Ina Kraus pflegt mit ihren Burenziegen Flächen vom Lonetal bis nach Ulm. Die Herden sind das ganze Jahr auf der Weide. Damit ihnen nichts passiert, leben Herdenschutzhunde bei den Ziegen."
-    },
-    {
-      "title": "Auto prallt bei Hermaringen gegen Baum - Fahrer stirbt",
-      "text": "Ein 34-jähriger Fahrer ist im Kreis Heidenheim tödlich verunglückt. Die Polizei untersucht den Unfallhergang, die Ursache ist noch unklar."
     }
   ]
 }
