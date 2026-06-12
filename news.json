@@ -1,74 +1,78 @@
 {
-  "generatedAt": "2026-06-11T17:48:43.805Z",
+  "generatedAt": "2026-06-12T14:24:26.848Z",
   "world": [
+    {
+      "title": "EU-Asylpolitik: Wie Meloni sich als Vorreiterin inszeniert",
+      "text": "Seit heute gilt ein verschärftes EU-Asylrecht. Aus Sicht von Italiens Ministerpräsidentin Meloni diente ihre Politik als Vorbild, dem nun die ganze Union folgt. Aber es gab Rückschläge und Kritik. Von Tilmann Kleinjung."
+    },
+    {
+      "title": "Dan Jarvis zum neuen britischen Verteidigungsminister ernannt",
+      "text": "Großbritannien hat mit Dan Jarvis einen neuen Verteidigungsminister. Sein Vorgänger war mit harscher Kritik an Premier Starmer zurückgetreten. Der Regierungschef gerät immer stärker unter Druck."
+    },
+    {
+      "title": "Kretas Sorge vor Migration aus Libyen",
+      "text": "Die Migrationsrouten nach Griechenland haben sich verlagert. Die meisten Geflüchteten kommen nicht mehr auf den ägäischen Inseln an, sondern versuchen die gefährliche Überfahrt von Libyen direkt Richtung Kreta. Von Moritz Pompl."
+    },
+    {
+      "title": "Lange umstritten - nun gelten die neuen EU-Asylregeln",
+      "text": "Jahrelang hat die EU um neue Asylregeln gerungen - heute sind sie in Kraft getreten. Neue Zahlen zeigen, dass die irreguläre Migration schon in den vergangenen Monaten deutlich zurückgegangen ist. Von K. Schmid."
+    },
     {
       "title": "EuGH: Kunde hat ein Recht auf Basis-Konto trotz US-Sanktionen",
       "text": "Privatpersonen haben in der EU ein Recht auf ein Basis-Konto. Das gilt auch dann noch, wenn jemand auf einer Sanktionsliste der USA steht, wie nun der Europäische Gerichtshof geurteilt hat. Von Max Brauer."
     },
     {
       "title": "Papst beklagt Gleichgültigkeit gegenüber Schicksal von Migranten",
-      "text": "Auf Gran Canaria trifft Papst Leo XIV in einem Hafen mit Migranten zusammen. Er fordert, Europa dürfe nicht hinnehmen, dass das Mittelmeer und der Atlantik zu \"Friedhöfen ohne Grabsteine\" würden."
-    },
-    {
-      "title": "Britischer Verteidigungsminister tritt im Etatstreit zurück",
-      "text": "Noch ein Dämpfer für Premier Starmer: Im Streit um den Militärhaushalt hat der britische Verteidigungsminister Healey seinen Rücktritt angekündigt. Weitere schlechte Nachrichten für Starmer könnten bald folgen."
-    },
-    {
-      "title": "EU schreibt TFA schädliche Wirkung auf die Fortpflanzung zu",
-      "text": "Die Chemie- und Pharmabranche setzt Trifluoressigsäure, kurz TFA, als Lösungsmittel und Katalysator ein. Nun stuft die EU sie als besonders schädlich ein. TFA könne die Fruchtbarkeit verringern. Von A. Meyer-Feist."
-    },
-    {
-      "title": "Ausschreitungen in Belfast: Politiker warnen vor Hass und Spaltung",
-      "text": "Brennende Autos und Mülleimer: Nach einem Messerangriff in Belfast gab es heftige Ausschreitungen gegen Einwanderung. Anwohner sind erschüttert. Politiker schlagen Alarm und warnen davor, die Tat zu instrumentalisieren. Von Franziska Hoppen."
-    },
-    {
-      "title": "Neue niederländische Regierung: Die Euphorie ist verflogen",
-      "text": "Rob Jetten wurde im Februar der jüngste Regierungschef der Niederlande - doch rund 100 Tage später ist die Euphorie verflogen. Die Umfragewerte für die Regierung sind gesunken. Heute ist Bundespräsident Steinmeier zu Besuch. Von Sabrina Fritz."
+      "text": "Auf Gran Canaria trifft Papst Leo XIV. in einem Hafen mit Migranten zusammen. Er fordert, Europa dürfe nicht hinnehmen, dass das Mittelmeer und der Atlantik zu \"Friedhöfen ohne Grabsteine\" würden."
     }
   ],
   "economy": [
     {
-      "title": "EZB erhöht erstmals seit 2023 die Leitzinsen",
-      "text": "Der Ölpreisschock infolge des Iran-Kriegs treibt die Verbraucherpreise nach oben. Nun hat die Europäische Zentralbank reagiert und erstmals seit September 2023 die Leitzinsen im Euroraum angehoben - auf nun 2,25 Prozent."
+      "title": "Warum der SpaceX-Börsengang für Anleger riskant ist",
+      "text": "Der Börsengang von SpaceX elektrisiert Anleger weltweit. Doch bei einer Bewertung von 1,8 Billionen Dollar muss Elon Musk mehrere Wetten gewinnen, damit die Rechnung aufgeht. Experten warnen vor zu viel Euphorie. Von Angela Göpfert."
     },
     {
-      "title": "Nach Ölpreis-Schock: Warum die Zinswende \"unvermeidlich\" ist",
-      "text": "Zum ersten Mal seit rund drei Jahren erhöht die EZB die Leitzinsen. Der EZB-Rat hält ein Handeln für zwingend notwendig. Während sich Sparer freuen, werden Kredite deutlich teurer. Von Klaus-Rainer Jackisch."
+      "title": "Elon Musk: Der erste Billionär durch den SpaceX-Börsengang?",
+      "text": "Der Reichtum eines einzelnen Menschen könnte mit dem SpaceX-Börsengang bislang neue Dimensionen erreichen. Geht sein Plan auf, hat Elon Musk mehr als eine Billion Dollar - auf dem Papier. Von Ingo Nathusius."
     },
     {
-      "title": "Deutsche Haushalte geben mehr Geld für digitale Abos aus",
-      "text": "Die Deutschen lassen sich digitale Abos immer mehr kosten. Fast jeder fünfte Haushalt gibt mehr als 100 Euro im Monat dafür aus. Auf Akzeptanz stoßen mittlerweile auch werbefinanzierte Modelle, so sie denn einen Preisvorteil bieten."
+      "title": "ifo-Umfrage: Viele Firmen sehen KI als Ersatz für Akademiker",
+      "text": "Künstliche Intelligenz kann Akademiker und erfahrene Mitarbeiter teilweise ersetzen - so denkt heute schon jedes fünfte Unternehmen, ergab eine ifo-Umfrage. Die Mehrheit der Betriebe ist allerdings skeptisch."
     }
   ],
   "automotive": [
     {
-      "title": "DKV Mobility baut Ladeangebot in Italien und der Schweiz aus",
-      "text": "Der Tank- und Ladekarten-Anbieter DKV Mobility erweitert sein internationales Angebot: Ab sofort bietet das Unternehmen seine Ladelösungen für Zuhause (@home) und den Arbeitsplatz (@work) auch in der Schweiz und Italien an. Zuvor war in beiden Ländern über DKV nur öffentliches Laden (@road) möglich."
+      "title": "Kilowatt Collective: Einkaufsgenossenschaft fürs Laden geplant",
+      "text": "Elvah-Mitgründer Sören Ziems startet ein neues Projekt: das „Kilowatt Collective“, eine Art Einkaufsgenossenschaft fürs Laden. Die Idee dahinter: Menschen, die regelmäßig öffentlich laden, schließen sich zusammen und verhandeln mit einer Stimme bessere Konditionen bei den großen Ladestationsbetreibern."
     },
     {
-      "title": "Einride geht an die Börse – und legt zum Handelsstart kräftig zu",
-      "text": "Der schwedische Anbieter für elektrifizierte und autonome Gütertransporte Einride ist per SPAC-Fusion an die Nasdaq gegangen. Die Aktie legte am ersten Handelstag zeitweise um mehr als 100 Prozent zu."
+      "title": "Alte Reifen könnten E-Autos leiser machen",
+      "text": "Auch wenn Elektroautos grundsätzlich viel leiser unterwegs sind als Verbrenner, so erzeugen sie doch Geräusche wie etwa ein Surren, die manche Menschen als unangenehm empfinden. Ingenieure der Uni Magdeburg haben nun eine neuartige Geräuschminderung für die Leistungselektronik von E-Autos entwickelt - mit Material aus alten Reifen."
     },
     {
-      "title": "Ford setzt für Ladeinfrastruktur-Management auf Chargecloud",
-      "text": "Ford setzt in Deutschland künftig für das Management der eigenen Ladeinfrastruktur auf die Software von Chargecloud. Die Vereinbarung umfasst rund 1.400 Ladepunkte an den Standorten Köln und Saarlouis sowie eine Home-Charging-Anwendung für ausgewählte Mitarbeiter mit Dienstwagen. …"
+      "title": "Mercedes-Benz läutet Serienproduktion des VLE ein",
+      "text": "Mercedes-Benz hat die Serienproduktion des vollelektrischen Vans VLE gestartet, dem ersten Modell auf Basis der komplett neuen Elektro-Plattform VAN.EA. Das Fahrzeug wird ab sofort im traditionsreichen Transporterwerk des Konzerns in Vitoria im Nordwesten Spaniens gebaut."
     }
   ],
   "tech": [
     {
-      "title": "Humanoide Roboter: Warum der Bosch-Chef Elon Musk gut findet",
-      "text": "Der Autozulieferer Bosch hofft auf ein gutes Geschäft mit humanoiden Robotern. Doch diese sollen keine \"Frankensteins\" werden. Ein Bericht von Friedhelm Greis"
+      "title": "Spieleplattform: Bundesnetzagentur ermittelt gegen Steam",
+      "text": "Wegen eines Spiels mit menschenverachtenden Inhalten ermittelt die Bundesnetzagentur gegen Steam. Im Fokus stehen Nutzerbeschwerden."
     },
     {
-      "title": "Streaming: Youtube Premium wird in Deutschland teurer",
-      "text": "Kunden zahlen künftig für Youtube Premium im Einzelabo über 15 Prozent mehr. Auch Bestandskunden sollen die Preisänderungen betreffen."
+      "title": "Elektrolyseure: Evonik startet Pilotanlage für Elektrolyse im Gigawattbereich",
+      "text": "Die entscheidende Komponente für die Wasserstoffproduktion soll im großen Maßstab aus Marl kommen. Andere Bereiche sollen nachziehen."
     },
     {
-      "title": "Kameras: Über 400 Falschparker in Frankfurt von Bussen aufgezeichnet",
-      "text": "Seit Februar 2026 machen Busse in Frankfurt/Main Fotos von Falschparkern an Bushaltestellen und auf Busspuren - mit Erfolg."
+      "title": "Nach Aus für Server-GPU: Nvidia will mit Vera-CPU auf chinesischen Markt zurück",
+      "text": "CPUs sollen Nvidia eine Rückkehr in Chinas Rechenzentren sichern. Gleichzeitig gibt es in den USA Kritik an einer Kooperation bei Robotern."
     }
   ],
   "local": [
+    {
+      "title": "Zug reißt Oberleitung herunter: Bahnstrecke zwischen Aalen und Stuttgart gesperrt",
+      "text": "Ein Intercity hat am Freitagmorgen bei Schwäbisch Gmünd eine Oberleitung heruntergerissen. Der Zwischenfall legt die Strecke zwischen Aalen und Stuttgart lahm. Die Bundespolizei ermittelt."
+    },
     {
       "title": "Millionen Coronamasken lagern in Ulm - und müssen jetzt verbrannt werden",
       "text": "Millionen Schutzmasken aus der Coronazeit lagern in einem Logistikzentrum im Ulmer Norden. Die 2.000 Tonnen Material sind abgelaufen und nun zur Entsorgung ausgeschrieben."
@@ -78,12 +82,8 @@
       "text": "Er soll vom Computer aus Befehle gegeben haben, wie anderswo auf der Welt ein Kind missbraucht werden soll. Deshalb steht ein 46-Jähriger aus dem Kreis Heidenheim nun vor Gericht."
     },
     {
-      "title": "Radfahrer in Ulm bei Zusammenstoß mit Straßenbahn getötet",
-      "text": "Bei einem Zusammenstoß mit einer Straßenbahn ist am Montagnachmittag in Ulm ein Radler ums Leben gekommen."
-    },
-    {
-      "title": "Wolfsabwehr im Lonetal: Schutzhunde für Inas Ziegenherde",
-      "text": "Ina Kraus pflegt mit ihren Burenziegen Flächen vom Lonetal bis nach Ulm. Die Herden sind das ganze Jahr auf der Weide. Damit ihnen nichts passiert, leben Herdenschutzhunde bei den Ziegen."
+      "title": "Bundestag macht Weg frei für Bahnprojekt Augsburg-Ulm",
+      "text": "Der Bundestag hat den Weg für mehrere milliardenschwere Bahnprojekte freigemacht – darunter die neue Strecke Augsburg-Ulm. Die ICE-Fahrzeit soll dort auf 26 Minuten sinken. Bis Baubeginn und Finanzierung geklärt sind, dürfte es aber noch dauern."
     }
   ]
 }
