@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-06-15T19:10:54.674Z",
+  "generatedAt": "2026-06-16T18:58:28.410Z",
   "world": [
+    {
+      "title": "Europaparlament stimmt für Gesetze zur KI-Regulierung",
+      "text": "Nach monatelangen Verhandlungen hat das EU-Parlament Maßnahmen zur Regulierung von KI beschlossen. Anwendungen, die sexualisierte Deepfakes erstellen, sollen verboten werden. Das Reformpaket sieht aber auch Lockerungen vor."
+    },
+    {
+      "title": "Abstimmung im EU-Parlament: Weg frei für Handelsdeal mit USA",
+      "text": "Das EU-Parlament hat für den sogenannten Turnberry-Deal gestimmt. Geplant sind 15 Prozent Zoll auf die meisten EU-Produkte, die in die USA exportiert werden. Einfuhrzoll auf US-Industriegüter soll dafür wegfallen. Von Sarah López."
+    },
     {
       "title": "Nach Iran-Abkommen: Europäer bereit für Hormus-Mission",
       "text": "Beim G7-Gipfel in Évian erhoffen sich die Teilnehmer von US-Präsident Trump Details zur Vereinbarung mit Iran. Die Europäer sprechen sich für eine Mission zur Sicherung der Straße von Hormus aus. Doch Teheran winkt bislang ab."
@@ -16,56 +24,48 @@
     {
       "title": "Friedlicher G7-Protest in Genf endet mit Ausschreitungen",
       "text": "Der Protest in Genf gegen den G7-Gipfel ist nach friedlichem Beginn eskaliert: Protestierende warfen Scheiben ein und legten Feuer, Sicherheitskräfte antworteten mit Tränengas. Von Angela Ulrich."
-    },
-    {
-      "title": "G7-Gipfel in Frankreich: Macron muss Trump \"in Fellrichtung streicheln\"",
-      "text": "Gastgeber Macron hat beim heute beginnenden G7-Gipfel keine leichte Aufgabe: Frankreichs Präsident muss seinen US-Kollegen Trump bei Laune halten. Im vergangenen Jahr reiste dieser vorzeitig ab. Von Julia Borutta."
-    },
-    {
-      "title": "Schweizer lehnen Einwohner-Obergrenze in Volksabstimmung ab",
-      "text": "Hohe Mieten waren ein Argument, mit dem die Schweizer SVP eine Begrenzung der Einwohnerzahl begründet hatte. Doch gerade in Städten war das Nein bei der Volksabstimmung deutlich. Die SVP ist enttäuscht, sonst überwiegt Erleichterung. Von K. Hondl."
     }
   ],
   "economy": [
     {
-      "title": "Nach SpaceX: OpenAI und Anthropic vor dem Börsengang",
-      "text": "Nach dem erfolgreichen Börsenstart von SpaceX könnten nun OpenAI und Anthropic folgen. Doch die Trump-Regierung wird zum Unsicherheitsfaktor für die KI-Branche - und das Kapital der Anleger ist begrenzt. Von Angela Göpfert."
+      "title": "Milliarden-Deal: SpaceX will KI-Startup kaufen",
+      "text": "Vor wenigen Tagen erst hatte Elon Musk sein Unternehmen SpaceX erfolgreich an die Börse gebracht und sich zum ersten Billionär der Welt gemacht - jetzt der nächste Coup: SpaceX will das KI-Startup Anysphere übernehmen."
     },
     {
-      "title": "Vor G7-Gipfel: Trump droht Paris mit 100 Prozent Weinsteuer",
-      "text": "US-Präsident Trump wird heute zum G7-Gipfel im französischen Évian erwartet. Mit der Drohung einer 100-prozentigen Steuer auf französischen Wein sorgte er kurz vor dem Treffen für neuen Zündstoff."
+      "title": "Streit über UniCredit-Angebot für Commerzbank kurz vor Fristende",
+      "text": "Die Übernahme der Commerzbank durch UniCredit wird konkreter. Das freiwillige Angebot der Mailänder Bank läuft um Mitternacht ab - und wie sie selbst darstellt, wird es gut angenommen. Das wirft Fragen auf. Von Ursula Mayer."
     },
     {
-      "title": "Großbritannien plant Social-Media-Verbot für unter 16-Jährige",
-      "text": "In Großbritannien soll der Zugang zu sozialen Medien für Kinder und Jugendliche unter 16 Jahren bald tabu sein. Mehrere EU-Staaten erwägen ebenfalls ein Social-Media-Verbot, auch in Deutschland werden Einschränkungen geprüft."
+      "title": "Zahl der Sozialwohnungen auch 2025 wieder gesunken",
+      "text": "2025 ist die Zahl der Sozialwohnungen in Deutschland weiter zurückgegangen. Besonders stark betroffen ist Nordrhein-Westfalen. Die Bundesregierung verspricht gegenzusteuern, Kritiker sagen: Die Investitionen reichen nicht."
     }
   ],
   "automotive": [
     {
-      "title": "Von öffentlicher Ladeinfrastruktur zu Smart Charging – Wiebke Kraus, Enercity",
-      "text": "Die Ära des bloßen „Bauens, Bauens, Bauens“ von Ladeinfrastruktur ist endgültig vorbei. Während viele Akteure noch mit der schieren Quantität der Ladepunkte ringen, hat Wiebke Kraus von Enercity den Blick längst auf die nächste Stufe gehoben. …"
+      "title": "Welche Ladeinfrastruktur braucht eine Flotte wirklich, Stefan Richter?",
+      "text": "Warum ist die stärkste Ladelösung nicht immer die beste? Alle sprechen über Megawatt Charging – doch wie sieht die Realität aus? Stefan Richter, CEO, bei KEBA Energy Automation, spricht vor der Power2Drive Europe bei eMobility Insights über elektrische Flotten, zukunftssichere Ladeinfrastruktur und die zentrale Frage: Was brauchen Flottenbetreiber …"
     },
     {
-      "title": "Skoda jagt kommendes E-SUV Peaq durch sämtliche Klimazonen",
-      "text": "Rund eine Woche vor der Weltpremiere am 23. Juni liefert Skoda Einblicke in das Testprogramm für sein großes Elektro-SUV Peaq. Der fast 4,90 Meter lange Stromer wird ab Mitte 2026 das vollelektrische Angebot von Skoda nach oben hin abrunden. In den vergangenen Monaten wurden Prototypen des Modells in verschiedensten Weltregionen strapaziert."
+      "title": "Citroën verlängert seinen E-Auto-Bonus bis September",
+      "text": "Citroën verlängert seine Aktion zur Verdopplung der E-Auto-Förderung bis Ende September 2026. Beim ë-C3 Urban Range nennt der Hersteller einen möglichen Preisvorteil von bis zu 12.000 Euro – allerdings nur bei Anspruch auf die maximale staatliche Förderung."
     },
     {
-      "title": "Caltrans bestellt weitere 524 Elektrofahrzeuge bei Rivian",
-      "text": "Die kalifornische Verkehrsbehörde Caltrans hat ihre Elektrofahrzeug-Bestellung bei Rivian ausgeweitet. Mit einer zweiten Bestellrunde wächst das Auftragsvolumen auf insgesamt 977 Fahrzeuge im Wert von rund 97 Millionen US-Dollar, umgerechnet knapp 84 Millionen Euro."
+      "title": "Schönt Tesla die Statistiken für sein FSD-System?",
+      "text": "Tesla ist bestrebt, die europäische Zulassung für sein Fahrassistenzsystem Full Self-Driving (FSD) zu erhalten. Dabei hat der Hersteller laut Agentur-Recherchen den Behörden in Schweden und den Niederlanden eigene Sicherheitsstatistiken vorgelegt, die nach Ansicht unabhängiger Verkehrsforscher auf irreführendes Marketing hinauslaufen."
     }
   ],
   "tech": [
     {
-      "title": "Quantencomputer: Quera will Millionen Rechenschritte bis 2028 schaffen",
-      "text": "Der Quantencomputer Libra soll ausreichend stabil für Millionen Operationen sein. Die logischen Qubits lassen sich mit wenig Aufwand umsetzen."
+      "title": "Google: Android 17 ist fertig",
+      "text": "Android 17 ist bereit für die Veröffentlichung - und kommt zuerst auf die Pixel-Smartphones. Neu sind Multitasking mit Bubbles und ein Gaming-Modus. ( Android 17 , Smartphone )"
     },
     {
-      "title": "T-Systems Cloud: Volkswagen stellt auf IT-Infrastruktur der Telekom um",
-      "text": "Die neue Hybrid-Cloud von T-Systems soll zusammen mit der lokalen IT von Volkswagen arbeiten."
+      "title": "Neuzugang in Mittelerde: Anya Taylor-Joy kommt zu Hunt for Gollum",
+      "text": "Anya Taylor-Joy hat ihre nächste große Fantasy-Rolle gefunden. Sie stößt zur Besetzung von The Hunt for Gollum."
     },
     {
-      "title": "Smart Glasses: Meta benutzt Gesichtserkennungs-Software für US-Polizeibehörden",
-      "text": "Dass Meta eine Gesichtserkennung in seine Smart Glasses einbauen möchte, wird schon länger vermutet. Es gibt einen neuen Hinweis."
+      "title": "Hallo: Seti überarbeitet Regeln für Erstkontakt mit Außerirdischen",
+      "text": "Was passiert, wenn ein Signal einer fremden Zivilisation entdeckt wird? Forscher haben ihre Leitlinien für genau diesen Fall modernisiert."
     }
   ],
   "local": [
