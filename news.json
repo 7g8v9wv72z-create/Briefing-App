@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-06-17T16:47:39.595Z",
+  "generatedAt": "2026-06-18T16:46:04.996Z",
   "world": [
+    {
+      "title": "Nach Schüssen auf russischen Exilkünstler: Mann in Polen festgenommen",
+      "text": "Nach der Ermordung des russischen Exilkünstlers und Karikaturisten Semjon Skrepezki in Ostpolen haben die Behörden einen Verdächtigen festgenommen. Premier Tusk geht von einem politischen Mord aus - Skrepezki nahm vor allem Putin aufs Korn."
+    },
+    {
+      "title": "Albanien: Proteste wegen Luxusprojekt von Kushner und Ivanka Trump",
+      "text": "Ein geplantes Luxusresort mit Beteiligung der Trump-Tochter Ivanka und ihres Ehemanns hat in Albanien eine Protestbewegung ausgelöst. Kritisiert wird nicht nur das Projekt, sondern auch die eigene Regierung. Von David Freches."
+    },
+    {
+      "title": "Entscheidender Tag für Starmer: Schicksalswahl in Makerfield",
+      "text": "Andy Burnham hat große Pläne - er will den angeschlagenen Premier Starmer herausfordern. Dafür muss Burnham heute aber zunächst die Nachwahl in Makerfield gewinnen. Denn nur mit einem Mandat kann er Starmer den Parteivorsitz streitig machen. Von Christoph Prössl."
+    },
     {
       "title": "Belgien muss erstmals Opfer von Kolonialverbrechen entschädigen",
       "text": "Bis in die 1950er-Jahre entrissen belgische Kolonialisten im Gebiet der heutigen Demokratischen Republik Kongo Kinder ihren Müttern. Jetzt muss Belgien zum ersten Mal Opfer kolonialer Gewalt entschädigen. Von M. Krasenbrink."
@@ -12,78 +24,66 @@
     {
       "title": "EU-Parlament beschließt gelockerte Regeln für Gentechnik",
       "text": "Weniger Umweltprüfungen und keine verpflichtende Kennzeichnung im Supermarkt: Das EU-Parlament will die Regeln für bestimmte Produkte mit Gentechnik abschwächen. Aus dem Bundesumweltministerium hatte es Kritik daran gegeben."
-    },
-    {
-      "title": "Deutschland und Polen: Eine komplizierte Freundschaft",
-      "text": "Die deutsch-polnischen Beziehungen sind eng, doch es gibt Verstimmungen. Vor allem über Nazi-Verbrechen wird gestritten. Ein Dauerthema: polnische Reparationsforderungen. Es beschäftigt nicht nur Rechte in Polen. Von Palina Milling."
-    },
-    {
-      "title": "Deutschland schließt Verteidigungsabkommen mit Polen ab",
-      "text": "Zum 35. Jahrestag des deutsch-polnischen Nachbarschaftsvertrags wollen die beiden EU-Länder ihre Zusammenarbeit im Bereich Verteidigung stärken. Doch ihr Verhältnis gilt weiterhin als belastet."
-    },
-    {
-      "title": "G7-Gipfel: Merz zieht positives Fazit vor letztem Tag",
-      "text": "Die Sorge, Trump könnte vom G7-Treffen wieder vorzeitig abreisen, hat sich nicht bewahrheitet - im Gegenteil. Kanzler Merz spricht von neuer Harmonie und Fortschritten zur Ukraine und Iran. Für Trump wird es heute nochmal pompös. Von A. Ulrich."
     }
   ],
   "economy": [
     {
-      "title": "Iran-Krieg drückt Ölvorräte auf tiefsten Stand seit 1990",
-      "text": "Die Ölvorräte der Industriestaaten sind infolge des Iran-Kriegs auf den tiefsten Stand seit Jahrzehnten gefallen. Gleichzeitig erwartet die Internationalen Energieagentur den stärksten Rückgang der weltweiten Nachfrage seit der Corona-Pandemie."
+      "title": "Straße von Hormus: Warum die Normalisierung Monate dauern wird",
+      "text": "Die Straße von Hormus soll wieder offen sein. Doch Minen, Versicherungsfragen und Schäden an Förderanlagen stehen einer Rückkehr zum Vorkriegszustand im Weg. Was bedeutet das für den Ölmarkt, Spritpreise und die Konjunktur? Von Angela Göpfert."
     },
     {
-      "title": "Ravensburger übernimmt Mehrheit bei Plüschtier-Hersteller Steiff",
-      "text": "Ravensburger steigt beim Plüschtierhersteller Steiff ein. Gemeinsam solle die weltweite Expansion vorangetrieben werden - und zwei der bekanntesten deutschen Spielwarenhersteller sind künftig eng verflochten."
+      "title": "Beratung aus Deutschland: Freie Fahrt für Handelsschiffe?",
+      "text": "Viele Reedereien warten auf den Moment, wenn sich der Schiffsverkehr am Golf wieder normalisiert. Eine wichtige Rolle könnte dabei die sogenannte Marine-Schifffahrtsleitung der Bundeswehr übernehmen, die in einer Kaserne in Hamburg sitzt. Von Kai Küstner."
     },
     {
-      "title": "Offshore-Netzanbindung: Milliardenauftrag bleibt in Deutschland",
-      "text": "Jahrelang steckten die deutschen Werften in der Krise, nun weckt ein Milliardenauftrag Hoffnungen. Neptun Smulders und Siemens Energy bauen eine Offshore-Plattform, um Windstrom an Land zu bringen. Bis zu 500 Jobs könnten entstehen."
+      "title": "Hitze in Deutschland: Regeln am Arbeitsplatz und in der Schule",
+      "text": "Die Hitze in den kommenden Tagen kann auch am Arbeitsplatz und in der Schule schnell zur Belastung werden. Welche Regeln gelten, wenn die Temperatur immer weiter steigt? Ein Überblick. Von Michael-Matthias Nordhardt."
     }
   ],
   "automotive": [
     {
-      "title": "Bund dementiert „China-Schock“ bei deutscher E-Auto-Förderung",
-      "text": "Das Bundesumweltministerium stellt sich Gerüchten entgegen, wonach Deutschland übermäßig China-Stromer subventioniert. Vermutungen, dass größtenteils chinesische Hersteller vom neuen E-Auto-Förderprogramm der Bundesregierung profitieren, entsprechen nicht der Wahrheit, so das Haus von Minister Carsten Schneider. …"
+      "title": "Chargecloud liefert Backend für E-Lkw-Ladenetz dragonize",
+      "text": "Die TST-Initiative dragonize setzt beim Aufbau ihres Ladeökosystems für Elektro-Lkw auf Chargecloud als Technologiepartner. Das Kölner Unternehmen stellt sein Charge Point Management System bereit, über das Ladepunkte gesteuert, überwacht und abgerechnet werden sollen."
     },
     {
-      "title": "Porsches neuer Taycan-Jahrgang erhält Fake-Gangschaltung – gegen Aufpreis",
-      "text": "Porsche stellt den 2027er Taycan vor. Dabei fällt vor allem das neue „E-Shift“-System ins Auge: Wie vermutet erhält der neu aufgelegte Taycan ein virtuelles Getriebe – allerdings nur gegen Aufpreis. Größere Technik-Updates bleiben aus, neue Reifen sollen aber 20 km mehr Reichweite herausholen. Bestellbar ist der neue Modelljahrgang ab sofort."
+      "title": "Mahle chargeBIG präsentiert neue AC-Ladestation mit vier Ladepunkten",
+      "text": "Mahle chargeBIG präsentiert auf der diesjährigen Power2Drive ein Ladeterminal, das bis zu vier Elektrofahrzeuge gleichzeitig mit jeweils 22 kW an AC-Ladeleistung versorgen kann. Die Neuentwicklung ist in Kooperation mit Langmatz Energy entstanden, einem Anbieter von Infrastruktur- und Gehäuselösungen."
     },
     {
-      "title": "NexDash kauft March Transporte – zur Umsetzung seiner Logistik-Vision",
-      "text": "Das Berliner Startup NexDash übernimmt March Transporte, eine Spedition mit 26 Lkw aus dem nordrhein-westfälischen Rheinbach. Noch dieses Jahr soll die Firma erste E-Lkw erhalten. Denn NexDash tritt an, um \"Europas erstes autonomes, emissionsfreies Logistiknetzwerk aufzubauen\". Kern ist dabei ein intelligentes Betriebssystem."
+      "title": "Hyundai baut Batteriemontage für den Ioniq 3 in der Türkei auf",
+      "text": "Hyundai ergänzt die geplante Produktion des Ioniq 3 im türkischen Werk İzmit um eine eigene Batteriemontage. Die neue Anlage ist Teil eines 715 Millionen Euro schweren Investitionspakets und soll künftig Batteriepakete automatisiert montieren."
     }
   ],
   "tech": [
     {
-      "title": "Jan Böhmermann: Ex-BSI-Chef gewinnt auch in zweiter Instanz gegen ZDF",
-      "text": "Im Streit um eine Böhmermann-Sendung erhält Arne Schönbohm ein weiteres Mal Recht. Allerdings rüffelt ihn das Gericht in zwei Punkten."
+      "title": "Breitbandmessung: Nur 7 Prozent der 5G-Nutzer erreichen maximale Downloadrate",
+      "text": "Im aktuellen Jahresbericht der Bundesnetzagentur ist der Anteil der 5G-Messungen deutlich gestiegen."
     },
     {
-      "title": "Erneuerbare Energien: Rückstand beim Windkraftausbau wächst weiter",
-      "text": "Neue Daten zum Ausbautempo von Windkraft, Solarenergie und Biogas zeigen Fortschritte, aber auch große Lücken. Die Schieflage ist gefährlich."
+      "title": "Preissteigerung bei Apple: Wie teuer wird das neue iPhone?",
+      "text": "Apple gibt die höheren Speicherpreise ab sofort an die Kunden weiter. Das neue iPhone könnte 1.300 US-Dollar und mehr kosten."
     },
     {
-      "title": "KI-Verordnung: Europaparlament verbietet Nacktbildgeneratoren",
-      "text": "Die Europaabgeordneten haben Änderungen an der KI-Verordnung zugestimmt. Das betrifft auch Umsetzungsfristen für riskante KI-Anwendungen."
+      "title": "Elektrolimousine: BMW i3 startet als First Edition bei 75.000 Euro",
+      "text": "Der BMW i3 soll zum Basispreis von 65.900 Euro auf den Markt kommen. Vorab lässt sich schon eine besser ausgestattete Version bestellen."
     }
   ],
   "local": [
     {
-      "title": "Kindesmissbrauch im Livestream: Vier Jahre, neun Monate Haft für Mann aus Landkreis Heidenheim",
-      "text": "Das Landgericht Ellwangen hat einen 46-Jährigen zu vier Jahren und neun Monaten Haft verurteilt. Er hatte mehrfach per Livestream den sexuellen Missbrauch von Kindern in Auftrag gegeben."
+      "title": "Diskussion um Linksextremismus: Mit wem darf die Volkshochschule Ulm zusammenarbeiten?",
+      "text": "Der Ulmer AfD-Landtagsabgeordnete Rottmann wirft der vh vor, mit Linksextremisten zusammenzuarbeiten. Der Verfassungsschutz bestätigt, dass die betroffene Gruppe unter Beobachtung steht."
     },
     {
-      "title": "Donaustadion wegen möglicher Weltkriegsbombe gesperrt",
-      "text": "Noch ist unklar, ob tatsächlich Blindgänger aus dem Zweiten Weltkrieg unter dem Rasen des Ulmer Donaustadions liegen. Bis Freitag werden verdächtige Stellen auf dem Gelände untersucht."
+      "title": "Kindesmissbrauch im Livestream: Vier Jahre, neun Monate Haft für Mann aus Landkreis Heidenheim",
+      "text": "Das Landgericht Ellwangen hat einen 46-Jährigen zu vier Jahren und neun Monaten Haft verurteilt. Er hatte mehrfach per Livestream den sexuellen Missbrauch von Kindern in Auftrag gegeben."
     },
     {
       "title": "Bundestag macht Weg frei für Bahnprojekt Augsburg-Ulm",
       "text": "Der Bundestag hat den Weg für mehrere milliardenschwere Bahnprojekte freigemacht – darunter die neue Strecke Augsburg-Ulm. Die ICE-Fahrzeit soll dort auf 26 Minuten sinken. Bis Baubeginn und Finanzierung geklärt sind, dürfte es aber noch dauern."
     },
     {
-      "title": "Insolvente Mannheimer Brauerei Eichbaum offenbar kurz vor Rettung",
-      "text": "Seit Januar befindet sich die Brauerei Eichbaum in Mannheim im Insolvenzverfahren. Jetzt zeichnet sich ab, dass das Unternehmen erhalten bleiben kann - allerdings nur mit Einschnitten."
+      "title": "Stromausfall Reutlingen: Hinweise auf weitere Sabotage-Versuche in der Umgebung",
+      "text": "Machten sich Saboteure von Reutlinger Stromausfall an anderen Umspannwerken zu schaffen? Das prüfen jetzt die Ermittler der Generalstaatsanwaltschaft Stuttgart."
     }
   ]
 }
