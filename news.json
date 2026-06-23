@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-06-22T18:53:16.387Z",
+  "generatedAt": "2026-06-23T14:01:22.908Z",
   "world": [
+    {
+      "title": "Hitzewelle in Europa geht weiter - und bricht Rekorde",
+      "text": "Europa ächzt weiter unter der Hitze: In Spanien und Frankreich werden Temperaturen von über 40 Grad erreicht. In den kommenden Tagen soll es noch heißer werden - auch in Deutschland. Am Freitag könnte hierzulande ein Rekord fallen."
+    },
+    {
+      "title": "Sechs Premiers seit dem Brexit-Referendum",
+      "text": "Heute vor zehn Jahren stimmten die Briten für den EU-Austritt. Seitdem hat sich die berühmte Tür am Amtssitz des Premiers als Drehtür erwiesen. London steuert auf die siebte Regierung zu - und populistische Parteien profitieren. Von G. Biesinger."
+    },
+    {
+      "title": "Zehn Jahre Brexit-Referendum: \"Nichts ist erfüllt worden\"",
+      "text": "Eine von Unwahrheiten geprägte Kampagne endete vor zehn Jahren mit dem Ja zum Brexit. Der damalige Kommissionspräsident Juncker sagt, die EU sei auf den Austritt der Briten vorbereitet gewesen - London jedoch keineswegs. Von J.-M. Magro."
+    },
+    {
+      "title": "Regierungsbildung in Rumänien gescheitert - Proeuropäer unter Druck",
+      "text": "In Rumänien hat das Parlament den prowestlichen Politiker Adrian Vestea als Regierungschef abgelehnt. Damit verlängert sich die politische Krise in dem EU-Land. Der Staatspräsident muss nun einen neuen Kandidaten finden."
+    },
     {
       "title": "Britischer Premier Starmer kündigt Rücktritt an",
       "text": "Nach innerparteilichem Druck hat der britische Premierminister Starmer seinen Rücktritt als Chef der Labour-Partei bekanntgegeben. Premier will er bleiben, bis ein Nachfolger gefunden ist. Der steht bereits in den Startlöchern."
@@ -8,67 +24,55 @@
     {
       "title": "Bundeswehrübung an NATO-Ostflanke: Pistorius besucht Litauen",
       "text": "In Litauen üben gut 2.900 Soldaten nahe der belarusischen Grenze die Verteidigung der NATO-Ostflanke. Heute ist Verteidigungsminister Pistorius zu Besuch, denn die meisten Soldaten stellt die Bundeswehr."
-    },
-    {
-      "title": "Großbritannien: Spekulationen über Starmer-Rücktritt",
-      "text": "Der britische Premierminister Keir Starmer steht seit Wochen massiv unter Druck. Nun verdichten sich die Hinweise, dass er heute zurücktreten könnte. Oder auch doch nicht?"
-    },
-    {
-      "title": "Schweiz: US-Vize Vance nennt Verhandlungen mit Iran \"historisch\"",
-      "text": "In der Schweiz wird über ein endgültiges Ende des Iran-Konflikts verhandelt. Zum Auftakt sprach US-Vizepräsident Vance von \"großen Fortschritten\" und bezeichnete die Verhandlungen als \"historisch\". Für Ärger sorgt eine Äußerung von US-Präsident Trump."
-    },
-    {
-      "title": "Die Erben des Brexit - zehn Jahre nach dem Referendum",
-      "text": "Zehn Jahre nach dem Referendum diskutiert das Vereinigte Königreich offen wie lange nicht über die Folgen des Brexit. Vor allem junge Briten zieht es zurück in die EU: Mehr als 80 Prozent der Unter-25-Jährigen wollen den Exit vom Brexit. Von M. Aden."
-    },
-    {
-      "title": "Kampf um Labour-Vorsitz: Wer ist Andy Burnham?",
-      "text": "Andy Burnham und Keir Starmer stehen kurz vor einem offenen Konkurrenzkampf um den Labour-Vorsitz. Für seine Anhänger strahlt Burnham etwas aus, das der Premier schon lange verloren hat. Wofür steht er? Von Christoph Prössl."
     }
   ],
   "economy": [
     {
-      "title": "Ex-US-Notenbanker Alan Greenspan stirbt mit 100 Jahren",
-      "text": "Er führte fast zwei Jahrzehnte lang die Fed und prägte damit die Weltwirtschaft: Alan Greenspan. Jetzt ist der ehemalige US-Notenbanker im Alter von 100 Jahren gestorben."
+      "title": "Der Brexit und die Wirtschaft: Auch nach zehn Jahren \"nur Verlierer\"",
+      "text": "Das britische Brexit-Votum war eine Zäsur - auch für die deutsche Wirtschaft. Für Unternehmen, die mit Großbritannien Handel treiben, brachen chaotische Zustände aus. Die Bilanz nach zehn Jahren bleibt ernüchternd. Von A. Schuster."
     },
     {
-      "title": "Diesel kostet weniger als vor Beginn des Iran-Kriegs",
-      "text": "Im Zuge der Friedensgespräche zwischen den USA und Iran sinken die Ölpreise. Das macht sich auch an den Tankstellen bemerkbar. Vor allem Diesel ist deutlich günstiger als zuletzt. Bald läuft jedoch die Steuersenkung aus."
+      "title": "Brexit-Bilanz: Frankfurt stärkt Rolle als Finanzplatz der EU",
+      "text": "Banken, Jobs und milliardenschwere Vermögenswerte wurden nach dem Brexit in die EU verlagert. Besonders Frankfurt profitierte. Wie fällt die Bilanz zehn Jahre später aus? Von Michelle Goddemeier."
     },
     {
-      "title": "Defizite in Milliardenhöhe: Kommunen warnen vor Finanzkollaps",
-      "text": "Vertreter der Kommunen schlagen Alarm: Bis 2028 rechnen sie jährlich mit Defiziten von jeweils knapp 30 Milliarden Euro - auch, weil Bund und Länder ihnen immer mehr Kosten aufdrücken. Von Jakob Mayr."
+      "title": "Zehn Jahre Brexit-Referendum: \"Nichts ist erfüllt worden\"",
+      "text": "Eine von Unwahrheiten geprägte Kampagne endete vor zehn Jahren mit dem Ja zum Brexit. Der damalige Kommissionspräsident Juncker sagt, die EU sei auf den Austritt der Briten vorbereitet gewesen - London jedoch keineswegs. Von J.-M. Magro."
     }
   ],
   "automotive": [
     {
-      "title": "„Warum das Ladegeschäft die Grundregeln des Marktes verletzt“ – Tamara Ciullo, Cariqa",
-      "text": "Wer im Supermarkt für Orangen je nach Zahlungsmethode 1,00 Euro, 1,20 Euro oder 1,50 Euro zahlen müsste, würde den Laden sofort verlassen. Genau dieses absurde Szenario ist beim Laden von E-Autos jedoch traurige Realität: Der kWh-Preis wird oft nicht durch Angebot und Nachfrage bestimmt, sondern hängt von der verwendeten Zugangs- oder Zahlungsweise …"
+      "title": "ACV setzt H2-Abschlepper erstmals im Regelbetrieb ein",
+      "text": "Der ACV hat einen Wasserstoff-Abschleppwagen in den regulären Pannenhilfebetrieb aufgenommen. Das Brennstoffzellenfahrzeug wird beim Kölner Partner LS Pannenservice eingesetzt und soll seine Alltagstauglichkeit unter realen Bedingungen beweisen."
     },
     {
-      "title": "Facelift des elektrischen Renault Mégane mit bis zu 500 km Reichweite",
-      "text": "Renault präsentiert das Facelift des Mégane E-Tech Electric. Das Modell erhält nicht nur ein überarbeitetes Design, sondern auch eine größere Batterie, eine höhere Ladeleistung sowie auch eine verbesserte Reichweite."
+      "title": "Nissan und Valeo kooperieren beim bidirektionalen Laden",
+      "text": "Bereits 2024 hat Nissan angekündigt, ab 2026 in Europa bidirektionales Laden anzubieten. In dem französischen Automotive-Unternehmen Valeo hat Nissan nun einen passenden Partner gefunden, der bidirektionale AC-Ladestationen für Nissan-Kunden bereitstellt. Die Lösung wird aktuell auf der Power2Drive in München gezeigt."
     },
     {
-      "title": "Alpitronic erhöht CCS-Ladeleistung des HYC1000-System auf 1.000 kW",
-      "text": "Alpitronic erweitert sein dezentrales Megawatt-Ladesystem HYC1000 um einen neuen High Performance Dispenser. Über einen einzelnen, flüssigkeitsgekühlten CCS-Anschluss soll die neue Variante E-Fahrzeuge mit mehr als 1.000 A und bis zu 1.000 kW versorgen. Bisher waren beim HYC1000 über CCS maximal 600 kW möglich."
+      "title": "VW und Elli schnüren V2G-Angebot mit bis zu 720 Euro Bonus pro Jahr",
+      "text": "Volkswagen und Energie-Tochter Elli haben vor wenigen Wochen ihre V2G-Ambitionen für Deutschland kundgetan. Auf der Power2Drive-Messe nennen die Wolfsburger jetzt wichtige Eckpunkte. Klar ist nun etwa, dass das Bidi-Paket zunächst für VW, Volkswagen Nutzfahrzeuge und Cupra kommt. Und dass The Mobility House als Technologiedienstleister an Bord ist."
     }
   ],
   "tech": [
     {
-      "title": "PC-Gaming: Steam Machine ist vorbestellbar und kein Schnäppchen",
-      "text": "Valve startet den Verkauf der Steam Machine. Der Preis (ab 1.040 Euro) dürfte für viele Spieler aber ein Problem sein."
+      "title": "Jedec: SPHBM4 bringt Stapelspeicher in günstigere Packages",
+      "text": "SPHBM4 bringt die Bandbreite von HBM4 mit weniger Signalen. Das ermöglicht einfachere Packages und mehr Flexibilität bei der Platzierung. ( 3D-Speicher , Jedec )"
     },
     {
-      "title": "Windows 11 ohne Bing: \"Die schnellste Suche, die ich in Windows je erlebt habe\"",
-      "text": "Windows 11 wird die Option bekommen, Webergebnisse in der Suche zu deaktivieren. Das soll besonders schnell funktionieren. ( Windows 11 , Microsoft )"
+      "title": "Raumfahrtgeschichte und Zukunft: Ende der Spaceshuttle-Ära und Platz für SpaceX",
+      "text": "Die Startrampe in Kalifornien sollte einst Spaceshuttles in den Weltraum bringen. Es ist anders gekommen, und jetzt wird die Zukunft der Startplattform mit SpaceX gestaltet."
     },
     {
-      "title": "Drohnenkrieg: Ukraine greift größtes russisches Satellitenzentrum an",
-      "text": "Die Ukraine zielt mit Langstreckendrohnen auf militärisch und wirtschaftlich wichtige Objekte. Nun wurde ein Satellitenzentrum bei Moskau getroffen."
+      "title": "Pflichten nicht erfüllt: Schwere Vorwürfe gegen Instagram, Tiktok, Youtube und Co.",
+      "text": "Verbraucherschützer belegen in einer Untersuchung, dass Social-Media-Anbieter Minderjährige nicht ausreichend vor Risiken schützen."
     }
   ],
   "local": [
+    {
+      "title": "Streit ums Rauchverbot: Großer Polizeieinsatz im Freibad Obersulm",
+      "text": "Nachdem ein Gast im Freibad in Obersulm gegen das Rauchverbot verstoßen sowie die Bademeisterin beleidigt und bedroht hat, eskaliert die Situation. Die Polizei muss eingreifen."
+    },
     {
       "title": "Schnelles Auto rammt Kleinwagen auf der B28 bei Neu-Ulm - 58-jährige Frau kommt ums Leben",
       "text": "Auf der B28 in Neu-Ulm ist am frühen Sonntagmorgen eine 58-jährige Frau ums Leben gekommen. Ihr Kleinwagen wurde von einem schnellen Fahrzeug mit großer Wucht gerammt."
@@ -80,10 +84,6 @@
     {
       "title": "Kind wird aus Karussell geschleudert - trotz Sicherheitsbügel",
       "text": "Am Freitagabend ist ein Mädchen auf dem Heidenheimer Volksfest aus einem Fahrgeschäft geschleudert worden. Die 10-Jährige hat sich dabei mehrere Schürfwunden zugezogen."
-    },
-    {
-      "title": "Deutschlands längste Regenbogenfahne beim CSD in Ulm",
-      "text": "Beim CSD in Ulm haben Teilnehmende am Samstag die laut Veranstaltern größte Regenbogenfahne Deutschlands von Neu-Ulm nach Ulm getragen. Sie ist mehr als 120 Meter lang."
     }
   ]
 }
