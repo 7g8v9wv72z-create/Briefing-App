@@ -1,9 +1,17 @@
 {
-  "generatedAt": "2026-06-23T14:01:22.908Z",
+  "generatedAt": "2026-06-24T12:31:38.270Z",
   "world": [
     {
+      "title": "Hitze hat Europa weiter im Griff",
+      "text": "Die Hitzewelle in weiten Teilen Europas hält an: In Italien gilt für viele Städte die Warnstufe Rot, in Frankreich sind Zehntausende Haushalte ohne Strom - und in Großbritannien könnte heute der Hitzerekord geknackt werden."
+    },
+    {
+      "title": "Erstmals Gespräche der Taliban mit EU-Kommission",
+      "text": "In Brüssel hat eine Taliban-Delegation erstmals Gespräche mit der EU-Kommission geführt. Es ging um Abschiebungen und mehr Diplomaten der Islamisten in Europa. Menschenrechtsgruppen kritisieren das Treffen scharf."
+    },
+    {
       "title": "Hitzewelle in Europa geht weiter - und bricht Rekorde",
-      "text": "Europa ächzt weiter unter der Hitze: In Spanien und Frankreich werden Temperaturen von über 40 Grad erreicht. In den kommenden Tagen soll es noch heißer werden - auch in Deutschland. Am Freitag könnte hierzulande ein Rekord fallen."
+      "text": "Europa ächzt weiter unter der Hitze: In Spanien gilt fast überall eine Hitzewarnung, Frankreich erlebt den heißesten Tag seit Beginn der Messungen. Und in Deutschland könnte am Freitag ein Rekord fallen."
     },
     {
       "title": "Sechs Premiers seit dem Brexit-Referendum",
@@ -16,74 +24,66 @@
     {
       "title": "Regierungsbildung in Rumänien gescheitert - Proeuropäer unter Druck",
       "text": "In Rumänien hat das Parlament den prowestlichen Politiker Adrian Vestea als Regierungschef abgelehnt. Damit verlängert sich die politische Krise in dem EU-Land. Der Staatspräsident muss nun einen neuen Kandidaten finden."
-    },
-    {
-      "title": "Britischer Premier Starmer kündigt Rücktritt an",
-      "text": "Nach innerparteilichem Druck hat der britische Premierminister Starmer seinen Rücktritt als Chef der Labour-Partei bekanntgegeben. Premier will er bleiben, bis ein Nachfolger gefunden ist. Der steht bereits in den Startlöchern."
-    },
-    {
-      "title": "Bundeswehrübung an NATO-Ostflanke: Pistorius besucht Litauen",
-      "text": "In Litauen üben gut 2.900 Soldaten nahe der belarusischen Grenze die Verteidigung der NATO-Ostflanke. Heute ist Verteidigungsminister Pistorius zu Besuch, denn die meisten Soldaten stellt die Bundeswehr."
     }
   ],
   "economy": [
     {
-      "title": "Der Brexit und die Wirtschaft: Auch nach zehn Jahren \"nur Verlierer\"",
-      "text": "Das britische Brexit-Votum war eine Zäsur - auch für die deutsche Wirtschaft. Für Unternehmen, die mit Großbritannien Handel treiben, brachen chaotische Zustände aus. Die Bilanz nach zehn Jahren bleibt ernüchternd. Von A. Schuster."
+      "title": "Pläne der Rentenkommission: Was der Wegfall der Minijobs bedeuten würde",
+      "text": "Die Rentenkommission schlägt vor, Minijobs weitgehend abzuschaffen. Die Beschäftigten sollen künftig - anders als bisher - auch Sozialabgaben zahlen. Was würde sich dadurch ändern?"
     },
     {
-      "title": "Brexit-Bilanz: Frankfurt stärkt Rolle als Finanzplatz der EU",
-      "text": "Banken, Jobs und milliardenschwere Vermögenswerte wurden nach dem Brexit in die EU verlagert. Besonders Frankfurt profitierte. Wie fällt die Bilanz zehn Jahre später aus? Von Michelle Goddemeier."
+      "title": "Wirtschaft blickt kritisch auf Teile der Rentenreform",
+      "text": "Die Bundesregierung will alle 33 Expertenvorschläge in ihrem Renten-Reformpaket umsetzen. Doch bei Wirtschaftsvertretern und Gewerkschaften kommen nicht alle der geplanten Maßnahmen gut an. Sie befürchten Einbrüche bei Konsumlaune und Konjunktur."
     },
     {
-      "title": "Zehn Jahre Brexit-Referendum: \"Nichts ist erfüllt worden\"",
-      "text": "Eine von Unwahrheiten geprägte Kampagne endete vor zehn Jahren mit dem Ja zum Brexit. Der damalige Kommissionspräsident Juncker sagt, die EU sei auf den Austritt der Briten vorbereitet gewesen - London jedoch keineswegs. Von J.-M. Magro."
+      "title": "Rentenreform-Vorschläge: Wie weit trägt der \"Geist der Kommission\"?",
+      "text": "Arbeitsministerin Bas spricht mit Blick auf die Vorschläge der Rentenkommission von einem \"Gesamtkunstwerk\". Nun geht es an die Umsetzung. Und um das Echo aus den Wahlkreisen. Wie lange hält der Konsens? Von Tina Handel."
     }
   ],
   "automotive": [
     {
-      "title": "ACV setzt H2-Abschlepper erstmals im Regelbetrieb ein",
-      "text": "Der ACV hat einen Wasserstoff-Abschleppwagen in den regulären Pannenhilfebetrieb aufgenommen. Das Brennstoffzellenfahrzeug wird beim Kölner Partner LS Pannenservice eingesetzt und soll seine Alltagstauglichkeit unter realen Bedingungen beweisen."
+      "title": "Stuttgart empfängt elektrisches Müllwagen-Quintett",
+      "text": "Mercedes‑Benz Trucks hat die ersten fünf von insgesamt zehn eEconic an die Abfallwirtschaft Stuttgart ausgehändigt. Stationiert sind die strombetriebenen Müllfahrzeuge an einer neu eingerichteten Betriebsstelle in Stuttgart‑Wangen. Die Elektrifizierung funktioniere in Stuttgart trotz herausfordernder Topografie, so die Partner."
     },
     {
-      "title": "Nissan und Valeo kooperieren beim bidirektionalen Laden",
-      "text": "Bereits 2024 hat Nissan angekündigt, ab 2026 in Europa bidirektionales Laden anzubieten. In dem französischen Automotive-Unternehmen Valeo hat Nissan nun einen passenden Partner gefunden, der bidirektionale AC-Ladestationen für Nissan-Kunden bereitstellt. Die Lösung wird aktuell auf der Power2Drive in München gezeigt."
+      "title": "Abo-Anbieter Finn wirbt 140 Millionen Euro ein",
+      "text": "Die Auto-Abo-Plattform Finn hat eine Finanzierungsrunde über knapp 100 Millionen Euro und Extra-Deals über weitere 40 Millionen Euro abgeschlossen. Das zunehmend auf Elektroautos spezialisierte Unternehmen wird nun nach eigenen Angaben mit gut einer Milliarde Euro bewertet und erreicht erstmals \"Unicorn\"-Status."
     },
     {
-      "title": "VW und Elli schnüren V2G-Angebot mit bis zu 720 Euro Bonus pro Jahr",
-      "text": "Volkswagen und Energie-Tochter Elli haben vor wenigen Wochen ihre V2G-Ambitionen für Deutschland kundgetan. Auf der Power2Drive-Messe nennen die Wolfsburger jetzt wichtige Eckpunkte. Klar ist nun etwa, dass das Bidi-Paket zunächst für VW, Volkswagen Nutzfahrzeuge und Cupra kommt. Und dass The Mobility House als Technologiedienstleister an Bord ist."
+      "title": "Neues Privatkunden-Angebot: Microlino ab 187 Euro monatlich im Leasing",
+      "text": "Das E-Leichtfahrzeug Microlino aus der Schweiz ist ab sofort in Deutschland auch im Privatkunden-Leasing erhältlich. Als Finanzierungspartner hat Hersteller Micro die Creditplus Bank gewonnen. Die Möglichkeit des Leasings soll helfen, den Microlino noch besser in Deutschland zu etablieren."
     }
   ],
   "tech": [
     {
-      "title": "Jedec: SPHBM4 bringt Stapelspeicher in günstigere Packages",
-      "text": "SPHBM4 bringt die Bandbreite von HBM4 mit weniger Signalen. Das ermöglicht einfachere Packages und mehr Flexibilität bei der Platzierung. ( 3D-Speicher , Jedec )"
+      "title": "Tiktok, Insta und Co.: Familienministerin Prien für Social-Media-Verbot bis 13 Jahre",
+      "text": "Basierend auf Erkenntnissen der Expertenkommission setzt sich Familienministerin Karin Prien für ein weniger strenges Social-Media-Verbot ein."
     },
     {
-      "title": "Raumfahrtgeschichte und Zukunft: Ende der Spaceshuttle-Ära und Platz für SpaceX",
-      "text": "Die Startrampe in Kalifornien sollte einst Spaceshuttles in den Weltraum bringen. Es ist anders gekommen, und jetzt wird die Zukunft der Startplattform mit SpaceX gestaltet."
+      "title": "Star Fox im Kurztest: Kleintiere im Weltraum",
+      "text": "Fox McCloud wirft wieder den Arwing-Auspuff an: Star Fox ist ein gut gelauntes Weltraumabenteuer, leider mit Schwächen bei der Steuerung (Switch 2). Ein Test von Peter Steinlechner ( Nintendo Switch 2 , Spieletest )"
     },
     {
-      "title": "Pflichten nicht erfüllt: Schwere Vorwürfe gegen Instagram, Tiktok, Youtube und Co.",
-      "text": "Verbraucherschützer belegen in einer Untersuchung, dass Social-Media-Anbieter Minderjährige nicht ausreichend vor Risiken schützen."
+      "title": "Rockstar Games: Ultimate Edition von GTA 6 bietet Kampagnen-Extras",
+      "text": "Rockstar Games hat den Start der Vorbestellungen für GTA 6 angekündigt. Die Standardversion kostet rund 80 Euro, die Ultimate Edition rund 110 Euro. ( GTA 6 , Grand Theft Auto )"
     }
   ],
   "local": [
     {
-      "title": "Streit ums Rauchverbot: Großer Polizeieinsatz im Freibad Obersulm",
-      "text": "Nachdem ein Gast im Freibad in Obersulm gegen das Rauchverbot verstoßen sowie die Bademeisterin beleidigt und bedroht hat, eskaliert die Situation. Die Polizei muss eingreifen."
+      "title": "Polizist aus dem Ostalbkreis stirbt bei Fahrtraining auf dem Hockenheimring",
+      "text": "Ein Beamter des Polizeipräsidiums Aalen ist auf dem Hockenheimring beim Fahrsicherheitstraining mit seinem Dienstmotorrad tödlich verunglückt. Die Ursache für den Unfall ist noch unklar."
+    },
+    {
+      "title": "Tumult im Freibad Obersulm: Polizei nimmt zwei Männer fest",
+      "text": "Im Freibad in Obersulm ist es zu einem Tumult gekommen. Auslöser war ein Streit zwischen einem Mann und der Bademeisterin. Die Polizei musste eingreifen."
     },
     {
       "title": "Schnelles Auto rammt Kleinwagen auf der B28 bei Neu-Ulm - 58-jährige Frau kommt ums Leben",
       "text": "Auf der B28 in Neu-Ulm ist am frühen Sonntagmorgen eine 58-jährige Frau ums Leben gekommen. Ihr Kleinwagen wurde von einem schnellen Fahrzeug mit großer Wucht gerammt."
     },
     {
-      "title": "SPD Baden-Württemberg wählt Jan-Peter Röderer zum Generalsekretär",
-      "text": "Beim SPD-Landesparteitag in Ulm haben die Delegierten am Samstag einen neuen Generalsekretär gewählt. Jan-Peter Röderer war der einzige Kandidat und erhielt die Mehrheit der Stimmen."
-    },
-    {
-      "title": "Kind wird aus Karussell geschleudert - trotz Sicherheitsbügel",
-      "text": "Am Freitagabend ist ein Mädchen auf dem Heidenheimer Volksfest aus einem Fahrgeschäft geschleudert worden. Die 10-Jährige hat sich dabei mehrere Schürfwunden zugezogen."
+      "title": "Störung bei der Deutschen Bahn: Bahn nennt Techniktausch als Ursache",
+      "text": "Nach dem bundesweiten Zugfunk-Ausfall suchen IT- und Sicherheitsexperten nach der genauen Ursache. Auslöser sei der Tausch einer \"technischen Komponente\" gewesen, so die Bahn."
     }
   ]
 }
