@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-06-29T16:46:17.293Z",
+  "generatedAt": "2026-06-30T12:26:27.168Z",
   "world": [
+    {
+      "title": "Griechenland zahlt Fangprämie für giftigen Hasenkopf-Kugelfisch",
+      "text": "Der giftige Hasenkopf-Kugelfisch breitet sich massiv in der Ägäis aus. Nun zahlt die griechische Regierung Fischern eine Fangprämie. Denn die invasive Art bringt das Ökosystem durcheinander - und kann auch stark zubeißen."
+    },
     {
       "title": "WHO: Hantavirus-Ausbruch neigt sich Ende zu",
       "text": "Mitte Mai wurden mehrere Fälle des Hantavirus bei Passagieren einer Kreuzfahrt nachgewiesen. Nun gibt die Weltgesundheitsorganisation Entwarnung, das Virus hat sich nicht weiter ausgebreitet."
@@ -20,52 +24,48 @@
     {
       "title": "Drogen: Wie sich Portugal von einem Heroin-Problem befreite",
       "text": "\"Mir ist egal, ob jemand Heroin oder Cannabis braucht\", sagt der Erfinder der liberalen portugiesischen Drogen-Politik. \"Es soll nur niemand darunter leiden.\" Sein Modell wird jetzt 25 Jahre alt. Von Sebastian Kisters."
-    },
-    {
-      "title": "Italien: Noch ein Herausforderer für Meloni - von rechts",
-      "text": "Italiens rechtes Parteienspektrum wächst. Mit Roberto Vannacci bekommt Regierungschefin Meloni einen zusätzlichen radikalen Konkurrenten. Beobachter sagen: Das hat auch mit Meloni selbst zu tun. Von J. Seisselberg."
     }
   ],
   "economy": [
     {
-      "title": "Insolvenzverfahren: Deko-Kette Depot schließt weitere 66 Filialen",
-      "text": "Der Deko-Händler Depot macht deutschlandweit Dutzende weitere Filialen dicht, betroffen sind unter anderem Geschäfte in Berlin, Hamburg, Braunschweig, Stuttgart und Erfurt. Depot hatte 2024 Insolvenz in Eigenregie angemeldet."
+      "title": "Marktmacht der US-Techkonzerne: Ist ein Leben ohne Google möglich?",
+      "text": "Google ist aus dem Alltag kaum mehr wegzudenken. Alternative Dienste zur Internetsuche oder Navigation sind nur wenig bekannt. Die Folgen für Händler, Plattformbetreiber und Nutzer sind gravierend. Von Jörg Hommer."
     },
     {
-      "title": "Tankrabatt laut ifo-Institut nur zum Teil weitergegeben",
-      "text": "Der Tankrabatt der Bundesregierung endet mit dem Monat Juni. Vor allem beim Diesel wurde der Steuernachlass von 16,7 Cent je Liter nicht vollständig weitergegeben, errechnete das ifo-Institut."
+      "title": "Alphabet-Aktie jetzt im US-Leitindex Dow Jones",
+      "text": "Mit der Alphabet-Aktie kommt ein weiteres Tech-Schwergewicht in den 30 Werte umfassenden amerikanischen Leitindex Dow Jones. Damit stellt sich die Frage: Bildet der überhaupt noch den Zustand der US-Wirtschaft ab?"
     },
     {
-      "title": "Privatbanken: Was folgt aus dem Fall Berenberg?",
-      "text": "Die Finanzaufsicht BaFin hat die gesamte Geschäftsführung der Privatbank Berenberg entmachtet - ein fast einzigartiger Vorgang. Was über den Fall bekannt ist. Von Sebastian Schreiber."
+      "title": "Tankrabatt endet - Preissprung erwartet",
+      "text": "Spätestens ab morgen dürften die Spritpreise steigen: Der Tankrabatt läuft aus. Verbraucherschützer warnen die Mineralölkonzerne vor überhöhten Preissprüngen. Verkehrsminister Schnieder will die Situation \"sehr genau beobachten\"."
     }
   ],
   "automotive": [
     {
-      "title": "Lost in Transformation: Zehn Jahre Verkehrswende – und jetzt, Christian Hochfeld?",
-      "text": "Agora Verkehrswende feiert Zehnjähriges! In unserem Podcast zieht Direktor Christian Hochfeld Bilanz und macht klar: Die entscheidende Phase beginnt jetzt erst. Denn während Elektromobilität und kommunale Verkehrspolitik in den vergangenen Jahren sichtbar vorangekommen sind, wirkt die Verkehrswende heute zugleich verunsichert: neue Verbrennerdebatt …"
+      "title": "Renault Trucks erhöht beim E-Tech T 780 auf 660 Kilometer",
+      "text": "Renault Trucks hat seine Elektro-Lkw der zweiten Generation vor einem knappen Dreivierteljahr enthüllt – samt sämtlicher Leistungsdaten. Doch vor dem Produktionsstart geben die Franzosen nun offiziell mehr Netto-Kapazität an Bord frei – sodass die neue Flaggschiff-Baureihe E-Tech T 780 jetzt auf bis zu 660 km Reichweite kommen soll – statt 600 km. …"
     },
     {
-      "title": "Wasserstoffautos drohen hohe Kosten durch alternde Tanks",
-      "text": "Bei älteren Brennstoffzellenfahrzeugen könnte laut einem Medienbericht in den kommenden Jahren nicht die Antriebstechnik selbst, sondern der Wasserstofftank zum Problem werden. Hintergrund ist die begrenzte Zulassungsdauer der Hochdrucktanks."
+      "title": "Intec und Aviloo bündeln Batteriezertifikat und Gebrauchtwagengarantie",
+      "text": "Der Garantieanbieter Intec und der Batteriediagnostik-Spezialist Aviloo arbeiten künftig zusammen. Das Duo bietet eine Kombination aus Batteriezertifikat und Garantie für gebrauchte Elektrofahrzeuge an. Das Angebot richtet sich insbesondere an freie Autohändler und kleinere Händlerbetriebe."
     },
     {
-      "title": "Andreas Schmid Group setzt eActros 600 auf Fernstrecken ein",
-      "text": "Die Andreas Schmid Group hat zwei Batterie-elektrische Mercedes-Benz eActros 600 in den Regelbetrieb übernommen. Die Fahrzeuge werden im Fernverkehr eingesetzt. Fünf weitere Elektro-Lkw sollen noch im Laufe dieses Jahres folgen."
+      "title": "Stromspendende Lichtbäume vor der Münchner „BMW Welt“",
+      "text": "Designworks hat jüngst einen neuen Ladepark vor der BMW Welt in München installiert. Die Ladestationen, die an minimalistische Bäume erinnern, warten unter anderem mit einer LED-Lichtinszenierung zur Visualisierung des Ladevorgangs auf – und davon gibt's jetzt Bilder."
     }
   ],
   "tech": [
     {
-      "title": "Sony: PS6 mit 4K und 120 fps für 1.000 US-Dollar?",
-      "text": "Gerüchten zufolge könnte die Playstation 6 außer bei der Grafikleistung auch beim Preis einen neuen Höchststand erreichen. ( Playstation 6 , Sony )"
+      "title": "Komponenten für Rechenzentren als Ziel: Hardware-Diebstähle in den USA nehmen zu",
+      "text": "In den USA häufen sich die Diebstähle von ganzen Lkw-Aufliegern, die Hardware und Komponenten für Rechenzentren transportieren."
     },
     {
-      "title": "JD.com: Wirtschaftsministerium genehmigt Übernahme von Mediamarkt-Saturn",
-      "text": "Der chinesische Onlinehändler JD.com dürfe Mediamarkt-Saturn übernehmen - sagt das Bundeswirtschaftsministerium. Das letzte Wort hat die EU."
+      "title": "Sicherheitslücken ohne Ende: Flut an KI-Bug-Reports überfordert Github",
+      "text": "Github kommt bei der Bearbeitung von Sicherheitsmeldungen nicht mehr hinterher. Es gibt wohl einen Rückstau von mehreren Wochen."
     },
     {
-      "title": "T-Mobile Holding: Telekom forciert neuen Hauptsitz im Ausland",
-      "text": "Wegen der Angriffe von SpaceX in den USA plant der Telekom-Chef ein gemeinsames Unternehmen mit T-Mobile US. Der Hauptsitz könnte in Irland oder in der Schweiz sein."
+      "title": "Erstmals nicht Erster: Samsung startet neuen Anlauf für 1,4-nm-Prozess",
+      "text": "Samsung hat seinen 1,4-nm-Prozess um zwei Jahre nach hinten verschoben. Andere Halbleiterfertigungsprozesse waren erst einmal wichtiger."
     }
   ],
   "local": [
@@ -78,12 +78,12 @@
       "text": "Nach den jüngsten Polizeieinsätzen in den Freibädern in Obersulm und Heilbronn wird über mehr Sicherheit diskutiert. Doch sind die Probleme in Heilbronn-Franken wirklich so groß?"
     },
     {
-      "title": "Audi-Werk Neckarsulm auf der Streichliste? VW prüft Umbaupläne - bis zu 100.000 Jobs betroffen",
-      "text": "Europas größter Autobauer Volkswagen steht einem Medienbericht zufolge vor einem weiteren massiven Stellenabbau. Möglicherweise wird der Audi-Standort in Neckarsulm geschlossen."
-    },
-    {
       "title": "Bayerns großer Klinikplan – und seine Nebenwirkungen",
       "text": "Der Freistaat will neun Milliarden Euro in Universitätskliniken in Bayern investieren. Der größte Anteil soll nach Augsburg gehen – in Schwaben überwiegt Zustimmung, doch Anwohner und Handwerk sehen offene Fragen."
+    },
+    {
+      "title": "Mit 13 Tonnen Material im Gepäck: Dieser Mann will den Erdbeben-Opfern in Venezuela helfen",
+      "text": "Fast zweitausend Menschen sind bei den Erdbeben in Venezuela ums Leben gekommen. Ein Helfer-Team der Johanniter ist auf dem Weg nach Südamerika. Mit dabei ist auch ein Mann aus BW."
     }
   ]
 }
