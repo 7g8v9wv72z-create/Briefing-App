@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-07-01T13:41:47.645Z",
+  "generatedAt": "2026-07-02T12:22:35.359Z",
   "world": [
+    {
+      "title": "In Polen explodieren nach Ende der Preisbremse die Spritpreise",
+      "text": "Die Kraftstoffpreise sind in Polen über Nacht sprungartig angestiegen. Ähnlich wie in Deutschland lief im Juni ein Programm aus, das die Spritpreise begrenzte. Nun steht die Regierung massiv in der Kritik. Von Palina Milling."
+    },
     {
       "title": "Anschläge in Griechenland - wohl gegen Politiker",
       "text": "In Griechenlands zweitgrößter Stadt Thessaloniki gab es mehrere Brandanschläge - mutmaßlich gegen Mitglieder der konservativen Regierungspartei. Fünf Menschen wurden verletzt. Wer dahintersteckt, ist noch unklar."
@@ -20,52 +24,48 @@
     {
       "title": "London erhöht Verteidigungsetat um 15 Milliarden Pfund",
       "text": "Seit Monaten gibt es in der britischen Regierung Streit um den Haushalt für die Verteidigung. Nun soll er erhöht werden. Doch Kritiker halten die Investitionen weiterhin für zu gering, um das Land kriegstüchtig zu machen."
-    },
-    {
-      "title": "Grenzkontrollen in Bulgarien: Prinzip \"Kohle, durchwinken, Kohle, durchwinken\"",
-      "text": "Sorgt die organisierte Kriminalität dafür, dass Lebensmitteltransporte am wichtigsten Grenzübergang von der Türkei in die EU nicht auf schadhafte Ladung kontrolliert werden? Ein Insider hat nun ausgepackt. Von O. Soos."
     }
   ],
   "economy": [
     {
-      "title": "Spritpreise ziehen mit dem Ende des Tankrabatts kräftig an",
-      "text": "Die Spritpreise an deutschen Tankstellen sind mit Auslaufen des Tankrabatts massiv angestiegen. Sowohl Super E10 als auch Diesel kosten am Mittag im bundesweiten Schnitt wieder deutlich über zwei Euro pro Liter."
+      "title": "Niederlage vor EuGH: Google muss EU-Rekordstrafe zahlen",
+      "text": "Es ist die bislang höchste Wettbewerbsstrafe, die die EU-Kommission verhängt hat: Google muss 4,1 Milliarden Euro wegen Praktiken rund um das Handy-Betriebssystem Android zahlen, wie der EuGH nun bestätigte."
     },
     {
-      "title": "Tankstellen-Pächter befürchten neuen Unmut von Autofahrern",
-      "text": "Monatelang sahen sich Tankstellenpächter wütenden Kunden und einbrechenden Umsätzen ausgesetzt. Der Tankrabatt brachte Entspannung. Gibt es jetzt neuen Unmut bei Autofahrern, wenn der Sprit wieder teuer wird? Von Susett Kleine."
+      "title": "Infineon eröffnet neue Chipfabrik in Dresden",
+      "text": "Die Nachfrage nach Mikrochips steigt weltweit - und Infineon eröffnet ein neues Werk in Dresden. Die Fabrik gilt als eine der modernsten Produktionsstätten für Halbleiter und festigt die internationale Bedeutung Sachsens als Technologie-Standort."
     },
     {
-      "title": "Neues Gesetz gegen Billig-Klamotten in Frankreich",
-      "text": "Ein neues Gesetz in Frankreich soll die Produktion von Wegwerf-Mode eindämmen. Damit sollen chinesische Riesen wie Shein oder Temu reguliert werden. Sie überschwemmen Europa jedes Jahr mit Millionen von Billig-Kleidungsstücken. Von J. Borutta."
+      "title": "Panzerbauer KNDS bläst Börsengang vorerst ab",
+      "text": "Erst vergangene Woche hatte die Bundesregierung den Einstieg beim Rüstungskonzern KNDS angekündigt - nun verschiebt das deutsch-französische Unternehmen seinen Börsengang. Hintergrund sind Verluste bei Rüstungsaktien."
     }
   ],
   "automotive": [
     {
-      "title": "Vattenfall und WirelessCar testen automatisiertes Laden",
-      "text": "Vattenfall InCharge und WirelessCar haben ein Pilotprojekt für automatisiertes Laden von Elektrofahrzeugen abgeschlossen. Der cloudbasierte Dienst „Seamless Charging“ soll den Ladevorgang künftig ohne Ladekarte oder App ermöglichen. …"
+      "title": "TU Wien eröffnet eMOTION Lab zur Forschung an E-Antrieben",
+      "text": "An der TU Wien ist das neue eMOTION Lab eröffnet worden. Die Forschungsinfrastruktur soll Unternehmen und Wissenschaft bei der Entwicklung elektrischer Antriebssysteme unterstützen. Zum Start nimmt ein Inverter-Prüfstand den Betrieb auf, weitere Prüfstände für Hochvolt-Systeme und E-Achsen sind bereits geplant."
     },
     {
-      "title": "Pfalzwerke schließen Schnelllade-Ausbau bei Hornbach ab",
-      "text": "Die Pfalzwerke haben im Rahmen der 2018 angekündigten Partnerschaft mit Hornbach nun alle Filialen der Baumarktkette in Deutschland mit Schnellladesäulen ausgestattet. Gleichzeitig verlängern die Partner ihre Zusammenarbeit und planen, die vorhandene Infrastruktur zu modernisieren."
+      "title": "Automatisiertes Fahren im Stadtverkehr: Abschlussbilanz des Projekts STADT:up",
+      "text": "Mit einem Gesamtbudget von 62,2 Millionen Euro ausgestattet, haben im Projekt STADT:up Firmen wie Bosch, Cariad, Mercedes-Benz, Opel oder ZF zusammen mit verschiedenen Institutionen an automatisierter Mobilität im urbanen Raum geforscht. Die 20 Partner ziehen nun Bilanz."
     },
     {
-      "title": "Südkorea schließt BYD von der E-Auto-Förderung aus",
-      "text": "Südkorea hat die Voraussetzungen für die staatliche Förderung von Elektrofahrzeugen verschärft. Künftig erhalten nur noch Hersteller und Importeure Zugang zum Förderprogramm, die eine neue Bewertung des Umweltministeriums bestehen. In der Kategorie der Elektro-Pkw erfüllten zehn Unternehmen die Anforderungen. BYD gehört nicht dazu."
+      "title": "Niederlande führt Lkw-Maut ein – auch Elektro-Trucks zahlen",
+      "text": "Zum 1. Juli ist in den Niederlanden eine Lkw-Maut in Kraft getreten. Lkw ab 3,5 Tonnen zahlen somit ab sofort pro gefahrenem Kilometer für die Nutzung der Straßen. Je sauberer und leichter das Fahrzeug, desto niedriger ist der Betrag pro Kilometer. Aber auch E-Lkw müssen einen kleinen Beitrag leisten."
     }
   ],
   "tech": [
     {
-      "title": "Evernote, Komoot und Vimeo: Börsengang von Bending Spoons erfolgreich",
-      "text": "Trotz des erfolgreichen Börsengangs von Bending Spoons ist eine langfristige Rendite für Investoren keineswegs sicher."
+      "title": "Multiplina: Fiat bringt den Multipla als Elektro-Kleinstwagen zurück",
+      "text": "Der Fiat Multiplina basiert auf der elektrischen Topolino-Plattform, bietet aber mehr Platz - und ein an den Fiat 600 Multipla erinnerndes Design."
     },
     {
-      "title": "Conquest: Netflix, ein gescheitertes Sci-Fi-Projekt und die Justiz",
-      "text": "Netflix hat 55 Millionen US-Dollar für eine Sci-Fi-Serie ausgegeben, die nie abgeschlossen wurde - und wurde Opfer eines Betrugs. Nun wurde das Strafmaß für den Betrüger verkündet. Ein Bericht von Peter Osteried"
+      "title": "Mehr Netto vom Brutto?: Welche IT-Berufe von der Steuerreform profitieren",
+      "text": "Vor allem Senior-Angestellte und Führungskräfte verdienen in der IT so viel, dass sie nach der Steuerreform wahrscheinlich eher mehr Geld bezahlen werden. Von Oliver Nickel"
     },
     {
-      "title": "Sony: Playstation schafft die Spiele-Disc ab",
-      "text": "Sony beendet ab 2028 die Produktion von Discs für alle neuen Playstation-Spiele - unabhängig vom Publisher."
+      "title": "Nur noch bilanziell: EU kippt ambitionierte Ökostromziele für Rechenzentren",
+      "text": "Eine neue EU-Regulierung sah hohe Auflagen für den Ökostrombezug von Rechenzentren vor. Nach Lobbyintervention sind die wohl nun vom Tisch."
     }
   ],
   "local": [
@@ -74,16 +74,16 @@
       "text": "Bei Lorch im Ostalbkreis hat ein Auto laut Polizei zwei neben ihrem Trike stehende Motorradfahrer erfasst. Für sie kam jede Hilfe zu spät, sie starben noch an der Unfallstelle."
     },
     {
-      "title": "Muss Audi in Neckarsulm schließen? Politiker und Gewerkschaft wollen für den Standort kämpfen",
-      "text": "Der Audi-Standort Neckarsulm steht internen Berichten zufolge auf der Kippe. Gewerkschaften und Politik schlagen Alarm und wehren sich gegen eine mögliche Schließung."
-    },
-    {
       "title": "Oberfranken könnte Bundestags-Wahlkreis an Oberbayern verlieren",
       "text": "Es könnte Kulmbach treffen oder Coburg. Laut dem Bericht einer unabhängigen Kommission dürfte Oberfranken bei der nächsten Bundestagswahl einen Wahlkreis verlieren – voraussichtlich zugunsten von Pfaffenhofen an der Ilm."
     },
     {
       "title": "Raketenabwehrsystem Arrow: Details zu Standorten in Schwaben",
       "text": "Bayern wird Standort für das Raketenabwehrsystem Arrow: Das Radar kommt in den Großraum Kaufbeuren, die Abfangraketen auf das Lechfeld. Ab 2030 soll der Schutz stehen – so sieht die Zukunft für den Standort Kaufbeuren aus."
+    },
+    {
+      "title": "Bayerns großer Klinikplan – und seine Nebenwirkungen",
+      "text": "Der Freistaat will neun Milliarden Euro in Universitätskliniken in Bayern investieren. Der größte Anteil soll nach Augsburg gehen – in Schwaben überwiegt Zustimmung, doch Anwohner und Handwerk sehen offene Fragen."
     }
   ]
 }
