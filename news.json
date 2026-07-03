@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T12:22:35.359Z",
+  "generatedAt": "2026-07-03T12:20:58.949Z",
   "world": [
     {
       "title": "In Polen explodieren nach Ende der Preisbremse die Spritpreise",
@@ -28,44 +28,44 @@
   ],
   "economy": [
     {
-      "title": "Niederlage vor EuGH: Google muss EU-Rekordstrafe zahlen",
-      "text": "Es ist die bislang höchste Wettbewerbsstrafe, die die EU-Kommission verhängt hat: Google muss 4,1 Milliarden Euro wegen Praktiken rund um das Handy-Betriebssystem Android zahlen, wie der EuGH nun bestätigte."
+      "title": "Deutsche E-Auto-Förderung hilft stark chinesischen Herstellern",
+      "text": "Die deutsche Förderung klimafreundlicher Autos kommt auch chinesischen Autobauern zugute. Das sorgt für Kritik an der Bundesregierung - bringt aber auch die Energiewende voran. Von Juri Sonnenholzner."
     },
     {
-      "title": "Infineon eröffnet neue Chipfabrik in Dresden",
-      "text": "Die Nachfrage nach Mikrochips steigt weltweit - und Infineon eröffnet ein neues Werk in Dresden. Die Fabrik gilt als eine der modernsten Produktionsstätten für Halbleiter und festigt die internationale Bedeutung Sachsens als Technologie-Standort."
+      "title": "IG Metall kündigt \"heißen Sommer\" für die Autobranche an",
+      "text": "Mercedes-Beschäftigte in Deutschland protestieren heute gegen den verschärften Sparkurs des Autobauers. Aufgerufen hat dazu die IG Metall. Die Gewerkschaft warnt die Branche vor weiteren Aktionen."
     },
     {
-      "title": "Panzerbauer KNDS bläst Börsengang vorerst ab",
-      "text": "Erst vergangene Woche hatte die Bundesregierung den Einstieg beim Rüstungskonzern KNDS angekündigt - nun verschiebt das deutsch-französische Unternehmen seinen Börsengang. Hintergrund sind Verluste bei Rüstungsaktien."
+      "title": "Kanzler Merz verteidigt Reformpläne der Bundesregierung",
+      "text": "Kanzler Merz hat die Reformpläne seiner Regierung gegen Kritik verteidigt. Im ARD-Brennpunkt sagte er, man habe \"getan, was wir tun können\" - mehr sei bei der aktuellen finanziellen Lage nicht möglich gewesen."
     }
   ],
   "automotive": [
     {
-      "title": "TU Wien eröffnet eMOTION Lab zur Forschung an E-Antrieben",
-      "text": "An der TU Wien ist das neue eMOTION Lab eröffnet worden. Die Forschungsinfrastruktur soll Unternehmen und Wissenschaft bei der Entwicklung elektrischer Antriebssysteme unterstützen. Zum Start nimmt ein Inverter-Prüfstand den Betrieb auf, weitere Prüfstände für Hochvolt-Systeme und E-Achsen sind bereits geplant."
+      "title": "Juni-Bilanz: Elektroauto-Neuzulassungen auf höchstem Stand seit August 2023",
+      "text": "Im Juni wurden in Deutschland 84.057 Elektroautos neu zugelassen und damit so viele wie seit fast drei Jahren nicht mehr. Der BEV-Anteil kletterte auf 28,4 Prozent. Damit steht auch die Halbjahresbilanz: 368.006 neue E-Autos von Januar bis Juni – fast so viele wie im gesamten Jahr 2024."
     },
     {
-      "title": "Automatisiertes Fahren im Stadtverkehr: Abschlussbilanz des Projekts STADT:up",
-      "text": "Mit einem Gesamtbudget von 62,2 Millionen Euro ausgestattet, haben im Projekt STADT:up Firmen wie Bosch, Cariad, Mercedes-Benz, Opel oder ZF zusammen mit verschiedenen Institutionen an automatisierter Mobilität im urbanen Raum geforscht. Die 20 Partner ziehen nun Bilanz."
+      "title": "China streicht Steuerbefreiung für Plug-in-Hybride ab 2027",
+      "text": "China schafft zum 1. Januar 2027 die jährliche Kfz-Steuerbefreiung für Plug-in-Hybride, Range-Extender-Fahrzeuge sowie mehrere elektrifizierte Nutzfahrzeugklassen ab. BEV-Pkw bleiben dagegen weiterhin steuerfrei, da sie nach chinesischem Recht nicht unter die hubraumbasierte Fahrzeugsteuer fallen."
     },
     {
-      "title": "Niederlande führt Lkw-Maut ein – auch Elektro-Trucks zahlen",
-      "text": "Zum 1. Juli ist in den Niederlanden eine Lkw-Maut in Kraft getreten. Lkw ab 3,5 Tonnen zahlen somit ab sofort pro gefahrenem Kilometer für die Nutzung der Straßen. Je sauberer und leichter das Fahrzeug, desto niedriger ist der Betrag pro Kilometer. Aber auch E-Lkw müssen einen kleinen Beitrag leisten."
+      "title": "Xpengs Weltmarkt-Stromer Mona L03 geht in China in den Vorverkauf",
+      "text": "Der Mona L03, das erste SUV der Xpeng-Submarke Mona, ist in China ab sofort im Vorverkauf bestellbar. Den Launch des Modells wird Xpeng am 16. Juli feiern – aber nicht in China, sondern in München. Die Botschaft: Der Mona L03 ist ein Stromer für die globalen Märkte."
     }
   ],
   "tech": [
     {
-      "title": "Multiplina: Fiat bringt den Multipla als Elektro-Kleinstwagen zurück",
-      "text": "Der Fiat Multiplina basiert auf der elektrischen Topolino-Plattform, bietet aber mehr Platz - und ein an den Fiat 600 Multipla erinnerndes Design."
+      "title": "Creative Assembly: Alien Isolation 2 ist schon in der Pre-Alpha echter Horror",
+      "text": "Eine Stunde mit einer frühen Version reicht aus, um Vorfreude zu wecken: Ich habe Alien Isolation 2 gespielt. Ein Hands-on von Peter Steinlechner"
     },
     {
-      "title": "Mehr Netto vom Brutto?: Welche IT-Berufe von der Steuerreform profitieren",
-      "text": "Vor allem Senior-Angestellte und Führungskräfte verdienen in der IT so viel, dass sie nach der Steuerreform wahrscheinlich eher mehr Geld bezahlen werden. Von Oliver Nickel"
+      "title": "Angriff per USB-Stick: KI findet gefährliche Lücke in populärem FatFs-Treiber",
+      "text": "Das bloße Anschließen eines USB-Sticks reicht aus, um auf vielen Embedded- und IoT-Geräten Schadcode einzuschleusen. Einen Patch gibt es bisher nicht."
     },
     {
-      "title": "Nur noch bilanziell: EU kippt ambitionierte Ökostromziele für Rechenzentren",
-      "text": "Eine neue EU-Regulierung sah hohe Auflagen für den Ökostrombezug von Rechenzentren vor. Nach Lobbyintervention sind die wohl nun vom Tisch."
+      "title": "Randstad: Deutlich höhere Gehälter für Beschäftigte mit KI-Skills",
+      "text": "Wer im Job über KI-Kompetenzen verfügt, kann in Deutschland erhebliche Gehaltsaufschläge fordern. Unternehmen müssen extrem lange nach KI-Fachkräften suchen."
     }
   ],
   "local": [
