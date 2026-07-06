@@ -1,89 +1,89 @@
 {
-  "generatedAt": "2026-07-03T12:20:58.949Z",
+  "generatedAt": "2026-07-06T16:36:37.696Z",
   "world": [
+    {
+      "title": "10.000 Menschen in Südfrankreich nach Waldbränden evakuiert",
+      "text": "Im Süden Europas kämpfen Einsatzkräfte gegen Waldbrände. Besonders angespannt ist die Lage in Südfrankreich: Tausende Menschen wurden in Sicherheit gebracht. Auch Griechenland, Spanien und Portugal sind betroffen."
+    },
+    {
+      "title": "In mehreren südeuropäischen Ländern breiten sich Waldbrände aus",
+      "text": "In mehreren südeuropäischen Ländern haben sich Waldbrände weiter ausgebreitet. Nahe dem griechischen Thessaloniki brannte eine Recyclingfabrik, in den französischen Pyrenäen ist auch die Tour de France betroffen."
+    },
+    {
+      "title": "Papst auf Lampedusa - \"Habt den Mut, anders zu denken\"",
+      "text": "Auf der Insel Lampedusa kommen viele Geflüchtete an, die von Nordafrika nach Europa gelangen wollen. Der Papst besucht hier das \"Tor Europas\" und appelliert auch an Touristen. Von Lisa Weiß."
+    },
+    {
+      "title": "So unterschiedlich regeln andere europäische Länder Krankschreibungen",
+      "text": "In Frankreich gibt es die ersten drei Krankentage kein Geld, in Italien kann es Kontrollbesuche zu Hause geben. Andere europäische Länder haben sehr unterschiedliche Regelungen für Krankmeldungen - ein Überblick."
+    },
+    {
+      "title": "Anschlag in Monaco: Interpol fahndet nach Ukrainerin aus Deutschland",
+      "text": "Bei einer Explosion in Monaco wurden am Montag drei Menschen schwer verletzt. Nun wird eine 39-jährige Ukrainerin aus Deutschland per internationalem Haftbefehl gesucht. Die Spuren führen auch nach Hessen."
+    },
     {
       "title": "In Polen explodieren nach Ende der Preisbremse die Spritpreise",
       "text": "Die Kraftstoffpreise sind in Polen über Nacht sprungartig angestiegen. Ähnlich wie in Deutschland lief im Juni ein Programm aus, das die Spritpreise begrenzte. Nun steht die Regierung massiv in der Kritik. Von Palina Milling."
-    },
-    {
-      "title": "Anschläge in Griechenland - wohl gegen Politiker",
-      "text": "In Griechenlands zweitgrößter Stadt Thessaloniki gab es mehrere Brandanschläge - mutmaßlich gegen Mitglieder der konservativen Regierungspartei. Fünf Menschen wurden verletzt. Wer dahintersteckt, ist noch unklar."
-    },
-    {
-      "title": "Mindestens fünf Tote bei Hochhausbrand in Antwerpen",
-      "text": "In der belgischen Hafenstadt Antwerpen sind bei einem Brand in einer Wohnanlage mindestens fünf Menschen ums Leben gekommen. Warum das Feuer in dem zehnstöckigen Gebäude ausbrach, ist noch unklar."
-    },
-    {
-      "title": "Umfrage des EU-Parlaments: 75 Prozent bewerten die EU als \"sicheren Hafen\"",
-      "text": "Das Vertrauen der Europäer in die EU ist aktuell so groß wie lange nicht mehr - so das Ergebnis der Umfrage Eurobarometer. Die weltpolitische Lage sorgt allerdings für Verunsicherung. Von Kathrin Schmid."
-    },
-    {
-      "title": "Zwei Tote bei Waldbrand in Griechenland",
-      "text": "In der Nähe der griechischen Stadt Thessaloniki ist ein Waldbrand ausgebrochen. Zwei Menschen sind ums Leben gekommen. Die Feuerwehr kämpft auch aus der Luft gegen die Flammen. Bisher ist das Land glimpflich durch die Waldbrandsaison gekommen."
-    },
-    {
-      "title": "London erhöht Verteidigungsetat um 15 Milliarden Pfund",
-      "text": "Seit Monaten gibt es in der britischen Regierung Streit um den Haushalt für die Verteidigung. Nun soll er erhöht werden. Doch Kritiker halten die Investitionen weiterhin für zu gering, um das Land kriegstüchtig zu machen."
     }
   ],
   "economy": [
     {
-      "title": "Deutsche E-Auto-Förderung hilft stark chinesischen Herstellern",
-      "text": "Die deutsche Förderung klimafreundlicher Autos kommt auch chinesischen Autobauern zugute. Das sorgt für Kritik an der Bundesregierung - bringt aber auch die Energiewende voran. Von Juri Sonnenholzner."
+      "title": "Mehr Aufträge: Hoffnungsschimmer für die gebeutelte Industrie",
+      "text": "Im Mai haben deutsche Industrieunternehmen mehr Aufträge erhalten als Experten das im Vorfeld erwartet haben. Doch viele Ökonomen warnen vor allzu großem Optimismus. Und es bleiben viele Herausforderungen."
     },
     {
-      "title": "IG Metall kündigt \"heißen Sommer\" für die Autobranche an",
-      "text": "Mercedes-Beschäftigte in Deutschland protestieren heute gegen den verschärften Sparkurs des Autobauers. Aufgerufen hat dazu die IG Metall. Die Gewerkschaft warnt die Branche vor weiteren Aktionen."
+      "title": "Ex-Wirtschaftsminister Habeck wird Berater bei Investmentgesellschaft",
+      "text": "Nach dem Aus der Ampel-Koalition arbeitete Ex-Vizekanzler Habeck zunächst in den USA als Gastdozent. Jetzt nimmt er - kurz nach Ablauf der Anzeigepflicht - einen mutmaßlich lukrativen Beraterjob bei einer dänischen Investmentgesellschaft an."
     },
     {
-      "title": "Kanzler Merz verteidigt Reformpläne der Bundesregierung",
-      "text": "Kanzler Merz hat die Reformpläne seiner Regierung gegen Kritik verteidigt. Im ARD-Brennpunkt sagte er, man habe \"getan, was wir tun können\" - mehr sei bei der aktuellen finanziellen Lage nicht möglich gewesen."
+      "title": "Einbruch am Krypto-Markt: Ist der Bitcoin entzaubert?",
+      "text": "Vom Allzeithoch ist noch die Hälfte übrig: Der Bitcoin hat in den vergangenen Monaten erheblich an Wert verloren. Was sind die Gründe? Und wie könnte es für die Kryptowährungen weitergehen? Von Paula Protzen."
     }
   ],
   "automotive": [
     {
-      "title": "Juni-Bilanz: Elektroauto-Neuzulassungen auf höchstem Stand seit August 2023",
-      "text": "Im Juni wurden in Deutschland 84.057 Elektroautos neu zugelassen und damit so viele wie seit fast drei Jahren nicht mehr. Der BEV-Anteil kletterte auf 28,4 Prozent. Damit steht auch die Halbjahresbilanz: 368.006 neue E-Autos von Januar bis Juni – fast so viele wie im gesamten Jahr 2024."
+      "title": "„Mehr Reichweite, schnelleres Laden, höhere Effizienz“ – Fritz Bottin, NOW GmbH",
+      "text": "Die Elektromobilität in Deutschland ist auf dem besten Weg zum Massenmarkt, doch die Sorgen der Kunden rund um Ladezeit und Reichweite halten sich hartnäckig. Fritz Bottin, Programmmanager bei der bundeseigenen NOW GmbH, lieferte in seinem Vortrag bei electrive LIVE eine fundierte Analyse des Status quo und warf einen Blick in die „Antriebsglaskuge …"
     },
     {
-      "title": "China streicht Steuerbefreiung für Plug-in-Hybride ab 2027",
-      "text": "China schafft zum 1. Januar 2027 die jährliche Kfz-Steuerbefreiung für Plug-in-Hybride, Range-Extender-Fahrzeuge sowie mehrere elektrifizierte Nutzfahrzeugklassen ab. BEV-Pkw bleiben dagegen weiterhin steuerfrei, da sie nach chinesischem Recht nicht unter die hubraumbasierte Fahrzeugsteuer fallen."
+      "title": "Brüssel bittet Ladesäulen-Blockierer zur Kasse",
+      "text": "Die belgische Hauptstadt Brüssel führt ab dem 1. Oktober eine Rotationsgebühr für Elektroautos ein, die zu lange an öffentlichen Ladesäulen angeschlossen bleiben. Damit soll die Verfügbarkeit der Ladeinfrastruktur verbessert werden, denn für Blockierer wird es teuer."
     },
     {
-      "title": "Xpengs Weltmarkt-Stromer Mona L03 geht in China in den Vorverkauf",
-      "text": "Der Mona L03, das erste SUV der Xpeng-Submarke Mona, ist in China ab sofort im Vorverkauf bestellbar. Den Launch des Modells wird Xpeng am 16. Juli feiern – aber nicht in China, sondern in München. Die Botschaft: Der Mona L03 ist ein Stromer für die globalen Märkte."
+      "title": "Wie physikalischer Druck die Lebensdauer von Batterien beeinflusst",
+      "text": "Ein Forscherteam unter der Leitung der Universität Cambridge hat den Einfluss von physikalischem Druck auf die Lebensdauer von Lithium-Ionen-Batterien untersucht – und publiziert nun als Ergebnis, dass sich die Lebensdauer der Batterien \"durch konstanten Druck verdoppeln lässt\"."
     }
   ],
   "tech": [
     {
-      "title": "Creative Assembly: Alien Isolation 2 ist schon in der Pre-Alpha echter Horror",
-      "text": "Eine Stunde mit einer frühen Version reicht aus, um Vorfreude zu wecken: Ich habe Alien Isolation 2 gespielt. Ein Hands-on von Peter Steinlechner"
+      "title": "Bundesnetzagentur: Verfahren gegen Ebay wegen willkürlicher Sperrungen und Rückerstattungen",
+      "text": "Ebay-Verkäufer kennen das schon. Wer eine E-Mail mit der Betreffzeile \"Unser Kundenservice hat eine endgültige Entscheidung getroffen\" erhält, ist der Willkür des US-Konzerns ausgeliefert."
     },
     {
-      "title": "Angriff per USB-Stick: KI findet gefährliche Lücke in populärem FatFs-Treiber",
-      "text": "Das bloße Anschließen eines USB-Sticks reicht aus, um auf vielen Embedded- und IoT-Geräten Schadcode einzuschleusen. Einen Patch gibt es bisher nicht."
+      "title": "Klima: Bundestagsbeschluss zum Heizungsgesetz könnte verschoben werden",
+      "text": "Die Linke hat Klage gegen das neue Heizungsgesetz eingereicht. Das wirkt offenbar: Die Abstimmung soll verschoben werden."
     },
     {
-      "title": "Randstad: Deutlich höhere Gehälter für Beschäftigte mit KI-Skills",
-      "text": "Wer im Job über KI-Kompetenzen verfügt, kann in Deutschland erhebliche Gehaltsaufschläge fordern. Unternehmen müssen extrem lange nach KI-Fachkräften suchen."
+      "title": "Elektromobilität: Druck verdoppelt die Lebensdauer von Batterien",
+      "text": "Mit konstantem Druck auf einen Akku wird die typische Alterung minimiert. Eine andere Zellchemie oder seltene Materialien werden nicht benötigt."
     }
   ],
   "local": [
     {
-      "title": "Nach Aquaplaning: Zwei Motorradfahrer sterben auf B29 bei Lorch",
-      "text": "Bei Lorch im Ostalbkreis hat ein Auto laut Polizei zwei neben ihrem Trike stehende Motorradfahrer erfasst. Für sie kam jede Hilfe zu spät, sie starben noch an der Unfallstelle."
+      "title": "\"Wie eine Familie\": So erlebt die 15-jährige Lara den Alltag in einer Heim-WG",
+      "text": "Familiäre Krisen, Sucht oder Gewalt - wenn Minderjährige nicht Zuhause leben können, helfen Kinder- und Jugendhilfeeinrichtungen. Die 15-jährige Lara lebt in einer Heim-WG in Ulm."
+    },
+    {
+      "title": "Warnstreiks an vier Unikliniken in Baden-Württemberg ab Montag",
+      "text": "Vor den nächsten Verhandlungen ruft die Gewerkschaft ver.di an den vier Unikliniken in Freiburg, Heidelberg, Tübingen und Ulm für kommende Woche erneut zum Warnstreik auf."
+    },
+    {
+      "title": "Von Ulm bis ins Schwarze Meer: Extremschwimmer legt rund 2.600 Kilometer für sauberes Wasser zurück",
+      "text": "Der Extremschwimmer Joseph Heß hat sich für die kommenden zwei Monate ein Ziel gesetzt: Er will die Donau von Ulm bis zur Mündung durchschwimmen. Wozu solch eine Strapaze?"
     },
     {
       "title": "Oberfranken könnte Bundestags-Wahlkreis an Oberbayern verlieren",
       "text": "Es könnte Kulmbach treffen oder Coburg. Laut dem Bericht einer unabhängigen Kommission dürfte Oberfranken bei der nächsten Bundestagswahl einen Wahlkreis verlieren – voraussichtlich zugunsten von Pfaffenhofen an der Ilm."
-    },
-    {
-      "title": "Raketenabwehrsystem Arrow: Details zu Standorten in Schwaben",
-      "text": "Bayern wird Standort für das Raketenabwehrsystem Arrow: Das Radar kommt in den Großraum Kaufbeuren, die Abfangraketen auf das Lechfeld. Ab 2030 soll der Schutz stehen – so sieht die Zukunft für den Standort Kaufbeuren aus."
-    },
-    {
-      "title": "Bayerns großer Klinikplan – und seine Nebenwirkungen",
-      "text": "Der Freistaat will neun Milliarden Euro in Universitätskliniken in Bayern investieren. Der größte Anteil soll nach Augsburg gehen – in Schwaben überwiegt Zustimmung, doch Anwohner und Handwerk sehen offene Fragen."
     }
   ]
 }
