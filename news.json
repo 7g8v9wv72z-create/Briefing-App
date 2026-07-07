@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-07-06T16:36:37.696Z",
+  "generatedAt": "2026-07-07T13:08:49.225Z",
   "world": [
+    {
+      "title": "Spanien und der NATO-Beitrag: Nicht nur das Geld zählt",
+      "text": "Spanien müsste man aus der NATO werfen, hat US-Präsident Trump mal gesagt - denn die Regierung will nicht das Fünf-Prozent-Ziel der NATO erfüllen. Spanien argumentiert anders und betont: Es komme nicht allein auf das Geld an. Von H.-G. Kellner."
+    },
+    {
+      "title": "Berufungsprozess in Paris: Schicksalstag für Le Pen und Frankreich",
+      "text": "Ein Pariser Berufungsgericht verkündet heute, ob Marine Le Pen zur Präsidentschaftswahl im kommenden Jahr antreten darf. Das Urteil in dem außergewöhnlichen Prozess könnte die politische Landschaft in Frankreich umkrempeln. Von Carolin Dylla."
+    },
+    {
+      "title": "Die EVP und rechte Parteien: Schadet Manfred Webers Kurs der EU?",
+      "text": "Manfred Weber ist der starke Mann der Konservativen im Europaparlament. Doch die EVP steht immer mehr in der Kritik, mit Parteien am rechten Rand abzustimmen. Manche befürchten, dass sie dabei die Kontrolle verlieren könnten. Von J.-M. Magro."
+    },
+    {
+      "title": "Die Straße als Erstaufnahme für Geflüchtete in Paris",
+      "text": "Etwa 900 Menschen leben unter den Hochgleisen der Metro-Linie 2 in Paris. Im Gegensatz zu anderen informellen Camps räumt die Polizei dieses Migranten-Lager nicht, sondern scheint Menschen vielmehr dorthin zu bringen. Von C. Dylla."
+    },
     {
       "title": "10.000 Menschen in Südfrankreich nach Waldbränden evakuiert",
       "text": "Im Süden Europas kämpfen Einsatzkräfte gegen Waldbrände. Besonders angespannt ist die Lage in Südfrankreich: Tausende Menschen wurden in Sicherheit gebracht. Auch Griechenland, Spanien und Portugal sind betroffen."
@@ -8,67 +24,59 @@
     {
       "title": "In mehreren südeuropäischen Ländern breiten sich Waldbrände aus",
       "text": "In mehreren südeuropäischen Ländern haben sich Waldbrände weiter ausgebreitet. Nahe dem griechischen Thessaloniki brannte eine Recyclingfabrik, in den französischen Pyrenäen ist auch die Tour de France betroffen."
-    },
-    {
-      "title": "Papst auf Lampedusa - \"Habt den Mut, anders zu denken\"",
-      "text": "Auf der Insel Lampedusa kommen viele Geflüchtete an, die von Nordafrika nach Europa gelangen wollen. Der Papst besucht hier das \"Tor Europas\" und appelliert auch an Touristen. Von Lisa Weiß."
-    },
-    {
-      "title": "So unterschiedlich regeln andere europäische Länder Krankschreibungen",
-      "text": "In Frankreich gibt es die ersten drei Krankentage kein Geld, in Italien kann es Kontrollbesuche zu Hause geben. Andere europäische Länder haben sehr unterschiedliche Regelungen für Krankmeldungen - ein Überblick."
-    },
-    {
-      "title": "Anschlag in Monaco: Interpol fahndet nach Ukrainerin aus Deutschland",
-      "text": "Bei einer Explosion in Monaco wurden am Montag drei Menschen schwer verletzt. Nun wird eine 39-jährige Ukrainerin aus Deutschland per internationalem Haftbefehl gesucht. Die Spuren führen auch nach Hessen."
-    },
-    {
-      "title": "In Polen explodieren nach Ende der Preisbremse die Spritpreise",
-      "text": "Die Kraftstoffpreise sind in Polen über Nacht sprungartig angestiegen. Ähnlich wie in Deutschland lief im Juni ein Programm aus, das die Spritpreise begrenzte. Nun steht die Regierung massiv in der Kritik. Von Palina Milling."
     }
   ],
   "economy": [
     {
-      "title": "Mehr Aufträge: Hoffnungsschimmer für die gebeutelte Industrie",
-      "text": "Im Mai haben deutsche Industrieunternehmen mehr Aufträge erhalten als Experten das im Vorfeld erwartet haben. Doch viele Ökonomen warnen vor allzu großem Optimismus. Und es bleiben viele Herausforderungen."
+      "title": "Regierung plant staatliche Gasreserve für Krisenfälle",
+      "text": "In der Bundesregierung gibt es Pläne für eine staatliche Gasreserve. Sie soll einen 30-tägigen Ausfall der größten Importinfrastruktur auffangen. Finanziert werden sollen die milliardenhohen Kosten über eine neue Umlage."
     },
     {
-      "title": "Ex-Wirtschaftsminister Habeck wird Berater bei Investmentgesellschaft",
-      "text": "Nach dem Aus der Ampel-Koalition arbeitete Ex-Vizekanzler Habeck zunächst in den USA als Gastdozent. Jetzt nimmt er - kurz nach Ablauf der Anzeigepflicht - einen mutmaßlich lukrativen Beraterjob bei einer dänischen Investmentgesellschaft an."
+      "title": "Regierung will Förderung von klimafreundlichen Heizungen kürzen",
+      "text": "Die staatliche Unterstützung beim Heizungstausch könnte insbesondere für Gutverdiener bald deutlich niedriger ausfallen. Um zu sparen, will die Regierung Förderungen kürzen - und stärker an sozialen Faktoren ausrichten."
     },
     {
-      "title": "Einbruch am Krypto-Markt: Ist der Bitcoin entzaubert?",
-      "text": "Vom Allzeithoch ist noch die Hälfte übrig: Der Bitcoin hat in den vergangenen Monaten erheblich an Wert verloren. Was sind die Gründe? Und wie könnte es für die Kryptowährungen weitergehen? Von Paula Protzen."
+      "title": "ADAC-Erhebung: So viel teurer ist Tanken an Autobahn-Tankstellen",
+      "text": "Viele Menschen fahren bereits zum Tanken von Autobahnen ab: Denn an der nahegelegene Tankstelle ist es meist günstiger, wie auch eine ADAC-Erhebung zeigt. Dabei gibt es teils große Unterschiede zwischen den Bundesländern."
     }
   ],
   "automotive": [
     {
-      "title": "„Mehr Reichweite, schnelleres Laden, höhere Effizienz“ – Fritz Bottin, NOW GmbH",
-      "text": "Die Elektromobilität in Deutschland ist auf dem besten Weg zum Massenmarkt, doch die Sorgen der Kunden rund um Ladezeit und Reichweite halten sich hartnäckig. Fritz Bottin, Programmmanager bei der bundeseigenen NOW GmbH, lieferte in seinem Vortrag bei electrive LIVE eine fundierte Analyse des Status quo und warf einen Blick in die „Antriebsglaskuge …"
+      "title": "CATL präsentiert 8C-Batterie speziell für E-Transporter",
+      "text": "CATL hat eine neue Batterie für leichte Elektro-Nutzfahrzeuge vorgestellt, die sich laut Hersteller in weniger als sieben Minuten von 20 auf 80 Prozent laden lässt. Parallel baut der chinesische Batteriekonzern ein kombiniertes Netz aus Schnelllade- und Batteriewechselstationen auf und will noch in diesem Jahr 4.000 Standorte in rund 190 chinesisch …"
     },
     {
-      "title": "Brüssel bittet Ladesäulen-Blockierer zur Kasse",
-      "text": "Die belgische Hauptstadt Brüssel führt ab dem 1. Oktober eine Rotationsgebühr für Elektroautos ein, die zu lange an öffentlichen Ladesäulen angeschlossen bleiben. Damit soll die Verfügbarkeit der Ladeinfrastruktur verbessert werden, denn für Blockierer wird es teuer."
+      "title": "Marcus Groll wird operativer Geschäftsführer bei Eze.network",
+      "text": "Mit Marcus Groll hat der AC-Ladesäulenbetreiber Eze.network ein bekanntes Branchengesicht an Bord geholt: Seit Anfang des Monats verstärkt Groll die Leitung der Münchner Firma als COO. Mit dem Manager im Team will Eze.network seine nächste Wachstumsphase einleiten."
     },
     {
-      "title": "Wie physikalischer Druck die Lebensdauer von Batterien beeinflusst",
-      "text": "Ein Forscherteam unter der Leitung der Universität Cambridge hat den Einfluss von physikalischem Druck auf die Lebensdauer von Lithium-Ionen-Batterien untersucht – und publiziert nun als Ergebnis, dass sich die Lebensdauer der Batterien \"durch konstanten Druck verdoppeln lässt\"."
+      "title": "Rivian will dieses Jahr bis zu 70.000 E-Autos verkaufen",
+      "text": "Rivian hat im zweiten Quartal mit gut 12.000 Einheiten mehr E-Autos gebaut und ausgeliefert als zu Jahresbeginn kalkuliert. Das veranlasst den US-amerikanischen Volkswagen-Partner nun dazu, seine Prognose für das Jahr 2026 nach oben zu korrigieren – auf 65.000 bis 70.000 Fahrzeugauslieferungen."
     }
   ],
   "tech": [
     {
-      "title": "Bundesnetzagentur: Verfahren gegen Ebay wegen willkürlicher Sperrungen und Rückerstattungen",
-      "text": "Ebay-Verkäufer kennen das schon. Wer eine E-Mail mit der Betreffzeile \"Unser Kundenservice hat eine endgültige Entscheidung getroffen\" erhält, ist der Willkür des US-Konzerns ausgeliefert."
+      "title": "Nicht vorhersehbares Verhalten: KI-Agenten \"betrügen, täuschen und gehen eigene Wege\"",
+      "text": "Der australische Minister für Technologie fordert, die Zeit zu nutzen, in der Menschen noch einen Vorsprung vor KI haben."
     },
     {
-      "title": "Klima: Bundestagsbeschluss zum Heizungsgesetz könnte verschoben werden",
-      "text": "Die Linke hat Klage gegen das neue Heizungsgesetz eingereicht. Das wirkt offenbar: Die Abstimmung soll verschoben werden."
+      "title": "Air-Gapped-Systeme: Malware leitet Daten über Monitorkabel aus",
+      "text": "Air Gapping schützt vor einer unerwünschten Datenausleitung. Ein neuartiger Angriff umgeht diesen Schutz über das Monitor-Kabel - und das ziemlich performant."
     },
     {
-      "title": "Elektromobilität: Druck verdoppelt die Lebensdauer von Batterien",
-      "text": "Mit konstantem Druck auf einen Akku wird die typische Alterung minimiert. Eine andere Zellchemie oder seltene Materialien werden nicht benötigt."
+      "title": "Sony trollen: Microsoft zieht Angebot zum CD-Brennen von Github-Code zurück",
+      "text": "User können sich nicht mehr für eine CD mit ihrem Github-Repo melden. Entweder ist der Ansturm zu groß oder die Kritik zu harsch gewesen."
     }
   ],
   "local": [
+    {
+      "title": "Mögliches Aus von Audi in Neckarsulm? Widerstandskomitee plant Aktionen",
+      "text": "Gegen eine mögliche Schließung des Audi-Werks in Neckarsulm wächst der Widerstand. Viele Aktionen sind geplant. Am Donnerstag berät der Aufsichtsrat von VW die Sparpläne."
+    },
+    {
+      "title": "Cold Case Deggingen: Staatsanwaltschaft erhebt Mordanklage 40 Jahre nach der Tat",
+      "text": "Vor mehr als 40 Jahre ist eine Frau in Deggingen im Kreis Göppingen vergewaltigt und erschlagen worden. Nun hat die Staatsanwaltschaft Ulm einen 70-Jährigen aus Schwendi angeklagt."
+    },
     {
       "title": "\"Wie eine Familie\": So erlebt die 15-jährige Lara den Alltag in einer Heim-WG",
       "text": "Familiäre Krisen, Sucht oder Gewalt - wenn Minderjährige nicht Zuhause leben können, helfen Kinder- und Jugendhilfeeinrichtungen. Die 15-jährige Lara lebt in einer Heim-WG in Ulm."
@@ -76,14 +84,6 @@
     {
       "title": "Warnstreiks an vier Unikliniken in Baden-Württemberg ab Montag",
       "text": "Vor den nächsten Verhandlungen ruft die Gewerkschaft ver.di an den vier Unikliniken in Freiburg, Heidelberg, Tübingen und Ulm für kommende Woche erneut zum Warnstreik auf."
-    },
-    {
-      "title": "Von Ulm bis ins Schwarze Meer: Extremschwimmer legt rund 2.600 Kilometer für sauberes Wasser zurück",
-      "text": "Der Extremschwimmer Joseph Heß hat sich für die kommenden zwei Monate ein Ziel gesetzt: Er will die Donau von Ulm bis zur Mündung durchschwimmen. Wozu solch eine Strapaze?"
-    },
-    {
-      "title": "Oberfranken könnte Bundestags-Wahlkreis an Oberbayern verlieren",
-      "text": "Es könnte Kulmbach treffen oder Coburg. Laut dem Bericht einer unabhängigen Kommission dürfte Oberfranken bei der nächsten Bundestagswahl einen Wahlkreis verlieren – voraussichtlich zugunsten von Pfaffenhofen an der Ilm."
     }
   ]
 }
