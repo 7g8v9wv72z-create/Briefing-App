@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-07-08T11:26:00.337Z",
+  "generatedAt": "2026-07-09T14:16:48.705Z",
   "world": [
+    {
+      "title": "Nach Gerichtsurteil: Marine Le Pen stürzt sich in den Wahlkampf",
+      "text": "Direkt nach dem Urteil gegen sie hat die französische Rechtsnationalistin Marine Le Pen mit dem Wahlkampf begonnen. Ihre Anhänger haben mit ihrer strafrechtlichen Verurteilung offenbar kein Problem. Von Cai Rienäcker."
+    },
     {
       "title": "US-Präsident Trump will Handel mit Spanien einstellen",
       "text": "Schon länger kritisiert US-Präsident Trump den NATO-Partner Spanien: zu geringe Verteidigungsausgaben, mangelnde Unterstützung im Iran-Krieg. Nun kündigte er an, den Handel zu stoppen. Das dürfte aber schwierig werden."
@@ -20,55 +24,55 @@
     {
       "title": "Ungarns ÖRR entschuldigt sich für Lügen unter Orban",
       "text": "Ungarns öffentlich-rechtlicher Sender M1 galt unter Ex-Ministerpräsident Orban als Sprachrohr der Regierung. Am Dienstag war das Programm über Stunden ausgesetzt. Stattdessen lief eine Entschuldigung. Von David Freches."
-    },
-    {
-      "title": "Umstrittene Spenden: Farage will Mandat abgeben und erneut kandidieren",
-      "text": "Nach Vorwürfen wegen nicht offengelegter Spenden geht Nigel Farage in die Offensive: Er will sein Abgeordnetenmandat im britischen Unterhaus abgeben und dann erneut bei der Nachwahl kandieren. Jegliches Fehlverhalten bestreitet er."
     }
   ],
   "economy": [
     {
-      "title": "Commerzbank-Aktionäre nehmen Übernahmeangebot der UniCredit an",
-      "text": "Die italienische Großbank UniCredit hat sich mit ihrem Aktientauschangebot mehr als 44 Prozent an der Commerzbank gesichert. Eine Übernahme wird damit zwar wahrscheinlicher, doch es gibt noch Hürden."
+      "title": "Buchmarkt: Junge Menschen kaufen weniger Bücher",
+      "text": "Immer weniger Jugendliche greifen zum Buch - zumindest legen das die Zahlen nahe: Bei den 10- bis 15-jährigen gibt es knapp ein Drittel weniger Buchkäufer. Doch auch insgesamt geht der Branchenumsatz 2025 zurück. Von Alex Jakubowski."
     },
     {
-      "title": "Polarisierend und entschlossen: UniCredit-Chef Andrea Orcel",
-      "text": "Die UniCredit kommt einer Übernahme der Commerzbank näher. Der Kopf hinter der Schlacht ist der Chef der italienischen Großbank, Andrea Orcel. Wer ist dieser Banker? Von J. Seisselberg."
+      "title": "Schriftstellerin Wunnicke erhält Georg-Büchner-Preis 2026",
+      "text": "Er zählt zu den wichtigsten Auszeichnungen für deutschsprachige Literatur: Die Schriftstellerin Christine Wunnicke wird mit dem Georg-Büchner-Preis ausgezeichnet. Die Jury bezeichnet ihre Romane als \"brillante Kunst\"."
     },
     {
-      "title": "Apple scheitert vor EU-Gericht mit Klage gegen strengere Regeln",
-      "text": "Das EU-Gericht in Luxemburg hat eine Klage von Apple gegen die Einstufung als sogenannten Torwächter für den App-Store und das Betriebssystem iOS abgewiesen. Damit hat der Konzern bestimmte Pflichten."
+      "title": "Aufsichtsrat tagt: Harte Einsparungen bei VW befürchtet",
+      "text": "Die Anspannung vor der heutigen Aufsichtsratssitzung bei VW ist groß: Seit Monaten stehen harte Einschnitte im Raum. Experten halten radikale Schritte für nötig, der Widerstand ist groß. Ausgang: ungewiss. Von A. Deutskens."
     }
   ],
   "automotive": [
     {
-      "title": "Weltweit jeder achte neue Mercedes-Pkw fährt rein elektrisch",
-      "text": "Die Mercedes-Benz Group hat im zweiten Quartal 63.000 elektrische Fahrzeuge abgesetzt. Unter allen Mercedes-Pkw hatten dabei weltweit 13 Prozent aller verkauften Autos einen rein elektrischen Antrieb – gut fünf Prozentpunkte mehr als vor einem Jahr. China bleibt für die Stuttgarter aber ein Problemmarkt."
+      "title": "China peilt bis 2030 einen NEV-Bestand von 30 Prozent an",
+      "text": "China hat seinen Aktionsplan zur Begrenzung des CO₂-Emissionshöchststands veröffentlicht. Bis 2030 sollen Fahrzeuge mit alternativen Antrieben 30 Prozent des gesamten Fahrzeugbestands ausmachen. Parallel will die Regierung den Ausbau der Lade- und Wasserstoffinfrastruktur beschleunigen."
     },
     {
-      "title": "Bayern stellt rund 100 Areale für Ladesäulen ins FlächenTOOL ein",
-      "text": "Das FlächenTOOL ist die digitale Matching-Plattform der Nationalen Leitstelle Ladeinfrastruktur, um Investoren das Auffinden von Grundstücken zu erleichtern, die für den Aufbau von Ladeinfrastruktur verfügbar sind. Der Freistaat Bayern hat nun rund 100 neue Liegenschaften eingestellt."
+      "title": "Posco und Hyundai entwickeln neuartiges Elektroband für effizientere E-Motoren",
+      "text": "Posco startet mit Hyundai Motor und acht weiteren Partnern ein Forschungsprojekt für hochsiliziumhaltiges Elektroband – ein Vormaterial für die Herstellung von Statoren und Rotoren. Ziel ist es, die Effizienz von E-Motoren zu steigern und die Materialtechnologie bis zur Serienanwendung im Elektrofahrzeug weiterzuentwickeln."
     },
     {
-      "title": "Tesla startet Startup-Programm für Batteriezellfertigung in Grünheide",
-      "text": "Tesla startet mit der \"Cell Giga Challenge\" ein neues Innovationsprogramm für die Batteriezellfertigung in Grünheide. Startups erhalten die Möglichkeit, ihre Technologien direkt in der Zellproduktion der Gigafactory Berlin-Brandenburg zu erproben. Gesucht werden Lösungen, die Qualität, Effizienz und Skalierbarkeit der Fertigung verbessern."
+      "title": "„Wie bewährte eMobility-Konzepte den eTruck ermöglichen“ – Melanie Neth & Tim Dambor, DKV Mobility",
+      "text": "Beim E-Lkw-Hochlauf können wir viel vom schon reiferen E-Pkw-Markt lernen. Melanie Neth und Tim Dambor von DKV Mobility bekräftigten bei electrive LIVE, dass die Branche beim Laden schwerer Nutzfahrzeuge längst nicht mehr am Anfang steht. …"
     }
   ],
   "tech": [
     {
-      "title": "\"Generalüberholte Produkte werden an Beliebtheit gewinnen\": Swappie-CEO über Refurbished-Macbooks und die Speicherkreise",
-      "text": "Neben iPhones, iPads und Airpods verkauft Swappie nun auch wiederaufbereitete Macbooks. Swappie-CEO Jussi Lystimäki erklärt, was Kunden erwartet und wie er sie weiterlesen auf t3n.de"
+      "title": "Ohne Weltraumschrott: Blendwaffe macht Satelliten temporär unbrauchbar",
+      "text": "Das System kann gezielt Spionage- und Kommunikationssatelliten unbrauchbar machen, ohne sie zu zerstören. Es ist jetzt einsatzbereit."
     },
     {
-      "title": "Erstes Foto: Chinas Raumsonde Tianwen-2 erreicht Quasi-Mond Kamo'oalewa",
-      "text": "Der Asteroid 2016 HO3 ist einer von nur sieben derzeit bekannten Himmelskörpern, die als „Quasi-Satelliten“ bekannt sind. Er kreist in großer Entfernung mit der Erde um die Sonne. Auf ihrer Mission, den Mini-Mond genauer zu untersuchen, hat die chinesische Sonde Tianwen-2 nun erstes Bildmaterial geliefert. weiterlesen auf t3n.de"
+      "title": "Coupé und Spider: BYDs neuer Denza-Supersportwagen hat 1.604 PS",
+      "text": "Den Denza Z von BYD wird es in drei regulären Optionen geben - mit brachialer Leistung, schneller Beschleunigung und ansehnlichem Design."
     },
     {
-      "title": "Neuer Content für Netflix: So will der Dienst mit Youtube und Tiktok konkurrieren",
-      "text": "Neben Serien und Filmen zeigt Netflix künftig Web-Videoformate großer englischsprachiger Publisher wie Buzzfeed und Condé Nast. Mit der neuen Content-Kategorie reagiert der Streaming-Dienst auf den wachsenden Wettbewerb mit Youtube und Tiktok. weiterlesen auf t3n.de"
+      "title": "AGB: Telefónica darf Flatrate-Kunden nicht willkürlich kündigen",
+      "text": "Telefónica behielt sich vor, Kunden bei starker Nutzung einer mobilen Flatrate jederzeit den Zugang zu entziehen. Das Oberlandesgericht Bamberg hat dies jetzt beendet."
     }
   ],
   "local": [
+    {
+      "title": "Lautstarke Kundgebung in Neckarsulm: Audi kämpft weiter um Erhalt des Werks",
+      "text": "Der Aufsichtsrat von VW berät am Donnerstag über Werksschließungen und Stellenabbau. Davon ist auch das Audi-Werk in Neckarsulm betroffen. Die IG-Metall reagiert mit Protesten."
+    },
     {
       "title": "Unfall mit zwei Toten: Elektroauto kracht gegen Baum und brennt aus",
       "text": "Bei einem missglückten Überholmanöver nahe Bartholomä (Ostalbkreis) sind am späten Dienstagabend zwei Menschen getötet worden. Das Elektroauto fing Feuer und brannte aus."
@@ -80,10 +84,6 @@
     {
       "title": "Cold Case Deggingen: Staatsanwaltschaft erhebt Mordanklage 40 Jahre nach der Tat",
       "text": "Vor mehr als 40 Jahre ist eine Frau in Deggingen im Kreis Göppingen vergewaltigt und erschlagen worden. Nun hat die Staatsanwaltschaft Ulm einen 70-Jährigen aus Schwendi angeklagt."
-    },
-    {
-      "title": "\"Wie eine Familie\": So erlebt die 15-jährige Lara den Alltag in einer Heim-WG",
-      "text": "Familiäre Krisen, Sucht oder Gewalt - wenn Minderjährige nicht Zuhause leben können, helfen Kinder- und Jugendhilfeeinrichtungen. Die 15-jährige Lara lebt in einer Heim-WG in Ulm."
     }
   ]
 }
