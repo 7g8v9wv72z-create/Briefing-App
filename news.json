@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-07-09T14:16:48.705Z",
+  "generatedAt": "2026-07-10T12:58:37.364Z",
   "world": [
+    {
+      "title": "EU sieht Suchtgefahr bei Facebook und Instagram",
+      "text": "Facebook und Instagram können Kinder und Jugendliche süchtig machen - zu dieser Einschätzung kommt die EU-Kommission und fordert vom Mutterkonzern Meta besseren Schutz. Doch unter Zeitdruck steht das US-Unternehmen damit nicht."
+    },
+    {
+      "title": "Tote bei Waldbrand im Süden Spaniens",
+      "text": "Trockenes Wetter, hohe Temperaturen: Immer wieder kommt es in Spanien zu schweren Waldbränden. Bei einem Feuer in Andalusien starben nun mindestens elf Menschen - darunter offenbar auch Briten."
+    },
     {
       "title": "Nach Gerichtsurteil: Marine Le Pen stürzt sich in den Wahlkampf",
       "text": "Direkt nach dem Urteil gegen sie hat die französische Rechtsnationalistin Marine Le Pen mit dem Wahlkampf begonnen. Ihre Anhänger haben mit ihrer strafrechtlichen Verurteilung offenbar kein Problem. Von Cai Rienäcker."
@@ -16,74 +24,66 @@
     {
       "title": "Kommentar zu Le Pen: Die Zockerin geht eine hochriskante Wette ein",
       "text": "Marine Le Pen treibt den Machtkampf mit der Justiz auf die Spitze. Der Stammwählerschaft dürfte das gefallen. Doch andere Wähler wird sie verprellen, meint Julia Borutta. Und die bräuchte Le Pen, um an die Macht zu kommen."
-    },
-    {
-      "title": "Le Pen will trotz Urteils bei Präsidentschaftswahl 2027 antreten",
-      "text": "Die französische Politikerin Le Pen hält an ihrer Präsidentschaftskandidatur fest. Zuvor hatte ein Berufungsgericht sie wegen Veruntreuung von EU-Geldern zu einem Jahr Hausarrest mit einer elektronischen Fußfessel verurteilt."
-    },
-    {
-      "title": "Ungarns ÖRR entschuldigt sich für Lügen unter Orban",
-      "text": "Ungarns öffentlich-rechtlicher Sender M1 galt unter Ex-Ministerpräsident Orban als Sprachrohr der Regierung. Am Dienstag war das Programm über Stunden ausgesetzt. Stattdessen lief eine Entschuldigung. Von David Freches."
     }
   ],
   "economy": [
     {
-      "title": "Buchmarkt: Junge Menschen kaufen weniger Bücher",
-      "text": "Immer weniger Jugendliche greifen zum Buch - zumindest legen das die Zahlen nahe: Bei den 10- bis 15-jährigen gibt es knapp ein Drittel weniger Buchkäufer. Doch auch insgesamt geht der Branchenumsatz 2025 zurück. Von Alex Jakubowski."
+      "title": "Bundestag stimmt für neues Gebäudemodernisierungsgesetz",
+      "text": "Kernpunkte der von der Ampel-Regierung eingeführten Regelungen sind gekippt: Der Bundestag hat das neue Gebäudemodernisierungsgesetz beschlossen. Es soll noch heute auch den Bundesrat passieren."
     },
     {
-      "title": "Schriftstellerin Wunnicke erhält Georg-Büchner-Preis 2026",
-      "text": "Er zählt zu den wichtigsten Auszeichnungen für deutschsprachige Literatur: Die Schriftstellerin Christine Wunnicke wird mit dem Georg-Büchner-Preis ausgezeichnet. Die Jury bezeichnet ihre Romane als \"brillante Kunst\"."
+      "title": "Betriebsrat setzt VW-Chef Blume Ultimatum bis heute",
+      "text": "Nach der VW-Aufsichtsratssitzung bleiben Fragen offen. Vorstandschef Blume soll sich nun \"unmissverständlich\" zu den Sparplänen äußern, fordert der Betriebsrat. Der Autobauer leidet weiter unter schwachen Verkäufen in China, wie neue Zahlen zeigen."
     },
     {
-      "title": "Aufsichtsrat tagt: Harte Einsparungen bei VW befürchtet",
-      "text": "Die Anspannung vor der heutigen Aufsichtsratssitzung bei VW ist groß: Seit Monaten stehen harte Einschnitte im Raum. Experten halten radikale Schritte für nötig, der Widerstand ist groß. Ausgang: ungewiss. Von A. Deutskens."
+      "title": "Streit über Wochenarbeitszeit: Zurück zur 40-Stunden-Woche?",
+      "text": "Krise in der Autobranche, hohe Produktionskosten in der deutschen Industrie: Immer häufiger fordern Stimmen aus der Wirtschaft, dass in Deutschland wieder länger gearbeitet werden müsse. Von Thomas Denzel."
     }
   ],
   "automotive": [
     {
-      "title": "China peilt bis 2030 einen NEV-Bestand von 30 Prozent an",
-      "text": "China hat seinen Aktionsplan zur Begrenzung des CO₂-Emissionshöchststands veröffentlicht. Bis 2030 sollen Fahrzeuge mit alternativen Antrieben 30 Prozent des gesamten Fahrzeugbestands ausmachen. Parallel will die Regierung den Ausbau der Lade- und Wasserstoffinfrastruktur beschleunigen."
+      "title": "Auf den Hund gekommen: Peugeot zeigt E-5008 Dog Edition",
+      "text": "Peugeot hat mit dem E-5008 Dog Edition Concept eine Konzeptstudie vorgestellt, die sich an Hundebesitzer richtet. Das Einzelstück kombiniert spezielle Ausstattungsmerkmale und Softwarefunktionen für Reisen mit Vierbeinern, ist bislang aber nicht für die Serienfertigung vorgesehen."
     },
     {
-      "title": "Posco und Hyundai entwickeln neuartiges Elektroband für effizientere E-Motoren",
-      "text": "Posco startet mit Hyundai Motor und acht weiteren Partnern ein Forschungsprojekt für hochsiliziumhaltiges Elektroband – ein Vormaterial für die Herstellung von Statoren und Rotoren. Ziel ist es, die Effizienz von E-Motoren zu steigern und die Materialtechnologie bis zur Serienanwendung im Elektrofahrzeug weiterzuentwickeln."
+      "title": "Volkswagen-Konzern verliert bei Elektroauto-Verkäufen an Boden",
+      "text": "Die Volkswagen Group meldet für ihre Marken 438.500 Elektrofahrzeug-Auslieferungen im ersten Halbjahr. Das sind 5,8 Prozent weniger als vor einem Jahr. Vor allem in den USA und China ist der BEV-Absatz eingebrochen. Im wichtigen Europa-Markt verzeichnete Volkswagen hingegen ein achtprozentiges Wachstum."
     },
     {
-      "title": "„Wie bewährte eMobility-Konzepte den eTruck ermöglichen“ – Melanie Neth & Tim Dambor, DKV Mobility",
-      "text": "Beim E-Lkw-Hochlauf können wir viel vom schon reiferen E-Pkw-Markt lernen. Melanie Neth und Tim Dambor von DKV Mobility bekräftigten bei electrive LIVE, dass die Branche beim Laden schwerer Nutzfahrzeuge längst nicht mehr am Anfang steht. …"
+      "title": "Mercedes-AMG bringt elektrischen CLA 45 mit drei Axialflussmotoren",
+      "text": "Mercedes-AMG erweitert die elektrische CLA-Baureihe um eine besonders leistungsstarke Variante. Der neue CLA 45 4MATIC+ verfügt über drei Axialflussmotoren, eine Systemleistung von 500 kW und soll in zwei Karosserieversionen angeboten werden."
     }
   ],
   "tech": [
     {
-      "title": "Ohne Weltraumschrott: Blendwaffe macht Satelliten temporär unbrauchbar",
-      "text": "Das System kann gezielt Spionage- und Kommunikationssatelliten unbrauchbar machen, ohne sie zu zerstören. Es ist jetzt einsatzbereit."
+      "title": "Chatkontrolle: Welche Messenger (noch) sicher sind und welche nicht",
+      "text": "Golem zeigt auf, welche Messenger von der Chatkontrolle betroffen sind und über welche sich (noch) sicher kommunizieren lässt. Eine Analyse von Mike Faust"
     },
     {
-      "title": "Coupé und Spider: BYDs neuer Denza-Supersportwagen hat 1.604 PS",
-      "text": "Den Denza Z von BYD wird es in drei regulären Optionen geben - mit brachialer Leistung, schneller Beschleunigung und ansehnlichem Design."
+      "title": "Bohr: Erster kommerzieller nuklearbetriebener Satellit ist gestartet",
+      "text": "Bisher waren nur staatliche Raumfahrzeuge mit atombetriebenen Energiequellen ausgestattet. Mit dem kürzlich gestarteten Satelliten Bohr ändert sich das."
     },
     {
-      "title": "AGB: Telefónica darf Flatrate-Kunden nicht willkürlich kündigen",
-      "text": "Telefónica behielt sich vor, Kunden bei starker Nutzung einer mobilen Flatrate jederzeit den Zugang zu entziehen. Das Oberlandesgericht Bamberg hat dies jetzt beendet."
+      "title": "Ghostlock: 15 Jahre alte Root-Lücke im Linux-Kernel aufgedeckt",
+      "text": "Seit Version 2.6.39 von 2011 klafft im Linux-Kernel eine gefährliche Root-Lücke. Es gibt zwar einen Patch, doch der ist noch längst nicht überall angekommen."
     }
   ],
   "local": [
     {
+      "title": "BW-Newsticker am Morgen: Zukunft des Audi-Werks Neckarsulm: BW-Wirtschaftsministerin will Taskforce bilden, Wird Sigmaringen wieder Bundeswehrstandort?, Extraschichten bei Mineralwasser-Herstellern",
+      "text": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
+    },
+    {
       "title": "Lautstarke Kundgebung in Neckarsulm: Audi kämpft weiter um Erhalt des Werks",
-      "text": "Der Aufsichtsrat von VW berät am Donnerstag über Werksschließungen und Stellenabbau. Davon ist auch das Audi-Werk in Neckarsulm betroffen. Die IG-Metall reagiert mit Protesten."
+      "text": "Der Aufsichtsrat von VW hat am Donnerstag über Werksschließungen und Stellenabbau beraten. Die Folgen für das Audi-Werk in Neckarsulm sind noch unklar - im Vorfeld gab es Proteste."
+    },
+    {
+      "title": "Özdemir: Audi-Schließung in Neckarsulm wäre \"fatales Signal\"",
+      "text": "BW-Ministerpräsident Özdemir will die Schließung des Audi-Werks in Neckarsulm verhindern. Der Mutterkonzern VW diskutiert derzeit über Sparpläne."
     },
     {
       "title": "Unfall mit zwei Toten: Elektroauto kracht gegen Baum und brennt aus",
       "text": "Bei einem missglückten Überholmanöver nahe Bartholomä (Ostalbkreis) sind am späten Dienstagabend zwei Menschen getötet worden. Das Elektroauto fing Feuer und brannte aus."
-    },
-    {
-      "title": "Mögliches Aus von Audi in Neckarsulm? Widerstandskomitee plant Aktionen",
-      "text": "Gegen eine mögliche Schließung des Audi-Werks in Neckarsulm wächst der Widerstand. Viele Aktionen sind geplant. Am Donnerstag berät der Aufsichtsrat von VW die Sparpläne."
-    },
-    {
-      "title": "Cold Case Deggingen: Staatsanwaltschaft erhebt Mordanklage 40 Jahre nach der Tat",
-      "text": "Vor mehr als 40 Jahre ist eine Frau in Deggingen im Kreis Göppingen vergewaltigt und erschlagen worden. Nun hat die Staatsanwaltschaft Ulm einen 70-Jährigen aus Schwendi angeklagt."
     }
   ]
 }
