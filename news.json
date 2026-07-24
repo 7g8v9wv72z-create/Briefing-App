@@ -1,81 +1,77 @@
 {
-  "generatedAt": "2026-07-23T07:05:23.133Z",
+  "generatedAt": "2026-07-24T07:06:22.899Z",
   "world": [
+    {
+      "title": "Waldbrände: Spanien ruft Notstand aus - Frankreich bittet EU um Hilfe",
+      "text": "Unzählige Feuerwehrkräfte, Soldaten und Löschflugzeuge sind gegen die Waldbrände im Süden Europas im Einsatz. Während Spanien regionale Notstände ausgerufen hat, bittet Frankreich in der EU um Unterstützung."
+    },
+    {
+      "title": "EU verhängt weiteres Sanktionspaket gegen Russland",
+      "text": "Die EU-Kommission hat das 21. Sanktionspaket gegen Russland beschlossen. Besonders der Finanzsektor soll stärker betroffen sein. Die Verhandlungen waren zäh, viele Länder hatten Extrawünsche. Von Thomas Spickhofen."
+    },
+    {
+      "title": "Frankreich und Spanien: Feuer wüten weiter - Campingplätze geräumt",
+      "text": "Für viele Urlauber an der französischen Atlantikküste bei Arcachon heißt es gerade: nichts wie weg. Die Waldbrände breiten sich dort rasant aus. In Spanien wurde in zwei Regionen der \"Notstand nationaler Tragweite\" ausgerufen."
+    },
+    {
+      "title": "Britischer Premier Burnham senkt die Gewerbesteuer für Pubs, Clubs & Live-Musik",
+      "text": "Großbritannien neuer Premierminister Andy Burnham will vieles anders machen als sein Vorgänger Keir Starmer. Unter anderem will er die Lebenshaltungskosten senken. Davon profitieren könnten zum Beispiel Pubs."
+    },
+    {
+      "title": "Verstoß gegen Digitalregeln: EU verhängt Rekordstrafe gegen Google",
+      "text": "Die EU-Kommission verhängt eine Strafe in Höhe von 890 Millionen Euro gegen Google. Die bekannte Suchmaschine bevorzuge die eigenen Angebote und etabliere unfaire Bedingungen im eigenen Play Store. Von Kathrin Schmid."
+    },
     {
       "title": "Waldbrände in Frankreich und Spanien: Tausende in Sicherheit gebracht",
       "text": "Im Südwesten Frankreichs sind mehrere Campingplätze und Ortsteile aufgrund von Waldbränden evakuiert worden. Auch in Spanien und Italien mussten Hunderte Menschen vor Bränden in Sicherheit gebracht werden."
-    },
-    {
-      "title": "Waldbrände in Südeuropa: Der komplexe Kampf gegen das Feuer",
-      "text": "Wochenlange Hitze und Trockenheit sorgen in Spanien und Portugal weiter für Waldbrände. Einige erreichen Ausmaße, die selbst erfahrene Feuerwehrleute an ihre Grenzen bringen. Wissenschaftler sehen dafür mehrere Gründe. Von Anna Mundt."
-    },
-    {
-      "title": "Mutmaßlicher Epstein-Komplize tot aufgefunden",
-      "text": "Hundertfach taucht sein Name in den Epstein-Akten auf: Nun ist der selbsternannte Modelagent Daniel S. in der Nähe von Paris tot aufgefunden worden. Gegen ihn lief ein Ermittlungsverfahren wegen Menschenhandels."
-    },
-    {
-      "title": "EU will \"Chatkontrollen\" teilweise wieder ermöglichen",
-      "text": "In der EU gibt es seit Jahren Streit über den Einsatz von sogenannten Chatkontrollen, um Kindesmissbrauch aufzudecken. Nun wurde eine vorübergehende Lösung gefunden. Verschlüsselte Nachrichten bleiben davon jedoch ausgenommen."
-    },
-    {
-      "title": "Justizreform in Ungarn: Generalstaatsanwalt Nagy tritt zurück",
-      "text": "Das ungarische Justizsystem steht kurz vor einer Reform: Der Generalstaatsanwalt ist zurückgetreten. Neben Korruptionsaffären wird ihm vorgeworfen, Ermittlungen gegen die Regierung verschleppt zu haben. Von Oliver Soos."
-    },
-    {
-      "title": "Wälder in Frankreich, Spanien und Italien brennen",
-      "text": "An vielen Orten in Europa zeigt sich der Klimawandel in extremer Form: Waldbrände auf Sizilien breiten sich bei Temperaturen um 45 Grad aus. In Frankreich sterben zwei Feuerwehrleute, Hunderte Menschen müssen fliehen."
     }
   ],
   "economy": [
     {
-      "title": "EZB-Präsidentin Lagarde: Bleibt sie oder geht sie?",
-      "text": "Verlässt Lagarde die EZB vor dem Ende ihrer Amtszeit? Vor einer weiteren Zinsentscheidung sind Mitarbeitende irritiert über Spekulationen. Denn die Aufgaben der Notenbank sind nicht erledigt: Die Inflation ist viel zu hoch. Von K.-J. Jackisch."
+      "title": "Gewinn bricht erneut ein - VW senkt Umsatzausblick",
+      "text": "Volkswagen hat im zweiten Quartal deutlich weniger verdient als ein Jahr zuvor. Zugleich rechnet der Autobauer für das Gesamtjahr mit niedrigeren Erlösen als bisher. Belastend wirkt unter anderem das schwache China-Geschäft."
     },
     {
-      "title": "Google-Mutter Alphabet erhöht Milliardeninvestitionen in KI",
-      "text": "Der Google-Mutterkonzern Alphabet hat Umsatz und Gewinn deutlich stärker gesteigert als erwartet. Vor allem das Cloud-Geschäft wächst rasant. Gleichzeitig erhöht der Konzern seine KI-Ausgaben erneut."
+      "title": "Neue Euro-Noten: Berühmte Europäer oder Vögel und Flüsse?",
+      "text": "Die EZB hat Entwürfe für künftige Euro-Banknoten vorgestellt. Bürgerinnen und Bürger der Eurozone können nun mitentscheiden. Das neue Geld bricht mit Traditionen und kommt ab Ende 2028. Von Klaus-Rainer Jackisch."
     },
     {
-      "title": "Porsche-Aufsichtsrat unterstützt Sparpaket",
-      "text": "Seit Monaten laufen bei Porsche Verhandlungen über weitere Sparmaßnahmen. Nun hat der Aufsichtsrat seine Unterstützung für den aktuellen Stand zugesagt. Laut Medienberichten könnten damit Tausende weitere Jobs wegfallen."
+      "title": "EZB lässt Leitzins unverändert nach Zinserhöhung im Juni",
+      "text": "Die Europäische Zentralbank legt eine Zinspause ein. Der für Banken und Sparer wichtige Einlagensatz bleibt bei 2,25 Prozent. Gut möglich jedoch, dass im September die nächste Erhöhung folgt."
     }
   ],
   "automotive": [
     {
-      "title": "Tesla erzielt Rekordauslieferungen – Gewinn gerät unter Druck",
-      "text": "Tesla hat im zweiten Quartal bei den Fahrzeugauslieferungen einen neuen Rekord erzielt und damit den Umsatz deutlich stärker gesteigert als von Analysten erwartet. Der kräftige Absatzschub schlug sich jedoch nicht im Ergebnis nieder: Hohe Investitionen belasteten die Margen, der freie Cashflow rutschte ins Minus."
+      "title": "Spanien beschließt Förderprogramm Auto+ für E-Autos bis 2030",
+      "text": "Spanien hat den Rahmen für das neue Förderprogramm Auto+ beschlossen. Es ersetzt MOVES III durch zentral verwaltete Zuschüsse für Elektrofahrzeuge bis Ende 2030 und fördert ausschließlich Fahrzeuge mit ZERO-Emissionsplakette."
     },
     {
-      "title": "Porsche wechselt Produktionschef und bremst offenbar weitere E-Auto-Projekte",
-      "text": "Zum 1. September übernimmt Christian Friedl das Produktionsressort bei Porsche. Gleichzeitig zeichnet sich unter dem neuen CEO Michael Leiters offenbar ein Strategiewechsel ab: Neue Elektro-Modelle könnten weiter nach hinten rücken."
+      "title": "Ford und Geely bündeln Produktion in Valencia",
+      "text": "Ford und Geely wollen ein gemeinsames Produktionsunternehmen für den europäischen Markt gründen. Ab 2028 sollen im spanischen Ford-Werk Valencia neue Modelle beider Hersteller entstehen."
     },
     {
-      "title": "Megawatt-Laden im E-Lkw: Gibt es Konkurrenz für MCS?",
-      "text": "Das Megawatt Charging System startet als neuer Standard für das Schnellladen schwerer E-Lkw aktuell in den Markt. Doch alternative Stecksysteme und automatisierte Lösungen versprechen noch höhere Leistungen oder eine einfachere Einbindung in den Logistikbetrieb. …"
+      "title": "Stromnetz am Limit: Engpass für das E-Lkw-Depot?",
+      "text": "Immer, wenn es um die Installation von Ladeinfrastruktur geht, werden fehlende Kapazitäten im Stromnetz als größte Bremse gefürchtet. Das gilt auch für die Lkw-Ladestationen im Depot. Ob im Gewerbegebiet noch was geht, entscheidet letztlich der Verteilnetzbetreiber. Wir haben einen gefragt, wie die Lage ist."
     }
   ],
   "tech": [
     {
-      "title": "Abonnements für Onstar und Super Cruise: GM baut Softwaregeschäft mit Abo-Modellen aus",
-      "text": "General Motors baut sein Software- und Abogeschäft aus. Assistenzsysteme und digitale Dienste bringen hohe Margen ein."
+      "title": "Windows 11: Microsoft testet Ausschalter für die Copilot-Taste",
+      "text": "Microsoft könnte die umstrittene Copilot-Taste bald komplett abschaltbar machen. In Vorschauversionen taucht dafür die Einstellung \"Do nothing\" auf."
     },
     {
-      "title": "Nach Cyberangriff: Hacker erpressen Zugbauer Stadler um Millionenbetrag",
-      "text": "Hacker fordern von dem Zughersteller Stadler nach einem IT-Einbruch 10 Millionen Schweizer Franken. Doch Stadler hält sich für \"nicht erpressbar\"."
+      "title": "Datenpanne: OpenAI-Crawler greift Kundendaten von Universa ab",
+      "text": "Durch eine Fehlkonfiguration sind Kundendaten der Universa-Versicherungen zeitweise offen im Netz gestanden. Ein Crawler von OpenAI hat die Gelegenheit genutzt."
     },
     {
-      "title": "KI-Infrastruktur: US-Tech-Konzerne binden Billionen in verdeckten Verträgen",
-      "text": "Meta, Oracle und Co. lassen 1,65 Billionen US-Dollar KI-Schulden aus ihren Bilanzen verschwinden."
+      "title": "Messenger-Interoperabilität: Threema lehnt Vernetzung mit Whatsapp ab",
+      "text": "Trotz EU-Vorgaben verzichtet Threema auf eine Anbindung an Whatsapp und verweist auf Datenschutz- sowie Finanzierungsrisiken."
     }
   ],
   "local": [
     {
-      "title": "Spritpreise, Fußball-WM, Baustellen in Ulm und mehr - so bunt war das Nabada 2026",
-      "text": "In Ulm ist der vorletzte Montag im Juli kein Tag wie jeder andere. Es ist Schwörmontag. Zum feucht-fröhlichen Höhepunkt des Stadtfeiertags, dem Nabada, sind Tausende Menschen an und in der Donau gewesen."
-    },
-    {
-      "title": "Liveblog: Der Schwörmontag geht weiter mit viel Musik in Ulm und Neu-Ulm",
-      "text": "Am 20. Juli 2026 findet der traditionelle Schwörmontag in Ulm statt. Zehntausende Gäste werden erwartet. Zentraler Punkt ist der Treueschwur des Ulmer OB. Erfahre hier alles zum Geschehen vor Ort."
+      "title": "Rüstungsunternehmen Hensoldt eröffnet neues Werk in Oberkochen - Pistorius mit dabei",
+      "text": "Rüstungslieferant Hensoldt hat ein neues Werk im Ostalbkreis eröffnet. Mit dabei, Verteidigungsminister Boris Pistorius, der im Rahmen seiner Sommertour auch die Ostalb besucht."
     },
     {
       "title": "Oberfranken könnte Bundestags-Wahlkreis an Oberbayern verlieren",
@@ -84,6 +80,10 @@
     {
       "title": "Raketenabwehrsystem Arrow: Details zu Standorten in Schwaben",
       "text": "Bayern wird Standort für das Raketenabwehrsystem Arrow: Das Radar kommt in den Großraum Kaufbeuren, die Abfangraketen auf das Lechfeld. Ab 2030 soll der Schutz stehen – so sieht die Zukunft für den Standort Kaufbeuren aus."
+    },
+    {
+      "title": "Bayerns großer Klinikplan – und seine Nebenwirkungen",
+      "text": "Der Freistaat will neun Milliarden Euro in Universitätskliniken in Bayern investieren. Der größte Anteil soll nach Augsburg gehen – in Schwaben überwiegt Zustimmung, doch Anwohner und Handwerk sehen offene Fragen."
     }
   ]
 }
