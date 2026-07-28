@@ -1,77 +1,77 @@
 {
-  "generatedAt": "2026-07-27T08:01:10.645Z",
+  "generatedAt": "2026-07-28T07:12:32.343Z",
   "world": [
+    {
+      "title": "Hohe Produktionskosten: Hitze macht italienischen Käse-Herstellern zu schaffen",
+      "text": "Tomate-Mozzarella gehört für viele Menschen zum Sommer. Doch die anhaltende Hitze in Italien macht den Käse-Herstellern zu schaffen. Auch Parmesan könnte teurer werden. Von Elisabeth Pongratz."
+    },
+    {
+      "title": "Hitzewelle schürt Sorge vor Ausbreitung von Waldbränden in Europa",
+      "text": "Seit Tagen lodern im Südwesten Frankreichs und in Spanien verheerende Waldbrände. Zuletzt sprachen beide Länder von leichten Fortschritten im Kampf gegen die Flammen. Doch nun naht die nächste Hitzeperiode."
+    },
+    {
+      "title": "Finanzierungskrise der WHO kostet vielen HIV-infizierten das Leben",
+      "text": "Die weltweite Aids-Bekämpfung steht nach dem Wegfall von US-Geldern vor enormen Herausforderungen. Wie sie in Zukunft aussieht, ist unklar. Experten sehen in der aktuellen Lage aber auch eine Chance. Von Kathrin Hondl."
+    },
+    {
+      "title": "Feuer in Südeuropa: Brände wüten weiter - Sorge vor neuer Hitze",
+      "text": "Bei den verheerenden Waldbränden in Frankreich und Spanien hat sich die Lage teils etwas stabilisiert - doch die Einsatzkräfte blicken mit Sorge auf die Wettervorhersagen für die kommenden Tage. Auch in Italien sind Feuer ausgebrochen."
+    },
+    {
+      "title": "Waldbrände bei Madrid: Erste Evakuierte sollen zurückkehren können",
+      "text": "Bei der Bekämpfung der Waldbrände in der Nähe der spanischen Hauptstadt Madrid verzeichnen die Einsatzkräfte kleine Fortschritte. Erste Evakuierte könnten im Laufe des Tages an ihre Wohnorte zurückkehren."
+    },
     {
       "title": "Waldbrände in Frankreich: Dunkle Wolken über Bordeaux",
       "text": "Die Waldbrände nähern sich immer mehr der französischen Stadt Bordeaux. Eine Evakuierung ist laut Bürgermeister nicht geplant. Bewohner und Urlauber sind verunsichert. Von Cai Rienäcker."
-    },
-    {
-      "title": "Zehntausende protestieren gegen Massentourismus auf Mallorca",
-      "text": "\"Mallorca am Limit\" - Zehntausende Menschen haben unter diesem Motto gegen zu viele Touristen auf der spanischen Insel demonstriert. Sie fordern etwa die Besucherzahl zu begrenzen. Besonders eng wird es auf dem Wohnungsmarkt. Von Anna Mundt."
-    },
-    {
-      "title": "Mordfall Ann Widdecombe: Ein brutaler Mord und viele Fragen",
-      "text": "Der Mord an Ex-Ministerin Ann Widdecombe hat Großbritannien erschüttert. Noch ist das Motiv des Täters unklar, doch ihre rechtspopulistische Partei Reform UK macht Medien und das politische Klima verantwortlich. Von Mareike Aden."
-    },
-    {
-      "title": "Waldbrände in Spanien: Neuer Brand bei Valencia",
-      "text": "Die Waldbrände in Spanien breiten sich weiter aus. Ein neues Feuer bei Valencia hat Tausende Menschen zur Flucht gezwungen. Auch im Großraum Madrid kämpfen Einsatzkräfte weiter gegen die Flammen. Von Hans-Günter Kellner."
-    },
-    {
-      "title": "Waldbrände in Frankreich: Feuer rückt näher an Bordeaux heran",
-      "text": "In Südwestfrankreich sind die Waldbrände weiterhin außer Kontrolle. Das Feuer nähert sich der Stadt Bordeaux, in der Nacht mussten weitere Ortschaften evakuiert werden. Auch anderswo wüten Brände. Von Cai Rienäcker."
-    },
-    {
-      "title": "So regeln EU-Staaten die Leihmutterschaft",
-      "text": "Anders als in Deutschland ist Leihmutterschaft in einigen EU-Ländern möglich. Doch die Regelungen unterscheiden sich stark. Im Zentrum steht dabei die \"altruistische\" Leihmutterschaft - ein Begriff, der auch auf Kritik stößt. Von K. Schmid."
     }
   ],
   "economy": [
     {
-      "title": "Der digitale Euro soll bis 2029 kommen",
-      "text": "Der digitale Euro kommt: schrittweise, bis 2029. Damit soll der europäische Zahlungsverkehr unabhängiger werden von US-Finanzriesen. Langsam weicht auch die Skepsis der Kritiker. Von Jean-Marie Magro."
+      "title": "Mehrere Tech-Unternehmen haben eine KI-Sicherheitsallianz gegründet",
+      "text": "Der wichtigste Hersteller von KI-Chips, Nvidia, und Industriepartner wie Microsoft, IBM haben eine KI-Sicherheitsallianz gegründet. Die Ankündigung erfolgte wenige Tage nach einer aufsehenerregenden Testpanne bei OpenAI."
     },
     {
-      "title": "Ölpreis fällt nach US-Angriffspause im Iran deutlich",
-      "text": "Die Ölpreise sind am Morgen um mehr als fünf Prozent gefallen. Gründe sind die Hoffnung auf eine Entspannung im Iran-Krieg und mögliche neue Verhandlungen zwischen Washington und Teheran."
+      "title": "Könnten KI-gestützte Hackerangriffe zur neuen Gefahr werden?",
+      "text": "Erstmals ist ein KI-System eigenständig aus einer Testumgebung ausgebrochen und hat ein anderes Unternehmen angegriffen. Welche Risiken stecken dahinter? Wie können sich Firmen und Privatpersonen schützen? Von Michelle Goddemeier."
     },
     {
-      "title": "Elster, App, Steuerberater: Frist für die Steuererklärung endet",
-      "text": "Noch bis zum 31. Juli bleibt vielen Steuerpflichtigen Zeit für die Steuererklärung für 2025. Ob Elster, Apps oder Steuerberater: Oft winkt eine Erstattung von mehr als 1.000 Euro. Von Philipp Wundersee."
+      "title": "Experte zu KI-Hackerangriff: \"Hochgefährlich für die globale Cybersicherheit\"",
+      "text": "Ein KI-Modell von OpenAI ist eigenständig in Computersysteme einer anderen Firma eingedrungen und hat so das Risiko von KI-Cyberattacken demonstriert. Dennis-Kenji Kipker vom Cyber Intelligence Institute in Frankfurt am Main zeigt sich nicht überrascht."
     }
   ],
   "automotive": [
     {
-      "title": "Basisversion des ID. Polo für 24.995 Euro bestellbar",
-      "text": "Der neue E-Kleinwagen ID. Polo von Volkswagen ist ab sofort auch in der versprochenen Basisversion für 24.995 Euro konfigurierbar. Die Variante nennt sich Der ID. Polo Trend, leistet 85 kW und kommt mit der kleinen 37-kWh-Batterie für 323 km Reichweite."
+      "title": "Steffen Bilger soll Nachfolger von Verkehrsminister Patrick Schnieder werden",
+      "text": "Mit dem CDU-Politiker Steffen Bilger soll ein Verkehrsexperte und Kenner der Elektromobilität die Nachfolge von Bundesverkehrsminister Patrick Schnieder (ebenfalls CDU) übernehmen. Dass Schnieder seinen Hut nehmen muss, hatte sich bereits vergangene Woche abgezeichnet."
     },
     {
-      "title": "Truck Charging: Welche Technologien beschleunigen den E-Lkw-Hochlauf?",
-      "text": "Wie lassen sich elektrische Lkw schneller und wirtschaftlicher auf die Straße bringen? Markus Hackmann, Geschäftsführer der P3 Group, blickt in seinem Vortrag bei electrive LIVE auf Technologien und Geschäftsmodelle, die den Truck-Charging-Markt in den kommenden Jahren prägen könnten – von geteilten Depots bis zum Batteriewechsel für schwere Nutzfa …"
+      "title": "Zentral, aber ohne Dach: Neuer Ladepark von Fastned in Garmisch-Partenkirchen",
+      "text": "Der niederländische Anbieter Fastned hat einen neuen Schnellladepark in Garmisch-Partenkirchen eröffnet. Der Standort bietet allerdings nicht die sonst so typische Fastned-Überdachung. Der Grund: Die Lage auf dem zentralen Rathausplatz soll die Sicht auf die berühmte Zugspitze nicht nehmen."
     },
     {
-      "title": "Alpine A390 GT im Test: Kein Leichtgewicht und trotzdem eine echte Alpine",
-      "text": "Alpine stand mal für leichte, agile Sportwagen mit französischem Charakter und starken Wurzeln im Motorsport. Die erste Alpine mit Allradantrieb ist elektrisch, holt aus drei Motoren 295 kW und wiegt über zwei Tonnen. Wie viel Sportwagen wirklich in der elektrischen Alpine A390 GT steckt, klärt unser Fahrbericht."
+      "title": "THG-Quote: 42% der E-Auto-Halter verzichten auf Geld",
+      "text": "Prozentual gesehen lassen immer mehr Halter von Elektrofahrzeugen die möglichen Einnahmen aus der THG-Quotenregelung ungenutzt. Das Umweltbundesamt verzeichnete vergangenes Jahr nur noch ein Interesse von 58 Prozent der E-Auto-Halter."
     }
   ],
   "tech": [
     {
-      "title": "Alle Daten gelöscht: US-Bürger wegen Nutzung einer GrapheneOS-Funktion angeklagt",
-      "text": "Ein Mann wurde bei der Einreise in die USA durchsucht. Er trickste die Grenzpolizei mit einem Duress-Passwort aus - und muss sich dafür nun vor Gericht verantworten."
+      "title": "Marktanalyse: Google zeigt KI-Antworten in 43 Prozent aller Suchen",
+      "text": "Ein neuer Bericht zeigt den Anstieg von KI-Antworten bei Google von 15 auf 43 Prozent. Das verändert die Onlinesuche grundlegend."
     },
     {
-      "title": "Probleme bei Nothing: Nothing baut Personal ab und stoppt CMF Smartphones",
-      "text": "Hohe Speicherpreise belasten den Smartphone-Hersteller Nothing. Das Unternehmen verkleinert sein Team und veranlasst einen Produktstopp."
+      "title": "Persönliche Daten geleakt: Unzählige Claude-Chats bei Google aufgetaucht",
+      "text": "Claude-Nutzer können Links zu ihren Chats mit anderen Personen teilen. Die Unterhaltungen wurden bis vor kurzem aber auch bei Google gelistet."
     },
     {
-      "title": "Amazon Prime Video: Erster Trailer zu Blade Runner 2099 kommt teils nicht gut an",
-      "text": "In Blade Runner 2099 werden Replikanten wieder durch dystopische Szenerien gejagt. Das wird teils etwa als \"Temu Bladerunner\" bezeichnet."
+      "title": "Der Agenten-Boom: Wer verdient wirklich am Agenten-Boom?",
+      "text": "Fünf Aktien - Nvidia, Microsoft, Salesforce, Servicenow und Palantir - zwischen KI-Euphorie und Software-Angst. Eine Analyse von Björn Meschkat"
     }
   ],
   "local": [
     {
-      "title": "Audi streicht in Neckarsulm die Nachtschicht",
-      "text": "Die Maßnahme war wohl schon länger geplant, ab November ist es soweit: Bei Audi in Neckarsulm fällt die Nachtschicht weg. Das soll Kosten senken."
+      "title": "Tödlicher Unfall in Waldstetten - Lastwagen prallt gegen Hauswand",
+      "text": "In der Ortsdurchfahrt von Waldstetten (Ostalbkreis) ist am Montagmorgen ein Lastwagen gegen eine Hauswand geprallt. Der Fahrer starb noch an der Unfallstelle."
     },
     {
       "title": "Oberfranken könnte Bundestags-Wahlkreis an Oberbayern verlieren",
@@ -82,7 +82,7 @@
       "text": "Bayern wird Standort für das Raketenabwehrsystem Arrow: Das Radar kommt in den Großraum Kaufbeuren, die Abfangraketen auf das Lechfeld. Ab 2030 soll der Schutz stehen – so sieht die Zukunft für den Standort Kaufbeuren aus."
     },
     {
-      "title": "BW-Newsticker am Morgen: Steffen Bilger soll neuer Verkehrsminister werden, Anschlag auf CSD in Berlin: Tatverdächtiger ist tot, Stellenabbau und neue Regeln: Porsche stellt \"Zukunftspaket\" vor",
+      "title": "BW-Newsticker am Morgen: Falsches Abi-Zeugnis für rund 100 Schüler in BW, Dosen-Chaos auf A8 nach Lkw-Unfall, \"Süper\" und \"Gute Käse\" - Wahl zum Jugendwort des Jahres läuft",
       "text": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
     }
   ]
