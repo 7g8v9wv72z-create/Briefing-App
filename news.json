@@ -1,74 +1,82 @@
 {
-  "generatedAt": "2026-07-28T07:12:32.343Z",
+  "generatedAt": "2026-07-29T07:18:20.298Z",
   "world": [
     {
-      "title": "Hohe Produktionskosten: Hitze macht italienischen Käse-Herstellern zu schaffen",
-      "text": "Tomate-Mozzarella gehört für viele Menschen zum Sommer. Doch die anhaltende Hitze in Italien macht den Käse-Herstellern zu schaffen. Auch Parmesan könnte teurer werden. Von Elisabeth Pongratz."
+      "title": "Waldbrände bei Bordeaux: Feuerwehr kämpft gegen neue Flammen",
+      "text": "Spanien, Frankreich, Italien und nun die griechische Insel Paros: Heftige Waldbrände wüten in vielen Teilen Europas. Die Lage bei Bordeaux hat sich zuletzt stabilisiert - doch eine neue Hitzewelle bereitet der Feuerwehr Sorgen."
+    },
+    {
+      "title": "Frankreich und Spanien: Erste Erfolge im Kampf gegen die Waldbrände",
+      "text": "In Frankreich und Spanien bekämpfen Tausende Einsatzkräfte die verheerenden Waldbrände. Dabei feiern sie erste Erfolge. Doch die hohen Temperaturen erschweren die Löscharbeiten. Und es droht eine weitere Hitzewelle."
+    },
+    {
+      "title": "Waldbrände in Europa - Warum wüten die Feuer diesmal so heftig?",
+      "text": "Die Zerstörung durch die Brände in Frankreich und Spanien ist massiv. Doch warum wüten die Feuer so extrem? Was sind \"Feuerwolken\"? Und muss auch Deutschland künftig mit so schweren Bränden rechnen?"
     },
     {
       "title": "Hitzewelle schürt Sorge vor Ausbreitung von Waldbränden in Europa",
       "text": "Seit Tagen lodern im Südwesten Frankreichs und in Spanien verheerende Waldbrände. Zuletzt sprachen beide Länder von leichten Fortschritten im Kampf gegen die Flammen. Doch nun naht die nächste Hitzeperiode."
     },
     {
-      "title": "Finanzierungskrise der WHO kostet vielen HIV-infizierten das Leben",
+      "title": "WHO-Finanzierungskrise setzt Kampf gegen Aids unter Druck",
       "text": "Die weltweite Aids-Bekämpfung steht nach dem Wegfall von US-Geldern vor enormen Herausforderungen. Wie sie in Zukunft aussieht, ist unklar. Experten sehen in der aktuellen Lage aber auch eine Chance. Von Kathrin Hondl."
     },
     {
       "title": "Feuer in Südeuropa: Brände wüten weiter - Sorge vor neuer Hitze",
       "text": "Bei den verheerenden Waldbränden in Frankreich und Spanien hat sich die Lage teils etwas stabilisiert - doch die Einsatzkräfte blicken mit Sorge auf die Wettervorhersagen für die kommenden Tage. Auch in Italien sind Feuer ausgebrochen."
-    },
-    {
-      "title": "Waldbrände bei Madrid: Erste Evakuierte sollen zurückkehren können",
-      "text": "Bei der Bekämpfung der Waldbrände in der Nähe der spanischen Hauptstadt Madrid verzeichnen die Einsatzkräfte kleine Fortschritte. Erste Evakuierte könnten im Laufe des Tages an ihre Wohnorte zurückkehren."
-    },
-    {
-      "title": "Waldbrände in Frankreich: Dunkle Wolken über Bordeaux",
-      "text": "Die Waldbrände nähern sich immer mehr der französischen Stadt Bordeaux. Eine Evakuierung ist laut Bürgermeister nicht geplant. Bewohner und Urlauber sind verunsichert. Von Cai Rienäcker."
     }
   ],
   "economy": [
     {
-      "title": "Mehrere Tech-Unternehmen haben eine KI-Sicherheitsallianz gegründet",
-      "text": "Der wichtigste Hersteller von KI-Chips, Nvidia, und Industriepartner wie Microsoft, IBM haben eine KI-Sicherheitsallianz gegründet. Die Ankündigung erfolgte wenige Tage nach einer aufsehenerregenden Testpanne bei OpenAI."
+      "title": "Fed-Zinsentscheid: Wiederholt die Notenbank den Fehler von 2021?",
+      "text": "Fed-Chef Warsh warnt vor gestiegenen Inflationsrisiken, hat aber bislang nicht gehandelt. Nun muss sich zeigen, ob die US-Notenbank rechtzeitig reagiert - oder einen alten Fehler wiederholt. Von Angela Göpfert."
     },
     {
-      "title": "Könnten KI-gestützte Hackerangriffe zur neuen Gefahr werden?",
-      "text": "Erstmals ist ein KI-System eigenständig aus einer Testumgebung ausgebrochen und hat ein anderes Unternehmen angegriffen. Welche Risiken stecken dahinter? Wie können sich Firmen und Privatpersonen schützen? Von Michelle Goddemeier."
+      "title": "Deutsche Bank dank Investmentbank auf Rekordkurs",
+      "text": "Gute Geschäfte ihrer Investmentbank haben der Deutschen Bank zu einem Gewinnsprung verholfen. Angesichts der Zahlen ist die Bank nun zuversichtlich, ihre Ziele für 2028 sogar übertreffen zu können."
     },
     {
-      "title": "Experte zu KI-Hackerangriff: \"Hochgefährlich für die globale Cybersicherheit\"",
-      "text": "Ein KI-Modell von OpenAI ist eigenständig in Computersysteme einer anderen Firma eingedrungen und hat so das Risiko von KI-Cyberattacken demonstriert. Dennis-Kenji Kipker vom Cyber Intelligence Institute in Frankfurt am Main zeigt sich nicht überrascht."
+      "title": "Waldbrände in Europa: Was Reisende jetzt wissen müssen",
+      "text": "In ganz Europa wüten derzeit Waldbrände, besonders heftig in Frankreich und Spanien. Auch beliebte Urlaubsregionen sind von den Feuern betroffen. Was Reisende jetzt wissen müssen."
     }
   ],
   "automotive": [
     {
-      "title": "Steffen Bilger soll Nachfolger von Verkehrsminister Patrick Schnieder werden",
-      "text": "Mit dem CDU-Politiker Steffen Bilger soll ein Verkehrsexperte und Kenner der Elektromobilität die Nachfolge von Bundesverkehrsminister Patrick Schnieder (ebenfalls CDU) übernehmen. Dass Schnieder seinen Hut nehmen muss, hatte sich bereits vergangene Woche abgezeichnet."
+      "title": "Rock Tech findet Abnehmer für Lithium aus Kanada",
+      "text": "Rock Tech Lithium hat eine verbindliche Abnahmevereinbarung mit dem Genfer Rohstoffhändler Transamine für sein Georgia-Lake-Projekt in Ontario geschlossen. Die Partnerschaft sichert die kommerzielle Vermarktung des dort abgebauten Lithiums und umfasst eine Vorauszahlungsfinanzierung von bis zu 80 Millionen US-Dollar."
     },
     {
-      "title": "Zentral, aber ohne Dach: Neuer Ladepark von Fastned in Garmisch-Partenkirchen",
-      "text": "Der niederländische Anbieter Fastned hat einen neuen Schnellladepark in Garmisch-Partenkirchen eröffnet. Der Standort bietet allerdings nicht die sonst so typische Fastned-Überdachung. Der Grund: Die Lage auf dem zentralen Rathausplatz soll die Sicht auf die berühmte Zugspitze nicht nehmen."
+      "title": "EEBus-Zertifizierung für smarte Steuerung von Wallboxen startet",
+      "text": "Die EEBus Initiative bietet ab sofort eine Prüfung für netzfreundliche Haustechnik an. Hersteller von Wallboxen, Wärmepumpen, Batteriespeichern oder Solaranlagen können ihre Geräte jetzt offiziell zertifizieren lassen. Das Siegel zeigt, dass die Technik die gesetzlichen Regeln für die smarte Steuerung erfüllt."
     },
     {
-      "title": "THG-Quote: 42% der E-Auto-Halter verzichten auf Geld",
-      "text": "Prozentual gesehen lassen immer mehr Halter von Elektrofahrzeugen die möglichen Einnahmen aus der THG-Quotenregelung ungenutzt. Das Umweltbundesamt verzeichnete vergangenes Jahr nur noch ein Interesse von 58 Prozent der E-Auto-Halter."
+      "title": "Stadtwerke Remscheid wollen auf 54 E-Busse erhöhen",
+      "text": "Die Stadtwerke Remscheid bauen ihre Elektrobus-Flotte weiter aus. 21 E-Busse sind bereits im Remscheider Liniennetz unterwegs. Nun wurde eine Ausschreibung für 33 weitere Fahrzeuge gestartet."
     }
   ],
   "tech": [
     {
-      "title": "Marktanalyse: Google zeigt KI-Antworten in 43 Prozent aller Suchen",
-      "text": "Ein neuer Bericht zeigt den Anstieg von KI-Antworten bei Google von 15 auf 43 Prozent. Das verändert die Onlinesuche grundlegend."
+      "title": "Neue Details zum KI-Angriff: OpenAI hat mehr als nur Hugging Face gehackt",
+      "text": "Neben Hugging Face haben die bei OpenAI ausgebrochenen KI-Modelle Nutzerkonten bei mindestens vier weiteren Onlinediensten kompromittiert."
     },
     {
-      "title": "Persönliche Daten geleakt: Unzählige Claude-Chats bei Google aufgetaucht",
-      "text": "Claude-Nutzer können Links zu ihren Chats mit anderen Personen teilen. Die Unterhaltungen wurden bis vor kurzem aber auch bei Google gelistet."
+      "title": "Stellenausschreibung: Cyberagentur sucht Autor für Science-Fiction-Roman",
+      "text": "Die Cyberagentur möchte ihre Foresight-Projekte als Science-Fiction-Roman aufbereiten lassen und sucht dafür einen externen Autor."
     },
     {
-      "title": "Der Agenten-Boom: Wer verdient wirklich am Agenten-Boom?",
-      "text": "Fünf Aktien - Nvidia, Microsoft, Salesforce, Servicenow und Palantir - zwischen KI-Euphorie und Software-Angst. Eine Analyse von Björn Meschkat"
+      "title": "Aktion: Callya Jahrespaket M bietet mehr Datenvolumen",
+      "text": "Der Jahrestarif M von Vodafone ist aktuell mit mehr Inklusivvolumen bei gleichem Preis erhältlich. Auch Bestandskunden können den Tarif buchen."
     }
   ],
   "local": [
+    {
+      "title": "BW-Newsticker am Morgen: Vierjähriger stirbt bei Unfall, Hitzewelle: Bis zu 39 Grad erwartet, Wieder Protest vor Audi-Werk in Neckarsulm",
+      "text": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
+    },
+    {
+      "title": "Wegen VW-Sparplänen: Proteste bei Audi in Neckarsulm gehen weiter",
+      "text": "Sie wollen ein Zeichen für die Zukunft von Audi in Neckarsulm setzen: Gewerkschaft und Betriebsrat rufen die Audianer zu einer Protestaktion vor dem Werk auf."
+    },
     {
       "title": "Tödlicher Unfall in Waldstetten - Lastwagen prallt gegen Hauswand",
       "text": "In der Ortsdurchfahrt von Waldstetten (Ostalbkreis) ist am Montagmorgen ein Lastwagen gegen eine Hauswand geprallt. Der Fahrer starb noch an der Unfallstelle."
@@ -76,14 +84,6 @@
     {
       "title": "Oberfranken könnte Bundestags-Wahlkreis an Oberbayern verlieren",
       "text": "Es könnte Kulmbach treffen oder Coburg. Laut dem Bericht einer unabhängigen Kommission dürfte Oberfranken bei der nächsten Bundestagswahl einen Wahlkreis verlieren – voraussichtlich zugunsten von Pfaffenhofen an der Ilm."
-    },
-    {
-      "title": "Raketenabwehrsystem Arrow: Details zu Standorten in Schwaben",
-      "text": "Bayern wird Standort für das Raketenabwehrsystem Arrow: Das Radar kommt in den Großraum Kaufbeuren, die Abfangraketen auf das Lechfeld. Ab 2030 soll der Schutz stehen – so sieht die Zukunft für den Standort Kaufbeuren aus."
-    },
-    {
-      "title": "BW-Newsticker am Morgen: Falsches Abi-Zeugnis für rund 100 Schüler in BW, Dosen-Chaos auf A8 nach Lkw-Unfall, \"Süper\" und \"Gute Käse\" - Wahl zum Jugendwort des Jahres läuft",
-      "text": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
     }
   ]
 }
