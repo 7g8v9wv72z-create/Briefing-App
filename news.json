@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-07-29T07:18:20.298Z",
+  "generatedAt": "2026-07-30T07:12:07.491Z",
   "world": [
+    {
+      "title": "Rumänien: Mit Kampfjets und Diplomatie gegen russische Drohnen",
+      "text": "Russland führt seinen Krieg gegen die Ukraine auch in unmittelbarer Nähe zu NATO-Staaten. In Rumänien schlugen schon mehrfach Drohnen ein. Die Regierung will das nicht mehr hinnehmen - und tritt gegenüber Moskau offensiver auf. Von Oliver Soos."
+    },
+    {
+      "title": "Waldbrände: Auch die Türkei und Griechenland kämpfen gegen Flammen",
+      "text": "In Frankreich und Spanien brennt es weiter. Auch aus der Türkei und Griechenland werden neue Waldbrände gemeldet. Am griechischen Mittelmeer kamen drei Feuerwehrleute ums Leben."
+    },
+    {
+      "title": "Feuer bei Bordeaux: Was die freiwilligen Helfer im Brandgebiet leisten",
+      "text": "Sie weisen ortsunkundigen Feuerwehrleuten den Weg oder helfen beim Befüllen der Löschfahrzeuge: In den Waldbrandgebieten rund um Bordeaux ist das Engagement der freiwilligen Helfer groß. Cai Rienäcker war unterwegs in evakuierten Orten."
+    },
     {
       "title": "Waldbrände bei Bordeaux: Feuerwehr kämpft gegen neue Flammen",
       "text": "Spanien, Frankreich, Italien und nun die griechische Insel Paros: Heftige Waldbrände wüten in vielen Teilen Europas. Die Lage bei Bordeaux hat sich zuletzt stabilisiert - doch eine neue Hitzewelle bereitet der Feuerwehr Sorgen."
@@ -12,78 +24,66 @@
     {
       "title": "Waldbrände in Europa - Warum wüten die Feuer diesmal so heftig?",
       "text": "Die Zerstörung durch die Brände in Frankreich und Spanien ist massiv. Doch warum wüten die Feuer so extrem? Was sind \"Feuerwolken\"? Und muss auch Deutschland künftig mit so schweren Bränden rechnen?"
-    },
-    {
-      "title": "Hitzewelle schürt Sorge vor Ausbreitung von Waldbränden in Europa",
-      "text": "Seit Tagen lodern im Südwesten Frankreichs und in Spanien verheerende Waldbrände. Zuletzt sprachen beide Länder von leichten Fortschritten im Kampf gegen die Flammen. Doch nun naht die nächste Hitzeperiode."
-    },
-    {
-      "title": "WHO-Finanzierungskrise setzt Kampf gegen Aids unter Druck",
-      "text": "Die weltweite Aids-Bekämpfung steht nach dem Wegfall von US-Geldern vor enormen Herausforderungen. Wie sie in Zukunft aussieht, ist unklar. Experten sehen in der aktuellen Lage aber auch eine Chance. Von Kathrin Hondl."
-    },
-    {
-      "title": "Feuer in Südeuropa: Brände wüten weiter - Sorge vor neuer Hitze",
-      "text": "Bei den verheerenden Waldbränden in Frankreich und Spanien hat sich die Lage teils etwas stabilisiert - doch die Einsatzkräfte blicken mit Sorge auf die Wettervorhersagen für die kommenden Tage. Auch in Italien sind Feuer ausgebrochen."
     }
   ],
   "economy": [
     {
-      "title": "Fed-Zinsentscheid: Wiederholt die Notenbank den Fehler von 2021?",
-      "text": "Fed-Chef Warsh warnt vor gestiegenen Inflationsrisiken, hat aber bislang nicht gehandelt. Nun muss sich zeigen, ob die US-Notenbank rechtzeitig reagiert - oder einen alten Fehler wiederholt. Von Angela Göpfert."
+      "title": "Einkommen im Alter: Warum Ängste Aktiensparen verhindern",
+      "text": "Angesichts klammer Rentenkassen rücken Aktien als Möglichkeit der Altersvorsorge stärker in den Fokus. Doch in Deutschland werden Investments vielfach noch misstrauisch beäugt. Von Heidi Radvilas."
     },
     {
-      "title": "Deutsche Bank dank Investmentbank auf Rekordkurs",
-      "text": "Gute Geschäfte ihrer Investmentbank haben der Deutschen Bank zu einem Gewinnsprung verholfen. Angesichts der Zahlen ist die Bank nun zuversichtlich, ihre Ziele für 2028 sogar übertreffen zu können."
+      "title": "Medienberichte: Bahn erstmals seit sieben Jahren mit Gewinn",
+      "text": "Die Deutsche Bahn hat Medienberichten zufolge in der ersten Jahreshälfte einen Überschuss im dreistelligen Millionenbereich erzielt - der erste Gewinn seit sieben Jahren. Auch die Zahl der Fahrgäste stieg demnach deutlich."
     },
     {
-      "title": "Waldbrände in Europa: Was Reisende jetzt wissen müssen",
-      "text": "In ganz Europa wüten derzeit Waldbrände, besonders heftig in Frankreich und Spanien. Auch beliebte Urlaubsregionen sind von den Feuern betroffen. Was Reisende jetzt wissen müssen."
+      "title": "Autobauer in der Krise: Warum auch BMW jetzt viele Stellen streicht",
+      "text": "Eigentlich galt BMW als \"Streber\" unter den deutschen Autobauern. Doch nun streichen auch die Münchner Tausende Stellen. Warum BMW wohl doch kein Sonderfall ist. Von Gabriel Wirth."
     }
   ],
   "automotive": [
     {
-      "title": "Rock Tech findet Abnehmer für Lithium aus Kanada",
-      "text": "Rock Tech Lithium hat eine verbindliche Abnahmevereinbarung mit dem Genfer Rohstoffhändler Transamine für sein Georgia-Lake-Projekt in Ontario geschlossen. Die Partnerschaft sichert die kommerzielle Vermarktung des dort abgebauten Lithiums und umfasst eine Vorauszahlungsfinanzierung von bis zu 80 Millionen US-Dollar."
+      "title": "EU-Förderaufruf für „Battery Booster“ veröffentlicht",
+      "text": "Die EU-Kommission hat eine Aufforderung zur Einreichung von Vorschlägen veröffentlicht, mit der zinslose Darlehen in Höhe von bis zu 1,5 Milliarden Euro für die Förderung von Projekten zur Batteriezellenproduktion bereitgestellt werden."
     },
     {
-      "title": "EEBus-Zertifizierung für smarte Steuerung von Wallboxen startet",
-      "text": "Die EEBus Initiative bietet ab sofort eine Prüfung für netzfreundliche Haustechnik an. Hersteller von Wallboxen, Wärmepumpen, Batteriespeichern oder Solaranlagen können ihre Geräte jetzt offiziell zertifizieren lassen. Das Siegel zeigt, dass die Technik die gesetzlichen Regeln für die smarte Steuerung erfüllt."
+      "title": "BMW will 8.000 Bürojobs abbauen – vor allem in Deutschland",
+      "text": "Der Autohersteller BMW will offenbar 8.000 Stellen weltweit abbauen und dadurch jährlich 1 Mrd. Euro sparen. Dabei geht es vor allem um Bürojobs in Deutschland, nicht aber um Arbeitsplätze in der Produktion. Der Münchner Konzern will aber auf Entlassungen verzichten und setzt stattdessen auf individuelle Abfindungsangebote."
     },
     {
-      "title": "Stadtwerke Remscheid wollen auf 54 E-Busse erhöhen",
-      "text": "Die Stadtwerke Remscheid bauen ihre Elektrobus-Flotte weiter aus. 21 E-Busse sind bereits im Remscheider Liniennetz unterwegs. Nun wurde eine Ausschreibung für 33 weitere Fahrzeuge gestartet."
+      "title": "Stadtwerke Stuttgart bauen digitales Ladeangebot zusammen mit OB7 aus",
+      "text": "Die Stadtwerke Stuttgart entwickeln gemeinsam mit dem Softwareanbieter OB7 eine neue digitale Plattform für ihre öffentliche Ladeinfrastruktur. Geplant sind unter anderem eine neue App, flexiblere Tarife und spezielle Angebote für Energie- und Geschäftskunden."
     }
   ],
   "tech": [
     {
-      "title": "Neue Details zum KI-Angriff: OpenAI hat mehr als nur Hugging Face gehackt",
-      "text": "Neben Hugging Face haben die bei OpenAI ausgebrochenen KI-Modelle Nutzerkonten bei mindestens vier weiteren Onlinediensten kompromittiert."
+      "title": "Fotogalerie mit KI: Windows 11 installiert obskure Onedrive-Photos-App automatisch",
+      "text": "Onedrive Photos scheint sich nicht nur ohne Nachfrage auf Windows-PCs zu installieren. Sie kann auch Gesichter auf Fotos mittels KI scannen."
     },
     {
-      "title": "Stellenausschreibung: Cyberagentur sucht Autor für Science-Fiction-Roman",
-      "text": "Die Cyberagentur möchte ihre Foresight-Projekte als Science-Fiction-Roman aufbereiten lassen und sucht dafür einen externen Autor."
+      "title": "Werbebanner: HP blendet Bing-Hinweise auf Windows-PCs ein",
+      "text": "Der HP Support Assistant sorgt auf Windows-11-PCs für unerwartete Einblendungen. Dahinter steckt ausgerechnet Microsofts Suchmaschine Bing."
     },
     {
-      "title": "Aktion: Callya Jahrespaket M bietet mehr Datenvolumen",
-      "text": "Der Jahrestarif M von Vodafone ist aktuell mit mehr Inklusivvolumen bei gleichem Preis erhältlich. Auch Bestandskunden können den Tarif buchen."
+      "title": "Ladesäulenregister: Deutschland verzeichnet über 200.000 öffentliche Ladepunkte",
+      "text": "Die Bundesnetzagentur meldet zum 1. Juli 2026 mehr als 209.000 öffentliche Ladepunkte in Deutschland. Der Schnellladeausbau wächst stark."
     }
   ],
   "local": [
     {
-      "title": "BW-Newsticker am Morgen: Vierjähriger stirbt bei Unfall, Hitzewelle: Bis zu 39 Grad erwartet, Wieder Protest vor Audi-Werk in Neckarsulm",
-      "text": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
+      "title": "Höhepunkt der Hitzewelle mit Gewittergefahr, Warum Wildvögel aus den Nestern stürzen, Brand in der Nähe der A6 zwischen Weinsberg und Neckarsulm",
+      "text": "Baden-Württemberg steht die nächste Hitzewelle bevor. Der DWD erwartet Temperaturen bis zu 39 Grad. Alle Entwicklungen rund ums aktuelle Wetter zum Sommerferienstart im Liveblog."
+    },
+    {
+      "title": "Lebensgefahr bei über 42 Grad: So schützt man sich vor Hitzschlag und Sonnenstich",
+      "text": "Temperaturen über 30 Grad können für den Körper eine echte Herausforderung sein. Ein Ulmer Notfallmediziner erklärt, welche Auswirkungen das auf unseren Körper hat."
     },
     {
       "title": "Wegen VW-Sparplänen: Proteste bei Audi in Neckarsulm gehen weiter",
-      "text": "Sie wollen ein Zeichen für die Zukunft von Audi in Neckarsulm setzen: Gewerkschaft und Betriebsrat rufen die Audianer zu einer Protestaktion vor dem Werk auf."
+      "text": "Sie wollen ein Zeichen für die Zukunft von Audi in Neckarsulm setzen: Gewerkschaft und Betriebsrat haben die Audianer am Mittwoch zu einer Protestaktion vor dem Werk aufgerufen."
     },
     {
-      "title": "Tödlicher Unfall in Waldstetten - Lastwagen prallt gegen Hauswand",
-      "text": "In der Ortsdurchfahrt von Waldstetten (Ostalbkreis) ist am Montagmorgen ein Lastwagen gegen eine Hauswand geprallt. Der Fahrer starb noch an der Unfallstelle."
-    },
-    {
-      "title": "Oberfranken könnte Bundestags-Wahlkreis an Oberbayern verlieren",
-      "text": "Es könnte Kulmbach treffen oder Coburg. Laut dem Bericht einer unabhängigen Kommission dürfte Oberfranken bei der nächsten Bundestagswahl einen Wahlkreis verlieren – voraussichtlich zugunsten von Pfaffenhofen an der Ilm."
+      "title": "Das war der BW-Newsticker am Dienstagmorgen: Vierjähriger stirbt bei Unfall, Hitzewelle: Bis zu 39 Grad erwartet, Wieder Protest vor Audi-Werk in Neckarsulm",
+      "text": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
     }
   ]
 }
