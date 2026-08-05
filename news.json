@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-08-04T07:12:28.426Z",
+  "generatedAt": "2026-08-05T07:13:52.515Z",
   "world": [
+    {
+      "title": "EU-Innenminister zu Ceuta: \"Natürlich\" Solidarität mit Spanien",
+      "text": "Nachdem die meisten EU-Staaten Spanien wegen der Krise in Ceuta kritisiert hatten, betonten die europäischen Innenminister jetzt ihre Solidarität mit Madrid. Doch die Diskussion über Europas Grenzschutz geht weiter. Von Jean-Marie Magro."
+    },
+    {
+      "title": "Migration in spanischer Exklave: Was lernen EU und Spanien aus Ceuta?",
+      "text": "Binnen weniger Tage gelangten Zehntausende Migranten nach Ceuta. Die meisten sind zurück in Marokko, doch die Debatte über den Schutz der EU-Außengrenzen bleibt. Die Menschen in Ceuta versuchen derweil, zur Normalität zurückzukehren. Von Kristina Böker."
+    },
+    {
+      "title": "Ceuta-Krise: EU-Innenminister stellen sich geschlossen hinter Spanien",
+      "text": "Bei einer kurzfristig einberufenen Videokonferenz zu den Vorfällen in Ceuta haben die EU-Innenminister Spanien demonstrativ den Rücken gestärkt. Die Außengrenzen lägen in gemeinsamer europäischer Verantwortung. Das klang zuvor noch anders."
+    },
     {
       "title": "Interview zu Krise in Ceuta: \"Die Schuld Spanien zu geben, war irrational\"",
       "text": "Ist Spanien für die Krise in Ceuta verantwortlich? Der Migrationsexperte Gerald Knaus verneint das. Die Vorwürfe gegen die Regierung seien eine irrationale Reaktion auf verstörende Bilder. Die EU müsse nun schnell eine Entscheidung treffen."
@@ -12,60 +24,48 @@
     {
       "title": "Elf statt vier Monate: In Dänemark startet verlängerte Wehrpflicht",
       "text": "Angesichts des Ukraine-Kriegs und der Trump-Drohungen in Bezug auf Grönland gilt in Dänemark von heute an ein längerer Wehrdienst. Zu den Männern und Frauen, die ihren Dienst antreten, gehört auch Prinzessin Isabella. Von Jana Sinram."
-    },
-    {
-      "title": "Stromkrise durch Niedrigwasser der Donau - Rumänien sprengt Felsen",
-      "text": "Rumänien greift wegen des niedrigen Wasserstands der Donau zu ungewöhnlichen Mitteln: Mit einer Sprengung im Fluss soll mehr Wasser zum AKW Cernavoda geleitet werden. Dort, in Ungarn und in Serbien wird zum Stromsparen aufgerufen."
-    },
-    {
-      "title": "Nach Andrang in Ceuta fordert Von der Leyen stärkeren EU-Grenzschutz",
-      "text": "Vorwürfe, Rechtfertigungen, Erklärungsversuche: Die Ausnahmesituation in Ceuta hat eine weitere Migrationsdebatte entfacht. EU-Kommissionspräsidentin von der Leyen bemüht sich, die Wogen zu glätten - sieht aber Handlungsbedarf beim Grenzschutz."
-    },
-    {
-      "title": "Diebstahl von Unternehmerdaten in Liechtenstein sorgt für Aufregung",
-      "text": "Ausgerechnet in Liechtenstein, wo Unternehmer auf Diskretion zählen, ist ein riesiger Datensatz gestohlen worden - konkret eine Liste mit wirtschaftlich tätigen Personen. Wer dahinter steckt, ist noch unklar. Von Thomas Wagner."
     }
   ],
   "economy": [
     {
-      "title": "Marktbericht: Anleger in Rekordlaune",
-      "text": "Mit reichlich Rückenwind von der Wall Street geht der DAX in den neuen Tag. Die Hoffnung auf eine diplomatische Nahost-Lösung treibt die Kurse. Erwartet wird zudem eine Flut neuer Quartalszahlen."
+      "title": "SpaceX mit Verlust im ersten Quartal an der Börse",
+      "text": "Die ersten Quartalszahlen der Weltraumfirma SpaceX nach ihrem Rekord-Börsengang sorgen bei Anlegern für Zurückhaltung. Zwar verdoppelte SpaceX den Umsatz beinahe, machte aber unter dem Strich erneut Verluste."
+    },
+    {
+      "title": "Warum das Niedrigwasser das Wirtschaftswachstum bremst",
+      "text": "Die niedrigen Pegelstände deutscher Flüsse haben massive Folgen für die Wirtschaft: Bleibt die Binnenschifffahrt auf dem Rhein länger eingeschränkt, könnte das ohnehin kleine Wirtschaftswachstum zunichte gemacht werden, warnt das IW."
     },
     {
       "title": "Wirtschaftsexperte: \"Niedrigwasser ist ein Kostentreiber\"",
       "text": "Niedrige Pegelstände werden zunehmend zum Risiko, sagt Simon Gerards Iglesias vom Institut der deutschen Wirtschaft. Im Interview mit den tagesthemen erklärt er, warum viele Unternehmen zum Transport auf den Flüssen kaum Alternativen haben."
-    },
-    {
-      "title": "Einzelhandel erzielt Umsatzplus trotz Kaufzurückhaltung",
-      "text": "Der Einzelhandel hat in den ersten sechs Monaten des Jahres höhere Umsätze erwirtschaftet. Verbraucher halten sich bei Käufen weiterhin zurück, doch Händler profitierten von gestiegenen Preisen."
     }
   ],
   "automotive": [
     {
-      "title": "Dänemark: Fast alle neuen Pkw im Juli elektrisch",
-      "text": "Elektro-Anteile von fast 100 Prozent der Pkw-Neuzulassungen kennen wir bisher nur aus Norwegen. Nun lässt auch Dänemark aufhorchen: Dort entfielen im Juli 97 Prozent der Neuwagen für Privatpersonen auf E-Autos."
+      "title": "Nizza macht frühere Carsharing-Ladepunkte von Mobilize zu öffentlichen Ladern",
+      "text": "Nach der Einstellung des Carsharing-Angebots der Renault-Tochter Mobilize in Nizza und Umgebung hat die französische Metropolregion Nizza Côte d’Azur deren 86 Ladepunkte übernommen und zu einem öffentlichen Ladeangebot umfunktioniert."
     },
     {
-      "title": "Norwegens Elektroauto-Anteil steigt im Juli auf 97,6 %",
-      "text": "Der Marktanteil von Elektroautos in Norwegen stieg im Juli auf 97,6 Prozent. In dem Sommermonat führte überraschend Toyota das Markenranking an, während Xpeng dank starker Nachfrage nach seinen Modellen den dritten Platz erobern konnte. Dazwischen positioniert sich Volkswagen mit drei Elektroautos."
+      "title": "Sono Motors ist insolvent und steht zum Verkauf",
+      "text": "Die Sono Motors GmbH hat ihr operatives Geschäft zum 31. Juli eingestellt und ein Insolvenzverfahren eröffnet. Damit endet nach zehn Jahren die Geschichte des Münchner Unternehmens, das mit dem Solarauto Sion einst weltweit für Schlagzeilen sorgte. …"
     },
     {
-      "title": "Lars Ljungström wird neuer Finanzchef von Cellcentric",
-      "text": "Der langjährige Volvo-Group-Manager Lars Ljungström wird neuer Chief Financial Officer (CFO) und zugleich Mitglied der Geschäftsführung von Cellcentric. Bei dem Joint Venture von Volvo Group und Daimler Truck für Brennstoffzellen wird er Nachfolger des bisherigen Finanzchefs Niklas Ekström."
+      "title": "Sieben neue MAN-Elektrobusse im Stadtverkehr Friedrichshafen",
+      "text": "Der Stadtverkehr Friedrichshafen hat seine Flotte zum 1. August um sieben Einheiten des vollelektrischen Busses Lion's City E von MAN ergänzt. Dadurch fährt nun knapp jeder fünfte der insgesamt 38 Busse des Stadtverkehrs elektrisch."
     }
   ],
   "tech": [
     {
-      "title": "Vereinigtes Königreich: Hacker leaken Daten von über 100.000 Polizisten",
-      "text": "Eine Cybergang hat eine Polizei-Datenbank des Vereinigten Königreichs geplündert und persönliche Daten unzähliger Strafverfolger veröffentlicht."
+      "title": "Windows 11: Microsoft kassiert eigene RAM-Empfehlung stillschweigend ein",
+      "text": "Noch vor wenigen Monaten empfahl Microsoft 32 Gigabyte RAM für Windows-11-Gaming. Jetzt ist diese Empfehlung spurlos verschwunden. ( Windows 11 , Microsoft )"
     },
     {
-      "title": "Betrugsverdacht bei Aufnahmeprüfung: KI-Überwachung versagt bei Test an Universität",
-      "text": "Auffällig hohe Ergebnisse bei der Onlineprüfung der UNAM zwingen 58.000 Bewerber zu einem neuen Test in Präsenz."
+      "title": "Weltraum-Konzern: SpaceX verdoppelt fast seinen Umsatz",
+      "text": "Das erste Mal nach dem Börsengang meldet SpaceX Zahlen, die Analysten deutlich übertreffen. Der Umsatz wuchs um 92 Prozent, das KI-Geschäft am stärksten."
     },
     {
-      "title": "In-Car-Entertainment: BMW zeigt Spider-Man-Werbung auf Auto-Displays",
-      "text": "BMW spielt auf Fahrzeug-Displays eine Animation zum neuen Spider-Man-Film aus. Besitzer reagieren mit Kritik."
+      "title": "Bafa: Elektroautoprämie wird vornehmlich von Geringverdienern genutzt",
+      "text": "Neue Zahlen des Bafa zeigen erstmals, welche Einkommensgruppen die staatliche Kaufprämie für Elektroautos bislang am häufigsten nutzen."
     }
   ],
   "local": [
@@ -74,16 +74,16 @@
       "text": "Plötzlich reißt die Straße zentimeterweit auf: In Täferrot im Ostalbkreis droht deshalb ein Wohngebiet abgeschnitten zu werden. Vorerst ist die Lage für Anwohner nicht gefährlich."
     },
     {
-      "title": "Millionenbetrug bei Drogerieunternehmen Müller: Mann zu Haftstrafe verurteilt",
-      "text": "Am Landgericht Ulm ist ein Mann wegen Betrugs und Untreue in Millionenhöhe zu vier Jahren Haft verurteilt worden. Geschädigt war das Drogerieunternehmen Müller."
-    },
-    {
-      "title": "BW-Newsticker am Morgen: Dienstag wohl heißester Tag der Woche, Ab Nachmittag heftige Unwetter möglich, Unbekanntes Virus bei Rindern ausgebrochen",
+      "title": "BW-Newsticker am Morgen: Hitzerekord in BW offiziell geknackt - 2026 ist Jahrhundertsommer, Feuerwehr hilft Frau bei Geburt an Bushaltestelle, Ermittlungen zu tödlichem Tauchunfall laufen weiter",
       "text": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
     },
     {
-      "title": "Dienstag soll heißester Tag der Woche werden, Hitzeschäden an Bahnstrecke, Flächenbrände fordern Einsatzkräfte",
-      "text": "In Baden-Württemberg haben Gewitter für Schäden gesorgt, das Unwetterrisiko bleibt. Alle Entwicklungen rund ums aktuelle Wetter zum Sommerferienstart im Liveblog."
+      "title": "Mehr als 28 Grad um Mitternacht gemessen, Neuer Jahrhundertsommer in BW, Weniger Strom wegen Trockenheit",
+      "text": "Die Hitzewelle erreicht ihren Höhepunkt, dann drohen Gewitter. Bodensee & Co. führen immer weniger Wasser. Alle Hintergründe dazu im Liveblog."
+    },
+    {
+      "title": "Wenig Wasser in Neckar und Main: Mit diesen Einschränkungen fahren Schiffe trotzdem",
+      "text": "Die Lage sei nicht so schlimm wie auf dem Rhein, doch auch auf Neckar und Main gibt es Einschränkungen. Schiffe kommen durch das wenige Wasser nur noch langsam voran."
     }
   ]
 }
