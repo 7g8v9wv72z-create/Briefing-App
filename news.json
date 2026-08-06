@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-08-05T07:13:52.515Z",
+  "generatedAt": "2026-08-06T07:15:30.381Z",
   "world": [
+    {
+      "title": "Island verweist Walfang-Gegner des Landes",
+      "text": "Nach zwei Jahren Pause wird in Island wieder Jagd auf Finnwale gemacht. Gegner versuchten, die Walfänger daran zu hindern. Die Küstenwache stürmte das Schiff der Aktivisten. Nach tagelanger Festsetzung werden sie nun ausgewiesen. Von Jana Sinram."
+    },
     {
       "title": "EU-Innenminister zu Ceuta: \"Natürlich\" Solidarität mit Spanien",
       "text": "Nachdem die meisten EU-Staaten Spanien wegen der Krise in Ceuta kritisiert hatten, betonten die europäischen Innenminister jetzt ihre Solidarität mit Madrid. Doch die Diskussion über Europas Grenzschutz geht weiter. Von Jean-Marie Magro."
@@ -20,70 +24,66 @@
     {
       "title": "Ceuta-Krise: EU-Innenminister beraten über Konsequenzen",
       "text": "Seit Kurzem gilt das gemeinsame EU-Asylsystem, das Situationen wie in Ceuta verhindern soll. Doch stattdessen ist wieder Streit ausgebrochen - die EU-Innenminister wollen heute versuchen, Lehren aus der Krise zu ziehen. Von A. Meyer-Feist."
-    },
-    {
-      "title": "Elf statt vier Monate: In Dänemark startet verlängerte Wehrpflicht",
-      "text": "Angesichts des Ukraine-Kriegs und der Trump-Drohungen in Bezug auf Grönland gilt in Dänemark von heute an ein längerer Wehrdienst. Zu den Männern und Frauen, die ihren Dienst antreten, gehört auch Prinzessin Isabella. Von Jana Sinram."
     }
   ],
   "economy": [
     {
-      "title": "SpaceX mit Verlust im ersten Quartal an der Börse",
-      "text": "Die ersten Quartalszahlen der Weltraumfirma SpaceX nach ihrem Rekord-Börsengang sorgen bei Anlegern für Zurückhaltung. Zwar verdoppelte SpaceX den Umsatz beinahe, machte aber unter dem Strich erneut Verluste."
+      "title": "Rüstungskonzerne: Wer vom Geschäft mit Drohnen und KI profitiert",
+      "text": "Deutsche Rüstungskonzerne haben volle Auftragsbücher. Doch die moderne Kriegsführung mit Drohnen, Software und Künstlicher Intelligenz verändert die Branche. Spezialisierte Start-ups werden wichtiger. Von Angela Göpfert."
     },
     {
-      "title": "Warum das Niedrigwasser das Wirtschaftswachstum bremst",
-      "text": "Die niedrigen Pegelstände deutscher Flüsse haben massive Folgen für die Wirtschaft: Bleibt die Binnenschifffahrt auf dem Rhein länger eingeschränkt, könnte das ohnehin kleine Wirtschaftswachstum zunichte gemacht werden, warnt das IW."
+      "title": "Halbjahresbilanz: Commerzbank macht Gewinnsprung",
+      "text": "Die Commerzbank hat im ersten Halbjahr ein Rekordergebnis erzielt. Bestärkt durch die guten Zahlen blickt der Vorstand selbstbewusst auf den Übernahmeversuch der UniCredit. Zu dem Thema stehen neue Gespräche an."
     },
     {
-      "title": "Wirtschaftsexperte: \"Niedrigwasser ist ein Kostentreiber\"",
-      "text": "Niedrige Pegelstände werden zunehmend zum Risiko, sagt Simon Gerards Iglesias vom Institut der deutschen Wirtschaft. Im Interview mit den tagesthemen erklärt er, warum viele Unternehmen zum Transport auf den Flüssen kaum Alternativen haben."
+      "title": "Ifo Institut: Autoindustrie zeigt sich wieder optimistischer",
+      "text": "Die Nachfrage nach der E-Auto-Prämie ist groß, vor allem Haushalte mit mittlerem Einkommen nutzen sie. Gleichzeitig hellt sich die Stimmung in der deutschen Autoindustrie spürbar auf, so das ifo Institut."
     }
   ],
   "automotive": [
     {
-      "title": "Nizza macht frühere Carsharing-Ladepunkte von Mobilize zu öffentlichen Ladern",
-      "text": "Nach der Einstellung des Carsharing-Angebots der Renault-Tochter Mobilize in Nizza und Umgebung hat die französische Metropolregion Nizza Côte d’Azur deren 86 Ladepunkte übernommen und zu einem öffentlichen Ladeangebot umfunktioniert."
+      "title": "Mercedes VLE ab sofort in weiteren Varianten bestellbar",
+      "text": "Den rein elektrischen Mercedes-Benz VLE 300 gibt es ab sofort in weiteren Varianten – und zwar als AMG Line und AMG Line Plus. Am Antrieb ändert sich vorerst nichts, dafür kommen neue Sitzoptionen und die ersehnte Konfiguration als Achtsitzer. Der neue Einstiegspreis liegt bei knapp 77.900 Euro."
     },
     {
-      "title": "Sono Motors ist insolvent und steht zum Verkauf",
-      "text": "Die Sono Motors GmbH hat ihr operatives Geschäft zum 31. Juli eingestellt und ein Insolvenzverfahren eröffnet. Damit endet nach zehn Jahren die Geschichte des Münchner Unternehmens, das mit dem Solarauto Sion einst weltweit für Schlagzeilen sorgte. …"
+      "title": "Fiege stockt E-Lkw-Flotte um weitere fünf eActros 600 auf",
+      "text": "Der Logistikdienstleister Fiege baut seinen Fuhrpark an schweren Elektro-Lkw weiter aus und hat fünf neue Mercedes-Benz eActros 600 im Werk Wörth in Empfang genommen. Damit wächst die internationale Flotte an emissionsfreien Fahrzeugen auf insgesamt 25 Einheiten."
     },
     {
-      "title": "Sieben neue MAN-Elektrobusse im Stadtverkehr Friedrichshafen",
-      "text": "Der Stadtverkehr Friedrichshafen hat seine Flotte zum 1. August um sieben Einheiten des vollelektrischen Busses Lion's City E von MAN ergänzt. Dadurch fährt nun knapp jeder fünfte der insgesamt 38 Busse des Stadtverkehrs elektrisch."
+      "title": "Kempower startet Leasing für Ladestationen in Großbritannien",
+      "text": "Kempower hat sein erstes Projekt für Ladestationen in Großbritannien abgeschlossen, das über den Leasingpartner DLL finanziert wurde. Die Installation an einer Tankstelle von Highway Stops Retail Limited (HSRL) in Bedfordshire umfasst acht Schnellladepunkte und soll die für unabhängige Betreiber erforderlichen Anfangsinvestitionen senken."
     }
   ],
   "tech": [
     {
-      "title": "Windows 11: Microsoft kassiert eigene RAM-Empfehlung stillschweigend ein",
-      "text": "Noch vor wenigen Monaten empfahl Microsoft 32 Gigabyte RAM für Windows-11-Gaming. Jetzt ist diese Empfehlung spurlos verschwunden. ( Windows 11 , Microsoft )"
+      "title": "Tausende Dollar im Monat: Microsoft warnt Angestellte vor zu viel KI-Nutzung",
+      "text": "Laut internen Memos geben wohl einige Microsoft-Entwickler Tausende US-Dollar nur für KI-Nutzung aus. \"Tokenmaxxing\" sei keine Philosophie."
     },
     {
-      "title": "Weltraum-Konzern: SpaceX verdoppelt fast seinen Umsatz",
-      "text": "Das erste Mal nach dem Börsengang meldet SpaceX Zahlen, die Analysten deutlich übertreffen. Der Umsatz wuchs um 92 Prozent, das KI-Geschäft am stärksten."
+      "title": "Blogger: Google sperrt mit falscher Malware-Warnung Hunderte Blogs",
+      "text": "Bei Googles Bloggingdienst Blogger löst die Malware-Erkennung reihenweise Fehlalarme aus. Hunderte von Blogs wurden unverhofft gesperrt."
     },
     {
-      "title": "Bafa: Elektroautoprämie wird vornehmlich von Geringverdienern genutzt",
-      "text": "Neue Zahlen des Bafa zeigen erstmals, welche Einkommensgruppen die staatliche Kaufprämie für Elektroautos bislang am häufigsten nutzen."
+      "title": "Schrottsammler: USA verbieten Lithium- und Wolfram-Exporte",
+      "text": "Die USA schützen ihre Rüstungsindustrie vor Rohstoffknappheit. Wer Akku- oder Wolframschrott sammelt, muss ihn künftig an heimische Käufer verkaufen."
     }
   ],
   "local": [
     {
-      "title": "Risse Vorboten für Hangrutsch? Wohngebiet droht abgeschnitten zu werden",
-      "text": "Plötzlich reißt die Straße zentimeterweit auf: In Täferrot im Ostalbkreis droht deshalb ein Wohngebiet abgeschnitten zu werden. Vorerst ist die Lage für Anwohner nicht gefährlich."
-    },
-    {
-      "title": "BW-Newsticker am Morgen: Hitzerekord in BW offiziell geknackt - 2026 ist Jahrhundertsommer, Feuerwehr hilft Frau bei Geburt an Bushaltestelle, Ermittlungen zu tödlichem Tauchunfall laufen weiter",
+      "title": "BW-Newsticker am Morgen: Schuss auf Auto in Eningen wohl gezielter Angriff, Hagel will KI-Gesichtserkennung bei Videoüberwachung, Frau stürzt von Boot in den Bodensee - Suche läuft",
       "text": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
     },
     {
-      "title": "Mehr als 28 Grad um Mitternacht gemessen, Neuer Jahrhundertsommer in BW, Weniger Strom wegen Trockenheit",
-      "text": "Die Hitzewelle erreicht ihren Höhepunkt, dann drohen Gewitter. Bodensee & Co. führen immer weniger Wasser. Alle Hintergründe dazu im Liveblog."
+      "title": "Dachstuhlbrand in Ravenstein-Oberwittstadt im Neckar-Odenwald-Kreis",
+      "text": "Am frühen Donnerstagmorgen ist in Ravenstein-Oberwittstadt im Neckar-Odenwald-Kreis ein Dachstuhl in Brand geraten. Eine 54-jährige Frau wurde leicht verletzt."
     },
     {
-      "title": "Wenig Wasser in Neckar und Main: Mit diesen Einschränkungen fahren Schiffe trotzdem",
-      "text": "Die Lage sei nicht so schlimm wie auf dem Rhein, doch auch auf Neckar und Main gibt es Einschränkungen. Schiffe kommen durch das wenige Wasser nur noch langsam voran."
+      "title": "Unbekannter schießt auf fahrendes Auto im Kreis Reutlingen",
+      "text": "Im Kreis Reutlingen hat ein Unbekannter auf ein fahrendes Auto geschossen. Der Vorfall ereignete sich nahe eines Supermarkts. Der Fahrer wurde leicht verletzt. Die Polizei fahndet nach dem Schützen."
+    },
+    {
+      "title": "Unwetter über dem Bodensee: Frau fällt von Motorboot und wird vermisst",
+      "text": "Eine vermisste Frau im Bodensee hat am Mittwochabend einen internationalen Seenotalarm ausgelöst. Die 65-Jährige soll laut Polizei von einem Motorboot in den See gefallen sein."
     }
   ]
 }
