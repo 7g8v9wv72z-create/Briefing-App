@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-08-06T07:15:30.381Z",
+  "generatedAt": "2026-08-07T05:55:56.996Z",
   "world": [
+    {
+      "title": "Holt Meloni die Atomkraft zurück nach Italien?",
+      "text": "Vor fast 40 Jahren beschlossen die Italiener per Volksentscheid den Ausstieg aus der Atomkraft. Nun treibt Regierungschefin Meloni den Wiedereinstieg voran. Doch ob es dazu kommt, ist alles andere als sicher. Von Anna Giordano."
+    },
     {
       "title": "Island verweist Walfang-Gegner des Landes",
       "text": "Nach zwei Jahren Pause wird in Island wieder Jagd auf Finnwale gemacht. Gegner versuchten, die Walfänger daran zu hindern. Die Küstenwache stürmte das Schiff der Aktivisten. Nach tagelanger Festsetzung werden sie nun ausgewiesen. Von Jana Sinram."
@@ -20,70 +24,66 @@
     {
       "title": "Interview zu Krise in Ceuta: \"Die Schuld Spanien zu geben, war irrational\"",
       "text": "Ist Spanien für die Krise in Ceuta verantwortlich? Der Migrationsexperte Gerald Knaus verneint das. Die Vorwürfe gegen die Regierung seien eine irrationale Reaktion auf verstörende Bilder. Die EU müsse nun schnell eine Entscheidung treffen."
-    },
-    {
-      "title": "Ceuta-Krise: EU-Innenminister beraten über Konsequenzen",
-      "text": "Seit Kurzem gilt das gemeinsame EU-Asylsystem, das Situationen wie in Ceuta verhindern soll. Doch stattdessen ist wieder Streit ausgebrochen - die EU-Innenminister wollen heute versuchen, Lehren aus der Krise zu ziehen. Von A. Meyer-Feist."
     }
   ],
   "economy": [
     {
-      "title": "Rüstungskonzerne: Wer vom Geschäft mit Drohnen und KI profitiert",
-      "text": "Deutsche Rüstungskonzerne haben volle Auftragsbücher. Doch die moderne Kriegsführung mit Drohnen, Software und Künstlicher Intelligenz verändert die Branche. Spezialisierte Start-ups werden wichtiger. Von Angela Göpfert."
+      "title": "Marktbericht: Anleger vor US-Jobdaten zurückhaltend",
+      "text": "Vor wichtigen Daten vom US-Arbeitsmarkt möchten die Anleger die Risiken gering halten. Die Vorgaben aus den USA und Japan sind schwach, auch der DAX dürfte zunächst nur wenig weiterkommen."
     },
     {
-      "title": "Halbjahresbilanz: Commerzbank macht Gewinnsprung",
-      "text": "Die Commerzbank hat im ersten Halbjahr ein Rekordergebnis erzielt. Bestärkt durch die guten Zahlen blickt der Vorstand selbstbewusst auf den Übernahmeversuch der UniCredit. Zu dem Thema stehen neue Gespräche an."
+      "title": "Hoffnungsschimmer für die deutsche Industrie?",
+      "text": "Deutsche Unternehmen erhalten wieder mehr Aufträge im außereuropäischen Ausland, wie Zahlen des Verbands deutscher Maschinen- und Anlagenbauer zeigen. Eine Wende für die Branche in angespannten Zeiten? Von M. Rottach."
     },
     {
-      "title": "Ifo Institut: Autoindustrie zeigt sich wieder optimistischer",
-      "text": "Die Nachfrage nach der E-Auto-Prämie ist groß, vor allem Haushalte mit mittlerem Einkommen nutzen sie. Gleichzeitig hellt sich die Stimmung in der deutschen Autoindustrie spürbar auf, so das ifo Institut."
+      "title": "Ifo-Chef spricht sich für einheitlichen Mehrwertsteuersatz aus",
+      "text": "Der Präsident des ifo-Instituts, Fuest, schlägt eine Abschaffung des ermäßigten Mehrwertsteuersatzes von sieben Prozent vor. Viele Waren würde das verteuern. Doch der Ökonom hat auch eine Idee zur Sozialverträglichkeit."
     }
   ],
   "automotive": [
     {
-      "title": "Mercedes VLE ab sofort in weiteren Varianten bestellbar",
-      "text": "Den rein elektrischen Mercedes-Benz VLE 300 gibt es ab sofort in weiteren Varianten – und zwar als AMG Line und AMG Line Plus. Am Antrieb ändert sich vorerst nichts, dafür kommen neue Sitzoptionen und die ersehnte Konfiguration als Achtsitzer. Der neue Einstiegspreis liegt bei knapp 77.900 Euro."
+      "title": "Royal Mail erweitert Elektro-Zustellflotte auf 9.000 Transporter",
+      "text": "Die britische Royal Mail hat ihren 9.000. E-Transporter in Betrieb genommen – weniger als acht Monate nach Erreichen des Meilensteins von 8.000 Fahrzeugen. Nach Angaben des Postunternehmens wird mittlerweile fast ein Drittel der Zustellrouten mit emissionsfreien Fahrzeugen bedient."
     },
     {
-      "title": "Fiege stockt E-Lkw-Flotte um weitere fünf eActros 600 auf",
-      "text": "Der Logistikdienstleister Fiege baut seinen Fuhrpark an schweren Elektro-Lkw weiter aus und hat fünf neue Mercedes-Benz eActros 600 im Werk Wörth in Empfang genommen. Damit wächst die internationale Flotte an emissionsfreien Fahrzeugen auf insgesamt 25 Einheiten."
+      "title": "Burgenland: VBB nehmen weitere E-Busse und Ladesäulen in Betrieb",
+      "text": "Die Verkehrsbetriebe Burgenland (VBB) haben 20 neue Ladesäulen für E-Busse installiert. Parallel dazu sind inzwischen neun Elektrobusse im Einsatz, die vor allem Zubringerlinien im Mittel- und Südburgenland bedienen."
     },
     {
-      "title": "Kempower startet Leasing für Ladestationen in Großbritannien",
-      "text": "Kempower hat sein erstes Projekt für Ladestationen in Großbritannien abgeschlossen, das über den Leasingpartner DLL finanziert wurde. Die Installation an einer Tankstelle von Highway Stops Retail Limited (HSRL) in Bedfordshire umfasst acht Schnellladepunkte und soll die für unabhängige Betreiber erforderlichen Anfangsinvestitionen senken."
+      "title": "EVgo kauft Supercharger von Tesla",
+      "text": "EVgo wird Hunderte Tesla-V4-Supercharger an eigenen Ladestandorten in den USA installieren. Die unter der Marke EVgo betriebenen Ladeparks werden dann sowohl Fahrzeuge mit NACS- als auch mit CCS-Anschluss unterstützen und direkt im Navigationssystem von Tesla angezeigt werden."
     }
   ],
   "tech": [
     {
-      "title": "Tausende Dollar im Monat: Microsoft warnt Angestellte vor zu viel KI-Nutzung",
-      "text": "Laut internen Memos geben wohl einige Microsoft-Entwickler Tausende US-Dollar nur für KI-Nutzung aus. \"Tokenmaxxing\" sei keine Philosophie."
+      "title": "Machine Games: Quake feiert 30. Geburtstag mit neuer Kampagne",
+      "text": "Zum Jubiläum bekommt Quake eine neue Kampagne. Machine Games liefert kostenlos 19 neue Levels, Gegner und Waffen."
     },
     {
-      "title": "Blogger: Google sperrt mit falscher Malware-Warnung Hunderte Blogs",
-      "text": "Bei Googles Bloggingdienst Blogger löst die Malware-Erkennung reihenweise Fehlalarme aus. Hunderte von Blogs wurden unverhofft gesperrt."
+      "title": "Halbjahresbericht: 1&1 verschlechtert Verträge und verliert 150.000 Kunden",
+      "text": "United Internet und die Telco-Tochter 1&1 geben weiter wenig für den Mobilfunk-Ausbau aus. Angaben zu Masten- und Antennenzahlen fehlen komplett. ( 1&1 , Mobilfunk )"
     },
     {
-      "title": "Schrottsammler: USA verbieten Lithium- und Wolfram-Exporte",
-      "text": "Die USA schützen ihre Rüstungsindustrie vor Rohstoffknappheit. Wer Akku- oder Wolframschrott sammelt, muss ihn künftig an heimische Käufer verkaufen."
+      "title": "Ausrüster: Deutsche Konzerne profitieren vom Boom der Rechenzentren in USA",
+      "text": "Deutsche Zulieferer für Rechenzentren erhalten viele Aufträge aus den USA. Der KI-Boom führt zu einem Boom bei Energierversorgern, Baukonzernen und Kühlsystemherstellern."
     }
   ],
   "local": [
     {
-      "title": "BW-Newsticker am Morgen: Schuss auf Auto in Eningen wohl gezielter Angriff, Hagel will KI-Gesichtserkennung bei Videoüberwachung, Frau stürzt von Boot in den Bodensee - Suche läuft",
+      "title": "Messerangriff auf Feldweg: 14-Jähriger drohen bis zu zehn Jahren Haft",
+      "text": "Der 14-Jährigen, die eine 16-Jährige bei Obersulm mit einem Messer angegriffen haben soll, könnten bis zu zehn Jahre Haft drohen. Die Staatsanwaltschaft sieht ein Mordmerkmal."
+    },
+    {
+      "title": "Mann in Weinheim durch Polizeischüsse verletzt",
+      "text": "Bei einem Einsatz in Weinheim hat die Polizei auf einen 41-Jährigen geschossen und ihn verletzt. Vorausgegangen war wohl ein Streit, der sich auf die Straße verlagert hatte."
+    },
+    {
+      "title": "BW-Newsticker am Morgen: Mann in Weinheim durch Polizeischüsse verletzt, Gewinneinbruch bei Daimler-Truck, Nach Ärger wegen Badebekleidung: Freibad ändert Regeln",
       "text": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
     },
     {
-      "title": "Dachstuhlbrand in Ravenstein-Oberwittstadt im Neckar-Odenwald-Kreis",
-      "text": "Am frühen Donnerstagmorgen ist in Ravenstein-Oberwittstadt im Neckar-Odenwald-Kreis ein Dachstuhl in Brand geraten. Eine 54-jährige Frau wurde leicht verletzt."
-    },
-    {
-      "title": "Unbekannter schießt auf fahrendes Auto im Kreis Reutlingen",
-      "text": "Im Kreis Reutlingen hat ein Unbekannter auf ein fahrendes Auto geschossen. Der Vorfall ereignete sich nahe eines Supermarkts. Der Fahrer wurde leicht verletzt. Die Polizei fahndet nach dem Schützen."
-    },
-    {
-      "title": "Unwetter über dem Bodensee: Frau fällt von Motorboot und wird vermisst",
-      "text": "Eine vermisste Frau im Bodensee hat am Mittwochabend einen internationalen Seenotalarm ausgelöst. Die 65-Jährige soll laut Polizei von einem Motorboot in den See gefallen sein."
+      "title": "Niedrigwasser: Lkw-Sonntagsfahrverbot soll gelockert werden, Zahl der Hitzetoten höher als angenommen, Bodensee: Über Bord gegangene Frau tot geborgen",
+      "text": "Hitze und Trockenheit setzen der Ernte, den Tieren und vielen Menschen zu. Bodensee & Co. führen immer weniger Wasser. Alle Hintergründe dazu im Liveblog."
     }
   ]
 }
