@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-08-11T05:34:23.221Z",
+  "generatedAt": "2026-08-12T05:54:54.246Z",
   "world": [
+    {
+      "title": "Parlament wählt Orbán-Kritiker Baka zum Staatspräsidenten",
+      "text": "Ungarns Parlament hat den ehemaligen Präsidenten des Obersten Gerichtshofs, András Baka, als neues Staatsoberhaupt bestätigt. Der Kritiker des früheren Regierungschefs Orbán erhielt 140 Ja- und nur sechs Nein-Stimmen."
+    },
+    {
+      "title": "Spaniens Provinzen hoffen auf die \"SoFi\"-Touristen",
+      "text": "Schutzbrillen, Eis in Sonnenform, Sonderangebote und vor allem viele Besucher - die Sonnenfinsternis soll Spanien einen wirtschaftlichen Schub bescheren. Vor allem in der Provinz hoffen die Menschen auf \"SoFi-Touristen\". Von Christian Sachsinger."
+    },
+    {
+      "title": "Zürich: Wie der Mikrohandel die Drogenszene eindämmt",
+      "text": "Köln und Düsseldorf möchten einen Modellversuch mit dem sogenannten Drogen-Mikrohandel starten. Vorbild ist Zürich. Dort wird er in \"Drogenkonsumräumen\" geduldet - mit einigem Erfolg. Von T. Wagner"
+    },
     {
       "title": "Volksinitiative: Will die Schweiz noch neutraler werden?",
       "text": "In internationale Konflikte mischt sich die Schweiz militärisch nicht ein - diese Neutralität ist sogar in der Verfassung festgeschrieben. Einigen im Parlament geht das aber noch nicht weit genug. Von Thomas Wagner."
@@ -12,63 +24,55 @@
     {
       "title": "Spanien: Vorfreude auf Sonnenfinsternis, Angst vor Waldbränden",
       "text": "Über weiten Teilen Spaniens ist am Mittwoch die totale Sonnenfinsternis zu sehen. Einheimische und Urlauber wollen sich das Spektakel nicht entgehen lassen. Wegen der Waldbrände gelten strenge Regeln. Nach Mallorca wurde sogar die Armee geschickt."
-    },
-    {
-      "title": "Dürre in Europa: Ernteausfälle, trockene Flüsse und Wassersparen",
-      "text": "In vielen Ländern Europas herrscht extreme Trockenheit: Von den Niederlanden bis Bulgarien trocknen die Gewässer aus, Landwirte erwarten massive Ernterückgänge, Kraftwerke werden abgeschaltet. Ein Blick in verschiedene Regionen Europas."
-    },
-    {
-      "title": "Europas aktivster Vulkan Ätna spuckt wieder Asche und Lava",
-      "text": "Erneut ist der Ätna ausgebrochen, Europas aktivster Vulkan. Der Flugverkehr auf der beliebten italienischen Ferieninsel Sizilien wurde zeitweise eingeschränkt. Noch immer gilt die Warnstufe Rot."
-    },
-    {
-      "title": "Warum werden in Malta kaum Asylanträge gestellt?",
-      "text": "Migranten bedrängen die Grenzzäune der spanischen Exklave Ceuta, auf der italienischen Insel Lampedusa kommen seit Jahren viele Migranten an, in Griechenland auch. Doch in Malta werden kaum Asylanträge gestellt. Woran liegt das? Von Lisa Weiß."
     }
   ],
   "economy": [
     {
-      "title": "Klage von Verbraucherschützern: Sammelt Meta rechtswidrig Daten?",
-      "text": "Dem Konzern hinter WhatsApp, Instagram und Facebook wird vorgeworfen, Nutzerinnen und Nutzer auch auf fremden Internetseiten zu verfolgen. Betroffen sind 50 Millionen Nutzer in Deutschland. Von Edgar Verheyen."
+      "title": "Neue Regeln der EU: Diese Verpackungen gibt es bald nicht mehr",
+      "text": "Ab heute gelten in der EU schärfere Regeln bei Verpackungen. Das Ziel: die Menge an Müll deutlich reduzieren. Nach dem Aus für Plastik-Trinkhalme heißt es für Verbraucher bald Abschied nehmen von bestimmten Verpackungen. Von Sara López."
     },
     {
-      "title": "Partielle Sonnenfinsternis: So schützen Sie Ihre Augen",
-      "text": "Am Mittwoch schiebt sich der Mond über Deutschland zwischen Sonne und Erde und erzeugt eine partielle Sonnenfinsternis. Viele wollen das Himmelsereignis verfolgen, aber es gibt dabei ein paar Dinge zu beachten. Von Juliane Orth."
+      "title": "Anthropic führt Wasserzeichen bei KI-Texten ein",
+      "text": "Anthropic will Texte seines Chatbots Claude mit einem unsichtbaren Wasserzeichen versehen. Grund sind neue EU-Vorgaben: KI-Inhalte müssen künftig mit maschinenlesbaren Markierungen versehen werden."
     },
     {
-      "title": "IfW-Präsident wirft Pistorius falsche Investitionen in Bundeswehr vor",
-      "text": "Der Verteidigungsminister muss sich erneut Kritik stellen, er investiere zu sehr in veraltete Technik. Es brauche Waffensysteme der Zukunft statt noch mehr Panzer und Fregatten, fordert IfW-Präsident Schularick."
+      "title": "Zahl verkaufter Wärmepumpen nimmt stark zu",
+      "text": "Im ersten Halbjahr konnte die Heizungsindustrie wieder mehr Geräte verkaufen. Gasheizungen bleiben ein Dauerbrenner, doch besonders die Nachfrage nach Wärmepumpen legt kräftig zu."
     }
   ],
   "automotive": [
     {
-      "title": "E-Tretroller: Ohne Helm und Warnweste drohen in Paris nun Bußgelder",
-      "text": "In der französischen Hauptstadt müssen E-Tretroller-Fahrende jetzt auf öffentlichen Straßen einen Helm und eine Warnweste tragen. Werden Nutzer von E-Tretrollern ohne diese Pflicht-Utensilien angetroffen, müssen sie teils dreistellige Bußgelder blechen."
+      "title": "Elefanten machen kurzen Prozess mit Ladesäule",
+      "text": "Dass Ladestationen gelegentlich mit Vandalismus zu kämpfen haben, ist nicht neu. Mit diesem Verursacher dürfte der Betreiber einer Ladestation in China allerdings kaum gerechnet haben: Denn ein Elefant hat einfach seine Ladesäule umgelegt."
     },
     {
-      "title": "US-Studenten entwickeln „energiepositives“ Solarauto",
-      "text": "Studenten der Clemson University haben einen E-Auto-Prototypen namens Deep Orange 17 enthüllt. Bei dem Unikat handelt es sich um ein Forschungs-Solarfahrzeug, das mehr Energie erzeugen kann, als es verbraucht. Entwicklungshilfe erhielt das Team von BMW und einem Fraunhofer-Institut."
+      "title": "Analyse: Deutsche laden nicht nach Feierabend, sondern vor allem morgens",
+      "text": "Der Ladesoftware-Spezialist Monta macht eine Heimlade-Analyse öffentlich, die auf der Auswertung von 1,5 Millionen anonymisierten Ladevorgängen in Deutschland beruht. Sie zeigt: Die befürchtete Lastspitze im Stromnetz am Abend gibt es so nicht. Stattdessen verlagert sich die Hauptladezeit in die frühen Morgenstunden."
     },
     {
-      "title": "SAIC-VW schiebt in China ein E-SUV namens ID. ERA 5X nach",
-      "text": "Das Joint Venture SAIC-Volkswagen hat in China das Kompakt-SUV ID. ERA 5X zur Zulassung angemeldet. Das Modell ist Volkswagens erster Repräsentant auf der wichtigen Compact Main Platform und auch das erste vollelektrische Modell der China-spezifischen ID. ERA-Baureihe."
+      "title": "RhönEnergie nimmt sechs weitere Elektrobusse in Betrieb",
+      "text": "Die RhönEnergie Verkehrsbetriebe haben sechs weitere Elektrobusse in ihre Flotte aufgenommen. Damit sind im Fuldaer Stadtverkehr nun 13 E-Busse unterwegs. Der nächste Ausbau ist bereits geplant: 17 weitere Fahrzeuge sollen im Sommer 2027 folgen."
     }
   ],
   "tech": [
     {
-      "title": "Satelliteninternet: Lufthansa startet Starlink frei",
-      "text": "Bis 2029 soll jede der 850 Lufthansa-Maschinen mit Starlink ausgestattet sein. Der erste Flug geht Mitte August."
+      "title": "Umfrage: KI beeinflusst deutschen Star-tup-Arbeitsmarkt",
+      "text": "Eine Bitkom-Befragung zeigt: Künstliche Intelligenz verändert den Personalbedarf deutscher Start-ups."
     },
     {
-      "title": "zHBM, zNAND & HBF: Stapelspeicher für KI-Hardware soll schneller und größer werden",
-      "text": "Samsung und SK Hynix haben beim Future Memory Summit ihre Neuerungen bei 3D-Speicher vorgestellt. Direkt aufgestapelter HBM soll die Bandbreite steigern. ( 3D-Speicher , KI )"
+      "title": "Digital Networks Acts: Kupferabschaltung ist keine Enteignung",
+      "text": "Die Abschaltung alter Kupfernetze in der EU ist keine entschädigungspflichtige Enteignung. Zu diesem Ergebnis kommt ein Rechtsgutachten des Breko."
     },
     {
-      "title": "Extrem beliebt: Smart Glasses von Duckduckgo sind einfach nur Sonnenbrillen",
-      "text": "Die neue Sonnenbrille der Suchmaschine ist ein Symbol für den Protest gegen Smart Glasses, mit denen Menschen heimlich aufgenommen werden."
+      "title": "Frequenzen: Starlink-Konkurrent Iris² wird kein Direct-to-Device beherrschen",
+      "text": "Eutelsat hatte groß angekündigt, dass Iris² mit dem 5G-Standard für Non-Terrestrial Networks arbeiten wird. Doch das ist eher aus der Not geboren."
     }
   ],
   "local": [
+    {
+      "title": "BW-Newsticker am Morgen: Countdown für Sonnenfinsternis und Perseiden, Mehrere Brände im Ortenaukreis, Weltkriegsbomben in Neu-Ulm entschärft",
+      "text": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
+    },
     {
       "title": "B27-Unfall bei Neckarsulm: Frontal-Crash fordert zwei Schwerverletzte",
       "text": "Ein Überholmanöver hat auf der B27 bei Neckarsulm zu einem Frontalzusammenstoß geführt. Zwei Personen wurden schwer verletzt, die Bundesstraße war stundenlang voll gesperrt."
@@ -78,12 +82,8 @@
       "text": "Der VfB Stuttgart hat sein vorletztes Vorbereitungsspiel in dieser Sommerpause gewonnen. Damit blieben die Schwaben in all ihren bisherigen Testspielen für diese Saison ohne Niederlage."
     },
     {
-      "title": "Großer Ansturm auf Schutzbrillen für Sonnenfinsternis, Bandscheibenvorfall in 170 Metern Höhe, Was bringt das Aussetzen der Lkw-Fahrverbote?",
-      "text": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
-    },
-    {
-      "title": "Am Wochenende bis zu 39 Grad, Sonnenfinsternis und Sternschnuppen bei \"idealen Verhältnissen\", Ausgesetztes Lkw-Fahrverbot löst Problem nur teilweise",
-      "text": "Am Wochenende gibt es bis zu 39 Grad. Immerhin ein Gutes: Für die Sonnenfinsternis soll es am Mittwoch \"ideale Verhältnisse\" geben. Alles zum BW-Jahrhundertsommer im Liveblog."
+      "title": "Mehr als 600 Einsatzkräfte kämpfen gegen Waldbrände, \"Phantastische Bedingungen\" für die Sonnenfinsternis, Ort schafft es wegen Niedrigwasser in die New York Times",
+      "text": "Löscharbeiten mehrerer Feuer dauern noch die ganze Nacht, Medien aus den USA und China berichten über Niedrigwasser. Alles zum BW-Jahrhundertsommer im Liveblog."
     }
   ]
 }
