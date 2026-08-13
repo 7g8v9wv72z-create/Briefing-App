@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-12T05:54:54.246Z",
+  "generatedAt": "2026-08-13T05:56:58.432Z",
   "world": [
+    {
+      "title": "Ebola in DR Kongo: WHO warnt vor nie dagewesenem Ausmaß",
+      "text": "Die Ebola-Epidemie in der DR Kongo breitet sich so schnell aus, dass die WHO vor einem nie dagewesenen Ausbruch der potenziell tödlichen Krankheit warnt. Der Höhepunkt sei noch lange nicht erreicht."
+    },
+    {
+      "title": "Wie läuft Drohnenabwehr in anderen europäischen Ländern?",
+      "text": "Spätestens seit Leipzig ist klar: Deutschland ist nicht zureichend für die Bedrohung durch Drohnen gewappnet. Doch wie sieht es in anderen europäischen Ländern aus? Wie steht es dort um Erkennung und Abwehr von Drohnen? Von Stephan Stuchlik."
+    },
+    {
+      "title": "Österreich: Wehrdienst soll länger dauern - Streit über den Zivildienst",
+      "text": "Anders als Deutschland hat Österreich die Wehrpflicht nicht ausgesetzt. Doch auch in Wien sieht man Reformbedarf und verlängert den Wehrdienst. Der Zivildienst könnte unattraktiver werden. Doch hier gibt es heftige Debatten. Von Silke Hahne."
+    },
+    {
+      "title": "Island erwartet totale Sonnenfinsternis mit vielen Besuchern",
+      "text": "Besonders spektakulär wird die Sonnenfinsternis in Island: Die Insel liegt teils im Kernschatten. Für gut eine Minute wird die Sonne verschwinden. Das Naturschauspiel sorgt für eine eigene Eventindustrie. Von Arne Bartram."
+    },
     {
       "title": "Parlament wählt Orbán-Kritiker Baka zum Staatspräsidenten",
       "text": "Ungarns Parlament hat den ehemaligen Präsidenten des Obersten Gerichtshofs, András Baka, als neues Staatsoberhaupt bestätigt. Der Kritiker des früheren Regierungschefs Orbán erhielt 140 Ja- und nur sechs Nein-Stimmen."
@@ -8,82 +24,66 @@
     {
       "title": "Spaniens Provinzen hoffen auf die \"SoFi\"-Touristen",
       "text": "Schutzbrillen, Eis in Sonnenform, Sonderangebote und vor allem viele Besucher - die Sonnenfinsternis soll Spanien einen wirtschaftlichen Schub bescheren. Vor allem in der Provinz hoffen die Menschen auf \"SoFi-Touristen\". Von Christian Sachsinger."
-    },
-    {
-      "title": "Zürich: Wie der Mikrohandel die Drogenszene eindämmt",
-      "text": "Köln und Düsseldorf möchten einen Modellversuch mit dem sogenannten Drogen-Mikrohandel starten. Vorbild ist Zürich. Dort wird er in \"Drogenkonsumräumen\" geduldet - mit einigem Erfolg. Von T. Wagner"
-    },
-    {
-      "title": "Volksinitiative: Will die Schweiz noch neutraler werden?",
-      "text": "In internationale Konflikte mischt sich die Schweiz militärisch nicht ein - diese Neutralität ist sogar in der Verfassung festgeschrieben. Einigen im Parlament geht das aber noch nicht weit genug. Von Thomas Wagner."
-    },
-    {
-      "title": "Ungarns neue Präsident: Ein Mann mit Prinzipien",
-      "text": "In Ungarn wird heute eine neues Staatsoberhaupt gewählt - ein weiterer Teil des Machtwechsels. Mit András Baka soll ein Jurist Präsident werden, der die Willkür der Orban-Zeit hautnah erlebt hat. Von C. Verenkotte."
-    },
-    {
-      "title": "Spanien: Vorfreude auf Sonnenfinsternis, Angst vor Waldbränden",
-      "text": "Über weiten Teilen Spaniens ist am Mittwoch die totale Sonnenfinsternis zu sehen. Einheimische und Urlauber wollen sich das Spektakel nicht entgehen lassen. Wegen der Waldbrände gelten strenge Regeln. Nach Mallorca wurde sogar die Armee geschickt."
     }
   ],
   "economy": [
     {
-      "title": "Neue Regeln der EU: Diese Verpackungen gibt es bald nicht mehr",
-      "text": "Ab heute gelten in der EU schärfere Regeln bei Verpackungen. Das Ziel: die Menge an Müll deutlich reduzieren. Nach dem Aus für Plastik-Trinkhalme heißt es für Verbraucher bald Abschied nehmen von bestimmten Verpackungen. Von Sara López."
+      "title": "Marktbericht: Anleger trauen sich zurück in den Markt",
+      "text": "Der DAX dürfte sich zum Handelsstart wieder seinem Rekordstand annähern. Für Zuversicht sorgen gestrige US-Inflationsdaten. Auch die Vorgaben aus Japan und Südkorea fallen ansprechend aus."
     },
     {
-      "title": "Anthropic führt Wasserzeichen bei KI-Texten ein",
-      "text": "Anthropic will Texte seines Chatbots Claude mit einem unsichtbaren Wasserzeichen versehen. Grund sind neue EU-Vorgaben: KI-Inhalte müssen künftig mit maschinenlesbaren Markierungen versehen werden."
+      "title": "Folgen von Dürre und Niedrigwasser - die Auswirkungen im Alltag",
+      "text": "Die Pegelstände des Rheins sinken weiter - was die Logistik massiv stört. Gleichzeitig leidet die Landwirtschaft stark unter der anhaltenden Trockenheit. Woran sind die Folgen im Alltag bereits zu merken? Von Jens Eberl."
     },
     {
-      "title": "Zahl verkaufter Wärmepumpen nimmt stark zu",
-      "text": "Im ersten Halbjahr konnte die Heizungsindustrie wieder mehr Geräte verkaufen. Gasheizungen bleiben ein Dauerbrenner, doch besonders die Nachfrage nach Wärmepumpen legt kräftig zu."
+      "title": "Massen künstlicher Songs: Spotify will KI-Künstler klarer kennzeichnen",
+      "text": "Künftig sollen Spotify-Nutzer besser erkennen, ob sie Musik echter Künstlerinnen und Künstler hören oder von KI-Profilen. Spotify verspricht mehr Transparenz. Was können Nutzende erwarten? Von Constantin Röse."
     }
   ],
   "automotive": [
     {
-      "title": "Elefanten machen kurzen Prozess mit Ladesäule",
-      "text": "Dass Ladestationen gelegentlich mit Vandalismus zu kämpfen haben, ist nicht neu. Mit diesem Verursacher dürfte der Betreiber einer Ladestation in China allerdings kaum gerechnet haben: Denn ein Elefant hat einfach seine Ladesäule umgelegt."
+      "title": "Porsche und Xpeng bilden neuen CO2-Pool",
+      "text": "Um die Flottenziele der EU erfüllen zu können, gehen Porsche und sein Mutterkonzern VW beim Thema CO2-Emissionen nun getrennte Wege: Porsche verlässt den CO2-Pool des VW-Konzerns - und startet stattdessen einen neuen offenen CO2-Pool zusammen mit dem chinesischen E-Auto-Hersteller Xpeng."
     },
     {
-      "title": "Analyse: Deutsche laden nicht nach Feierabend, sondern vor allem morgens",
-      "text": "Der Ladesoftware-Spezialist Monta macht eine Heimlade-Analyse öffentlich, die auf der Auswertung von 1,5 Millionen anonymisierten Ladevorgängen in Deutschland beruht. Sie zeigt: Die befürchtete Lastspitze im Stromnetz am Abend gibt es so nicht. Stattdessen verlagert sich die Hauptladezeit in die frühen Morgenstunden."
+      "title": "Schwerin baut öffentliches Ladenetz weiter aus",
+      "text": "Das öffentliche Ladenetz in Schwerin wächst. Seit Ende 2024 ist die Zahl der Ladepunkte von 119 auf 181 gestiegen. Weitere 40 Ladepunkte sind bereits genehmigt, zudem liegen der Stadt zahlreiche Anträge für zusätzliche Ladeinfrastruktur vor."
     },
     {
-      "title": "RhönEnergie nimmt sechs weitere Elektrobusse in Betrieb",
-      "text": "Die RhönEnergie Verkehrsbetriebe haben sechs weitere Elektrobusse in ihre Flotte aufgenommen. Damit sind im Fuldaer Stadtverkehr nun 13 E-Busse unterwegs. Der nächste Ausbau ist bereits geplant: 17 weitere Fahrzeuge sollen im Sommer 2027 folgen."
+      "title": "Mercedes eSprinter wird zum Elektro-Eiswagen",
+      "text": "Der englische Eiswagen-Hersteller Whitby Morrison hat einen vollelektrischen Eiswagen vorgestellt, der auf der Plattform des Mercedes-Benz eSprinter aufbaut. Das Fahrzeug wurde von Grund auf als Elektro-Eiswagen konzipiert und hat erfolgreich das Zulassungsverfahren für Einzelfahrzeuge durchlaufen."
     }
   ],
   "tech": [
     {
-      "title": "Umfrage: KI beeinflusst deutschen Star-tup-Arbeitsmarkt",
-      "text": "Eine Bitkom-Befragung zeigt: Künstliche Intelligenz verändert den Personalbedarf deutscher Start-ups."
+      "title": "Rumänien: Atomkraftwerk Cernavoda steht vor der Zwangsabschaltung",
+      "text": "Das rumänische Atomkraftwerk Cernavoda muss binnen weniger Tage abgeschaltet werden. Die Folgen: weniger Strom und steigende Energiepreise."
     },
     {
-      "title": "Digital Networks Acts: Kupferabschaltung ist keine Enteignung",
-      "text": "Die Abschaltung alter Kupfernetze in der EU ist keine entschädigungspflichtige Enteignung. Zu diesem Ergebnis kommt ein Rechtsgutachten des Breko."
+      "title": "Kühlung des Atomkraftwerks Paks: Ungarn will Wasserstand künstlich erhöhen",
+      "text": "Ungarn will die Donau anstauen, damit das AKW Paks weitergekühlt werden kann. Dazu soll eine Sohlschwelle gebaut werden."
     },
     {
-      "title": "Frequenzen: Starlink-Konkurrent Iris² wird kein Direct-to-Device beherrschen",
-      "text": "Eutelsat hatte groß angekündigt, dass Iris² mit dem 5G-Standard für Non-Terrestrial Networks arbeiten wird. Doch das ist eher aus der Not geboren."
+      "title": "Sonnenfinsternis und Stromnetz: Nur eine kleine Delle in den Daten",
+      "text": "Die Sonnenfinsternis hat sich nur geringfügig auf die Stromproduktion durch Solarenergie ausgewirkt. In einem Jahr könnte der Effekt größer sein."
     }
   ],
   "local": [
     {
-      "title": "BW-Newsticker am Morgen: Countdown für Sonnenfinsternis und Perseiden, Mehrere Brände im Ortenaukreis, Weltkriegsbomben in Neu-Ulm entschärft",
-      "text": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
+      "title": "Nach anhaltenden Waldbränden: Kripo ermittelt, \"Fantastische Bedingungen\" für Sonnenfinsternis, Ulm verlängert Wasserentnahmeverbot",
+      "text": "Löscharbeiten mehrerer Feuer dauern an, Offenbach kämpft gegen die Hitze in der Innenstadt. Alles zum BW-Jahrhundertsommer im Liveblog."
     },
     {
-      "title": "B27-Unfall bei Neckarsulm: Frontal-Crash fordert zwei Schwerverletzte",
-      "text": "Ein Überholmanöver hat auf der B27 bei Neckarsulm zu einem Frontalzusammenstoß geführt. Zwei Personen wurden schwer verletzt, die Bundesstraße war stundenlang voll gesperrt."
+      "title": "Sprengstoffalarm aufgehoben - Bahnstrecke zwischen Ulm und Augsburg wieder frei",
+      "text": "Nach dem Großeinsatz bei einem Logistikunternehmen in Neu-Ulm wegen eines verdächtigen Gegenstandes hat die Polizei Entwarnung gegeben. Die Sperrung der Bahnstrecke ist aufgehoben worden."
     },
     {
-      "title": "Für den VfB ist auch ein Premier-League-Club kein Problem!",
-      "text": "Der VfB Stuttgart hat sein vorletztes Vorbereitungsspiel in dieser Sommerpause gewonnen. Damit blieben die Schwaben in all ihren bisherigen Testspielen für diese Saison ohne Niederlage."
+      "title": "Urteil nach Messerangriff im MediaMarkt Ulm: Täter muss dauerhaft in die Psychiatrie",
+      "text": "Nach dem Messerangriff in einem Ulmer MediaMarkt Mitte Januar hat das Landgericht Ulm den Täter wegen Schuldunfähigkeit freigesprochen. Er muss dauerhaft in eine psychiatrische Klinik."
     },
     {
-      "title": "Mehr als 600 Einsatzkräfte kämpfen gegen Waldbrände, \"Phantastische Bedingungen\" für die Sonnenfinsternis, Ort schafft es wegen Niedrigwasser in die New York Times",
-      "text": "Löscharbeiten mehrerer Feuer dauern noch die ganze Nacht, Medien aus den USA und China berichten über Niedrigwasser. Alles zum BW-Jahrhundertsommer im Liveblog."
+      "title": "BW-Newsticker am Morgen: Perseiden und Sonnenfinsternis mit besten Sicht-Bedingungen, Autobahn-Sperrung wegen Schafherde, Hitzewelle bis Sonntag",
+      "text": "Was für ein Glück: Keine Wolken am Himmel und Neumond: Viele erfreuten sich am Abend und in der Nacht dem besonderen Anblick. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
     }
   ]
 }
