@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-08-18T05:02:09.686Z",
+  "generatedAt": "2026-08-19T05:01:52.476Z",
   "world": [
+    {
+      "title": "Waldbrand in Belgien weiter nicht unter Kontrolle - Hoffnung auf Regen",
+      "text": "Einsatzkräfte versuchen weiter, den Waldbrand im Hohen Venn in Belgien unter Kontrolle zu bringen. Es gibt einen Lichtblick: mehr Regen. Noch könnten die aus Monschau in NRW evakuierten Bewohner aber nicht zurück."
+    },
     {
       "title": "Dänemark reglementiert Nutzung Künstlicher Intelligenz an Schulen",
       "text": "In Dänemark gelten zum Start ins neue Schuljahr verschärfte Regeln für den Einsatz von Künstlicher Intelligenz. So sollen etwa mehr Aufgaben in der Schule erledigt und Prüfungen stärker überwacht werden. Von Arne Bartram."
@@ -20,55 +24,55 @@
     {
       "title": "Hilfe für minderjährige Mädchen in der Ungewissheit von Ceuta",
       "text": "In die spanischen Exklave Ceuta sind auch viele Mädchen gekommen, die Asyl suchen, um ihre Eltern in der Heimat zu unterstützen. Ihre Zukunft ist ungewiss. Doch es gibt Menschen, die den Minderjährigen helfen. Von F. Welz."
-    },
-    {
-      "title": "Waldbrände auf griechischer Insel Salamis - zwei Tote",
-      "text": "In Griechenland kämpft die Feuerwehr gegen Waldbrände. Auf der Insel Salamis bei Athen brachen Feuer in der Nähe von Stränden aus. Mindestens zwei Menschen starben. Urlauber und Einwohner wurden mit Booten in Sicherheit gebracht."
     }
   ],
   "economy": [
     {
+      "title": "Hitzeschutz-Debatte: Gehen Klimapläne und Wachstum zusammen?",
+      "text": "Umwelt- und Klimaschutz haben in der Bundesregierung nicht die oberste Priorität. Angesichts von Hitze und Trockenheit werden Forderungen nach schnellem Handeln laut. Sonst wird es teuer für die Wirtschaft. Von Jakob Mayr."
+    },
+    {
+      "title": "Schlechte Erntebilanz wegen Hitze und Trockenheit",
+      "text": "Der heiße, trockene Sommer in vielen Teilen Deutschlands hat die Erträge von Landwirten einbrechen lassen. Besonders im Süden und Westen litten die Pflanzen extrem. Die Bauern müssen sich darauf einstellen. Von Anke Hahn."
+    },
+    {
       "title": "Dünger und Klimaschutz: Wie unsere Ernten von Erdgas abhängen",
       "text": "Chemisch-synthetischer Dünger ermöglicht hohe Ernteerträge. Doch für dessen Produktion werden bisher große Mengen an Erdgas eingesetzt. Ist klimafreundlicher Industriedünger eine Alternative? Von Oda Lambrecht."
-    },
-    {
-      "title": "25 Jahre Miniatur Wunderland: \"In ganz vielen Menschen schlummern verrückteste Ideen\"",
-      "text": "Seit 25 Jahren gibt es das Miniatur Wunderland in Hamburg - eine der beliebtesten Touristen-Attraktionen Deutschlands. Doch der Weg dahin sei \"wirklich steinig\" gewesen, erzählt Mitgründer Frederik Braun im Interview."
-    },
-    {
-      "title": "Wie gerecht ist die deutsche Klimapolitik?",
-      "text": "Hitzewelle, Dürre, Brände: Klimaschutz wird immer dringlicher. Doch die Kosten treffen nicht alle gleich - wer wenig verdient, kann sich E-Auto oder Wärmepumpe nicht leisten. Tut die Regierung genug für den sozialen Ausgleich? Von Katrin Aue."
     }
   ],
   "automotive": [
     {
-      "title": "Scheitert der Durchbruch für bidirektionales Laden an einem Übersetzungsfehler?",
-      "text": "Mit ISO 15118-20 Amendment 1 und neuen AFIR-Vorgaben stehen zwei wichtige Bausteine für bidirektionales Laden bereit – doch bis Elektroautos den Strom netzkonform ins öffentliche Netz zurückspeisen können, sind noch einige Hürden zu nehmen. …"
+      "title": "Bidirektionales Laden: Ist das E-Auto wirklich das Kraftwerk von morgen, Jörg Heuer?",
+      "text": "Bidirektionales Laden ist technisch längst mehr als ein Zukunftsversprechen – doch der Markt steht noch ganz am Anfang. In der neuen Folge von „eMobility Insights“ erklärt Jörg Heuer, Gründer und CEO der Münchner Ladeinfrastruktur-Softwareschmiede EcoG, wo V2G heute wirklich steht, welche Rolle Software dabei spielt – und warum der wirtschaftlich g …"
     },
     {
-      "title": "Porsche erhöht beim Macan auf AC-Laden mit 22 kW",
-      "text": "Der anstehende Modellwechsel beim Porsche Macan macht sich an AC-Ladesäulen bemerkbar: Das elektrische E-SUV erhält in seinen Topvarianten GTS und Turbo einen serienmäßigen 22-kW-Onboard-Lader verbaut. In den übrigen Varianten ist dieses Feature ab sofort optional erhältlich. Außerdem führt Porsche ein Business-Paket ein."
+      "title": "GM stellt zum Modelljahr 2027 auf native NACS-Ladeports um",
+      "text": "GM wechselt zum Modelljahr 2027 bei allen Elektrofahrzeugen seiner Marken Cadillac, Chevrolet und GMC auf den von Tesla entwickelten NACS-Ladestandard. Ab dem neuen Modelljahrgang können also sämtlichen GM-Modelle ohne Adapter an NACS-Ladepunkten Strom ziehen."
     },
     {
-      "title": "MVG erprobt kleinere E-Busse für München",
-      "text": "Die Münchner Verkehrsgesellschaft (MVG) erprobt zwei elektrische Midibusse im Linienbetrieb. Der Solaris Urbino 9 LE electric und der Wrightbus WB9 sollen zeigen, wo kleinere Fahrzeuge das Busangebot sinnvoll ergänzen können."
+      "title": "Lieferdienst Rhenus erweitert E-Flotte in Polen",
+      "text": "Rhenus baut seine Elektroflotte in Polen um neun Lieferfahrzeuge auf insgesamt 33 E-Transporter aus. Die Fahrzeuge kommen vor allem auf der letzten Meile in großen Ballungsräumen und bei Zufahrtsbeschränkungen zum Einsatz."
     }
   ],
   "tech": [
     {
-      "title": "Werbeeinwilligung: Bundeskartellamt erzwingt faire Tracking-Abfragen von Apple",
-      "text": "Gegenüber dem Bundeskartellamt hat Apple rechtlich bindende Zusagen für Änderungen an Einwilligungsdialogen abgegeben."
+      "title": "Mietverträge und Hardware: US-Konzerne verstecken KI-Ausgaben in Höhe von 3 Billionen US-Dollar",
+      "text": "Kosten für Mietverträge von gigantischen Rechenzentren und Bestellungen für GPUs, TPUs und HBM-Speicher tauchen bei den US-Konzernen noch nicht auf."
     },
     {
-      "title": "Rückschlag für Airbus: Start-up Aerospacelab baut Großteil der Satelliten von Iris²",
-      "text": "Aerospacelab hat wenig Erfahrung, aber viel Kapazität. Auch bei SatcomBw-4 der Bundeswehr dürfte die belgische Firma einen Auftrag bekommen."
+      "title": "Kleine Atomreaktoren: SMR-Branche verliert Milliarden an Börsenwert",
+      "text": "Investoren verlieren zunehmend das Vertrauen in Unternehmen, die kleine modulare Kernreaktoren entwickeln."
     },
     {
-      "title": "Ohne Seltenerdmetalle: Yasa will Axialflussmotoren resilient machen",
-      "text": "Bislang benötigen Axialflussmotoren von Yasa Seltenerdmetalle für die Rotoren. Doch aus strategischen Gründen soll darauf verzichtet werden."
+      "title": "Lexware: Kleinunternehmen setzen verstärkt KI ein",
+      "text": "Neben dem Schreiben von Texten auch für die Entwicklung neuer Produkte, beispielsweise in einem Bäckereibetrieb: KI wird bei 34 Prozent der Kleinunternehmen eingesetzt."
     }
   ],
   "local": [
+    {
+      "title": "Verlorenen Bruder gefunden: Ulmerin lüftet lang gehütetes Familiengeheimnis",
+      "text": "Eine WhatsApp-Nachricht nach dem Tod der Mutter verrät ein lang gehütetes Familiengeheimnis: Heidi Nushöhr aus Ulm erfährt, dass sie einen Bruder hat. Sie macht sich auf die Suche."
+    },
     {
       "title": "Spezialkran hebt neue Bahnbrücke in Heidenheim ein",
       "text": "Es ist der Höhepunkt einer Großbaustelle der Deutschen Bahn in Heidenheim. Ein Großraupenkran setzt seit Montagmorgen die neue Bahnbrücke ein - Zentimeter für Zentimeter."
@@ -80,10 +84,6 @@
     {
       "title": "Mariä Himmelfahrt: Feiertag in Bayern, Ulm wird zum Einkaufsziel",
       "text": "Am 15. August ist in vielen Teilen Bayerns Feiertag, die Läden haben geschlossen. In Ulm läuft der Alltag weiter. Warum der Feiertag Mariä Himmelfahrt die Innenstadt besonders füllt."
-    },
-    {
-      "title": "Ein Klick, ein Auftrag: Mit dem Mängelmelder gegen Müll und Missstände in Ulm",
-      "text": "In Ulm können Bürgerinnen und Bürger Schäden im öffentlichen Raum per App melden. Der Mängelmelder wird tausendfach genutzt - und oft ist der Pfosten oder das Schlagloch schnell repariert."
     }
   ]
 }
