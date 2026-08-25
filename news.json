@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-08-24T05:11:18.398Z",
+  "generatedAt": "2026-08-25T05:04:48.744Z",
   "world": [
+    {
+      "title": "Referendum über EU-Beitrittsverhandlungen: Brüssel hofft auf ein Ja aus Island",
+      "text": "Island stimmt am Wochenende über EU-Beitrittsverhandlungen ab. Nicht zuletzt aus geopolitischen Gründen setzt man in Brüssel auf Zustimmung - und versucht, beim schwierigen Thema Fischerei auf die Isländer zuzugehen. Von Thomas Spickhofen."
+    },
+    {
+      "title": "Italien: Gedenken an Opfer der Erdbeben vor zehn Jahren in Amatrice",
+      "text": "Vor zehn Jahren wurde die Region um Amatrice in Italien von schweren Erdbeben erschüttert - 300 Menschen starben. Zum Gedenken heute kam auch Ministerpräsidentin Meloni. Der Wiederaufbau läuft weiter schleppend."
+    },
+    {
+      "title": "Ankündigung zum Unabhängigkeitstag: EU gibt Milliarden für Ukraine frei",
+      "text": "Zum heutigen Unabhängigkeitstag der Ukraine hat die EU neue Finanzhilfen in Milliardenhöhe genehmigt - auch vor dem Hintergrund intensivierter russischer Angriffe. Viele Verbündete der Ukraine treffen sich heute in Kiew."
+    },
     {
       "title": "Schwertangriff in Schweden: Wenn plötzlich das Grauen zu spüren ist",
       "text": "Nach dem Schwertangriff an einer schwedischen Schule am vergangenen Freitag bleibt die Provinzstadt Fagersta fassungslos zurück. Ein Mädchen wurde getötet, zwei Schüler schwer verletzt. Wie umgehen mit dieser Tat? Von Christian Stichler."
@@ -12,65 +24,53 @@
     {
       "title": "Ein Toter nach Schwertangriff an schwedischer Schule",
       "text": "In einer Schule in einer Kleinstadt in Zentralschweden hat ein 18-Jähriger mit einem Schwert mehrere Personen angegriffen. Ein Mensch starb, drei weitere wurden verletzt. Die Polizei nahm den mutmaßlichen Täter fest."
-    },
-    {
-      "title": "Mehr als 300 Festnahmen wegen Bränden in Griechenland",
-      "text": "In Griechenland gab es zuletzt mehrere schwere Waldbrände. Trockenheit und Hitze sorgen dafür, dass sich die Feuer ausbreiten. Die Behörden gehen gegen Brandstifter vor."
-    },
-    {
-      "title": "Europäisches Asylsystem: Italien fordert Kompensation für Asylsuchende",
-      "text": "Eigentlich soll das neue EU-Asylsystem Staaten wie Italien entlasten. Doch nun wollen andere Länder Tausende Asylsuchende dorthin zurückschicken. Ein neuer Streit bahnt sich an. Der Druck auf die Regierung Meloni wächst. Von T. Kleinjung."
-    },
-    {
-      "title": "NATO-Ostflanke: Auch deutsche Soldaten bauen Polens \"Ostschild\"",
-      "text": "Mit Panzergräben und Betonigeln befestigt Polen seine Grenzen. Auch deutsche Soldaten helfen beim Bau des \"Ostschilds\". Das Projekt soll die Verteidigung an der NATO-Ostflanke stärken. Von Palina Milling."
     }
   ],
   "economy": [
     {
-      "title": "Leisten wir uns zu viele Jobs, die dem Wohlstand nichts bringen?",
-      "text": "Deutschland hat ein Problem: Die Wirtschaft wächst nicht mehr so stark, wie sie müsste, um den Wohlstand zu halten. Wird zu viel verwaltet und berichtet, statt Investitionen und neue Ideen ins Land zu holen?"
+      "title": "Handelsstreit mit Kanada: USA verdoppeln Zölle auf Autos",
+      "text": "Am Wochenende war der Zollstreit zwischen den USA und Kanada neu ausgebrochen. Jetzt legt US-Präsident Trump nach und kündigt deutlich höhere Abgaben auf Autos und Autoteile aus dem Nachbarland an."
     },
     {
-      "title": "Verhandlungsbeginn: Sammelklage gegen E.ON wegen Fernwärmepreisen",
-      "text": "Um mehrere Hundert Prozent sollen sich die Preise vom Anbieter E.ON für Fernwärme in einigen Fällen erhöht haben. Der Verbraucherzentrale Bundesverband klagt - heute beginnt die Verhandlung. Für Betroffene könnte es um Tausende Euro gehen. Von J. Eberl."
+      "title": "Gas aus Norwegen: Uniper schließt Liefervertrag mit Equinor",
+      "text": "Schon jetzt bezieht Deutschland den größten Anteil seiner Gaslieferungen aus Norwegen - langfristig soll es noch mehr werden. Dazu hat der staatliche Gashändler Uniper einen umfangreichen Liefervertrag abgeschlossen."
     },
     {
-      "title": "OpenAI startet Werbegeschäft in Europa: Wie sich KI finanzieren lässt",
-      "text": "Von Montag an wird ChatGPT in Europa Werbung enthalten. Obwohl OpenAI-Chef Altman lange dagegen war, setzt der Konzern nun genau darauf, um die KI zu finanzieren. Welche Folgen das hat, erklärt Lilli-Marie Hiltscher."
+      "title": "Unternehmer Klaus-Michael Kühne im Alter von 89 Jahren gestorben",
+      "text": "Er galt als einer der einflussreichsten Geschäftsmänner und als einer der reichsten Deutschen: Klaus-Michael Kühne ist im Alter von 89 Jahren gestorben. Der gebürtige Hamburger förderte auch Sport und Kultur."
     }
   ],
   "automotive": [
     {
-      "title": "Vehicle to Live: Wenn der Kia EV5 zum Camping-Akku wird",
-      "text": "Ein Elektro-SUV, ein kleiner Wohnwagen und eine Reise bis an die polnische Ostseeküste: Der Kia EV5 musste sich bei uns nicht nur als Zugfahrzeug beweisen. Dank Vehicle-to-Load wurde sein 81,4-kWh-Akku auf dem Campingplatz auch zur mobilen Stromversorgung. Und ausgerechnet der Verbrauch mit Anhänger sorgte für eine Überraschung."
+      "title": "Volvo macht Alexander Petrofski zum neuen CTO",
+      "text": "Alexander Petrofski, der bereits seit über 20 Jahren für Volvo tätig ist, wird neuer Technologiechef (CTO) des schwedischen Autoherstellers. Er verantwortete zuletzt das Geschäft mit kleineren Fahrzeugmodellen wie dem EX30, EX40 oder XC40. Vorgänger Anders Bell leitet künftig eine neue Startup-Initiative innerhalb von Volvo Cars."
     },
     {
-      "title": "Hubject liefert jetzt Ladedaten an Localiser",
-      "text": "Hubject und Localiser gehen eine strategische Datenpartnerschaft ein. Künftig fließen Daten aus dem internationalen Hubject-Netzwerk in die Plattform von Localiser ein. Damit sollen Betreiber, Kommunen und Investoren Ladeinfrastruktur gezielter planen und bestehende Standorte wirtschaftlicher betreiben können."
+      "title": "Strombremse für PV-Anlagen könnte bidirektionales Laden ausbremsen",
+      "text": "Die von Bundeswirtschaftsministerin Katherina Reiche geplanten Änderungen am Erneuerbare-Energien-Gesetz (EEG) könnten auch das bidirektionale Laden von Elektroautos zurückwerfen. Grund ist eine sogenannte „Strombremse“ für neue PV-Anlagen, die Besitzer von BiDi-fähigen E-Autos besonders hart treffen könnte."
     },
     {
-      "title": "Tesla, Uber und Waymo dürfen in Nevada tausende Robotaxis betreiben",
-      "text": "Die Verkehrsbehörde in Nevada hat Tesla, Uber sowie Waymo grünes Licht für den großflächigen Betrieb von bis zu 8.000 Robotaxis im Clark County erteilt, in dem auch die Metropole Las Vegas liegt. Davon entfallen allein bis zu 5.000 genehmigte Fahrzeuge auf Tesla."
+      "title": "Pink, heiß, elektrisch: BiDi-Laden für die Sauna",
+      "text": "Im schwedischen Skelleftea testet der Energieversorger Skelleftea Kraft, wie sich eine pinkfarbene Sauna mit Strom aus Elektroauto-Batterien beheizen lässt. Das ungewöhnliche Projekt zeigt, welches Potenzial im BiDi-Laden steckt."
     }
   ],
   "tech": [
     {
-      "title": "Microsoft: RGB-Software lässt Windows 11 abstürzen",
-      "text": "Nach einem Windows-11-Update stürzt das Betriebssystem häufig mit einem Bluescreen ab. Das geschieht vor allem mitten in Games. ( Windows 11 , Microsoft )"
+      "title": "Xring O3: Xiaomis Smartphone-SoC soll Apple und Qualcomm schlagen",
+      "text": "Der Xring O3 nutzt aktuelle ARM-Kerne und LPDDR6. Auch ein SoC für Autos und eines mit aufgestapeltem RAM hat Xiaomi entwickelt."
     },
     {
-      "title": "Power Delivery: USB-Kabel zeigt Ladeleistung auf kleinem Display an",
-      "text": "Das Vogatiki informiert per Display über die aktuelle Stromstärke, Spannung und Leistung. Maximal sind 240 Watt möglich."
+      "title": "Kottbusser Tor in Berlin: Kameras für automatisierte Überwachung installiert",
+      "text": "Die Berliner Polizei will mit Verhaltensscannern einen öffentlichen Platz in Berlin überwachen. 30 Kameras werden installiert."
     },
     {
-      "title": "Weltraumrecht: Der Mond droht zur Mülldeponie für die Raumfahrt zu werden",
-      "text": "Der Mond wird zur Mülldeponie für Raketen. Experten fordern strenge Regeln, bevor wertvolle Experimente oder Menschenleben bedroht sind. ( Falcon-9 , Raumfahrt )"
+      "title": "C2i Semiconductors: Infineon kauft indisches KI-Start-up",
+      "text": "Während Nvidia mit KI-Chips Milliarden verdient, droht der Kollaps im Stromnetz. Infineon kauft deshalb nach gut zwei Jahren das indische Start-Up C2i Semiconductors."
     }
   ],
   "local": [
     {
-      "title": "BW-Newsticker am Morgen: Mehrere tödliche Motorradunfälle am Wochenende, Helge Schneider bricht Konzert bei Landesgartenschau ab, DFB-Pokal-Blamage für FC Heidenheim",
+      "title": "BW-Newsticker am Morgen: Mehrere tödliche Motorradunfälle am Wochenende, Helge Schneider unterbricht Konzert bei Landesgartenschau, DFB-Pokal-Blamage für FC Heidenheim",
       "text": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
     },
     {
@@ -82,8 +82,8 @@
       "text": "Auf der Bahnstrecke Aalen-Crailsheim rollt der Zugverkehr wieder. Die Reparaturarbeiten seien abgeschlossen, teilte ein Sprecher der Deutschen Bahn mit."
     },
     {
-      "title": "Möglicher MHP-Verkauf: Müssen der VfB, Heidenheim und Ludwigsburg zittern?",
-      "text": "Porsche will sich offenbar von seiner Tochter MHP trennen. MHP engagiert sich finanziell u.a. beim VfB Stuttgart, 1. FC Heidenheim und bei den Ludwigsburger Basketballern. Die Vereine reagieren vorwiegend zuversichtlich."
+      "title": "BW-Newsticker am Morgen: Nach Ausschreitungen bei DFB-Pokalspiel: Zahlen bald die Vereine?, Nach Korruption-Vorwürfen: Neue Regeln für Wasen-Schausteller, Erdbeben am Bodensee",
+      "text": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
     }
   ]
 }
