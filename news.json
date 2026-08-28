@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-27T15:23:41.157Z",
+  "generatedAt": "2026-08-28T16:49:13.948Z",
   "world": [
+    {
+      "title": "Präsidentschaftskandidaten in Frankreich zum Wahlkampfauftakt bei MEDEF",
+      "text": "Acht Monate vor der Präsidentschaftswahl in Frankreich haben sich sieben Kandidaten vor Wirtschaftsvertretern präsentiert. Der Ort: das Pariser Tennisstadion Roland Garros. Im Fokus: die Verschuldung Frankreichs. Von Cai Rienäcker."
+    },
+    {
+      "title": "Villena in Spanien - Bedeutender Schatz aus der Bronzezeit gestohlen",
+      "text": "Sie kamen frühmorgens und brauchten nur wenige Minuten: Unbekannte haben im spanischen Villena einen prähistorischen Goldschatz gestohlen. Die Ermittler prüfen offenbar, ob der Diebstahl gezielt in Auftrag gegeben wurde."
+    },
     {
       "title": "Geberländer fordern massive Kürzungen beim EU-Budget",
       "text": "Nach Beratungen über das EU-Budget fordert Deutschland gemeinsam mit fünf anderen EU-Ländern Kürzungen in Milliardenhöhe. Die bisherigen Pläne der EU-Kommission seien \"schlicht unbezahlbar\", erklärte Kanzler Merz."
@@ -16,59 +24,59 @@
     {
       "title": "Britisches Königshaus: Prinz Harry und Meghan wieder zurück in England",
       "text": "Der Herzog von Sussex, Harry, und seine Frau, Herzogin Meghan, sind wieder in Großbritannien. Wie Medien berichten, landeten sie mit ihren Kindern, Archie und Lilibet, mit einem Privatflugzeug in Birmingham."
-    },
-    {
-      "title": "Feuer in Naturschutzgebiet: Erster Verdacht zur Brandursache im Hohen Venn",
-      "text": "Etwa 3.000 Hektar wurden durch den Waldbrand im Naturschutzgebiet Hohes Venn zerstört. Nun untersuchen Behörden, ob das Feuer möglicherweise durch eine landwirtschaftliche Maschine ausgelöst wurde."
-    },
-    {
-      "title": "Slowakische Polizei vereitelt Anschlag auf Drohnenfabrik",
-      "text": "Improvisiertes Napalm und ein handschriftlicher Plan: In der Slowakei haben Ermittler nach eigenen Angaben einen Anschlag auf eine Drohnenfabrik verhindert. Drei Männer wurden festgenommen - einer von ihnen in Deutschland."
     }
   ],
   "economy": [
     {
-      "title": "Energieversorgung: Sind Deutschlands Gasspeicher ausreichend voll?",
-      "text": "Sind die Gasspeicher voll genug, damit Wirtschaft und Bevölkerung gut durch den Winter kommen? Und sind hohe Gasreserven überhaupt noch nötig - oder hat sich die Lage am Weltmarkt entspannt? Von S. Biegger und T. Peters."
+      "title": "Amerikaner besorgt wegen wirtschaftlicher Folgen des Iran-Kriegs",
+      "text": "Was als kurzer Feldzug geplant war, entwickelt sich zum Desaster für US-Präsident Trump. Die Amerikaner spüren die Folgen des Iran-Kriegs längst im Alltag - sei es im Supermarkt oder an der Zapfsäule. Von Anne Schneider."
     },
     {
-      "title": "KfW: Wieder mehr Menschen bereit für private Klima-Investitionen",
-      "text": "Die Zustimmung zum Klimaschutz bleibt hoch. Jetzt steigt auch die Bereitschaft wieder, privat dafür zu investieren - sei es bei der Stromversorgung im eigenen Haus oder mit dem Kauf eines Elektrofahrzeugs."
+      "title": "Wo es trotz Konjunkturflaute noch Jobs gibt",
+      "text": "Jahrelang kein Wachstum, das schlägt längst auch auf den Arbeitsmarkt durch. Hinzu kommt der Strukturwandel in der Industrie, der auch Arbeitsplätze kostet. Wo fallen Stellen weg - und wo gibt es neue? Von E. Birkenstock."
     },
     {
-      "title": "Hitzeschutz beim Neubau für kühles Wohnen ohne Klimaanlage",
-      "text": "Draußen Hitzewelle, drinnen angenehme 24 Grad - ganz ohne klassische Klimaanlage. Wie sieht ein klimafreundliches und gleichzeitig klimaresilientes Haus aus? Von Margareta Holzreiter und Edina Schmitt."
+      "title": "Arbeitslosigkeit im August erneut leicht gestiegen",
+      "text": "Es bewegt sich wenig auf dem deutschen Arbeitsmarkt: Die Zahl der Arbeitslosen in Deutschland ist im August über der Marke von drei Millionen geblieben. Die Arbeitslosenquote stieg leicht auf 6,5 Prozent."
     }
   ],
   "automotive": [
     {
-      "title": "Ubitricity & Deftpower bringen Smart Charging an 1.500 öffentliche Ladepunkte",
-      "text": "Ubitricity und Deftpower weiten ihre Zusammenarbeit beim Smart Charging in den Niederlanden aus. An 1.500 öffentlichen Ladepunkten sollen Ladevorgänge über den offenen Standard OCPI 2.2.1 gezielt in Zeiten geringerer Netzauslastung verschoben werden können."
+      "title": "20.000-Euro-Stromer von VW wird wohl ID. Up heißen",
+      "text": "Volkswagens für 2027 geplanter Elektro-Kleinwagen zum Basispreis von rund 20.000 Euro wird ID. Up heißen und nicht ID.1 - zumindest wenn man einem spanischen Medienbericht glauben kann. Demnach soll VW die Benennung des Modells als ID. Up bereits final beschlossen haben."
     },
     {
-      "title": "Stadtwerke Flensburg bauen Depot für 70 E-Busse",
-      "text": "Die Stadtwerke Flensburg und ihre Tochter Aktiv Bus haben den Grundstein für einen neuen Busbetriebshof gelegt, der komplett fossilfrei genutzt werden soll. Denn im Endausbau bietet der neue Standort Platz für bis zu 70 Elektrobusse – inklusive der entsprechenden Ladeinfrastruktur."
+      "title": "Clever Tanken integriert Laden und Bezahlen in seine App",
+      "text": "Clever Tanken baut seinen Bereich „Clever Laden“ von einer Preisvergleichs- zur Ladeplattform aus. Durch eine Kooperation mit dem Berliner Startup Cariqa können Nutzer Ladevorgänge künftig direkt in der App starten und bezahlen. Dabei sollen die Preise der angeschlossenen Ladepunktbetreiber ohne Roaming-Aufschläge weitergegeben werden."
     },
     {
-      "title": "EKPO und Akkodis verbauen neuartiges BZ-Stack in 40-Tonner",
-      "text": "EKPO Fuel Cell und Akkodis, ein Spezialist für der Digital-Engineering, integrieren und erproben demnächst ein Brennstoffzellenstack von EKPO in einem Wasserstoff-Lkw. Die Lösung kommt in dem Demonstrationsfahrzeug auf eine Systemleistung von bis zu 360 kW."
+      "title": "Nickelbelastung: Behörde stoppt Arbeiten bei CATL in Debrecen",
+      "text": "Im CATL-Batteriewerk im ungarischen Debrecen hat die Arbeitsschutzbehörde die Arbeiten in drei Bereichen vorübergehend untersagt. Bei neun Beschäftigten war zuvor eine erhöhte Nickelbelastung festgestellt worden. Der Vorfall trifft CATL mitten im ohnehin verzögerten Hochlauf seiner Zellproduktion."
     }
   ],
   "tech": [
     {
-      "title": "Neue Straßenverkehrsordnung: Italien plant Bußgeld für Fußgänger mit Smartphone",
-      "text": "Das italienische Verkehrsministerium bezeichnet die Smartphone-Nutzung an Fußgängerüberwegen als Risikofaktor."
+      "title": "Rhysida: Ransomware-Gruppe will 2 Millionen in Bitcoin von Berliner Landes-IT",
+      "text": "Die Ransomware-Gruppe Rhysida steht offenbar hinter dem Angriff auf die Berliner Landes-IT. Sie haben mehr Daten als bisher eingeräumt."
     },
     {
-      "title": "Gemini Enterprise for Legal: Google stellt KI-Angebot für Kanzleien vor",
-      "text": "Gemini Enterprise for Legal soll Verträge prüfen, Schriftsätze vorbereiten und juristische Quellen kontrollieren."
+      "title": "Frag den Staat: Rechenzentrumsausbau erstmals im Überblick",
+      "text": "Frag den Staat hat alles zum Rechenzentrumsausbau zusammengetragen. \"Es geht nicht um digitale Souveränität\", so die Expertin der Linksfraktion. Laut Eco geht alles in Abwärme. ( Raus aus der (US)-Cloud , GreenIT )"
     },
     {
-      "title": "Donald Trump: Notstandsverordnung soll US-Stromnetz vor China schützen",
-      "text": "Die US-Regierung befürchtet Hintertüren in Hochspannungskomponenten. Das könnte den Bau von Rechenzentren verzögern."
+      "title": "Nach interner Kritik: Nvidia rudert bei Rechenzentrums-Umsatzbeteiligung zurück",
+      "text": "Nvidia hat einen tollen Plan für noch höhere Umsätze gehabt. Doch Mitarbeiter haben nun Bedenken geäußert."
     }
   ],
   "local": [
+    {
+      "title": "Risiko beim Urlaub in der Türkei? Was deutsche Staatsbürger wissen sollten",
+      "text": "Ein Ulmer sitzt in der Türkei wegen Terror-Vorwürfen in Haft. Wer besonders gefährdet ist, was Reisende beachten sollten und wie deutsche Behörden im Ernstfall helfen können."
+    },
+    {
+      "title": "Deutscher aus Ulm weiter in Gefängnis in der Türkei - Familie durfte ihn besuchen",
+      "text": "Türkische Behörden werfen dem 46-jährigen Mann aus Ulm Mitgliedschaft in einer terroristischen Gruppe vor. Beweise dafür liegen offenbar bislang nicht vor."
+    },
     {
       "title": "Rechenzentrum für Milliarden: Deshalb kommt das XXL-Projekt nicht nach BW",
       "text": "Die Neckarsulmer Schwarz Gruppe will bei Rostock für rund 5,6 Milliarden eines der größten Rechenzentren in Deutschland bauen. Der Standort wurde bewusst gewählt."
@@ -76,14 +84,6 @@
     {
       "title": "Streit um Rauchen in Regionalzug eskaliert: Fahrgast greift Zugführer an",
       "text": "Ein Fahrgast raucht in einem Regionalzug im Ulmer Hauptbahnhof eine Zigarette. Als der Zugführer ihn auffordert, nicht zu rauchen, schlägt der Mann offenbar zweimal zu."
-    },
-    {
-      "title": "BW-Newsticker am Morgen: Mann aus Ulm weiter in der Türkei im Gefängnis, Tatort-Ikone Andreas Hoppe alias Kopper ist tot, Abends Unwetter in BW möglich",
-      "text": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
-    },
-    {
-      "title": "Deutscher weiter in Gefängnis in der Türkei - Familie aus Ulm hofft auf Hilfe und Klarheit",
-      "text": "Türkische Behörden werfen dem 46-jährigen Mann aus Ulm Mitgliedschaft in einer terroristischen Gruppe vor. Beweise dafür liegen offenbar bislang nicht vor."
     }
   ]
 }
