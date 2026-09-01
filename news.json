@@ -1,74 +1,78 @@
 {
-  "generatedAt": "2026-08-31T11:02:10.227Z",
+  "generatedAt": "2026-09-01T09:32:11.046Z",
   "world": [
+    {
+      "title": "Kein Handys mehr an Frankreichs Schulen - auch nicht in der Oberstufe",
+      "text": "Willkommen zurück - heißt es heute an französischen Schulen. Mit einer Neuerung: Nun gilt für alle Jahrgänge ein Handyverbot, auch für die Oberstufe. Aber wie setzt man das um, wenn die Schulkommunikation digitalisiert wurde? Von Julia Borutta."
+    },
+    {
+      "title": "Griechenlands Feuerwehr: Zwischen Saisonarbeit und Arbeitslosigkeit",
+      "text": "Jedes Jahr löscht die griechische Feuerwehr Tausende Waldbrände, der Job ist gefährlich. Dennoch haben viele bei der nationalen Berufsfeuerwehr nur Saisonverträge - und im Winter keinen Job. Dagegen regt sich nun Protest. Von A. Halder."
+    },
+    {
+      "title": "Streit über Ceuta: Italien und Spanien verlängern Grenzkontrollen",
+      "text": "Der Streit zwischen Spanien und Italien nach dem Ansturm auf die Exklave Ceuta dauert an. Beide Staaten verlängerten gegenseitige Grenzkontrollen. Die spanische Regierung erhebt zudem Vorwürfe in Richtung Israel und Russland."
+    },
+    {
+      "title": "Verdächtiger nach Schüssen bei Rave in der Schweiz festgenommen",
+      "text": "Bei Schüssen auf einem Rave im Schweizer Kanton Aargau wurde eine 22-Jährige getötet und fünf weitere Menschen verletzt, darunter auch eine Deutsche. Nun ist ein Verdächtiger festgenommen worden."
+    },
     {
       "title": "EU-Aufbaufonds für Italien: Was haben die 200 Milliarden Euro gebracht?",
       "text": "Geld für Straßen, Züge, Energie und sogar den Trevi-Brunnen: Mit den Corona-Hilfen der EU investiert Italien in vielen Feldern. Das Wiederaufbauprogramm läuft nun aus. War es ein Erfolg? Experten sind skeptisch. Von N. Nützel."
     },
     {
       "title": "Fährunglück vor Nordzypern: Schwere Vorwürfe gegen Schiffsbesatzung",
-      "text": "Nach dem Fährunglück vor der Küste Nordzyperns gibt es Vorwürfe gegen die Crew: Der Kapitän soll von Bord geflüchtet sein, Fluchtwege waren wohl teils versperrt. Die Bergung des Schiffdatenschreibers soll Aufklärung bringen."
-    },
-    {
-      "title": "Nach Schüssen bei Rave: Deutsche unter Verletzten des Schweizer Raves",
-      "text": "Nach den tödlichen Schüssen bei einem Rave in Aarau ermitteln die Schweizer Behörden auch in Richtung eines Terroraktes. Möglich seien ebenfalls ein Amoklauf oder ein anderes kriminelles Motiv. Unter den Verletzten ist eine deutsche Frau."
-    },
-    {
-      "title": "Referendum in Island: Ein Nein - aber keine Abkehr von Europa",
-      "text": "Die Isländer haben sich in einem Referendum gegen eine Wiederaufnahme von EU-Beitrittsgesprächen entschieden. Doch die knappe Abstimmung zeigt: Die Frage nach Islands Platz in Europa ist noch längst nicht geklärt. Von Arne Bartram."
-    },
-    {
-      "title": "Mindestens acht Menschen sterben bei Fährunglück vor Zypern",
-      "text": "Vor der Küste Nordzyperns ist ein Schiff mit mehr als 260 Menschen an Bord gekentert. Mindestens acht Menschen kamen dabei ums Leben. Der Kapitän und sieben Crewmitglieder wurden festgenommen."
-    },
-    {
-      "title": "Isländer stimmen per Referendum gegen EU-Beitrittsverhandlungen",
-      "text": "Die Menschen in Island haben sich gegen die Wiederaufnahme von Beitrittsverhandlungen mit der Europäischen Union entschieden. Das Ergebnis des Referendums fiel mit 52,8 zu 47,2 Prozent der Stimmen allerdings knapp aus."
+      "text": "Nach dem Fährunglück vor der Küste Nordzyperns gibt es Vorwürfe gegen die Crew: Der Kapitän soll von Bord geflüchtet sein, Fluchtwege waren wohl teils versperrt. Die Bergung des Schiffsdatenschreibers soll Aufklärung bringen."
     }
   ],
   "economy": [
     {
-      "title": "Niedrigwasser und Inflation: Pegelstände runter - Preise rauf?",
-      "text": "Langsam normalisiert sich der Wasserstand des Rhein, der auch eine wichtige Transportroute ist. Rechtzeitig genug, damit ein Preisschock ausbleibt? Von Axel John."
+      "title": "Abnehmspritze Wegovy auch als Pille - die Nebenwirkungen bleiben",
+      "text": "Die Abnehmspritze Wegovy bekommt Konkurrenz aus dem eigenen Haus: Der Wirkstoff Semaglutid ist jetzt auch als Tablette erhältlich. Experten warnen vor einem Hype um das vermeintliche Wundermittel. Von Philipp Wundersee."
     },
     {
-      "title": "EU-Aufbaufonds für Italien: Was haben die 200 Milliarden Euro gebracht?",
-      "text": "Geld für Straßen, Züge, Energie und sogar den Trevi-Brunnen: Mit den Corona-Hilfen der EU investiert Italien in vielen Feldern. Das Wiederaufbauprogramm läuft nun aus. War es ein Erfolg? Experten sind skeptisch. Von N. Nützel."
+      "title": "Neue US-Studie: Verursachen Abnehmspritzen Haarausfall?",
+      "text": "Viele Diabetes-Medikamente werden auch bei starkem Übergewicht eingesetzt. Eine US-Studie zeigt nun: Bei GLP-1-Mitteln ist das Risiko für Haarausfall höher als bei anderen Medikamenten. Von Doris Tromballa."
     },
     {
-      "title": "Rasanter Anstieg bei ausländischen Investitionen in Deutschland",
-      "text": "Deutschland bleibt für ausländische Unternehmen attraktiv - ihre Direktinvestitionen sind einer Studie zufolge im vergangenen Jahr deutlich gestiegen. Allerdings hat sich verändert, woher das Geld kommt."
+      "title": "Ruheständler im Osten haben weniger Eigentum und kleineres Einkommen",
+      "text": "Die Vermögensungleichheit zwischen Ost und West hält an. In den östlichen Bundesländern haben Ruheständler geringere Einkommen und leben seltener in der eigenen Immobilie als im Westen."
     }
   ],
   "automotive": [
     {
-      "title": "Nissan und Honda kooperieren bei E/E-Architektur für Smart Cars",
-      "text": "Nissan und Honda haben Anfang vergangenen Jahres zwar ihre Fusionspläne begraben, aber sind engen Kooperationen gegenüber aufgeschlossen. Das zeigt ein frisch unterzeichneter Entwicklungsdeal der beiden japanischen Hersteller, in dem es um schnellere Entwicklungszyklen für Smart Cars geht."
+      "title": "LG Energy Solution sichert sich US-Lithium für zehn Jahre",
+      "text": "LG Energy Solution hat mit Smackover Lithium einen langfristigen Liefervertrag geschlossen. Ab 2029 will der Batteriehersteller jährlich 8.000 Tonnen Lithiumcarbonat aus Arkansas beziehen für seine wachsende US-Produktion von Batterien für Elektroautos und stationäre Speicher."
     },
     {
-      "title": "Österreich: REWE Group erhöht auf neun Elektro-Lkw",
-      "text": "Die REWE Group Österreich hat vor gut eineinhalb Jahren die ersten drei E-Lkw eingeflottet – nun legt das Unternehmen nach: Sechs weitere strombetriebene Trucks vergrößernd die Rewe-Flotte auf nun neun E-Trucks. Auch diese sollen allen voran im Großraum Wien eingesetzt werden."
+      "title": "Erster Test des Opel Corsa GSE: 207 kW für 39.900 Euro",
+      "text": "Opel schickt den meistverkauften Kleinwagen Deutschlands als vollelektrischen Hot Hatch ins Rennen. Auf dem Handlingkurs in Pachfurth überzeugt der Opel Corsa GSE mit einer besseren Performance, als es der Einstiegspreis von 39.900 Euro vermuten lässt. Für den Alltag fehlen jedoch einige Funktionen, die das positive Gesamtbild etwas trüben."
     },
     {
-      "title": "MHI bringt elektrische Transportkühlung für E-Lkw nach Europa",
-      "text": "Mitsubishi Heavy Industries Thermal Systems führt in Europa eine neue Baureihe elektrisch angetriebener Transportkühlanlagen ein. Die TEU-Serie wurde insbesondere für E-Lkw entwickelt und soll dank modularer Bauweise weniger Platz und Gewicht beanspruchen."
+      "title": "Spirii bietet neue Funktionen für CPOs, eMSPs und Flotten",
+      "text": "Das dänische Unternehmen Spirii erweitert die Funktionen seiner Ladeplattform, um Ladepunktbetreibern (CPOs), Anbietern von E-Mobilitätsdiensten (eMSPs) und Flottenbetreibern mehr Kontrolle über den Aufbau, die Verwaltung und den Betrieb ihrer Ladedienste für Elektrofahrzeuge zu geben."
     }
   ],
   "tech": [
     {
-      "title": "12 Terabyte ausgelesen: Alte Steam-Daten legen verworfene Valve-Spiele offen",
-      "text": "Die Daten konnten über einen alten Steam-Endpoint abgegriffen werden, der nie geschlossen wurde."
+      "title": "AISI Deutschland: KI-Institut soll Gefahren von KI-Modellen bewerten",
+      "text": "Die Bundesregierung sieht in KI-Systemen auch Gefahren für die nationale Sicherheit. BSI und Bundesnetzagentur sollen nun KI-Modelle bewerten."
     },
     {
-      "title": "Rockstar Games: GTA 6 soll ohne Mikrotransaktionen und generative KI starten",
-      "text": "Ein Entwickler verspricht für GTA 6 (Singleplayer) keine Käufe mit echtem Geld, vermutlich gibt es auch keine Abos. ( GTA 6 , Red Dead Redemption )"
+      "title": "Passwörter geleakt: Berliner Senatsverwaltungen schränken Homeoffice ein",
+      "text": "Nach einem Cyberangriff auf die Berliner Landes-IT werden die VPN-Zugänge der Mitarbeiter gekappt. Der Grund: Passwörter sind an die Öffentlichkeit gelangt."
     },
     {
-      "title": "Für eigene Rechenzentren: SpaceX soll Teile für Gasturbinen bauen",
-      "text": "Turbinenschaufeln hat Elon Musk bereits vor Monaten als Engpass beim Bau von Gasturbinen ausgemacht. Die braucht er für seine KI-Rechenzentren."
+      "title": "OpenAI: Apple legt neue Beweise für Diebstahl von Geschäftsgeheimnissen vor",
+      "text": "Apple verklagt OpenAI wegen Diebstahls von geistigem Eigentum - und hat im Verfahren neue Beweise für Datendiebstahl vorgelegt."
     }
   ],
   "local": [
+    {
+      "title": "Balkonboden im dritten Stock bricht ein: Frau stürzt in die Tiefe",
+      "text": "In Ulm ist eine Frau am Montagmittag durch den Boden eines Balkons im dritten Stock gestürzt. Die Polizei ermittelt wegen möglichen Baumängeln. Aber offenbar war der Balkon gesperrt."
+    },
     {
       "title": "A8 bei Ulm: Alles Wichtige zum sechsspurigen Ausbau",
       "text": "Sechs Spuren, neue Brücken, mehr Lärmschutz: Der Ausbau der A8 bei Ulm startet. Die Baustelle wird Pendler und Reisende jahrelang begleiten. Das müssen Verkehrsteilnehmer jetzt wissen."
@@ -78,12 +82,8 @@
       "text": "Ein Ulmer sitzt in der Türkei wegen Terror-Vorwürfen in Haft. Wer besonders gefährdet ist, was Reisende beachten sollten und wie deutsche Behörden im Ernstfall helfen können."
     },
     {
-      "title": "Deutscher aus Ulm weiter in Gefängnis in der Türkei - Familie durfte ihn besuchen",
-      "text": "Türkische Behörden werfen dem 46-jährigen Mann aus Ulm Mitgliedschaft in einer terroristischen Gruppe vor. Beweise dafür liegen offenbar bislang nicht vor."
-    },
-    {
-      "title": "Rechenzentrum für Milliarden: Deshalb kommt das XXL-Projekt nicht nach BW",
-      "text": "Die Neckarsulmer Schwarz Gruppe will bei Rostock für rund 5,6 Milliarden eines der größten Rechenzentren in Deutschland bauen. Der Standort wurde bewusst gewählt."
+      "title": "Spur der Verwüstung an Bushaltestellen: Rätsel um Vandalismusserie",
+      "text": "Mehrere Bushaltestellen in Bad Friedrichshall sind Ziel von Vandalismus geworden. Unbekannte haben etliche Glasscheiben eingeschlagen - auch am Hauptbahnhof. Nicht zum ersten Mal."
     }
   ]
 }
