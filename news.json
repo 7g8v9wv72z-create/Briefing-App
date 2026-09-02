@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-01T09:32:11.046Z",
+  "generatedAt": "2026-09-02T08:56:30.041Z",
   "world": [
+    {
+      "title": "Russische Desinformation? Fake-Streit zwischen Tschechien und Polen",
+      "text": "Polnische Gebietsansprüche im Grenzgebiet zu Tschechien galten bislang als bedeutungslose Fußnote der Geschichte. Bis es kürzlich hieß, Polen bestehe auf die Rückgabe. Mittlerweile ist klar: Alles frei erfunden. Von Danko Handrick."
+    },
+    {
+      "title": "Rückschlag für Finnlands Kampf gegen Wohnungslosigkeit",
+      "text": "Finnland galt lange als Vorbild im Kampf gegen Wohnungslosigkeit. Doch nun steigt die Zahl der Obdachlosen wieder. Die konservative Regierung kürzt Sozialleistungen und investiert weniger in sozialen Wohnungsbau. Von A. Bartram."
+    },
     {
       "title": "Kein Handys mehr an Frankreichs Schulen - auch nicht in der Oberstufe",
       "text": "Willkommen zurück - heißt es heute an französischen Schulen. Mit einer Neuerung: Nun gilt für alle Jahrgänge ein Handyverbot, auch für die Oberstufe. Aber wie setzt man das um, wenn die Schulkommunikation digitalisiert wurde? Von Julia Borutta."
@@ -16,74 +24,66 @@
     {
       "title": "Verdächtiger nach Schüssen bei Rave in der Schweiz festgenommen",
       "text": "Bei Schüssen auf einem Rave im Schweizer Kanton Aargau wurde eine 22-Jährige getötet und fünf weitere Menschen verletzt, darunter auch eine Deutsche. Nun ist ein Verdächtiger festgenommen worden."
-    },
-    {
-      "title": "EU-Aufbaufonds für Italien: Was haben die 200 Milliarden Euro gebracht?",
-      "text": "Geld für Straßen, Züge, Energie und sogar den Trevi-Brunnen: Mit den Corona-Hilfen der EU investiert Italien in vielen Feldern. Das Wiederaufbauprogramm läuft nun aus. War es ein Erfolg? Experten sind skeptisch. Von N. Nützel."
-    },
-    {
-      "title": "Fährunglück vor Nordzypern: Schwere Vorwürfe gegen Schiffsbesatzung",
-      "text": "Nach dem Fährunglück vor der Küste Nordzyperns gibt es Vorwürfe gegen die Crew: Der Kapitän soll von Bord geflüchtet sein, Fluchtwege waren wohl teils versperrt. Die Bergung des Schiffsdatenschreibers soll Aufklärung bringen."
     }
   ],
   "economy": [
     {
-      "title": "Abnehmspritze Wegovy auch als Pille - die Nebenwirkungen bleiben",
-      "text": "Die Abnehmspritze Wegovy bekommt Konkurrenz aus dem eigenen Haus: Der Wirkstoff Semaglutid ist jetzt auch als Tablette erhältlich. Experten warnen vor einem Hype um das vermeintliche Wundermittel. Von Philipp Wundersee."
+      "title": "Was hilft gegen die gestiegene Inflation?",
+      "text": "Die Euro-Inflation liegt inzwischen bei 3,3 Prozent. Grund ist vor allem das teure Rohöl als Folge des Iran-Kriegs - ein Dilemma für Europas Notenbanker. Steigen die Preise bald womöglich noch schneller? Von Angela Göpfert."
     },
     {
-      "title": "Neue US-Studie: Verursachen Abnehmspritzen Haarausfall?",
-      "text": "Viele Diabetes-Medikamente werden auch bei starkem Übergewicht eingesetzt. Eine US-Studie zeigt nun: Bei GLP-1-Mitteln ist das Risiko für Haarausfall höher als bei anderen Medikamenten. Von Doris Tromballa."
+      "title": "Ist der Hype um Shein & Co. vorbei?",
+      "text": "Der chinesische Billig-Onlinehändler Shein verpatzt sein Börsendebut. Die Zeiten des hohen Wachstums scheinen für das Unternehmen vorbei zu sein. Im Fokus von Investoren sind andere Branchen. Von Noel Schmidt."
     },
     {
-      "title": "Ruheständler im Osten haben weniger Eigentum und kleineres Einkommen",
-      "text": "Die Vermögensungleichheit zwischen Ost und West hält an. In den östlichen Bundesländern haben Ruheständler geringere Einkommen und leben seltener in der eigenen Immobilie als im Westen."
+      "title": "Marktbericht: DAX bleibt unter Druck",
+      "text": "Eine neue Welle von Inflationssorgen belastet die Weltbörsen. Grund ist die neue Eskalation im Iran-Krieg. Der DAX gibt zum Handelsstart weiter nach, hat seine Talfahrt aber deutlich verlangsamt."
     }
   ],
   "automotive": [
     {
-      "title": "LG Energy Solution sichert sich US-Lithium für zehn Jahre",
-      "text": "LG Energy Solution hat mit Smackover Lithium einen langfristigen Liefervertrag geschlossen. Ab 2029 will der Batteriehersteller jährlich 8.000 Tonnen Lithiumcarbonat aus Arkansas beziehen für seine wachsende US-Produktion von Batterien für Elektroautos und stationäre Speicher."
+      "title": "Range Rover Electric feiert mit reichlich Verspätung sein Marktdebüt",
+      "text": "Der bereits 1970 eingeführte Range Rover ist ab sofort auch vollelektrisch erhältlich. Damit ist der Range Rover Electric das erste Modell aus der Welt von Land Rover, das ohne Verbrennungsmotor auskommt. Dabei wartet der elektrische Luxus-SUV u.a. mit 405 kW Systemleistung, einer Ladeleistung von 350 kW und einer Reichweite von 600 km auf."
     },
     {
-      "title": "Erster Test des Opel Corsa GSE: 207 kW für 39.900 Euro",
-      "text": "Opel schickt den meistverkauften Kleinwagen Deutschlands als vollelektrischen Hot Hatch ins Rennen. Auf dem Handlingkurs in Pachfurth überzeugt der Opel Corsa GSE mit einer besseren Performance, als es der Einstiegspreis von 39.900 Euro vermuten lässt. Für den Alltag fehlen jedoch einige Funktionen, die das positive Gesamtbild etwas trüben."
+      "title": "Forscherteam will Schwarzmasse für Batterie-Recycling standardisieren",
+      "text": "Schwarzmasse ist ein zentrales Zwischenprodukt beim Recycling von Lithium-Ionen-Batterien, ihre Zusammensetzung schwankt jedoch stark. Das Forschungsprojekt SHERLOCK will deshalb standardisierte Güteklassen entwickeln und so Batterie-Recycling effizienter machen."
     },
     {
-      "title": "Spirii bietet neue Funktionen für CPOs, eMSPs und Flotten",
-      "text": "Das dänische Unternehmen Spirii erweitert die Funktionen seiner Ladeplattform, um Ladepunktbetreibern (CPOs), Anbietern von E-Mobilitätsdiensten (eMSPs) und Flottenbetreibern mehr Kontrolle über den Aufbau, die Verwaltung und den Betrieb ihrer Ladedienste für Elektrofahrzeuge zu geben."
+      "title": "BYD setzt auf Monatsbasis erstmals eine Viertelmillion Elektroautos ab",
+      "text": "BYD hat seinen Absatz im August den vierten Monat in Folge steigern können. Damit folgt bei dem chinesischen Hersteller auf eine Phase der rückläufigen Absatzzahlen wieder stetiges Wachstum. Garant dafür sind die rein elektrischen Fahrzeuge im Sortiment. Und das starke Exportgeschäfte."
     }
   ],
   "tech": [
     {
-      "title": "AISI Deutschland: KI-Institut soll Gefahren von KI-Modellen bewerten",
-      "text": "Die Bundesregierung sieht in KI-Systemen auch Gefahren für die nationale Sicherheit. BSI und Bundesnetzagentur sollen nun KI-Modelle bewerten."
+      "title": "Möglicher Anschlag: Störung an Umspannwerk erzwingt Kraftwerksabschaltung",
+      "text": "Dienstagabend ist es zu einem Erdschluss an Kraftwerksleitungen gekommen. Nach jetzigem Stand wird ein technischer Defekt ausgeschlossen."
     },
     {
-      "title": "Passwörter geleakt: Berliner Senatsverwaltungen schränken Homeoffice ein",
-      "text": "Nach einem Cyberangriff auf die Berliner Landes-IT werden die VPN-Zugänge der Mitarbeiter gekappt. Der Grund: Passwörter sind an die Öffentlichkeit gelangt."
+      "title": "Nvidia: DLSS 5 bringt nächste Stufe der KI-Grafik ins Spiel",
+      "text": "Nach inoffiziellen Experimenten erscheint DLSS 5 regulär. Die Technik verändert mit generativer KI Beleuchtung, Haut, Haare und Materialien."
     },
     {
-      "title": "OpenAI: Apple legt neue Beweise für Diebstahl von Geschäftsgeheimnissen vor",
-      "text": "Apple verklagt OpenAI wegen Diebstahls von geistigem Eigentum - und hat im Verfahren neue Beweise für Datendiebstahl vorgelegt."
+      "title": "Lärm durch KI-Rechenzentren: Akustiker bekommen mehr Rechenzentrums-Aufträge",
+      "text": "KI-Rechenzentren erhöhen die Nachfrage nach Akustikberatung. Ein US-Büro erhält monatlich so viele Anfragen wie früher jährlich."
     }
   ],
   "local": [
     {
+      "title": "BW-Newsticker am Morgen: Audi-Werk Neckarsulm steht wohl vor Schließung, Explosion am Augsburger Hauptbahnhof: Bahnverkehr eingestellt, BW-Ärzteschaft kritisiert Merz-Aussage massiv",
+      "text": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
+    },
+    {
+      "title": "Audi-Werk Neckarsulm soll laut Medienbericht 2034 schließen",
+      "text": "Seit Monaten wird über die Zukunft des Audi-Werks Neckarsulm diskutiert. Nun soll der Volkswagen-Vorstand eine Entscheidung getroffen haben. VW hat sich dazu bisher nicht geäußert."
+    },
+    {
+      "title": "Nach Sturzflut in Nepal: \"Ich bekomme Gänsehaut, weil die Menschen in Angst leben\"",
+      "text": "Trinkwasser, Lebensmittel, Decken: Nach der Sturzflut im Himalaya mit mehr als 1.000 Toten organisiert der Verein \"Zukunft für Nepal\" aus Aalen Hilfe - und bangt um Vermisste."
+    },
+    {
       "title": "Balkonboden im dritten Stock bricht ein: Frau stürzt in die Tiefe",
       "text": "In Ulm ist eine Frau am Montagmittag durch den Boden eines Balkons im dritten Stock gestürzt. Die Polizei ermittelt wegen möglichen Baumängeln. Aber offenbar war der Balkon gesperrt."
-    },
-    {
-      "title": "A8 bei Ulm: Alles Wichtige zum sechsspurigen Ausbau",
-      "text": "Sechs Spuren, neue Brücken, mehr Lärmschutz: Der Ausbau der A8 bei Ulm startet. Die Baustelle wird Pendler und Reisende jahrelang begleiten. Das müssen Verkehrsteilnehmer jetzt wissen."
-    },
-    {
-      "title": "Risiko beim Urlaub in der Türkei? Was deutsche Staatsbürger wissen sollten",
-      "text": "Ein Ulmer sitzt in der Türkei wegen Terror-Vorwürfen in Haft. Wer besonders gefährdet ist, was Reisende beachten sollten und wie deutsche Behörden im Ernstfall helfen können."
-    },
-    {
-      "title": "Spur der Verwüstung an Bushaltestellen: Rätsel um Vandalismusserie",
-      "text": "Mehrere Bushaltestellen in Bad Friedrichshall sind Ziel von Vandalismus geworden. Unbekannte haben etliche Glasscheiben eingeschlagen - auch am Hauptbahnhof. Nicht zum ersten Mal."
     }
   ]
 }
