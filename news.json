@@ -1,89 +1,89 @@
 {
-  "generatedAt": "2026-09-04T08:58:18.054Z",
+  "generatedAt": "2026-09-07T09:34:20.696Z",
   "world": [
     {
+      "title": "Signal an die USA: EU plant mehr Investitionen in Grönland",
+      "text": "\"Wir sind Familie\", betonte EU-Kommissionspräsidentin von der Leyen bei ihrer Ankunft in Grönland. Nun will sie die Partnerschaft mit einem großen Finanzpaket stärken - auch als Signal gegen die Gebietsansprüche der USA."
+    },
+    {
+      "title": "Warum Schweden seine Gefangenen in Estland unterbringt",
+      "text": "Steigende Kriminalität und verschärftes Strafrecht - in Schwedens Gefängnissen wird der Platz knapp. Das Land verlegt deshalb jetzt einen Teil seiner Häftlinge nach Estland. Es ist ein Deal, der nicht unumstritten ist. Von Christian Stichler."
+    },
+    {
+      "title": "Neue Vorwürfe gegen Farages Rechtspopulisten",
+      "text": "Die britischen Rechtspopulisten von Reform UK um Nigel Farage haben ihren Parteitag fortgesetzt - und müssen sich mit neuen Vorwürfen auseinandersetzen. Wieder geht es um Geld. Von Franziska Hoppen."
+    },
+    {
+      "title": "Deutsche Studentin gewinnt schwedische Insel - auf Zeit",
+      "text": "Ruhe, Natur und Vögel: Eine deutsche Studentin hat eine Insel in Schweden gewonnen - auf Zeit. Sie wird für ein Jahr deren Verwalterin. Betreten darf das Eiland aber jeder. Von Arne Bartram."
+    },
+    {
       "title": "Parteitag von Reform UK: Britische Rechtspopulisten unter Druck",
-      "text": "Lange lag die Reform UK-Partei von Nigel Farage vorne in den Umfragen. Doch Finanz- und Spendenskandale, Konkurrenz von rechtsaußen und die Beliebtheit des neuen Premiers Burnham setzen der Partei zu. Von M. Aden."
+      "text": "Lange lag die Partei Reform UK von Nigel Farage vorne in den Umfragen. Doch Finanz- und Spendenskandale, Konkurrenz von rechtsaußen und die Beliebtheit des neuen Premiers Burnham setzen der Partei zu. Von Mareike Aden."
     },
     {
       "title": "Italien: Melonis Kabinett stellt Regierungsrekord auf",
       "text": "Was in anderen Ländern die Regel ist, reicht in Italien für einen Rekord: Seit knapp vier Jahren regiert Ministerpräsidentin Meloni mit demselben Kabinett - keine andere Regierung der italienischen Republik hielt länger durch. Von A. Giordano."
-    },
-    {
-      "title": "Dänischer Nachrichtendienst warnt vor russischen Sabotageakten",
-      "text": "Meldungen über Sabotageakte in Europa nehmen zu - ebenso die Hinweise, dass Russland dahinterstecken könnte. Nun warnt auch der dänische Nachrichtendienst öffentlich vor solchen Aktionen. Und davor, für Spionage angeworben zu werden."
-    },
-    {
-      "title": "Forderung der AfD: Wie geht Heimunterricht in Österreich?",
-      "text": "Bildungspflicht statt Schulpflicht ist eine zentrale Forderung der AfD vor der Landtagswahl in Sachsen-Anhalt. Als Vorbild nennt die Partei Österreich. Wie funktioniert der \"häusliche Unterricht\" dort? Von Andreas Herz."
-    },
-    {
-      "title": "Demonstrationen in Spanien für Ceuta und gegen Sánchez",
-      "text": "Mehr als einen Monat nach dem Ansturm auf Ceuta sind Zehntausende Menschen in ganz Spanien auf die Straße gegangen. Ihr Protest richtete sich gegen die Migrationspolitik der Zentralregierung. In einigen Städten gab es auch Gegendemos."
-    },
-    {
-      "title": "Freispruch nach Mord an maltesischer Journalistin Caruana Galizia",
-      "text": "Wer ließ die maltesische Journalistin Daphne Caruana Galizia ermorden? Diese Frage bleibt auch nach fast neun Jahren unbeantwortet. Geschworene sprachen einen Unternehmer vom Vorwurf frei, Drahtzieher des Anschlags gewesen zu sein."
     }
   ],
   "economy": [
     {
-      "title": "Das sind die Punkte des VW-Sparplans",
-      "text": "Abbau von Zehntausenden Stellen, vier Werke auf der Kippe - und das ist noch nicht alles. VW hat ein gigantisches Sparprogramm auf den Weg gebracht. Was der Konzern plant - und was Experten dazu sagen. Ein Überblick."
+      "title": "Zehntausende Fachkräfte im Verkauf könnten bald fehlen",
+      "text": "Bis zum Jahr 2029 droht einer Studie zufolge ein gravierender Mangel an Verkäuferinnen und Verkäufern im deutschen Einzelhandel. Auch in anderen Berufen könnte der Fachkräftemangel stark zunehmen."
     },
     {
-      "title": "ARD-DeutschlandTrend: Mehrheit will staatliche Hilfen für Autoindustrie",
-      "text": "Deutschlands Autoindustrie steckt in der Krise. Verantwortung dafür sehen die Menschen laut ARD-DeutschlandTrend bei den Herstellern selbst. Trotzdem sprechen sie sich dafür aus, der Branche zu helfen."
+      "title": "Marktbericht: Viele Sorgen belasten Anleger zu Wochenbeginn",
+      "text": "Zum Wochenstart blicken Anleger mit Sorge auf mehrere Themen. Vor allem der Ausgang der Landtagswahl in Sachsen-Anhalt sorgt für Gesprächsstoff. Außerdem sind am Energiemarkt die Ölpreise wieder gestiegen."
     },
     {
-      "title": "Taxi ohne Lenkrad: Tesla stellt \"Cybercab\" vor",
-      "text": "Der US-Elektroautobauer Tesla hat im Bundesstaat Texas sein neues \"Cybercab\" vorgestellt und mit ersten Fahrten begonnen. Die fahrerlosen Taxis werden zunächst in einigen Gegenden in Austin angeboten."
+      "title": "Ist das Leben in New York für junge Berufstätige noch bezahlbar?",
+      "text": "Galoppierende Preise treffen in den USA besonders junge Leute in den großen Städten. Beispiel New York: Hier müssen auch Berufstätige erfinderisch werden, wenn es um Ausgaben im Alltag geht. Von Martina Buttler."
     }
   ],
   "automotive": [
     {
-      "title": "Xiaomi baut Händlernetz für Deutschlandstart auf",
-      "text": "Xiaomi konkretisiert seinen geplanten Marktstart in Deutschland. Für Vertrieb und Service seiner Elektroautos ab 2027 hat der chinesische Konzern Vereinbarungen mit acht deutschen Handelsgruppen geschlossen."
+      "title": "Premiere Audi A2 e-tron: Die Rückkehr der Effizienz",
+      "text": "Mit dem A2 e-tron baut Audi ein Elektroauto für die Kompaktklasse. Er basiert auf dem aktualisierten Modularen E-Antriebs-Baukasten (MEB+) des Volkswagen-Konzerns, läuft in Ingolstadt vom Band und wird ab Dezember ausgeliefert. Der Preis: ab 38.200 Euro."
     },
     {
-      "title": "Neuer Akku mit 200 kW DC: Mazda6e lädt zum neuen Modelljahr schneller",
-      "text": "Der Mazda6e erhält zum Modelljahr 2027 eine neue, große LFP-Batterie, die die beiden bisherigen Batterieoptionen ersetzt. Der Akku bietet bis zu 200 kW Schnellladeleistung – ein wichtiger Fortschritt, denn die DC-Ladezeit war bei der Long-Range-Version des Mazda6e bisher das große Manko."
+      "title": "Lexus will neues Elektro-SUV in China bauen",
+      "text": "Toyotas Luxusmarke Lexus will ab kommenden Jahr offenbar ein elektrisches SUV der nächsten Generation in China bauen. Das Fahrzeug soll laut einem Agenturbericht im neuen Werk des Unternehmens in Shanghai produziert werden. Dabei soll auch ein hochmodernes Gigacasting-Produktionsverfahren zum Einsatz kommen."
     },
     {
-      "title": "Polestar meldet schwache Halbjahreszahlen und senkt Prognose",
-      "text": "Polestar hat durchwachsene Geschäftszahlen für das erste Halbjahr 2026 vorgelegt. Der schwedisch-chinesische E-Auto-Hersteller konnte seinen Absatz zwar minimal steigern und den operativen Verlust deutlich reduzieren, jedoch führten Restrukturierungsmaßnahmen im US-Geschäft zu zusätzlichen Kosten."
+      "title": "Lucid konkretisiert Marktstart in Frankreich",
+      "text": "Lucid nähert sich seinem geplanten Markteintritt in Frankreich. Der US-Hersteller arbeitet dafür mit Emil Frey France zusammen und will Air und Gravity im Oktober auf dem Pariser Autosalon präsentieren. Details zum Verkaufsstart bleiben aber noch offen."
     }
   ],
   "tech": [
     {
-      "title": "Tesla Cybercab: Robotaxi von Tesla startet ohne Lenkrad und Pedale",
-      "text": "Nach langer Verzögerung ist ein kleine Flotte Cybercabs für den öffentlichen Verkehr zugelassen worden. Die konsequente Umsetzung macht Probleme."
+      "title": "Experiment: KI spielt Portal durch und verbraucht dabei 571 US-Dollar",
+      "text": "Das neue GPT-6 Astra hat selbstständig Valves Spieleklassiger Portal geschafft. Die Leistung ist erstaunlich, die Rechnung allerdings auch."
     },
     {
-      "title": "Project Aeroblade: Lenovo zeigt 830-Gramm-Laptop mit Membrankühlung statt Lüfter",
-      "text": "Für das Project Aeroblade arbeitet Lenovo mit Frore Systems zusammen. 30 Watt sollen ohne Lüfter gekühlt werden."
+      "title": "Auto: Elektroautos im Betrieb günstiger als Benziner",
+      "text": "Fallende Batteriepreise und steigende Treibstoffkosten machen Elektroautos im Betrieb zur günstigeren Alternative. Auch die Anschaffungskosten sinken."
     },
     {
-      "title": "Basisabo wird eingestellt: Netflix-Abonnenten droht Preiserhöhung von 60 Prozent",
-      "text": "Bestandskunden können das Netflix-Basisabo noch drei Monate nutzen, danach wird das Abo durch Netflix gekündigt."
+      "title": "Patentrechtsstreit um Streamingabos: Disney+ verliert Smartphone-Steuerung für Chromecast",
+      "text": "Abonnenten von Disney+ verlieren eine weitere Funktion. Wer einen älteren Chromecast nutzt, kann Disney+ nicht mehr verwenden. ( Disney+ , Verbraucherschutz )"
     }
   ],
   "local": [
     {
-      "title": "Unfall am Stauende auf A8 bei Merklingen mit sieben Fahrzeugen: Autobahn gesperrt",
-      "text": "Ein Unfall an einem Stauende sorgt auf der A8 zwischen Ulm und Merklingen für Behinderungen. Laut Polizei sind sieben Fahrzeuge beteiligt. Die Autobahn ist in Richtung Stuttgart gesperrt."
+      "title": "Doch keine \"Umzingelung\"? Ein geplantes Windkraftgebiet bei Bartholomä gestrichen",
+      "text": "Rund um die Gemeinde Bartholomä im Ostalbkreis entstehen wohl weniger Windkraftanlagen als ursprünglich geplant. Ein Gebiet wird gestrichen - es liegt in einem Naturschutzgebiet."
     },
     {
-      "title": "VW-Aufsichtsrat stimmt Sanierungsplan zu: Zukunft von Audi in Neckarsulm weiter unklar",
-      "text": "Eine \"wettbewerbsfähige Folgebelegung\" von vier Werken könne nicht gewährleistet werden, heißt es in einer Mitteilung des Unternehmens. Das Audi-Werk in Neckarsulm ist eines davon."
+      "title": "VW-Sparpaket: Diese drei Szenarien sieht ein Auto-Experte für das Audi-Werk in Neckarsulm",
+      "text": "Das VW-Sparpaket kommt: 50.000 zusätzliche Stellen fallen weg und vier Werke stehen auf der Kippe. Welche Zukunft das Werk in Neckarsulm laut einem Autoexperten haben könnte."
     },
     {
-      "title": "BW-Newsticker am Morgen: VW-Aufsichtsrat nimmt Sparpaket an - weiter keine Klarheit für Audi-Werk in Neckarsulm, Fußballvereinen drohen hohe Bußgelder bei Verstößen gegen Sicherheitskonzepte",
-      "text": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
+      "title": "Audi-Werk Neckarsulm bekommt eine Chance - aber keine Garantie",
+      "text": "Audi-Chef Gernot Döllner macht der Belegschaft in Neckarsulm Hoffnung, stellt aber Bedingungen: Bis Mitte 2027 muss das Werk wettbewerbsfähiger werden."
     },
     {
-      "title": "Mit dem Vorschlaghammer gegen illegales Glücksspiel",
-      "text": "43 illegale Glücksspielautomaten hat Arndt Borgmann in seinem ersten Jahr in Heidenheim beschlagnahmt. Die werden jetzt zerstört. Womöglich ist das nur die Spitze des Eisbergs."
+      "title": "VW-Sparpaket: Gibt es eine Zukunft für bedrohte Werke wie Audi in Neckarsulm?",
+      "text": "Volkswagen muss sparen - dem Plan hat der Aufsichtsrat jetzt zugestimmt. Zehntausende Jobs sind betroffen und vier Werke stehen auf der Kippe. Was noch offen ist."
     }
   ]
 }
