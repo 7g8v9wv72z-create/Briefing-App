@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-07T09:34:20.696Z",
+  "generatedAt": "2026-09-08T08:58:49.650Z",
   "world": [
+    {
+      "title": "Kurs der Bundesregierung: Verändert der AfD-Erfolg die deutsche EU-Politik?",
+      "text": "In der EU stehen in nächster Zeit wichtige Entscheidungen an, etwa beim neuen Haushalt. Diskutiert wird daher, ob der Erfolg der AfD auch Folgen für die EU-Politik der Bundesregierung haben könnte. Von C. Feld und T. Spickhofen."
+    },
+    {
+      "title": "Grönland und EU: Sich von Trumps Drohungen nicht mehr beirren lassen",
+      "text": "Die EU will weitere 200 Millionen Euro in Grönland investieren, unter anderem in den Abbau kritischer Rohstoffe. Kommissionschefin von der Leyen setzt damit auch ein Zeichen gegen Drohungen aus Washington. Von K. Schmid."
+    },
+    {
+      "title": "AfD-Wahlerfolg: Polen fürchtet Instabilität und Geschichtsrelativierung",
+      "text": "Der Wahlausgang in Sachsen-Anhalt wird auch in Polen genau beobachtet. Gerade die Haltung der AfD zu Russland verunsichert viele Menschen, zudem gibt es die Sorge vor einer geschwächten Bundesregierung. Von Palina Milling."
+    },
+    {
+      "title": "Wie der AfD-Wahlsieg in Sachsen-Anhalt in Frankreich bewertet wird",
+      "text": "Auch in Frankreich ist der AfD-Sieg in Sachsen-Anhalt Thema. Viele Politiker sind entsetzt - gilt die AfD doch als noch extremer als der Rassemblement National. Dessen Frontfrau Le Pen schweigt zum deutschen Wahlergebnis. Von Julia Borutta."
+    },
     {
       "title": "Signal an die USA: EU plant mehr Investitionen in Grönland",
       "text": "\"Wir sind Familie\", betonte EU-Kommissionspräsidentin von der Leyen bei ihrer Ankunft in Grönland. Nun will sie die Partnerschaft mit einem großen Finanzpaket stärken - auch als Signal gegen die Gebietsansprüche der USA."
@@ -8,67 +24,55 @@
     {
       "title": "Warum Schweden seine Gefangenen in Estland unterbringt",
       "text": "Steigende Kriminalität und verschärftes Strafrecht - in Schwedens Gefängnissen wird der Platz knapp. Das Land verlegt deshalb jetzt einen Teil seiner Häftlinge nach Estland. Es ist ein Deal, der nicht unumstritten ist. Von Christian Stichler."
-    },
-    {
-      "title": "Neue Vorwürfe gegen Farages Rechtspopulisten",
-      "text": "Die britischen Rechtspopulisten von Reform UK um Nigel Farage haben ihren Parteitag fortgesetzt - und müssen sich mit neuen Vorwürfen auseinandersetzen. Wieder geht es um Geld. Von Franziska Hoppen."
-    },
-    {
-      "title": "Deutsche Studentin gewinnt schwedische Insel - auf Zeit",
-      "text": "Ruhe, Natur und Vögel: Eine deutsche Studentin hat eine Insel in Schweden gewonnen - auf Zeit. Sie wird für ein Jahr deren Verwalterin. Betreten darf das Eiland aber jeder. Von Arne Bartram."
-    },
-    {
-      "title": "Parteitag von Reform UK: Britische Rechtspopulisten unter Druck",
-      "text": "Lange lag die Partei Reform UK von Nigel Farage vorne in den Umfragen. Doch Finanz- und Spendenskandale, Konkurrenz von rechtsaußen und die Beliebtheit des neuen Premiers Burnham setzen der Partei zu. Von Mareike Aden."
-    },
-    {
-      "title": "Italien: Melonis Kabinett stellt Regierungsrekord auf",
-      "text": "Was in anderen Ländern die Regel ist, reicht in Italien für einen Rekord: Seit knapp vier Jahren regiert Ministerpräsidentin Meloni mit demselben Kabinett - keine andere Regierung der italienischen Republik hielt länger durch. Von A. Giordano."
     }
   ],
   "economy": [
     {
-      "title": "Zehntausende Fachkräfte im Verkauf könnten bald fehlen",
-      "text": "Bis zum Jahr 2029 droht einer Studie zufolge ein gravierender Mangel an Verkäuferinnen und Verkäufern im deutschen Einzelhandel. Auch in anderen Berufen könnte der Fachkräftemangel stark zunehmen."
+      "title": "Französisches KI-Start-up Mistral sammelt drei Milliarden Euro ein",
+      "text": "In der bisher größten Finanzierungsrunde in Europa hat Mistral drei Milliarden Euro eingesammelt. Das französische Start-up setzt auf offene KI-Modelle und präsentiert sich als Gegenentwurf zu den US-Konzernen."
     },
     {
-      "title": "Marktbericht: Viele Sorgen belasten Anleger zu Wochenbeginn",
-      "text": "Zum Wochenstart blicken Anleger mit Sorge auf mehrere Themen. Vor allem der Ausgang der Landtagswahl in Sachsen-Anhalt sorgt für Gesprächsstoff. Außerdem sind am Energiemarkt die Ölpreise wieder gestiegen."
+      "title": "Handelskonflikt mit den USA: Kanadas Gegenzölle in Kraft",
+      "text": "Der Zollstreit in Nordamerika geht in die nächste Phase: Kanada erhebt ab sofort Gegenzölle auf bestimmte US-Importe. US-Präsident Trump drohte unterdessen dem kanadischen Flugzeughersteller Bombardier."
     },
     {
-      "title": "Ist das Leben in New York für junge Berufstätige noch bezahlbar?",
-      "text": "Galoppierende Preise treffen in den USA besonders junge Leute in den großen Städten. Beispiel New York: Hier müssen auch Berufstätige erfinderisch werden, wenn es um Ausgaben im Alltag geht. Von Martina Buttler."
+      "title": "Marktbericht: DAX gibt zu Handelsbeginn leicht nach",
+      "text": "Nach dem schwachen Wochenauftakt geht es im DAX weiter abwärts. Vor allem die hohen Ölpreisen belasten die Märkte. Umso gespannter blicken Anleger deshalb auf die anstehende Zinssitzung der EZB am Donnerstag."
     }
   ],
   "automotive": [
     {
-      "title": "Premiere Audi A2 e-tron: Die Rückkehr der Effizienz",
-      "text": "Mit dem A2 e-tron baut Audi ein Elektroauto für die Kompaktklasse. Er basiert auf dem aktualisierten Modularen E-Antriebs-Baukasten (MEB+) des Volkswagen-Konzerns, läuft in Ingolstadt vom Band und wird ab Dezember ausgeliefert. Der Preis: ab 38.200 Euro."
+      "title": "Dacia Spring, der Zweite: Der China-Stromer wird europäisch",
+      "text": "Dacia enthüllt die zweite Spring-Generation und holt das ehemalige China-Modell nach Slowenien. Dort läuft der A-Klasse-Stromer neben dem E-Twingo vom Band, mit dem er sich auch den Technik-Baukasten teilt. Preislich soll die gesamte Palette des Dacia Spring \"unter 20.000 liegen\". Wie tief darunter, ist ebenso entscheidend wie noch inoffiziell."
     },
     {
-      "title": "Lexus will neues Elektro-SUV in China bauen",
-      "text": "Toyotas Luxusmarke Lexus will ab kommenden Jahr offenbar ein elektrisches SUV der nächsten Generation in China bauen. Das Fahrzeug soll laut einem Agenturbericht im neuen Werk des Unternehmens in Shanghai produziert werden. Dabei soll auch ein hochmodernes Gigacasting-Produktionsverfahren zum Einsatz kommen."
+      "title": "Audi sortiert Joint Ventures in China neu",
+      "text": "Audi hat offenbar entschieden, seine zentralen Partnerschaften in China neu zu sortieren: Laut einem Medienbericht soll sich das Joint Venture mit SAIC künftig ausschließlich auf die neue Submarke AUDI (ohne Ringe) konzentrieren, während das Geschäft mit den Fahrzeugen mit den vier Ringen im Gemeinschaftsunternehmen mit FAW gebündelt wird."
     },
     {
-      "title": "Lucid konkretisiert Marktstart in Frankreich",
-      "text": "Lucid nähert sich seinem geplanten Markteintritt in Frankreich. Der US-Hersteller arbeitet dafür mit Emil Frey France zusammen und will Air und Gravity im Oktober auf dem Pariser Autosalon präsentieren. Details zum Verkaufsstart bleiben aber noch offen."
+      "title": "Meinungsbeitrag: Wie bei der TUM-Studie der Minister um die Ecke blickt",
+      "text": "Die Untersuchung der TU München zur Klimawirkung von E-Autos sorgt unter Branchenexperten für Diskussionsstoff. Wir haben Prof. Dr. Eckard Helmers vom Umwelt-Campus Birkenfeld der Hochschule Trier um einen Kommentar gebeten. …"
     }
   ],
   "tech": [
     {
-      "title": "Experiment: KI spielt Portal durch und verbraucht dabei 571 US-Dollar",
-      "text": "Das neue GPT-6 Astra hat selbstständig Valves Spieleklassiger Portal geschafft. Die Leistung ist erstaunlich, die Rechnung allerdings auch."
+      "title": "Auch im Standby: LG-Fernseher wohl anfällig für weitreichende Spionageangriffe",
+      "text": "Forscher haben untersucht, wie weitreichend Smart TVs von LG ihre Nutzer tracken und ausspionieren. Ihr Fazit: \"Vergleichbar mit Malware\"."
     },
     {
-      "title": "Auto: Elektroautos im Betrieb günstiger als Benziner",
-      "text": "Fallende Batteriepreise und steigende Treibstoffkosten machen Elektroautos im Betrieb zur günstigeren Alternative. Auch die Anschaffungskosten sinken."
+      "title": "Blockbuster: Drei neue Singleplayer-Spiele - zwei knacken schon die Million",
+      "text": "Onimusha und Dawnwalker erreichen nach dem Start eine Million Verkäufe. Eine andere Neuheit kommt in den Bewertungen allerdings noch besser an."
     },
     {
-      "title": "Patentrechtsstreit um Streamingabos: Disney+ verliert Smartphone-Steuerung für Chromecast",
-      "text": "Abonnenten von Disney+ verlieren eine weitere Funktion. Wer einen älteren Chromecast nutzt, kann Disney+ nicht mehr verwenden. ( Disney+ , Verbraucherschutz )"
+      "title": "Digitale Souveränität: Schweizer Regierung will weg von Microsoft",
+      "text": "Die Schweizer Regierung sieht Schleswig-Holstein als Vorbild und will sich langfristig möglichst umfassend von Microsoft lösen."
     }
   ],
   "local": [
+    {
+      "title": "Audi-Krise in Neckarsulm: Zulieferer haben Angst vor fatalem Dominoeffekt",
+      "text": "Die Diskussion um Audi in Neckarsulm sorgt weit über das Werk hinaus für Unruhe und Verunsicherung. Vor allem Zulieferer warnen vor den Folgen für ihre Betriebe."
+    },
     {
       "title": "Doch keine \"Umzingelung\"? Ein geplantes Windkraftgebiet bei Bartholomä gestrichen",
       "text": "Rund um die Gemeinde Bartholomä im Ostalbkreis entstehen wohl weniger Windkraftanlagen als ursprünglich geplant. Ein Gebiet wird gestrichen - es liegt in einem Naturschutzgebiet."
@@ -80,10 +84,6 @@
     {
       "title": "Audi-Werk Neckarsulm bekommt eine Chance - aber keine Garantie",
       "text": "Audi-Chef Gernot Döllner macht der Belegschaft in Neckarsulm Hoffnung, stellt aber Bedingungen: Bis Mitte 2027 muss das Werk wettbewerbsfähiger werden."
-    },
-    {
-      "title": "VW-Sparpaket: Gibt es eine Zukunft für bedrohte Werke wie Audi in Neckarsulm?",
-      "text": "Volkswagen muss sparen - dem Plan hat der Aufsichtsrat jetzt zugestimmt. Zehntausende Jobs sind betroffen und vier Werke stehen auf der Kippe. Was noch offen ist."
     }
   ]
 }
