@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-08T08:58:49.650Z",
+  "generatedAt": "2026-09-09T09:04:42.011Z",
   "world": [
+    {
+      "title": "Großbritannien sanktioniert Handel mit Siedlungen im Westjordanland",
+      "text": "Großbritannien will ein Handelsverbot für Waren aus völkerrechtswidrigen israelischen Siedlungen im Westjordanland verhängen. Israel reagiert mit Gegenmaßnahmen: Das britische Konsulat in Jerusalem soll geschlossen werden."
+    },
+    {
+      "title": "Einbruch in Museum in Südfrankreich: Renoir-Gemälde gestohlen",
+      "text": "Es werden Erinnerungen an den Einbruch in den Louvre wach: In Südfrankreich sind wertvolle Gemälde des impressionistischen Künstlers Renoir aus einem Museum gestohlen worden. Einen Teil der Beute ließen die Täter bei ihrer Flucht zurück."
+    },
+    {
+      "title": "IKEA setzt sich vor Gericht gegen rechtsextreme Partei durch",
+      "text": "Eine rechtsextreme Partei in Belgien präsentierte Ideen zum Thema Einwanderung im Stile einer IKEA-Aufbauanleitung - zum Ärger des schwedischen Möbelkonzerns. Der Europäische Gerichtshof hat nun im Sinne von IKEA geurteilt. Von Kolja Schwartz."
+    },
+    {
+      "title": "Beisetzung in Belgrad: EU verurteilt \"Verherrlichung von Kriegsverbrecher\" Mladic",
+      "text": "Mit militärischen Ehren wurde der Kriegsverbrecher Mladic in Serbien beigesetzt. Tausende nahmen teil, darunter auch serbische Amtsträger. Die EU-Spitze reagierte entsetzt."
+    },
     {
       "title": "Kurs der Bundesregierung: Verändert der AfD-Erfolg die deutsche EU-Politik?",
       "text": "In der EU stehen in nächster Zeit wichtige Entscheidungen an, etwa beim neuen Haushalt. Diskutiert wird daher, ob der Erfolg der AfD auch Folgen für die EU-Politik der Bundesregierung haben könnte. Von C. Feld und T. Spickhofen."
@@ -8,82 +24,66 @@
     {
       "title": "Grönland und EU: Sich von Trumps Drohungen nicht mehr beirren lassen",
       "text": "Die EU will weitere 200 Millionen Euro in Grönland investieren, unter anderem in den Abbau kritischer Rohstoffe. Kommissionschefin von der Leyen setzt damit auch ein Zeichen gegen Drohungen aus Washington. Von K. Schmid."
-    },
-    {
-      "title": "AfD-Wahlerfolg: Polen fürchtet Instabilität und Geschichtsrelativierung",
-      "text": "Der Wahlausgang in Sachsen-Anhalt wird auch in Polen genau beobachtet. Gerade die Haltung der AfD zu Russland verunsichert viele Menschen, zudem gibt es die Sorge vor einer geschwächten Bundesregierung. Von Palina Milling."
-    },
-    {
-      "title": "Wie der AfD-Wahlsieg in Sachsen-Anhalt in Frankreich bewertet wird",
-      "text": "Auch in Frankreich ist der AfD-Sieg in Sachsen-Anhalt Thema. Viele Politiker sind entsetzt - gilt die AfD doch als noch extremer als der Rassemblement National. Dessen Frontfrau Le Pen schweigt zum deutschen Wahlergebnis. Von Julia Borutta."
-    },
-    {
-      "title": "Signal an die USA: EU plant mehr Investitionen in Grönland",
-      "text": "\"Wir sind Familie\", betonte EU-Kommissionspräsidentin von der Leyen bei ihrer Ankunft in Grönland. Nun will sie die Partnerschaft mit einem großen Finanzpaket stärken - auch als Signal gegen die Gebietsansprüche der USA."
-    },
-    {
-      "title": "Warum Schweden seine Gefangenen in Estland unterbringt",
-      "text": "Steigende Kriminalität und verschärftes Strafrecht - in Schwedens Gefängnissen wird der Platz knapp. Das Land verlegt deshalb jetzt einen Teil seiner Häftlinge nach Estland. Es ist ein Deal, der nicht unumstritten ist. Von Christian Stichler."
     }
   ],
   "economy": [
     {
-      "title": "Französisches KI-Start-up Mistral sammelt drei Milliarden Euro ein",
-      "text": "In der bisher größten Finanzierungsrunde in Europa hat Mistral drei Milliarden Euro eingesammelt. Das französische Start-up setzt auf offene KI-Modelle und präsentiert sich als Gegenentwurf zu den US-Konzernen."
+      "title": "Apple-Aktie: Wird der KI-Rückstand zum Vorteil?",
+      "text": "Apple gilt bei künstlicher Intelligenz als Nachzügler - Symbol dafür ist Siri. Warum ausgerechnet geringere KI-Ausgaben zum Vorteil werden könnten und was den iPhone-Konzern jetzt unter Druck setzt. Von Angela Göpfert."
     },
     {
-      "title": "Handelskonflikt mit den USA: Kanadas Gegenzölle in Kraft",
-      "text": "Der Zollstreit in Nordamerika geht in die nächste Phase: Kanada erhebt ab sofort Gegenzölle auf bestimmte US-Importe. US-Präsident Trump drohte unterdessen dem kanadischen Flugzeughersteller Bombardier."
+      "title": "Handels-Gastronomie: Imbisse in Geschäften gefragt wie nie",
+      "text": "Frikadellen vom Baumarkt-Parkplatz, belegte Brötchen im Möbelhaus: Der Verkauf von Essen in Geschäften boomt. Einer Studie zufolge ist damit im vergangenen Jahr so viel Umsatz erzielt worden wie noch nie."
     },
     {
-      "title": "Marktbericht: DAX gibt zu Handelsbeginn leicht nach",
-      "text": "Nach dem schwachen Wochenauftakt geht es im DAX weiter abwärts. Vor allem die hohen Ölpreisen belasten die Märkte. Umso gespannter blicken Anleger deshalb auf die anstehende Zinssitzung der EZB am Donnerstag."
+      "title": "Bahn-Streik in den Niederlanden - auch Deutschland betroffen",
+      "text": "Ein Streik dürfte den Bahnverkehr in den Niederlanden heute weitgehend zum Stillstand bringen. Betroffen sind auch mehrere Verbindungen von und nach Deutschland. Hintergrund sind geplante Einschnitte im Sozialsystem."
     }
   ],
   "automotive": [
     {
-      "title": "Dacia Spring, der Zweite: Der China-Stromer wird europäisch",
-      "text": "Dacia enthüllt die zweite Spring-Generation und holt das ehemalige China-Modell nach Slowenien. Dort läuft der A-Klasse-Stromer neben dem E-Twingo vom Band, mit dem er sich auch den Technik-Baukasten teilt. Preislich soll die gesamte Palette des Dacia Spring \"unter 20.000 liegen\". Wie tief darunter, ist ebenso entscheidend wie noch inoffiziell."
+      "title": "Tesla FSD bekommt Unfall-Verhinderer bei manueller Lenkung",
+      "text": "Mit einem Update von FSD (Supervised) führt Tesla eine Funktion ein, die den Spieß umdreht: Während der Fahrer automatisierte Fahrten mit FSD stets überwachen muss, kann FSD nun umgekehrt manuelle Fahrten überwachen - und soll laut Tesla bei einem drohenden Unfall einschreiten. Unterdessen hat nun auch Slowenien FSD genehmigt."
     },
     {
-      "title": "Audi sortiert Joint Ventures in China neu",
-      "text": "Audi hat offenbar entschieden, seine zentralen Partnerschaften in China neu zu sortieren: Laut einem Medienbericht soll sich das Joint Venture mit SAIC künftig ausschließlich auf die neue Submarke AUDI (ohne Ringe) konzentrieren, während das Geschäft mit den Fahrzeugen mit den vier Ringen im Gemeinschaftsunternehmen mit FAW gebündelt wird."
+      "title": "ZF bringt neue Reparatursätze für E-Antriebe",
+      "text": "ZF Aftermarket erweitert sein Angebot für Elektro- und Hybridfahrzeuge. Neue Reparatursätze sollen Werkstätten die Instandsetzung einzelner Komponenten des elektrifizierten Antriebsstrangs ermöglichen."
     },
     {
-      "title": "Meinungsbeitrag: Wie bei der TUM-Studie der Minister um die Ecke blickt",
-      "text": "Die Untersuchung der TU München zur Klimawirkung von E-Autos sorgt unter Branchenexperten für Diskussionsstoff. Wir haben Prof. Dr. Eckard Helmers vom Umwelt-Campus Birkenfeld der Hochschule Trier um einen Kommentar gebeten. …"
+      "title": "Mercedes VLE kostet mit Allradantrieb ab 78.500 Euro",
+      "text": "Mercedes-Benz baut das Angebot des elektrischen VLE aus. Die elektrische Großraum-Limousine ist jetzt auch mit Allradantrieb bestellbar. Die Preise für den VLE 400 4MATIC mit fünf oder sechs Sitzen starten in Deutschland knapp unter 80.000 Euro."
     }
   ],
   "tech": [
     {
-      "title": "Auch im Standby: LG-Fernseher wohl anfällig für weitreichende Spionageangriffe",
-      "text": "Forscher haben untersucht, wie weitreichend Smart TVs von LG ihre Nutzer tracken und ausspionieren. Ihr Fazit: \"Vergleichbar mit Malware\"."
+      "title": "Elektrohydraulik: Aus Vibration von Schienen wird Strom",
+      "text": "Energie, die ansonsten als Vibration im Gleisbett verloren geht, kann in Strom umgewandelt werden. Bremsvorgänge sind nicht notwendig."
     },
     {
-      "title": "Blockbuster: Drei neue Singleplayer-Spiele - zwei knacken schon die Million",
-      "text": "Onimusha und Dawnwalker erreichen nach dem Start eine Million Verkäufe. Eine andere Neuheit kommt in den Bewertungen allerdings noch besser an."
+      "title": "Apple: Leak zu faltbarem iPhone Duo, iPhone 18 Pro und Apple Watch",
+      "text": "Kurz vor Apples Hardware-Event hat Mark Gurman zahlreiche Details zu den neuen Geräten veröffentlicht. Das faltbare iPhone Duo kostet ab 2.000 US-Dollar."
     },
     {
-      "title": "Digitale Souveränität: Schweizer Regierung will weg von Microsoft",
-      "text": "Die Schweizer Regierung sieht Schleswig-Holstein als Vorbild und will sich langfristig möglichst umfassend von Microsoft lösen."
+      "title": "Maps: Google schickt Autofahrer absichtlich auf Umwege",
+      "text": "Sechs Monate lang hat Google getestet, wie sich der Verkehr auf verstopften Straßen verbessern lässt. Ein Mittel: Fahrer mit Maps umleiten."
     }
   ],
   "local": [
+    {
+      "title": "\"Es wäre eine Katastrophe\": Für ganze Familien ist Leben ohne Audi-Werk Neckarsulm unvorstellbar",
+      "text": "Das Ganzhornfest in Neckarsulm ist jedes Jahr Anlass, sich zu treffen und auszutauschen. Ein Thema, das im Fokus stand, klingt nach: Wie geht es weiter mit dem Audi-Werk?"
+    },
+    {
+      "title": "Ein Jahr nach dem Vorfall bei Elbit in Ulm: Was hinter dem Verfahren steckt",
+      "text": "Vor einem Jahr sollen fünf mutmaßliche Pro-Palästina-Aktivisten bei der israelischen Rüstungsfirma Elbit in Ulm eingebrochen sein. Der Prozess am Landgericht Stuttgart gerät zum Politikum."
+    },
     {
       "title": "Audi-Krise in Neckarsulm: Zulieferer haben Angst vor fatalem Dominoeffekt",
       "text": "Die Diskussion um Audi in Neckarsulm sorgt weit über das Werk hinaus für Unruhe und Verunsicherung. Vor allem Zulieferer warnen vor den Folgen für ihre Betriebe."
     },
     {
-      "title": "Doch keine \"Umzingelung\"? Ein geplantes Windkraftgebiet bei Bartholomä gestrichen",
-      "text": "Rund um die Gemeinde Bartholomä im Ostalbkreis entstehen wohl weniger Windkraftanlagen als ursprünglich geplant. Ein Gebiet wird gestrichen - es liegt in einem Naturschutzgebiet."
-    },
-    {
-      "title": "VW-Sparpaket: Diese drei Szenarien sieht ein Auto-Experte für das Audi-Werk in Neckarsulm",
-      "text": "Das VW-Sparpaket kommt: 50.000 zusätzliche Stellen fallen weg und vier Werke stehen auf der Kippe. Welche Zukunft das Werk in Neckarsulm laut einem Autoexperten haben könnte."
-    },
-    {
-      "title": "Audi-Werk Neckarsulm bekommt eine Chance - aber keine Garantie",
-      "text": "Audi-Chef Gernot Döllner macht der Belegschaft in Neckarsulm Hoffnung, stellt aber Bedingungen: Bis Mitte 2027 muss das Werk wettbewerbsfähiger werden."
+      "title": "Marke Eichbaum wird von Pfälzer Brauerei übernommen: Das steckt dahinter",
+      "text": "Die Marke Eichbaum der insolventen Mannheimer Brauerei wird an Park & Bellheimer gehen. Die Hauptsorten sollen zunächst in der Pfalz gebraut werden. Was geplant ist."
     }
   ]
 }
