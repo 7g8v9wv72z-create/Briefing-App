@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-09T09:04:42.011Z",
+  "generatedAt": "2026-09-10T09:03:40.836Z",
   "world": [
+    {
+      "title": "Spanischer Geheimdienst warnte vor Ausnahmesituation in Ceuta",
+      "text": "Ende Juli kamen binnen Stunden Zehntausende Migranten nach Ceuta. Neue Dokumente zeigen nun: Der spanische Geheimdienst hatte vor der beispiellosen Massenankunft von Menschen aus Marokko in der Exklave gewarnt."
+    },
+    {
+      "title": "EU könnte Fördermittel für Sachsen-Anhalt einfrieren",
+      "text": "In Ungarn und Polen war es schon Praxis: Die EU fror Fördermittel ein. Sollte auch eine mögliche AfD-Regierung in Sachsen-Anhalt EU-Grundrechte brechen, droht dem Land ein Zahlungsstopp - und damit ein Finanzloch. Von J.-M. Magro."
+    },
     {
       "title": "Großbritannien sanktioniert Handel mit Siedlungen im Westjordanland",
       "text": "Großbritannien will ein Handelsverbot für Waren aus völkerrechtswidrigen israelischen Siedlungen im Westjordanland verhängen. Israel reagiert mit Gegenmaßnahmen: Das britische Konsulat in Jerusalem soll geschlossen werden."
@@ -16,59 +24,59 @@
     {
       "title": "Beisetzung in Belgrad: EU verurteilt \"Verherrlichung von Kriegsverbrecher\" Mladic",
       "text": "Mit militärischen Ehren wurde der Kriegsverbrecher Mladic in Serbien beigesetzt. Tausende nahmen teil, darunter auch serbische Amtsträger. Die EU-Spitze reagierte entsetzt."
-    },
-    {
-      "title": "Kurs der Bundesregierung: Verändert der AfD-Erfolg die deutsche EU-Politik?",
-      "text": "In der EU stehen in nächster Zeit wichtige Entscheidungen an, etwa beim neuen Haushalt. Diskutiert wird daher, ob der Erfolg der AfD auch Folgen für die EU-Politik der Bundesregierung haben könnte. Von C. Feld und T. Spickhofen."
-    },
-    {
-      "title": "Grönland und EU: Sich von Trumps Drohungen nicht mehr beirren lassen",
-      "text": "Die EU will weitere 200 Millionen Euro in Grönland investieren, unter anderem in den Abbau kritischer Rohstoffe. Kommissionschefin von der Leyen setzt damit auch ein Zeichen gegen Drohungen aus Washington. Von K. Schmid."
     }
   ],
   "economy": [
     {
-      "title": "Apple-Aktie: Wird der KI-Rückstand zum Vorteil?",
-      "text": "Apple gilt bei künstlicher Intelligenz als Nachzügler - Symbol dafür ist Siri. Warum ausgerechnet geringere KI-Ausgaben zum Vorteil werden könnten und was den iPhone-Konzern jetzt unter Druck setzt. Von Angela Göpfert."
+      "title": "Warum jetzt mehr Falt-Handys in die Läden kommen",
+      "text": "Apple steigt ins Geschäft mit aufklappbaren Smartphones ein. Bislang war das eher eine Nische. Doch auf den Markt kommen jetzt mehrere Hersteller mit neuen Geräten - die Vorteile und Nachteile haben."
     },
     {
-      "title": "Handels-Gastronomie: Imbisse in Geschäften gefragt wie nie",
-      "text": "Frikadellen vom Baumarkt-Parkplatz, belegte Brötchen im Möbelhaus: Der Verkauf von Essen in Geschäften boomt. Einer Studie zufolge ist damit im vergangenen Jahr so viel Umsatz erzielt worden wie noch nie."
+      "title": "Apple-Präsentation: Neues iPhone ist faltbar und sehr teuer",
+      "text": "Bei seinem großen Werbe-Event hat Apple das erste faltbare iPhone präsentiert. Obwohl Falthandys als Nischensegment gelten und die Konkurrenz sie schon länger anbietet, setzt Apple große Erwartungen in das teure Gerät. Von G. Biesinger."
     },
     {
-      "title": "Bahn-Streik in den Niederlanden - auch Deutschland betroffen",
-      "text": "Ein Streik dürfte den Bahnverkehr in den Niederlanden heute weitgehend zum Stillstand bringen. Betroffen sind auch mehrere Verbindungen von und nach Deutschland. Hintergrund sind geplante Einschnitte im Sozialsystem."
+      "title": "Teures Heizöl - warten oder kaufen?",
+      "text": "Der Ölpreis ist hoch, die Heizsaison beginnt schon bald. Viele Verbraucher sind verunsichert. Lohnt es sich jetzt, Heizöl zu bestellen? Oder soll man auf sinkende Preise warten? Von Felix Mannheim und Jörg Marksteiner."
     }
   ],
   "automotive": [
     {
-      "title": "Tesla FSD bekommt Unfall-Verhinderer bei manueller Lenkung",
-      "text": "Mit einem Update von FSD (Supervised) führt Tesla eine Funktion ein, die den Spieß umdreht: Während der Fahrer automatisierte Fahrten mit FSD stets überwachen muss, kann FSD nun umgekehrt manuelle Fahrten überwachen - und soll laut Tesla bei einem drohenden Unfall einschreiten. Unterdessen hat nun auch Slowenien FSD genehmigt."
+      "title": "Sany erweitert sein hiesiges E-Lkw-Portfolio um Fahrgestelle",
+      "text": "Sany hat vor wenigen Wochen mit der Vermarktung seiner E-Sattelzugmaschine e263 in Europa begonnen. Doch bei dieser einen Baureihe bleibt es nicht: Zur IAA Transportation bringt Sany weitere Ableger und Modelle mit – darunter auch Drei- und Vierachser. Wir stellen die Elektro-Fahrgestelle samt ihrer Datenblätter vor."
     },
     {
-      "title": "ZF bringt neue Reparatursätze für E-Antriebe",
-      "text": "ZF Aftermarket erweitert sein Angebot für Elektro- und Hybridfahrzeuge. Neue Reparatursätze sollen Werkstätten die Instandsetzung einzelner Komponenten des elektrifizierten Antriebsstrangs ermöglichen."
+      "title": "Batteriespeicher-Startup Rebaba bekommt knapp 4 Millionen Euro",
+      "text": "Rebaba, ein von früheren Northvolt-Mitarbeitern gegründetes Startup aus Schweden, hat in einer Seed-Finanzierungsrunde umgerechnet knapp 4 Millionen Euro von Investoren eingesammelt. Mit dem Geld will Rebaba sein Geschäft mit Second-Life-Batteriespeichern ausbauen."
     },
     {
-      "title": "Mercedes VLE kostet mit Allradantrieb ab 78.500 Euro",
-      "text": "Mercedes-Benz baut das Angebot des elektrischen VLE aus. Die elektrische Großraum-Limousine ist jetzt auch mit Allradantrieb bestellbar. Die Preise für den VLE 400 4MATIC mit fünf oder sechs Sitzen starten in Deutschland knapp unter 80.000 Euro."
+      "title": "Porsche ist bei Bugatti Rimac und Rimac Group final raus",
+      "text": "Der im April angekündigte Verkauf sämtlicher Anteile von Porsche am kroatischen Autohersteller Rimac Group sowie dem Hypercar-Gemeinschaftsunternehmen Bugatti Rimac ist nun abgeschlossen. Porsche erlöst dabei rund 1 Milliarde Euro. Und Bugatti-Chef Christophe Piochon nimmt seinen Hut."
     }
   ],
   "tech": [
     {
-      "title": "Elektrohydraulik: Aus Vibration von Schienen wird Strom",
-      "text": "Energie, die ansonsten als Vibration im Gleisbett verloren geht, kann in Strom umgewandelt werden. Bremsvorgänge sind nicht notwendig."
+      "title": "Dyson Camerajet: Wasser im Batteriefach beschädigt teure KI-Zahnbürsten",
+      "text": "Erste Nutzer von Dysons Camerajet-Zahnbürste berichten von Defekten nach nicht einmal 30 Sekunden Nutzungsdauer."
     },
     {
-      "title": "Apple: Leak zu faltbarem iPhone Duo, iPhone 18 Pro und Apple Watch",
-      "text": "Kurz vor Apples Hardware-Event hat Mark Gurman zahlreiche Details zu den neuen Geräten veröffentlicht. Das faltbare iPhone Duo kostet ab 2.000 US-Dollar."
+      "title": "Playstation: Sony macht keine Physint-Games mehr und Kojima wechselt zu Xbox",
+      "text": "Hideo Kojimas Physint verliert Sony als Partner. In der Community erregt schon der Name Spott - schließlich klingt er nach Physical Games."
     },
     {
-      "title": "Maps: Google schickt Autofahrer absichtlich auf Umwege",
-      "text": "Sechs Monate lang hat Google getestet, wie sich der Verkehr auf verstopften Straßen verbessern lässt. Ein Mittel: Fahrer mit Maps umleiten."
+      "title": "Trezor, Bitbox, Cointracking: Phishing-Welle verunsichert unzählige Krypto-Nutzer",
+      "text": "Zahlreiche Krypto-Nutzer haben kürzlich täuschend echte Phishing-Mails erhalten. Ursache ist wohl ein Vorfall bei einem E-Mail-Marketing-Anbieter."
     }
   ],
   "local": [
+    {
+      "title": "Känguru \"Karl-Heinz\" aus Gehege ausgebüxt - Tierarzt mit Betäubungs-Blasrohr unterwegs",
+      "text": "Bei Kirchheim am Ries im Ostalbkreis läuft die Suche nach einem ausgebüxten Känguru. Ein Tierarzt soll es in einem Wald mit einem Blasrohr betäuben und so wieder einfangen."
+    },
+    {
+      "title": "Wie kann Audi in Neckarsulm sparen? Das sagen Mitarbeitende",
+      "text": "Bei VW soll gespart werden. Davon dürften auch Stellen bei Audi betroffen sein. Gibt es andere Möglichkeiten? Einige Angestellte haben da andere Ideen als Stellenabbau."
+    },
     {
       "title": "\"Es wäre eine Katastrophe\": Für ganze Familien ist Leben ohne Audi-Werk Neckarsulm unvorstellbar",
       "text": "Das Ganzhornfest in Neckarsulm ist jedes Jahr Anlass, sich zu treffen und auszutauschen. Ein Thema, das im Fokus stand, klingt nach: Wie geht es weiter mit dem Audi-Werk?"
@@ -76,14 +84,6 @@
     {
       "title": "Ein Jahr nach dem Vorfall bei Elbit in Ulm: Was hinter dem Verfahren steckt",
       "text": "Vor einem Jahr sollen fünf mutmaßliche Pro-Palästina-Aktivisten bei der israelischen Rüstungsfirma Elbit in Ulm eingebrochen sein. Der Prozess am Landgericht Stuttgart gerät zum Politikum."
-    },
-    {
-      "title": "Audi-Krise in Neckarsulm: Zulieferer haben Angst vor fatalem Dominoeffekt",
-      "text": "Die Diskussion um Audi in Neckarsulm sorgt weit über das Werk hinaus für Unruhe und Verunsicherung. Vor allem Zulieferer warnen vor den Folgen für ihre Betriebe."
-    },
-    {
-      "title": "Marke Eichbaum wird von Pfälzer Brauerei übernommen: Das steckt dahinter",
-      "text": "Die Marke Eichbaum der insolventen Mannheimer Brauerei wird an Park & Bellheimer gehen. Die Hauptsorten sollen zunächst in der Pfalz gebraut werden. Was geplant ist."
     }
   ]
 }
