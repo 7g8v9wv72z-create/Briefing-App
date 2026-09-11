@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-10T09:03:40.836Z",
+  "generatedAt": "2026-09-11T09:01:32.620Z",
   "world": [
+    {
+      "title": "Mehrere Tote nach Busunglück in der Schweiz",
+      "text": "Ein Reisebus ist in der Schweiz von der Straße abgekommen, dabei wurden nach Polizeiangaben mehrere Menschen getötet. Der Bus eines niederländischen Reiseveranstalters war mit mit knapp 50 Menschen an Bord unterwegs."
+    },
+    {
+      "title": "Historischer Teppich in Londoner Museum zieht Menschenmassen an",
+      "text": "Auf 70 Metern Länge erzählt der Wandteppich von Bayeux die normannische Invasion Englands und die Thronbesteigung von Wilhelm \"dem Eroberer\". In London erobert er als seltene Leihgabe die Herzen der Museumsbesucher. Von. C. Prössl."
+    },
     {
       "title": "Spanischer Geheimdienst warnte vor Ausnahmesituation in Ceuta",
       "text": "Ende Juli kamen binnen Stunden Zehntausende Migranten nach Ceuta. Neue Dokumente zeigen nun: Der spanische Geheimdienst hatte vor der beispiellosen Massenankunft von Menschen aus Marokko in der Exklave gewarnt."
@@ -16,59 +24,55 @@
     {
       "title": "Einbruch in Museum in Südfrankreich: Renoir-Gemälde gestohlen",
       "text": "Es werden Erinnerungen an den Einbruch in den Louvre wach: In Südfrankreich sind wertvolle Gemälde des impressionistischen Künstlers Renoir aus einem Museum gestohlen worden. Einen Teil der Beute ließen die Täter bei ihrer Flucht zurück."
-    },
-    {
-      "title": "IKEA setzt sich vor Gericht gegen rechtsextreme Partei durch",
-      "text": "Eine rechtsextreme Partei in Belgien präsentierte Ideen zum Thema Einwanderung im Stile einer IKEA-Aufbauanleitung - zum Ärger des schwedischen Möbelkonzerns. Der Europäische Gerichtshof hat nun im Sinne von IKEA geurteilt. Von Kolja Schwartz."
-    },
-    {
-      "title": "Beisetzung in Belgrad: EU verurteilt \"Verherrlichung von Kriegsverbrecher\" Mladic",
-      "text": "Mit militärischen Ehren wurde der Kriegsverbrecher Mladic in Serbien beigesetzt. Tausende nahmen teil, darunter auch serbische Amtsträger. Die EU-Spitze reagierte entsetzt."
     }
   ],
   "economy": [
     {
-      "title": "Warum jetzt mehr Falt-Handys in die Läden kommen",
-      "text": "Apple steigt ins Geschäft mit aufklappbaren Smartphones ein. Bislang war das eher eine Nische. Doch auf den Markt kommen jetzt mehrere Hersteller mit neuen Geräten - die Vorteile und Nachteile haben."
+      "title": "Elektromobilität: Baut Deutschland die falschen Ladesäulen?",
+      "text": "Der Erfolg der E-Mobilität hängt nicht nur von den Fahrzeugen, sondern auch von der Ladeinfrastruktur ab. Je mehr Ladesäulen, desto besser - das war lange die Devise. Doch stimmt das noch? Von Thomas Eckert."
     },
     {
-      "title": "Apple-Präsentation: Neues iPhone ist faltbar und sehr teuer",
-      "text": "Bei seinem großen Werbe-Event hat Apple das erste faltbare iPhone präsentiert. Obwohl Falthandys als Nischensegment gelten und die Konkurrenz sie schon länger anbietet, setzt Apple große Erwartungen in das teure Gerät. Von G. Biesinger."
+      "title": "Kritik an Wegfall der Info-Pflicht bei höheren Krankenkassenbeiträgen",
+      "text": "Wird die Krankenkasse teurer, muss sie ihren Mitgliedern das nicht mehr aktiv mitteilen. Die Info-Pflicht wurde gestrichen. \"Ein Unding\", kritisieren Verbraucherschützer. Die Bundesregierung müsse diesen Fehler korrigieren."
     },
     {
-      "title": "Teures Heizöl - warten oder kaufen?",
-      "text": "Der Ölpreis ist hoch, die Heizsaison beginnt schon bald. Viele Verbraucher sind verunsichert. Lohnt es sich jetzt, Heizöl zu bestellen? Oder soll man auf sinkende Preise warten? Von Felix Mannheim und Jörg Marksteiner."
+      "title": "Emirate investieren 40 Milliarden Euro in Deutschland",
+      "text": "Deutschland und die Vereinigten Arabischen Emirate wollen ihre Beziehungen ausbauen. Der Golfstaat plant Investitionen von 40 Milliarden Euro. Zudem darf die Fluggesellschaft Emirates eine weitere deutsche Stadt anfliegen. Von Nicole Markwald."
     }
   ],
   "automotive": [
     {
-      "title": "Sany erweitert sein hiesiges E-Lkw-Portfolio um Fahrgestelle",
-      "text": "Sany hat vor wenigen Wochen mit der Vermarktung seiner E-Sattelzugmaschine e263 in Europa begonnen. Doch bei dieser einen Baureihe bleibt es nicht: Zur IAA Transportation bringt Sany weitere Ableger und Modelle mit – darunter auch Drei- und Vierachser. Wir stellen die Elektro-Fahrgestelle samt ihrer Datenblätter vor."
+      "title": "EU-Kommission will Ausschreibungen neu regeln: Mehr Europa, weniger China",
+      "text": "Die EU-Kommission will das Vergaberecht für öffentliche Aufträge neu regeln. Dadurch würde es leichter, Unternehmen von außerhalb der EU bei Ausschreibungen auszuschließen. Dabei hat die EU-Kommission u.a chinesische Firmen im Sinn. EU-Kommissar Stéphane Séjourné nannte als Beispiel die Elektrobusse von BYD. …"
     },
     {
-      "title": "Batteriespeicher-Startup Rebaba bekommt knapp 4 Millionen Euro",
-      "text": "Rebaba, ein von früheren Northvolt-Mitarbeitern gegründetes Startup aus Schweden, hat in einer Seed-Finanzierungsrunde umgerechnet knapp 4 Millionen Euro von Investoren eingesammelt. Mit dem Geld will Rebaba sein Geschäft mit Second-Life-Batteriespeichern ausbauen."
+      "title": "R3 Lithium startet Lithium-Recycling in Georgia",
+      "text": "R3 Lithium hat im US-Bundesstaat Georgia die Produktion von Lithiumcarbonat aus recycelten Batteriematerialien gestartet. Die bestehende Anlage ist auf 2.500 Tonnen pro Jahr ausgelegt und soll nun in den kontinuierlichen kommerziellen Betrieb überführt werden."
     },
     {
-      "title": "Porsche ist bei Bugatti Rimac und Rimac Group final raus",
-      "text": "Der im April angekündigte Verkauf sämtlicher Anteile von Porsche am kroatischen Autohersteller Rimac Group sowie dem Hypercar-Gemeinschaftsunternehmen Bugatti Rimac ist nun abgeschlossen. Porsche erlöst dabei rund 1 Milliarde Euro. Und Bugatti-Chef Christophe Piochon nimmt seinen Hut."
+      "title": "Wie Audi die Entwicklungszeit beim A2 e-tron verkürzt hat",
+      "text": "Audi nennt zum Produktionsauftakt des A2 e-tron im Stammwerk Ingolstadt einige Eckpunkte zur Entstehung und Fertigung des Stromers. So soll der Entwicklungsprozess beim elektrischen A2 deutlich verkürzt worden sein – laut der Volkswagen-Tochter um knapp zwei Jahren gegenüber bisherigen Fahrzeugprojekten."
     }
   ],
   "tech": [
     {
-      "title": "Dyson Camerajet: Wasser im Batteriefach beschädigt teure KI-Zahnbürsten",
-      "text": "Erste Nutzer von Dysons Camerajet-Zahnbürste berichten von Defekten nach nicht einmal 30 Sekunden Nutzungsdauer."
+      "title": "4.100 Bitcoin gestohlen: Kryptodieb prahlt mit Reichtum und wird verhaftet",
+      "text": "Eine Cybergang hat 245 Millionen US-Dollar in Bitcoin erbeutet und sich damit reichlich Luxus gegönnt. Der mutmaßliche Anführer bekennt sich schuldig."
     },
     {
-      "title": "Playstation: Sony macht keine Physint-Games mehr und Kojima wechselt zu Xbox",
-      "text": "Hideo Kojimas Physint verliert Sony als Partner. In der Community erregt schon der Name Spott - schließlich klingt er nach Physical Games."
+      "title": "Actionspiel: Sony wollte Kojimas Physint komplett einstellen",
+      "text": "Hideo Kojima schildert den Bruch mit Playstation ungewöhnlich deutlich: Sony hat Physint nicht nur abgeben, sondern das Projekt beenden wollen."
     },
     {
-      "title": "Trezor, Bitbox, Cointracking: Phishing-Welle verunsichert unzählige Krypto-Nutzer",
-      "text": "Zahlreiche Krypto-Nutzer haben kürzlich täuschend echte Phishing-Mails erhalten. Ursache ist wohl ein Vorfall bei einem E-Mail-Marketing-Anbieter."
+      "title": "Enisa: Anthropic öffnet Mythos-Modell für EU-Cyberagentur",
+      "text": "Nach monatelangen Verhandlungen gibt Anthropic der EU-Agentur Enisa Zugang zu seinem KI-Modell Mythos. Doch die neueste Version gibt es nicht."
     }
   ],
   "local": [
+    {
+      "title": "Vermisster Senior aus Giengen an der Brenz: Landwirt findet 84-Jährigen hilflos am Feldweg",
+      "text": "Ein Landwirt aus dem Kreis Dillingen hat am Mittwochabend einen hilflosen 84-jährigen Mann gefunden. Der Rentner aus Giengen an der Brenz war zuvor vermisst gemeldet worden."
+    },
     {
       "title": "Känguru \"Karl-Heinz\" aus Gehege ausgebüxt - Tierarzt mit Betäubungs-Blasrohr unterwegs",
       "text": "Bei Kirchheim am Ries im Ostalbkreis läuft die Suche nach einem ausgebüxten Känguru. Ein Tierarzt soll es in einem Wald mit einem Blasrohr betäuben und so wieder einfangen."
@@ -78,12 +82,8 @@
       "text": "Bei VW soll gespart werden. Davon dürften auch Stellen bei Audi betroffen sein. Gibt es andere Möglichkeiten? Einige Angestellte haben da andere Ideen als Stellenabbau."
     },
     {
-      "title": "\"Es wäre eine Katastrophe\": Für ganze Familien ist Leben ohne Audi-Werk Neckarsulm unvorstellbar",
-      "text": "Das Ganzhornfest in Neckarsulm ist jedes Jahr Anlass, sich zu treffen und auszutauschen. Ein Thema, das im Fokus stand, klingt nach: Wie geht es weiter mit dem Audi-Werk?"
-    },
-    {
-      "title": "Ein Jahr nach dem Vorfall bei Elbit in Ulm: Was hinter dem Verfahren steckt",
-      "text": "Vor einem Jahr sollen fünf mutmaßliche Pro-Palästina-Aktivisten bei der israelischen Rüstungsfirma Elbit in Ulm eingebrochen sein. Der Prozess am Landgericht Stuttgart gerät zum Politikum."
+      "title": "KI-Überflieger Black Forest Labs gewährt seltenen Einblick",
+      "text": "Mit täuschend echten KI-Videos mischt ein Freiburger Start-up den Weltmarkt auf. Einblicke gewährt das Unternehmen selten. Beim Ortsbesuch mit dem baden-württembergischen Finanzminister war das jetzt möglich."
     }
   ]
 }
