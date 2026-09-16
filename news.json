@@ -1,74 +1,82 @@
 {
-  "generatedAt": "2026-09-15T09:32:10.846Z",
+  "generatedAt": "2026-09-16T09:25:08.438Z",
   "world": [
+    {
+      "title": "Drohne über Litauen war laut Regierung mit Sprengstoff bestückt",
+      "text": "Die Vorfälle mit Flugobjekten im NATO-Gebiet häufen sich: In Litauen wurde gestern eine Drohne abgeschossen. Ersten Erkenntnissen zufolge war sie mit Sprengstoff beladen. Woher sie stammt, ist weiter unklar."
+    },
+    {
+      "title": "Streit über Wahlrechtsreform: Melonis Zitterpartie",
+      "text": "Das Kabinett Meloni regiert Italien inzwischen länger als jeder seiner Vorgänger in der Nachkriegszeit. Und doch sitzt Meloni längst nicht mehr so fest im Sattel. Ein Streit über eine Wahlrechtsreform belastet ihre Koalition schwer. Von A. Giordano."
+    },
+    {
+      "title": "Prozess gegen Thaci: Wird Kosovos Ex-Präsident verurteilt?",
+      "text": "Hashim Thaci hat den Kosovo mit der Kosovarischen Befreiungsarmee in die Unabhängigkeit geführt. Hat der Ex-Präsident dabei Kriegsverbrechen begangen? Ein Sondertribunal in Den Haag fällt heute sein Urteil. Von Andreas Herz."
+    },
+    {
+      "title": "Russland und Dänemark beschuldigen sich nach Leuchtraketen -Beschuss",
+      "text": "Eine russische Fregatte hat einen dänischen Helikopter auf der Ostsee mit Leuchtraketen beschossen. Dänemark und die EU kritisierten den Vorfall scharf. Russlands Botschafter in Kopenhagen warf Dänemark Provokation vor. Von C. Stichler."
+    },
+    {
+      "title": "Mutmaßliche Saboteure behindern Zugverkehr in den Niederlanden",
+      "text": "Unbekannte haben auf mehreren Bahnstrecken in den Niederlanden Rohre abgelegt. In Teilen des Landes fuhren keine Züge mehr. Der Netzbetreiber geht von Sabotage aus."
+    },
     {
       "title": "Russische Fregatte feuert Leuchtraketen auf dänischen Helikopter",
       "text": "Ein dänischer Militärhubschrauber ist nur knapp von Leuchtraketen einer russischen Fregatte verfehlt worden. Dänemark spricht von einem ernsten Vorfall - und hat den russischen Botschafter einbestellt. Von Jana Sinram."
-    },
-    {
-      "title": "Verlängerung von EU-Sanktionen gegen Russland vorerst blockiert",
-      "text": "Die EU wird ihre Strafmaßnahmen gegen rund 3.000 russische Personen und Einrichtungen vorerst nicht wie geplant um ein Jahr verlängern. Grund: Die Slowakei und Frankreich wollen offenbar einen Oligarchen von der Sanktionsliste streichen."
-    },
-    {
-      "title": "Litauen: NATO-Kampfjets schießen Drohne ab",
-      "text": "Kampfjets der NATO haben eine Drohne abgeschossen, die in den litauischen Luftraum eingedrungen war. Angaben zur Herkunft der Drohne gibt es bisher nicht. Litauens Präsident Nauseda dankte der NATO."
-    },
-    {
-      "title": "Arktis-Gipfel: Die EU richtet ihren Blick Richtung Norden",
-      "text": "Mit dem Klimawandel verändert sich die Bedeutung der Arktis - wirtschaftlich und sicherheitspolitisch. Darauf will die EU reagieren. Ein Gipfel in Finnland sollte den Anfang machen. Von A. Meyer-Feist."
-    },
-    {
-      "title": "Pistorius will Soldaten zum Dienst in Litauen auch verpflichten",
-      "text": "Verteidigungsminister Pistorius hatte bei der Litauen-Brigade erst auf Freiwilligkeit gesetzt - doch Hunderte Spezialisten fehlen noch. Nun sollen Soldaten auch zum Dienst in der Brigade verpflichtet werden."
-    },
-    {
-      "title": "Schweden steht nach Parlamentswahl vor schwieriger Regierungsbildung",
-      "text": "Gebannt wartet Schweden auf das Endergebnis der Parlamentswahl. Derzeit liegt die Opposition knapp vor dem Regierungslager. Doch ganz gleich, wer gewinnt: Die Bildung einer handlungsfähigen Regierung dürfte schwierig werden. Von Jana Sinram."
     }
   ],
   "economy": [
     {
-      "title": "Gasreserven vor dem Winter: Wie Österreich vorsorgt",
-      "text": "Deutschlands Gasspeicher waren zuletzt etwa zur Hälfte gefüllt - und die Sorge vor Engpässen im Winter wächst. In Österreich wirkt die Lage entspannter. Was macht das Nachbarland anders? Von Oliver Soos."
+      "title": "Wie blockierte Seewege den weltweiten Handel gefährden",
+      "text": "Die Huthi-Miliz blockiert die Meerenge von Bab al-Mandab - und damit die kürzeste Route von Asien nach Europa. Das bedeutet teure Umwege. Wie gefährdet sind Schifffahrtsrouten und globale Lieferketten? Von Marcus Pfeiffer."
     },
     {
-      "title": "Noch nie so viele Start-ups gegründet wie im ersten Halbjahr 2026",
-      "text": "Noch nie wurden so viele Unternehmen mit innovativen Geschäftsideen gegründet - vor allem dank Künstlicher Intelligenz. Die Start-up-Szene blickt optimistisch in die Zukunft. Von Steffen Clement."
+      "title": "Reederei-Verband: \"Wir sind Krisen und Kriege gewohnt\"",
+      "text": "Siebenstellige Mehrkosten verursacht die Umrundung Afrikas. Am Ende bezahlen das die Kunden. Doch die Preiserhöhungen liegen im Cent-Bereich, sagt Reederei-Experte Kröger. Er blickt gelassen auf die Lage: Schiffe fänden fast immer einen Weg."
     },
     {
-      "title": "Was steckt hinter der Debatte über eine KI-Bremse?",
-      "text": "Nach bedrohlichen Zwischenfällen im Zusammenhang mit KI-Modellen ist eine globale Debatte über schärfere Regeln für die Technologie entbrannt. Vorne mit dabei: ausgerechnet die führenden Entwickler OpenAI und Anthropic."
+      "title": "Spritpreise: Was kann die Politik tun, um die Verbraucher zu entlasten?",
+      "text": "Tanken in Deutschland ist so teuer wie nie zuvor. Bundeskanzler Merz hat nun neue Entlastungen angekündigt. Aber wie könnten die aussehen - und welche Möglichkeiten gibt es überhaupt? Ein Überblick."
     }
   ],
   "automotive": [
     {
-      "title": "Bosch zeigt neue E-Achse für schwere Elektro-Lkw",
-      "text": "Auf der IAA Transportation zeigt Bosch eine neue elektrische Starrachse für schwere Nutzfahrzeuge. Die Rigid eAxle integriert E-Motor und Getriebe und ist für Fahrzeuge von 18 bis 49 Tonnen ausgelegt. Daneben präsentiert der Zulieferer neue Lösungen für Thermomanagement, Fahrerassistenz und den softwaredefinierten Lkw."
+      "title": "Ungarn erhöht Druck auf BYD und CATL",
+      "text": "Ungarns neue Regierung nimmt die unter Viktor Orbán vereinbarten Großinvestitionen chinesischer Unternehmen genauer unter die Lupe. Wie Nikkei Asia berichtet, sollen frühere Förder- und Investitionsvereinbarungen überprüft und Umweltkontrollen verschärft werden. Davon sind auch die Werke von BYD und CATL betroffen."
     },
     {
-      "title": "Scania macht mit neuer Batterielösung Reichweite von 720 km möglich",
-      "text": "Scania stellt für seine E-Lkw eine Batterielösung vor, bei der Akkus hinter dem Fahrerhaus montiert werden. Bei einer typischen Konfiguration können zwei MP20-Batteriepacks hinter dem Fahrerhaus montiert werden. Dadurch steigt die Batteriekapazität deutlich - und Reichweiten bis 720 Kilometer werden möglich."
+      "title": "Megawatt-Ladenetz für Lkw: Tesla will in Europa mit 21 Standorten loslegen",
+      "text": "Tesla wird sein Lkw-Ladenetz ab kommenden Jahr zunächst in Deutschland, Frankreich, Benelux, UK und Schweden ausrollen. Geplant sind laut Dan Priestley, Leiter des Lkw-Programms bei Tesla, zunächst 21 öffentliche Standorte mit mehr als 100 Megawatt-Ladepunkten."
     },
     {
-      "title": "Mahle startet erste Range-Extender-Projekte mit Lkw-Herstellern",
-      "text": "Mahle geht mit seinem Range Extender für Elektro-Lkw den nächsten Schritt: Nach der Ankündigung im August hat der Zulieferer nun erste konkrete Projekte mit Nutzfahrzeugherstellern gestartet. Dabei sollen Prototypen entstehen und zeitnah auf die Straße kommen."
+      "title": "Weltpremiere VW ID.3 GTI: Stärkster Serien-GTI fährt elektrisch vor",
+      "text": "Volkswagen baut seine elektrische GTI-Familie aus: Nach dem ID. Polo GTI folgt mit dem ID.3 GTI nun das zweite Modell unter dem traditionsreichen Kürzel. Technisch liegt der Kompaktsportler nah am ID.3 GTX Performance, soll sich aber durch eine eigene GTI-Abstimmung abgrenzen. Der Marktstart ist für das erste Quartal 2027 geplant."
     }
   ],
   "tech": [
     {
-      "title": "Elektro-SUV BMW iX3: 100.000 Bestellungen allein in Europa",
-      "text": "Der vor gut einem Jahr vorgestellte iX3 kommt bei den Kunden in Europa gut an. Zum China-Geschäft nennt BMW bislang keine Zahlen."
+      "title": "KI-Inferenz: Samsung investiert in nierderländischen Nvidia-Herausforderer",
+      "text": "Die Chips des niederländischen KI-Startups Euclyd sollen einen günstigeren Betrieb von Rechenzentren ermöglichen."
     },
     {
-      "title": "Grok: Musk lässt Klage gegen Apple fallen",
-      "text": "Elon Musk war verärgert, dass sein Chatbot Grok nicht die Download-Charts in Apples App Store angeführt hat. Jetzt ist die der Vorwurf ausgeräumt."
+      "title": "Nightmare Eclipse: Microsofts schlimmster Alptraum outet sich",
+      "text": "Nach monatelang öffentlich ausgetragenen Streitigkeiten mit Microsoft gibt sich Nightmare Eclipse zu erkennen. Sein Standort: Deutschland."
     },
     {
-      "title": "Softwareprojekte in Gefahr: BSI warnt vor laufenden Angriffen auf Gitlab",
-      "text": "Angreifer haben es auf Gitlab-Instanzen abgesehen. Durch eine kritische Path-Traversal-Lücke können sie unter anderem Zugangsdaten abgreifen."
+      "title": "Level 4: Lidl setzt autonomen E-Lkw ohne Fahrer für Warenlieferungen ein",
+      "text": "In Hessen fährt künftig ein autonomer Lkw Waren aus dem Lager in einen Lidl-Markt - auf öffentlichen Straßen."
     }
   ],
   "local": [
+    {
+      "title": "Özdemir in Neckarsulm: So könnte das Audi-Werk gerettet werden",
+      "text": "Ministerpräsident Cem Özdemir hat am Dienstag das Audi-Werk in Neckarsulm besucht. Für den Erhalt des Standorts setzt er auf Zugeständnisse von Unternehmen und Beschäftigten."
+    },
+    {
+      "title": "Beim Urlaub in der Türkei verhaftet: Ulmer Ferdi Soylu muss vorerst im Gefängnis bleiben",
+      "text": "Der Widerspruch gegen die Untersuchungshaft des in der Türkei inhaftierten Ulmers Ferdi Soylu ist abgelehnt worden. Das hat sein Bruder dem SWR mitgeteilt. Wann der Prozess beginnt, ist weiterhin unklar."
+    },
     {
       "title": "\"Schön auf dem Boden bleiben\": Heidenheim schlägt Kiel und klettert weiter in der Tabelle",
       "text": "Der Aufwärtstrend des 1. FC Heidenheim hält an. Gegen Kiel feiert der FCH einen hart erkämpften Sieg. Die Erleichterung ist groß - Trainer Frank Schmidt mahnt zur Bodenhaftung."
@@ -76,14 +84,6 @@
     {
       "title": "Neckarsulm: Einbrecher schneiden Wand auf und stehlen E-Bikes für 100.000 Euro",
       "text": "In der Nacht auf Samstag haben Einbrecher in Neckarsulm die Wand eines Lagers aufgeschnitten und besonders teure E-Bikes gestohlen. Der Schaden ist hoch."
-    },
-    {
-      "title": "Hitzesommer beschert Strand- und Freibädern starkes Besucherplus",
-      "text": "Die Hitzewellen im Sommer haben den Strand- und Freibädern am Bodensee und in Oberschwaben kräftige Besucherzuwächse beschert. Das Personal hatten alle Hände voll zu tun."
-    },
-    {
-      "title": "SEK-Einsatz in falscher Wohnung - Schock für Heidenheimerin nach dem Urlaub",
-      "text": "Bei einem SEK-Einsatz in Heidenheim stürmt die Polizei versehentlich die falsche Wohnung. Die Bewohnerin ist im Urlaub und kommt danach nicht mehr in ihre eigenen vier Wände."
     }
   ]
 }
