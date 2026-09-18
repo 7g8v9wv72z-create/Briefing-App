@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-17T09:34:57.356Z",
+  "generatedAt": "2026-09-18T09:07:00.219Z",
   "world": [
+    {
+      "title": "Mehr Pflanzen, weniger Fleisch: Schweiz stimmt über Ernährungsinitiative ab",
+      "text": "\"Tu ma lieber die Möhrchen\", könnte es bald in der Schweiz heißen. Eine Initiative fordert mehr pflanzliche Lebensmittel und weniger Tierhaltung. Dahinter steckt die Frage: Inwieweit will sich das Land künftig selbst versorgen? Von S. Biegger."
+    },
+    {
+      "title": "Kanadas Premier offen für Idee einer assoziierten EU-Mitgliedschaft",
+      "text": "Kanadas Premier Carney hat sich im Europaparlament in Straßburg für eine stärkere Zusammenarbeit seines Landes mit der EU ausgesprochen. Eine Partnerschaft müsse auf Werten begründet sein, nicht auf Eigensinn. Von Andreas Meyer-Feist."
+    },
+    {
+      "title": "Nach Parlamentswahl in Schweden: Knapper Sieg für Mitte-links-Lager",
+      "text": "Der von Ulf Kristersson geführte konservativ-rechte Parteienblock musste bei der Wahl in Schweden eine Niederlage hinnehmen. Der Regierungschef trat zurück. Die bisherige Opposition steht mit Magdalena Andersson vor einer schwierigen Regierungsbildung."
+    },
+    {
+      "title": "Plan der EU-Kommission: Drei Altersstufen für Soziale Medien",
+      "text": "Unter 13, bis 15 und bis 18 - in diesen Schritten soll die Nutzung Sozialer Medien durch Minderjährige geregelt werden: Das schlägt die EU-Kommission mit dem EU Kids Act vor. Süchtig machende Funktionen sollen ganz verboten werden. Von K. Schmid."
+    },
     {
       "title": "Wie stellt Kanada sich die \"einzigartige Allianz\" vor?",
       "text": "Kanada und die EU wollen noch mehr zusammenarbeiten. Wie genau das aussehen könnte, ist noch unklar. In seiner Rede vor dem EU-Parlament könnte Premier Carney heute ein paar der offenen Fragen beantworten. Von Giselle Ucar."
@@ -8,67 +24,59 @@
     {
       "title": "Von der Leyen will neuen transatlantischen Bund mit Kanada",
       "text": "Wo steht die EU? Und was sind die Pläne für die kommenden Monate? EU-Kommissionschefin von der Leyen hat in ihrer Grundsatzrede in Straßburg die Prioritäten skizziert - eine ihrer vielen Initiativen ist eine engere Partnerschaft mit Kanada. Von Christian Feld."
-    },
-    {
-      "title": "Wegen Flüchtlingsunterkunft: Dorf in England stimmt symbolisch für Unabhängigkeit",
-      "text": "Aus Protest gegen die Unterbringung von Flüchtlingen hat ein englisches Dorf symbolisch dafür gestimmt, aus dem Vereinigten Königreich auszutreten. Unterstützung bekommt es dabei von der Rechtsaußen-Partei Restore Britain. Von Franziska Hoppen."
-    },
-    {
-      "title": "Social Media erst ab 13 Jahren - was die EU plant",
-      "text": "Die EU plant Altersbeschränkungen für TikTok, Instagram und Co: In Deutschland und anderen Mitgliedsstaaten soll der Zugang zu Sozialen Netzwerken erst ab 13 Jahren erlaubt werden. Was Brüssel plant - ein Überblick."
-    },
-    {
-      "title": "25 Jahre Haft für Kosovos Ex-Präsident Thaci wegen Kriegsverbrechen",
-      "text": "Das Kosovo-Sondertribunal in Den Haag hat den ehemaligen Präsidenten Thaci wegen Kriegsverbrechen zu 25 Jahren Haft verurteilt. In Pristina löste das Urteil Proteste aus. Vielen gilt Thaci als Nationalheld."
-    },
-    {
-      "title": "Von der Leyen zur Lage der Union: Neuer Krisenmechanismus und mehr Bündnisse",
-      "text": "Wie kann sich Europa besser gegen Bedrohungen wappnen? Mit dieser Frage befasste sich die EU-Kommissionspräsidentin in ihrer diesjährigen Rede zur Lage der Union. Ihre Antworten: mit einem neuen Sicherheitsmechanismus und mehr Zusammenarbeit."
     }
   ],
   "economy": [
     {
-      "title": "Auftragsbestand in der Industrie steigt auf Rekordhoch",
-      "text": "Die Auftragsbücher deutscher Industrieunternehmen sind so voll wie noch nie. Besonders Aufträge für Flugzeuge, Schiffe, Züge und auch Militärfahrzeuge sorgen für viel Extrageschäft im Verarbeitenden Gewerbe."
+      "title": "Hohe Preise: Welche Energiekosten auf die Verbraucher zukommen",
+      "text": "Der Iran-Krieg hat Energie stark verteuert. Wo sind die Preise bereits besonders stark angestiegen? Und worauf müssen sich Haushalte mit Blick auf die kommenden Monaten noch einstellen? Von Till Bücker."
     },
     {
-      "title": "US-Notenbank erhöht Leitzins erstmals seit 2023",
-      "text": "Im Kampf gegen die hartnäckig hohe Inflation hebt die US-Notenbank Fed den Leitzins an. Er wurde um einen Viertelpunkt erhöht - auf die neue Spanne von 3,75 bis 4,00 Prozent. Experten hatten mit diesem Schritt gerechnet."
+      "title": "EU-Verpackungsverordnung - für kleine Händler ein \"bürokratisches Monster\"?",
+      "text": "Mit einer Verordnung will die EU für weniger Verpackungsmüll und mehr Recycling sorgen. Doch sie trifft damit nicht nur Onlineriesen wie Amazon, sondern auch kleine Händlerinnen und Händler. Von R. Schirra und T. Kukral."
     },
     {
-      "title": "Kreditkarten-Schulden: Der Alltag der Amerikaner läuft auf Pump",
-      "text": "Nicht nur die Staatsschulden der USA sind enorm - auch viele Verbraucher sind angesichts hoher Lebenshaltungskosten im Minus. Viele jüngere Amerikaner haben hohe offene Kreditkarten-Rechnungen. Von Melanie Böff."
+      "title": "Marktbericht: Anleger trotz sinkender Ölpreise zurückhaltend",
+      "text": "Obwohl die Rohöl-Preise weiter sinken, steht der DAX unter Verkaufsdruck. In der Nähe der 26.000-Punkte-Marke fehlen Anlegern die Kaufargumente. Steigende Erzeugerpreise deuten auf eine anhaltend hohe Inflation hin."
     }
   ],
   "automotive": [
     {
-      "title": "Audi A4 e-tron: SSP-Modell verzögert sich bis 2029",
-      "text": "Audi hat den Produktionsstart des vollelektrischen Audi A4 e-tron offenbar auf die erste Jahreshälfte 2029 verschoben. Grund dafür sollen einmal mehr Probleme bei der Einführung der neuen Elektro-Architektur SSP des Volkswagen-Konzerns sein, die Technologie von dessen US-Partner Rivian verwendet."
+      "title": "Feststoff-Batterie: Factorial setzt bei Elektrolyt auf japanisches Knowhow",
+      "text": "Batterie-Entwickler Factorial Energy schließt eine strategische Partnerschaft mit dem japanischen Unternehmen Mitsui Kinzoku, um die Industrialisierung von einer seiner Plattformen für Feststoffbatterien zu beschleunigen. Mitsui Kinzoku ist Hersteller von festen, sulfidbasierten Elektrolyten."
     },
     {
-      "title": "Panasonic Energy eröffnet Batterie-Entwicklungszentrum in Osaka",
-      "text": "Panasonic Energy hat in Kadoma bei Osaka ein neues Forschungs- und Entwicklungszentrum für Lithium-Ionen-Batterien eröffnet. Der sogenannte Energy Innovation Square bündelt die Entwicklung von Materialien und Batteriezellen bis hin zum Prototypenbau. Bis 2031 will Panasonic damit seine Entwicklungseffizienz verdoppeln."
+      "title": "Lies, Özedmir und Söder fordern mehr Unterstützung für Automobilindustrie",
+      "text": "Drei Autoländer - eine parteiübergreifende Meinung: Die Ministerpräsidenten von Baden-Württemberg, Bayern und Niedersachsen fordern in einem gemeinsamen Positionspapier von der Bundesregierung und der EU konkrete Maßnahmen, um die Wettbewerbsfähigkeit der deutschen Automobilindustrie zu sichern."
     },
     {
-      "title": "Hybridautos: EU fordert China zu Selbstbeschränkung auf",
-      "text": "Die Europäische Union soll China laut einem Medienbericht dazu aufgefordert haben, die Exporte von Hybridautos nach Europa freiwillig zu beschränken. Andernfalls drohen Sonderzölle, die in der EU schon länger diskutiert werden. Bisher gelten diese nur auf reine Elektroautos aus China."
+      "title": "Hohe iX3-Nachfrage: BMW erhöht in Ungarn auf drei Schichten",
+      "text": "BMW hat die Produktion des iX3 im Werk Debrecen in diesem Monat von zwei auf drei Schichten umgestellt – und damit auf eine Rund-um-die-Uhr-Fertigung. Grund ist die hohe Nachfrage: BMW bestätigt in diesem Zusammenhang die Zahl von 100.000 Bestellungen, die bisher allein in Europa für den iX3 eingegangen sind."
     }
   ],
   "tech": [
     {
-      "title": "\"Rotes Telefon\": Forscher fordern KI-Regeln wie bei Nuklearwaffen im Kalten Krieg",
-      "text": "US-amerikanische und chinesische Sicherheitsexperten fordern KI-Regeln wie im Kalten Krieg - inklusive einer Art \"Rotem Telefon\" zwischen China und den USA."
+      "title": "KI-Forscher Kokotajlo: \"Müssen die KI-Entwicklung im Wesentlichen abschalten\"",
+      "text": "Kokotajlo warnt vor unkontrollierbaren Risiken durch sich selbst verbessernde KI-Systeme: vor neuartigen Biowaffen und automatisierten Cyberangriffen."
     },
     {
-      "title": "Agenten beim Schummeln erwischt: OpenAI gesteht Kontrollverlust über seine KI",
-      "text": "OpenAI will \"besorgniserregende\" KI-Vorfälle künftig schneller offenlegen. Zum Start liefert der ChatGPT-Entwickler gleich sechs reale Beispiele."
+      "title": "Rückstand zu den USA: Huawei-Chef fordert schnellere KI-Entwicklung in China",
+      "text": "Chinesische KI-Entwickler sollen ihr Forschungstempo beschleunigen, um den Rückstand zu den USA aufzuholen."
     },
     {
-      "title": "Punkte: Paypal startet Rabattprogramm Paypal+ auch in Deutschland",
-      "text": "Wer Paypal nutzt, kann jetzt an einem neuen Rabattprogramm des Zahlungsdienstleisters teilnehmen. Gesammelte Punkte können auch in Guthaben umgewandelt werden."
+      "title": "Durch einfache Wischgesten: Kurioser iOS-Bug macht iPhones unbedienbar",
+      "text": "Durch ein paar Wischgesten auf dem Homescreen lassen sich iPhones unter iOS 27 in einen unbedienbaren Zustand versetzen. Doch es gibt eine Lösung."
     }
   ],
   "local": [
+    {
+      "title": "30 Stunden ohne Pause am Steuer: Polizei zieht Lkw-Fahrer bei Ulm aus dem Verkehr",
+      "text": "Bei einer Verkehrskontrolle nahe Ulm haben Polizisten einen besonders übermüdeten Lastwagenfahrer entdeckt. Einmal saß er sogar 30 Stunden lang am Steuer. Es war nicht sein einziger Verstoß."
+    },
+    {
+      "title": "Zugverkehr stundenlang lahmgelegt: Betonteile stürzen in Ulm auf Bahngleise",
+      "text": "Bei Bauarbeiten an der Adenauerbrücke in Ulm sind am Mittwoch Betonteile auf darunterliegende Bahngleise gestürzt. Verletzt wurde niemand. Doch es gab Folgen für Bahnreisende."
+    },
     {
       "title": "Özdemir in Neckarsulm: So könnte das Audi-Werk gerettet werden",
       "text": "Ministerpräsident Cem Özdemir hat am Dienstag das Audi-Werk in Neckarsulm besucht. Für den Erhalt des Standorts setzt er auf Zugeständnisse von Unternehmen und Beschäftigten."
@@ -76,14 +84,6 @@
     {
       "title": "Beim Urlaub in der Türkei verhaftet: Ulmer Ferdi Soylu muss vorerst im Gefängnis bleiben",
       "text": "Der Widerspruch gegen die Untersuchungshaft des in der Türkei inhaftierten Ulmers Ferdi Soylu ist abgelehnt worden. Das hat sein Bruder dem SWR mitgeteilt. Wann der Prozess beginnt, ist weiterhin unklar."
-    },
-    {
-      "title": "Brand auf Recyclinghof im Mannheimer Industriehafen gelöscht",
-      "text": "Auf einem Recyclinghof im Mannheimer Industriehafen hat ein großer Schrotthaufen gebrannt. Wegen der Rauchentwicklung gab es Warnungen für Anwohner."
-    },
-    {
-      "title": "Von \"Mauswedel\" bis \"Schweizerhose\": Diese Birnen kennt kaum noch jemand",
-      "text": "In einem Obstgarten auf einem Hof in Billafingen wachsen mehr als 600 alte Birnensorten. Mit Blick auf den Klimawandel könnten sie an Bedeutung gewinnen."
     }
   ]
 }
