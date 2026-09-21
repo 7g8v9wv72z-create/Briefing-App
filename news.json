@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-18T09:07:00.219Z",
+  "generatedAt": "2026-09-21T10:07:55.915Z",
   "world": [
+    {
+      "title": "Nach Protestwelle: Deutsche Welle behält griechischen Dienst doch",
+      "text": "Sie ist nur eine kleine Redaktion, doch die Entscheidung, den griechischen Dienst der Deutschen Welle zu schließen, wurde zum Politikum. Die breite Kritik aus Griechenland überraschte den Rundfunkrat offenbar. Nun kam die Kehrtwende. Von J. Riemann."
+    },
+    {
+      "title": "Italien fordert europäische Verstärkung für sichere Schifffahrt im Roten Meer",
+      "text": "Italien fürchtet massive wirtschaftliche Schäden aufgrund der jüngsten Entwicklungen in der Meerenge Bab al-Mandab. Das Land fordert Unterstützung von der EU - nachdem es kürzlich noch einen Alleingang ins Spiel gebracht hatte."
+    },
+    {
+      "title": "Projekt in Dänemark gestartet: Greensand soll CO2-Speicher Europas werden",
+      "text": "Mit dem Projekt Greensand ist das erste CO2-Einlagerungsprojekt in der EU gestartet. Unter der Nordsee soll in Zukunft klimaschädliches CO2 dauerhaft im Meeresboden gespeichert werden. Doch es gibt auch Kritik. Von A. Bartram."
+    },
+    {
+      "title": "Italien erwägt Marinemission im Roten Meer zum Schutz von Frachtern",
+      "text": "Die Huthi-Miliz kontrolliert die Meerenge Bab al-Mandab im Roten Meer weitgehend. Ohne auf die EU zu warten, will Italien dort Schiffe mit der eigenen Marine schützen. Die Ankündigung dürfte vor allem ein Signal in Richtung Brüssel sein."
+    },
     {
       "title": "Mehr Pflanzen, weniger Fleisch: Schweiz stimmt über Ernährungsinitiative ab",
       "text": "\"Tu ma lieber die Möhrchen\", könnte es bald in der Schweiz heißen. Eine Initiative fordert mehr pflanzliche Lebensmittel und weniger Tierhaltung. Dahinter steckt die Frage: Inwieweit will sich das Land künftig selbst versorgen? Von S. Biegger."
@@ -8,82 +24,66 @@
     {
       "title": "Kanadas Premier offen für Idee einer assoziierten EU-Mitgliedschaft",
       "text": "Kanadas Premier Carney hat sich im Europaparlament in Straßburg für eine stärkere Zusammenarbeit seines Landes mit der EU ausgesprochen. Eine Partnerschaft müsse auf Werten begründet sein, nicht auf Eigensinn. Von Andreas Meyer-Feist."
-    },
-    {
-      "title": "Nach Parlamentswahl in Schweden: Knapper Sieg für Mitte-links-Lager",
-      "text": "Der von Ulf Kristersson geführte konservativ-rechte Parteienblock musste bei der Wahl in Schweden eine Niederlage hinnehmen. Der Regierungschef trat zurück. Die bisherige Opposition steht mit Magdalena Andersson vor einer schwierigen Regierungsbildung."
-    },
-    {
-      "title": "Plan der EU-Kommission: Drei Altersstufen für Soziale Medien",
-      "text": "Unter 13, bis 15 und bis 18 - in diesen Schritten soll die Nutzung Sozialer Medien durch Minderjährige geregelt werden: Das schlägt die EU-Kommission mit dem EU Kids Act vor. Süchtig machende Funktionen sollen ganz verboten werden. Von K. Schmid."
-    },
-    {
-      "title": "Wie stellt Kanada sich die \"einzigartige Allianz\" vor?",
-      "text": "Kanada und die EU wollen noch mehr zusammenarbeiten. Wie genau das aussehen könnte, ist noch unklar. In seiner Rede vor dem EU-Parlament könnte Premier Carney heute ein paar der offenen Fragen beantworten. Von Giselle Ucar."
-    },
-    {
-      "title": "Von der Leyen will neuen transatlantischen Bund mit Kanada",
-      "text": "Wo steht die EU? Und was sind die Pläne für die kommenden Monate? EU-Kommissionschefin von der Leyen hat in ihrer Grundsatzrede in Straßburg die Prioritäten skizziert - eine ihrer vielen Initiativen ist eine engere Partnerschaft mit Kanada. Von Christian Feld."
     }
   ],
   "economy": [
     {
-      "title": "Hohe Preise: Welche Energiekosten auf die Verbraucher zukommen",
-      "text": "Der Iran-Krieg hat Energie stark verteuert. Wo sind die Preise bereits besonders stark angestiegen? Und worauf müssen sich Haushalte mit Blick auf die kommenden Monaten noch einstellen? Von Till Bücker."
+      "title": "Spirituosen-Hersteller Berentzen vor Übernahme durch US-Konzern",
+      "text": "Berentzen soll in die Vereinigten Staaten verkauft werden. Der US-Konzern Sazerac hat ein Übernahmeangebot angekündigt - das von dem Schnapsproduzenten aus dem Emsland unterstützt wird."
     },
     {
-      "title": "EU-Verpackungsverordnung - für kleine Händler ein \"bürokratisches Monster\"?",
-      "text": "Mit einer Verordnung will die EU für weniger Verpackungsmüll und mehr Recycling sorgen. Doch sie trifft damit nicht nur Onlineriesen wie Amazon, sondern auch kleine Händlerinnen und Händler. Von R. Schirra und T. Kukral."
+      "title": "Vor Trump-Xi-Gipfel: China und USA beraten über KI",
+      "text": "Die USA und China befinden sich in einem Wettlauf um den Vorsprung bei Künstlicher Intelligenz. Diese Woche wollen die Präsidenten bei einem Treffen über KI sprechen. Vertreter beider Staaten haben nun vorab über die Risiken beraten."
     },
     {
-      "title": "Marktbericht: Anleger trotz sinkender Ölpreise zurückhaltend",
-      "text": "Obwohl die Rohöl-Preise weiter sinken, steht der DAX unter Verkaufsdruck. In der Nähe der 26.000-Punkte-Marke fehlen Anlegern die Kaufargumente. Steigende Erzeugerpreise deuten auf eine anhaltend hohe Inflation hin."
+      "title": "IG Metall ruft bundesweit zu Protest in der Autoindustrie auf",
+      "text": "Ob Wolfsburg, Zwickau oder Stuttgart - die IG Metall ruft für heute zu Protesten in der Autoindustrie auf. Die Gewerkschaft wendet sich gegen die zunehmenden Einschnitte für Beschäftigte. Es sollen Aktionen an mehr als 200 Orten geben."
     }
   ],
   "automotive": [
     {
-      "title": "Feststoff-Batterie: Factorial setzt bei Elektrolyt auf japanisches Knowhow",
-      "text": "Batterie-Entwickler Factorial Energy schließt eine strategische Partnerschaft mit dem japanischen Unternehmen Mitsui Kinzoku, um die Industrialisierung von einer seiner Plattformen für Feststoffbatterien zu beschleunigen. Mitsui Kinzoku ist Hersteller von festen, sulfidbasierten Elektrolyten."
+      "title": "BMW iX3 kommt schneller auf den US-Markt als gedacht",
+      "text": "Aufgrund der starken Kundennachfrage treibt BMW North America die Markteinführung des Elektro-SUV iX3 schneller voran als erwartet. Die Auslieferungen sollen vorzeitig begonnen haben. In den USA kann der BMW iX3 50 xDrive zu Preisen ab 61.500 US-Dollar bestellt werden."
     },
     {
-      "title": "Lies, Özedmir und Söder fordern mehr Unterstützung für Automobilindustrie",
-      "text": "Drei Autoländer - eine parteiübergreifende Meinung: Die Ministerpräsidenten von Baden-Württemberg, Bayern und Niedersachsen fordern in einem gemeinsamen Positionspapier von der Bundesregierung und der EU konkrete Maßnahmen, um die Wettbewerbsfähigkeit der deutschen Automobilindustrie zu sichern."
+      "title": "BYD ruft in China 183.000 Fahrzeuge wegen Bremsproblem zurück",
+      "text": "BYD ruft in China 183.211 Fahrzeuge der Baureihen Qin und Tang zurück. Grund ist ein möglicherweise fehlerhaftes Bauteil am Bremspedal, durch das im Extremfall die Bremsleuchten dauerhaft aktiviert bleiben können. Auch Nio muss mehrere hundert Firefly wegen eines Problems mit der Servolenkung nachbessern."
     },
     {
-      "title": "Hohe iX3-Nachfrage: BMW erhöht in Ungarn auf drei Schichten",
-      "text": "BMW hat die Produktion des iX3 im Werk Debrecen in diesem Monat von zwei auf drei Schichten umgestellt – und damit auf eine Rund-um-die-Uhr-Fertigung. Grund ist die hohe Nachfrage: BMW bestätigt in diesem Zusammenhang die Zahl von 100.000 Bestellungen, die bisher allein in Europa für den iX3 eingegangen sind."
+      "title": "Spanien: Auch VW ID. Cross läuft jetzt in Serie vom Band",
+      "text": "Volkswagen hat im spanischen Werk Navarra bei Pamplona mit der Produktion des ID. Cross begonnen – zunächst in den höheren Ausstattungsvarianten. Klar ist: Mit dem Produktions-Kickoff des ID. Cross ist nun die Fertigung aller vier neuen E-Kleinwagenmodelle des Konzerns angelaufen."
     }
   ],
   "tech": [
     {
-      "title": "KI-Forscher Kokotajlo: \"Müssen die KI-Entwicklung im Wesentlichen abschalten\"",
-      "text": "Kokotajlo warnt vor unkontrollierbaren Risiken durch sich selbst verbessernde KI-Systeme: vor neuartigen Biowaffen und automatisierten Cyberangriffen."
+      "title": "Subaru Uncharted im Test: Das Elektroauto für Knopfliebhaber",
+      "text": "Der Innenraum von Subarus Uncharted wirkt verglichen mit der Konkurrenz aus der Zeit gefallen. Das ändert nichts daran, dass das Elektroauto Spaß macht. Ein Test von Tobias Költzsch"
     },
     {
-      "title": "Rückstand zu den USA: Huawei-Chef fordert schnellere KI-Entwicklung in China",
-      "text": "Chinesische KI-Entwickler sollen ihr Forschungstempo beschleunigen, um den Rückstand zu den USA aufzuholen."
+      "title": "Synology warnt: Kritische NAS-Lücken ermöglichen Datenklau",
+      "text": "Angreifer können durch mehrere Sicherheitslücken lesend und schreibend auf NAS-Geräte von Synology zugreifen. Patches sind verfügbar."
     },
     {
-      "title": "Durch einfache Wischgesten: Kurioser iOS-Bug macht iPhones unbedienbar",
-      "text": "Durch ein paar Wischgesten auf dem Homescreen lassen sich iPhones unter iOS 27 in einen unbedienbaren Zustand versetzen. Doch es gibt eine Lösung."
+      "title": "Smarte Lautsprecher: Amazon deaktiviert Aux-Sprachsteuerung auf Echo-Lautsprechern",
+      "text": "Smart-Home-Geräte verlieren erneut Funktionen, für die Kunden bezahlt haben. Nur die wenigsten Nutzer können sich dagegen wehren."
     }
   ],
   "local": [
+    {
+      "title": "Audi-Belegschaft macht mobil: Tausende Beschäftigte bei Aktion in Neckarsulm erwartet",
+      "text": "Die IG Metall mobilisiert bundesweit für die Zukunft der Autoindustrie. Auch in Neckarsulm ist am Montag eine große Aktion geplant. Erwartet werden mehrere Tausend Beschäftigte."
+    },
     {
       "title": "30 Stunden ohne Pause am Steuer: Polizei zieht Lkw-Fahrer bei Ulm aus dem Verkehr",
       "text": "Bei einer Verkehrskontrolle nahe Ulm haben Polizisten einen besonders übermüdeten Lastwagenfahrer entdeckt. Einmal saß er sogar 30 Stunden lang am Steuer. Es war nicht sein einziger Verstoß."
     },
     {
-      "title": "Zugverkehr stundenlang lahmgelegt: Betonteile stürzen in Ulm auf Bahngleise",
-      "text": "Bei Bauarbeiten an der Adenauerbrücke in Ulm sind am Mittwoch Betonteile auf darunterliegende Bahngleise gestürzt. Verletzt wurde niemand. Doch es gab Folgen für Bahnreisende."
+      "title": "Große Kritik: Längere Grenzkontrollen verärgern Politiker aus der Region Freiburg",
+      "text": "Sie sollen irreguläre Migration vermeiden: Doch die verlängerten Grenzkontrollen an der deutsch-französischen Grenze sorgen für Staus und Debatten. Sind sie angemessen?"
     },
     {
-      "title": "Özdemir in Neckarsulm: So könnte das Audi-Werk gerettet werden",
-      "text": "Ministerpräsident Cem Özdemir hat am Dienstag das Audi-Werk in Neckarsulm besucht. Für den Erhalt des Standorts setzt er auf Zugeständnisse von Unternehmen und Beschäftigten."
-    },
-    {
-      "title": "Beim Urlaub in der Türkei verhaftet: Ulmer Ferdi Soylu muss vorerst im Gefängnis bleiben",
-      "text": "Der Widerspruch gegen die Untersuchungshaft des in der Türkei inhaftierten Ulmers Ferdi Soylu ist abgelehnt worden. Das hat sein Bruder dem SWR mitgeteilt. Wann der Prozess beginnt, ist weiterhin unklar."
+      "title": "Mehr Arbeit für gleichen Lohn: Leitung von Mercedes-Benz will 38-Stunden-Woche",
+      "text": "Mercedes-Benz will eine 38-Stunden-Woche ohne Lohnausgleich einführen. Die IG Metall ist damit nicht einverstanden - und will bei 35 Stunden bleiben."
     }
   ]
 }
