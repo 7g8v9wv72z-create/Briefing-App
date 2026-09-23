@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-22T09:25:02.427Z",
+  "generatedAt": "2026-09-23T09:25:53.965Z",
   "world": [
+    {
+      "title": "Freude über Grönland-Abkommen - doch etwas Skepsis bleibt",
+      "text": "Lange wussten die Grönländer nicht, wie der Streit mit den USA um die Arktisinsel ausgehen wird. Jetzt gibt es ein Abkommen und die Erleichterung ist groß. Doch gibt US-Präsident Trump wirklich Ruhe? Von Mats Nickelsen."
+    },
+    {
+      "title": "\"Swan Song\": Warum ein Buch über Prinzessin Diana für Furore sorgt",
+      "text": "Charles Spencer, der Bruder von Lady Di, hat ein Buch über seine Schwester geschrieben. Darin erhebt er schwere Vorwürfe gegen den heutigen König, die der Palast ungewöhnlich deutlich zurückweist. Von Lisa-Maria Röhling."
+    },
     {
       "title": "Ficos Balanceakt zwischen Kreml-Nähe und NATO-Verpflichtungen",
       "text": "Der slowakische Premier Fico warnt vor einem Krieg mit Russland und stellt mögliche NATO-Kampfeinsätze infrage. Zugleich boomt die heimische Rüstungsindustrie. Im In- und Ausland sorgt Ficos Rhetorik für Kritik. Von M. Allweiss."
@@ -16,62 +24,54 @@
     {
       "title": "Nach Protestwelle: Deutsche Welle behält griechischen Dienst doch",
       "text": "Sie ist nur eine kleine Redaktion, doch die Entscheidung, den griechischen Dienst der Deutschen Welle zu schließen, wurde zum Politikum. Die breite Kritik aus Griechenland überraschte den Rundfunkrat offenbar. Nun kam die Kehrtwende. Von J. Riemann."
-    },
-    {
-      "title": "Italien fordert europäische Verstärkung für sichere Schifffahrt im Roten Meer",
-      "text": "Italien fürchtet massive wirtschaftliche Schäden aufgrund der jüngsten Entwicklungen in der Meerenge Bab al-Mandab. Das Land fordert Unterstützung von der EU - nachdem es kürzlich noch einen Alleingang ins Spiel gebracht hatte."
-    },
-    {
-      "title": "Projekt in Dänemark gestartet: Greensand soll CO2-Speicher Europas werden",
-      "text": "Mit dem Projekt Greensand ist das erste CO2-Einlagerungsprojekt in der EU gestartet. Unter der Nordsee soll in Zukunft klimaschädliches CO2 dauerhaft im Meeresboden gespeichert werden. Doch es gibt auch Kritik. Von A. Bartram."
     }
   ],
   "economy": [
     {
-      "title": "Kabinett bringt Tankrabatt auf den Weg",
-      "text": "Am 1. Oktober soll der neue Tankrabatt kommen - nun hat das Kabinett den Gesetzentwurf im Umlaufverfahren beschlossen. Bundestag und Bundesrat sollen ihn noch in dieser Woche billigen."
+      "title": "Bauzinsen über vier Prozent: Was Käufer jetzt wissen müssen",
+      "text": "Der Immobilienkauf wird wieder teurer. Bauzinsen für zehnjährige Darlehen liegen inzwischen über vier Prozent. Was Käufer und Eigentümer jetzt bei Finanzierung und Anschlusskredit beachten sollten. Von Angela Göpfert."
     },
     {
-      "title": "Evonik kündigt Abbau von 3.200 Stellen an",
-      "text": "Der Chemiekonzern Evonik hat den Abbau von 3.200 Stellen angekündigt. Mehr als 2.000 davon sollen in Deutschland wegfallen. Gute Chancen für Wachstum sieht Evonik besonders außerhalb von Europa."
+      "title": "Kanzleramtschefin Warken verspricht Tempo bei Reformen",
+      "text": "Kanzleramtschefin Warken hat einflussreichen Wirtschaftsverbänden zugesagt, dass die geplanten Reformen zügig kämen - trotz Unruhe in der Koalition. Von einem Treffen der Koalitionsspitzen drang nichts nach außen."
     },
     {
-      "title": "Heizkosten steigen 2026 laut Prognose an",
-      "text": "Die Heizkosten für deutsche Haushalte steigen laut einer Prognose auch in diesem Jahr weiter an. Dabei gibt es Unterschiede zwischen den einzelnen Heizarten, denn nicht alle Brennstoffe werden teurer."
+      "title": "Stellenangebote für Berufseinsteiger seit 2022 stark geschrumpft",
+      "text": "Die Zahl der Stellenangebote für Berufseinsteiger ist in den vergangenen Jahren einer Analyse zufolge stark zurückgegangen. Besonders deutlich lässt sich die Entwicklung bei Wissensberufen beobachten."
     }
   ],
   "automotive": [
     {
-      "title": "Cummins will LFP-Batterien für Nutzfahrzeuge in Spanien fertigen",
-      "text": "US-Motorspezialist Cummins kündigt den Aufbau einer Batteriefabrik in Spanien an. Unter seiner Marke Accelera by Cummins sollen dort LFP-Akkupacks für Nutzfahrzeuge hergestellt werden. Die Rede ist von einem modularen 102-kWh-System mit einer Spannung von bis zu 840 Volt für Busse und Lkw."
+      "title": "CATL beginnt in Debrecen mit Testproduktion von Batteriezellen",
+      "text": "Der chinesische Batterieriese CATL hat in seinem neuen Werk im ungarischen Debrecen mit der Testproduktion von Batteriezellen begonnen. Zuvor war es mehrfach zu Verzögerungen gekommen und europäische Autohersteller mussten alternativ aus China beliefert werden. Hinzu kommt neuerdings auch politischer Gegenwind."
     },
     {
-      "title": "Saudi-Arabiens neue E-Auto-Marke Ceer enthüllt Exobot",
-      "text": "Die saudische E-Auto-Marke Ceer, ein Joint Venture zwischen Foxconn und dem saudi-arabischen Staatsfonds PIF, hat ihr erstes Modell präsentiert. Exobot ist das Flaggschiffmodell von Ceer und wird in zwei Karosserievarianten erhältlich sein – als E-Limousine und als E-SUV."
+      "title": "Volkswagen launcht Langversion des ID. Buzz Cargo für 48.490 Euro",
+      "text": "Volkswagen Nutzfahrzeuge erweitert das Spektrum des ID. Buzz Cargo um eine neue Variante: den Cargo mit langem Radstand (LWB). Bei diesem Modell steigt die Batteriekapazität auf 86 kWh und das Laderaumvolumen auf 4,4 Kubikmeter. Die Preise beginnen bei 48.490 Euro netto."
     },
     {
-      "title": "Volkswagen baut in Emden und Zwickau mehr E-Autos als erwartet",
-      "text": "Volkswagen reagiert auf den Elektro-Boom in Deutschland und Europa: Laut Vertriebsvorstand Martin Sander justiert der Konzern seine Produktionsplanung neu. Demnach werden dieses Jahr weniger Verbrenner in Wolfsburg gebaut – und im Umkehrschluss mehr Elektroautos in Emden und Zwickau vom Band laufen."
+      "title": "Leapmotor mit über 1.000 Verkaufsstandorten in Europa",
+      "text": "Die chinesische E-Auto-Marke Leapmotor hat mit tatkräftiger Unterstützung des Stellantis-Konzerns die Marke von 1.000 Händlerstandorten in Europa geknackt. Der Wert wurde nur zwei Jahre nach dem Europastart von Leapmotor erreicht."
     }
   ],
   "tech": [
     {
-      "title": "Smart-TVs: Youtuber entfernt WLAN-Modul aus neuem LG-TV",
-      "text": "Nach Berichten über Spionagefunktionen entfernt ein Youtuber Hardwarekomponenten aus seinem LG OLED G6. Der Fernseher funktioniert weiterhin."
+      "title": "Amiga Unix: Vergessenes Commodore-System soll bewahrt werden",
+      "text": "Amiga Unix war ein kurzlebiges und unbekanntes Workstation-Betriebssystem, das von einigen Entwicklern nicht aufgegeben wird."
     },
     {
-      "title": "120 Meter lang: Neues chinesisches Atom-U-Boot nimmt Gestalt an",
-      "text": "Aktuelle Satellitenaufnahmen aus der Werft von Huludao deuten auf ein bisher unbekanntes U-Boot hin - mit Pumpjet-Antrieb und x-förmiger Heckflosse."
+      "title": "Personaldaten erbeutet: Hacker erpressen das FBI, wollen aber kein Geld",
+      "text": "Eine bekannte Hackergruppe ist an persönliche Daten Tausender FBI-Agenten gelangt. Diese nutzt sie jetzt als Druckmittel für eine ungewöhnliche Forderung."
     },
     {
-      "title": "Planet Labs: Satellitenfabrik geht in Berlin in Betrieb",
-      "text": "Noch im Herbst wird die Produktion der Satelliten starten. Es soll der erste vollwertige Fertigungsstandort des Unternehmens außerhalb der USA werden."
+      "title": "Hochschulreform in China: Pekinger Uni streicht Fotografie und Übersetzen wegen KI",
+      "text": "Eine Pekinger Hochschule hat 16 Studiengänge gestrichen, darunter Fotografie und Übersetzen. KI mache sie überflüssig, sagt ihr Parteisekretär."
     }
   ],
   "local": [
     {
-      "title": "Nächtlicher Brand in Herbrechtingen verursacht eine halbe Million Euro Schaden",
-      "text": "Ein Feuer mitten in Herbrechtingen (Kreis Heidenheim) hat in der Nacht ein Mehrfamilienhaus komplett unbewohnbar gemacht. Alle 21 Bewohner konnten sich retten."
+      "title": "Nach Leichenfund in Nersingen: 36-jähriger Mann festgenommen",
+      "text": "Die Polizei hat am Dienstag im Alb-Donau-Kreis einen 36-jährigen Mann festgenommen. Er soll einen 59-Jährigen getötet haben, der am Freitag tot in seiner Wohnung gefunden wurde."
     },
     {
       "title": "Tausende Mitarbeiter von Audi Neckarsulm protestieren für Erhalt des Standorts",
@@ -82,8 +82,8 @@
       "text": "Die IG Metall mobilisiert bundesweit für die Zukunft der Autoindustrie. Auch in Neckarsulm ist am Montag eine große Aktion geplant. Erwartet werden mehrere Tausend Beschäftigte."
     },
     {
-      "title": "Haftbefehle gegen \"Gen-Z-Mafia\" wegen Schutzgelderpressung und Brandstiftung",
-      "text": "Der Polizei in Mannheim ist ein Schlag gegen eine international agierende Verbrecherbande namens \"Daltons\" gelungen. Sie soll mehrfach Schutzgeld gefordert und Brände gelegt haben."
+      "title": "Mann klettert am BGH in Karlsruhe über Zaun - Polizei greift ihn im Garten auf",
+      "text": "Am Bundesgerichtshof in Karlsruhe hat es am späten Dienstagabend einen größeren Polizeieinsatz gegeben. Ein Mann war dort über einen Bauzaun geklettert."
     }
   ]
 }
