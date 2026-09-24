@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-23T09:25:53.965Z",
+  "generatedAt": "2026-09-24T09:26:05.142Z",
   "world": [
+    {
+      "title": "EU streicht Oligarchen von Sanktionsliste: Ein Kompromiss, der für Diskussionen sorgt",
+      "text": "Die EU hat zwei russische Oligarchen von der Sanktionsliste gestrichen. Im Gegenzug wurde inzwischen ein Franzose in Aserbaidschan begnadigt. Hat sich die EU erpressbar gemacht? In Brüssel versucht man, sich zu erklären. Von T. Spickhofen."
+    },
+    {
+      "title": "Neuer Sender übernimmt: Niederlande nehmen wieder am ESC teil",
+      "text": "Nach einem Jahr Abwesenheit wollen die Niederlande 2027 wieder beim Eurovision Song Contest mit dabei sein. Der öffentlich-rechtliche Rundfunk übernimmt vom bisherigen Sender. Ein erneuter Boykott wegen der Teilnahme Israels ist damit vom Tisch."
+    },
     {
       "title": "Freude über Grönland-Abkommen - doch etwas Skepsis bleibt",
       "text": "Lange wussten die Grönländer nicht, wie der Streit mit den USA um die Arktisinsel ausgehen wird. Jetzt gibt es ein Abkommen und die Erleichterung ist groß. Doch gibt US-Präsident Trump wirklich Ruhe? Von Mats Nickelsen."
@@ -16,59 +24,59 @@
     {
       "title": "EU-Staaten streiten über Russland-Sanktionen",
       "text": "In der kommenden Nacht laufen EU-Sanktionen gegen Russland aus. Eigentlich sollen sie verlängert werden. Doch einige Staaten wollen zwei milliardenschwere Oligarchen von der Liste streichen. Das sorgt für Diskussionen."
-    },
-    {
-      "title": "Reaktionen auf Wahlen: Deutschland sorgt gerade viele in Frankreich",
-      "text": "\"Sehr beunruhigend\" und \"ein schwerer Moment für Europa\": Viele in Frankreich fürchten die Folgen der starken Zuwächse der AfD bei den Landtagswahlen. Nur die Rechte im Land hält sich auffällig zurück. Von M. Strempel."
-    },
-    {
-      "title": "Nach Protestwelle: Deutsche Welle behält griechischen Dienst doch",
-      "text": "Sie ist nur eine kleine Redaktion, doch die Entscheidung, den griechischen Dienst der Deutschen Welle zu schließen, wurde zum Politikum. Die breite Kritik aus Griechenland überraschte den Rundfunkrat offenbar. Nun kam die Kehrtwende. Von J. Riemann."
     }
   ],
   "economy": [
     {
-      "title": "Bauzinsen über vier Prozent: Was Käufer jetzt wissen müssen",
-      "text": "Der Immobilienkauf wird wieder teurer. Bauzinsen für zehnjährige Darlehen liegen inzwischen über vier Prozent. Was Käufer und Eigentümer jetzt bei Finanzierung und Anschlusskredit beachten sollten. Von Angela Göpfert."
+      "title": "Deutlich höheres Wirtschaftswachstum erwartet als bisher angenommen",
+      "text": "Die deutsche Wirtschaft könnte 2026 viel stärker wachsen als im Frühjahr angenommen. Führende Forschungsinstitute gehen in ihrer Herbstprognose von 1,3 Prozent aus. Aber der Aufschwung habe ein \"schmales Fundament\"."
     },
     {
-      "title": "Kanzleramtschefin Warken verspricht Tempo bei Reformen",
-      "text": "Kanzleramtschefin Warken hat einflussreichen Wirtschaftsverbänden zugesagt, dass die geplanten Reformen zügig kämen - trotz Unruhe in der Koalition. Von einem Treffen der Koalitionsspitzen drang nichts nach außen."
+      "title": "Techbosse warnen UN-Sicherheitsrat vor KI",
+      "text": "Die Chefs der größten US-amerikanischen KI-Firmen OpenAI und Anthropic, Altman und Amodei, warnen weiter vor ihrer eigenen Technologie. Vor dem UN-Sicherheitsrat boten beide an, an stärkerer Regulierung mitzuwirken. Von Giselle Ucar."
     },
     {
-      "title": "Stellenangebote für Berufseinsteiger seit 2022 stark geschrumpft",
-      "text": "Die Zahl der Stellenangebote für Berufseinsteiger ist in den vergangenen Jahren einer Analyse zufolge stark zurückgegangen. Besonders deutlich lässt sich die Entwicklung bei Wissensberufen beobachten."
+      "title": "KI-Agent hackt australisches Regierungsportal",
+      "text": "Ein KI-Agent des ChatGPT-Herstellers OpenAI sollte gesundheitliche Statistiken recherchieren - und hat sich dafür eigenmächtig in ein australisches Regierungsportal gehackt. Premierminister Albanese zeigt sich besorgt."
     }
   ],
   "automotive": [
     {
-      "title": "CATL beginnt in Debrecen mit Testproduktion von Batteriezellen",
-      "text": "Der chinesische Batterieriese CATL hat in seinem neuen Werk im ungarischen Debrecen mit der Testproduktion von Batteriezellen begonnen. Zuvor war es mehrfach zu Verzögerungen gekommen und europäische Autohersteller mussten alternativ aus China beliefert werden. Hinzu kommt neuerdings auch politischer Gegenwind."
+      "title": "General Motors bringt recyceltes Batteriematerial in Kundenfahrzeuge",
+      "text": "General Motors hat erstmals Serienfahrzeuge mit Batteriezellen gebaut, deren Kathoden-Aktivmaterial vollständig aus recyceltem Nickel, Kobalt und Mangan besteht. Die Rohstoffe stammen u.a. aus ausgedienten Batterien von GM-Fahrzeugen und wurden von Partner Cirba Solutions zurückgewonnen und aufbereitet."
     },
     {
-      "title": "Volkswagen launcht Langversion des ID. Buzz Cargo für 48.490 Euro",
-      "text": "Volkswagen Nutzfahrzeuge erweitert das Spektrum des ID. Buzz Cargo um eine neue Variante: den Cargo mit langem Radstand (LWB). Bei diesem Modell steigt die Batteriekapazität auf 86 kWh und das Laderaumvolumen auf 4,4 Kubikmeter. Die Preise beginnen bei 48.490 Euro netto."
+      "title": "Erster Elektro-Bentley: Der Torcal gleitet ins Rampenlicht",
+      "text": "Bentley stellt den Torcal vor – die erste Elektro-Karosse der britischen Luxusmarke. Das strombetriebene Luxus-SUV steht auf der PPE-Plattform des Volkswagen-Konzerns und teilt sich Batterie und 800-Volt-Architektur mit dem elektrischen Porsche Cayenne. Klingen soll es allerdings wie ein Bentley 6¾-Liter-V8."
     },
     {
-      "title": "Leapmotor mit über 1.000 Verkaufsstandorten in Europa",
-      "text": "Die chinesische E-Auto-Marke Leapmotor hat mit tatkräftiger Unterstützung des Stellantis-Konzerns die Marke von 1.000 Händlerstandorten in Europa geknackt. Der Wert wurde nur zwei Jahre nach dem Europastart von Leapmotor erreicht."
+      "title": "Mehr als jeder vierte Neuwagen in der EU im August ein BEV",
+      "text": "Der Elektroauto-Absatz hat in der EU im August deutlich zugelegt. 27,7 Prozent der neu zugelassenen Pkw waren Batterie-elektrisch, weitere 11,1 Prozent Plug-in-Hybride, so der ACEA. Damit entfielen fast 39 Prozent des Marktes auf Fahrzeuge mit externer Lademöglichkeit. Auch im bisherigen Jahresverlauf wächst der BEV-Markt kräftig."
     }
   ],
   "tech": [
     {
-      "title": "Amiga Unix: Vergessenes Commodore-System soll bewahrt werden",
-      "text": "Amiga Unix war ein kurzlebiges und unbekanntes Workstation-Betriebssystem, das von einigen Entwicklern nicht aufgegeben wird."
+      "title": "Umfrage: Widerstand der US-Amerikaner gegen KI-Datencenter wächst",
+      "text": "Donald Trump findet KI-Datencenter gut, die US-Amerikaner eher nicht - auch Republikaner tendieren verstärkt zu negativen Ansichten."
     },
     {
-      "title": "Personaldaten erbeutet: Hacker erpressen das FBI, wollen aber kein Geld",
-      "text": "Eine bekannte Hackergruppe ist an persönliche Daten Tausender FBI-Agenten gelangt. Diese nutzt sie jetzt als Druckmittel für eine ungewöhnliche Forderung."
+      "title": "KI-Angriff auf Australien: OpenAI-Agent hat sich in Regierungsportal gehackt",
+      "text": "Ein KI-Agent von OpenAI sollte australische Gesundheitsstatistiken recherchieren. Dabei ist er aber zu weit gegangen und hat geschützte Daten abgerufen."
     },
     {
-      "title": "Hochschulreform in China: Pekinger Uni streicht Fotografie und Übersetzen wegen KI",
-      "text": "Eine Pekinger Hochschule hat 16 Studiengänge gestrichen, darunter Fotografie und Übersetzen. KI mache sie überflüssig, sagt ihr Parteisekretär."
+      "title": "Microsoft: Surface Pro 12 verwendet neuen ARM-Chip von Qualcomm",
+      "text": "Die neue Version des Surface Pro 12 soll vor allem eine lange Akkulaufzeit und mehr KI-Leistung erhalten. Das ist aber teuer."
     }
   ],
   "local": [
+    {
+      "title": "Polizeieinsatz in Heidenheim: Einschusslöcher in Hauswand?",
+      "text": "In Heidenheim läuft seit mehreren Stunden ein Polizeieinsatz. Worum genau es geht, geben die Ermittler noch nicht bekannt. Laut einem Sprecher ist die Spurensicherung vor Ort."
+    },
+    {
+      "title": "Frontalzusammenstoß auf der B29 bei Schwäbisch Gmünd",
+      "text": "Auf der B29 bei Schwäbisch Gmünd im Ostalbkreis ist es am Mittwoch zu einem Frontalzusammenstoß gekommen. Der Unfall passierte zwischen Hussenhofen und dem Verteiler Iggingen."
+    },
     {
       "title": "Nach Leichenfund in Nersingen: 36-jähriger Mann festgenommen",
       "text": "Die Polizei hat am Dienstag im Alb-Donau-Kreis einen 36-jährigen Mann festgenommen. Er soll einen 59-Jährigen getötet haben, der am Freitag tot in seiner Wohnung gefunden wurde."
@@ -76,14 +84,6 @@
     {
       "title": "Tausende Mitarbeiter von Audi Neckarsulm protestieren für Erhalt des Standorts",
       "text": "Die IG Metall hat am Montag zu einem bundesweiten Aktionstag aufgerufen. Hintergrund ist der Stellenabbau in der Automobilindustrie."
-    },
-    {
-      "title": "Audi-Belegschaft macht mobil: Tausende Beschäftigte bei Aktion in Neckarsulm erwartet",
-      "text": "Die IG Metall mobilisiert bundesweit für die Zukunft der Autoindustrie. Auch in Neckarsulm ist am Montag eine große Aktion geplant. Erwartet werden mehrere Tausend Beschäftigte."
-    },
-    {
-      "title": "Mann klettert am BGH in Karlsruhe über Zaun - Polizei greift ihn im Garten auf",
-      "text": "Am Bundesgerichtshof in Karlsruhe hat es am späten Dienstagabend einen größeren Polizeieinsatz gegeben. Ein Mann war dort über einen Bauzaun geklettert."
     }
   ]
 }
