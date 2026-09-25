@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-24T09:26:05.142Z",
+  "generatedAt": "2026-09-25T09:43:43.851Z",
   "world": [
+    {
+      "title": "Macron will Ölhafen in Saudi-Arabien militärisch schützen",
+      "text": "Um die Ölinfrastruktur Saudi-Arabiens zu schützen, kündigt Frankreich an, Militärgerät und Truppen ans Rote Meer zu schicken. Direkt in den Konflikt mit der Huthi-Miliz wolle er aber nicht einsteigen, sagte Präsident Macron."
+    },
+    {
+      "title": "Ägäis: Spannungen zwischen Griechenland und der Türkei nehmen zu",
+      "text": "Griechenland und die Türkei beschuldigen sich gegenseitig, für zunehmende Spannungen zwischen beiden Ländern verantwortlich zu sein. Es geht um Hoheitsgewässer, Besitzansprüche und Einfluss im Mittelmeerraum. Von Jasper Riemann."
+    },
     {
       "title": "EU streicht Oligarchen von Sanktionsliste: Ein Kompromiss, der für Diskussionen sorgt",
       "text": "Die EU hat zwei russische Oligarchen von der Sanktionsliste gestrichen. Im Gegenzug wurde inzwischen ein Franzose in Aserbaidschan begnadigt. Hat sich die EU erpressbar gemacht? In Brüssel versucht man, sich zu erklären. Von T. Spickhofen."
@@ -16,62 +24,54 @@
     {
       "title": "\"Swan Song\": Warum ein Buch über Prinzessin Diana für Furore sorgt",
       "text": "Charles Spencer, der Bruder von Lady Di, hat ein Buch über seine Schwester geschrieben. Darin erhebt er schwere Vorwürfe gegen den heutigen König, die der Palast ungewöhnlich deutlich zurückweist. Von Lisa-Maria Röhling."
-    },
-    {
-      "title": "Ficos Balanceakt zwischen Kreml-Nähe und NATO-Verpflichtungen",
-      "text": "Der slowakische Premier Fico warnt vor einem Krieg mit Russland und stellt mögliche NATO-Kampfeinsätze infrage. Zugleich boomt die heimische Rüstungsindustrie. Im In- und Ausland sorgt Ficos Rhetorik für Kritik. Von M. Allweiss."
-    },
-    {
-      "title": "EU-Staaten streiten über Russland-Sanktionen",
-      "text": "In der kommenden Nacht laufen EU-Sanktionen gegen Russland aus. Eigentlich sollen sie verlängert werden. Doch einige Staaten wollen zwei milliardenschwere Oligarchen von der Liste streichen. Das sorgt für Diskussionen."
     }
   ],
   "economy": [
     {
-      "title": "Deutlich höheres Wirtschaftswachstum erwartet als bisher angenommen",
-      "text": "Die deutsche Wirtschaft könnte 2026 viel stärker wachsen als im Frühjahr angenommen. Führende Forschungsinstitute gehen in ihrer Herbstprognose von 1,3 Prozent aus. Aber der Aufschwung habe ein \"schmales Fundament\"."
+      "title": "Löst Vergesellschaftung das Wohnungsproblem?",
+      "text": "Die Linke will das Wohnungsproblem in Berlin mit einem nie eingesetzten Mittel angehen: Der Vergesellschaftung privater Wohnbau-Konzerne. Ökonomen sprechen von Tabubruch. Von Heidi Radvilas."
     },
     {
-      "title": "Techbosse warnen UN-Sicherheitsrat vor KI",
-      "text": "Die Chefs der größten US-amerikanischen KI-Firmen OpenAI und Anthropic, Altman und Amodei, warnen weiter vor ihrer eigenen Technologie. Vor dem UN-Sicherheitsrat boten beide an, an stärkerer Regulierung mitzuwirken. Von Giselle Ucar."
+      "title": "Können Wohnungen in Berlin vergesellschaftet werden?",
+      "text": "Die Linke will in Berlin Wohnungen von großen Konzernen vergesellschaften. Im Fokus steht ein Artikel aus dem Grundgesetz, der noch nie angewandt wurde. Juristisch ist das Vorgehen umstritten. Von A. Stephany, A. Lagmöller und M. Bauer."
     },
     {
-      "title": "KI-Agent hackt australisches Regierungsportal",
-      "text": "Ein KI-Agent des ChatGPT-Herstellers OpenAI sollte gesundheitliche Statistiken recherchieren - und hat sich dafür eigenmächtig in ein australisches Regierungsportal gehackt. Premierminister Albanese zeigt sich besorgt."
+      "title": "Merz kündigt Gesetz gegen linke Vergesellschaftungspläne an",
+      "text": "Die Vergesellschaftungspläne der Linkspartei in Berlin schlagen hohe Wellen: Kanzler Merz will Enteignungen per Gesetz verbieten lassen. Die Bankenbranche mahnt, Investoren könnten verschreckt und Immobilienkredite teurer werden."
     }
   ],
   "automotive": [
     {
-      "title": "General Motors bringt recyceltes Batteriematerial in Kundenfahrzeuge",
-      "text": "General Motors hat erstmals Serienfahrzeuge mit Batteriezellen gebaut, deren Kathoden-Aktivmaterial vollständig aus recyceltem Nickel, Kobalt und Mangan besteht. Die Rohstoffe stammen u.a. aus ausgedienten Batterien von GM-Fahrzeugen und wurden von Partner Cirba Solutions zurückgewonnen und aufbereitet."
+      "title": "Sorégies übernimmt bp-pulse-Schnellladenetz in Frankreich",
+      "text": "Der französische Energieversorger Sorégies übernimmt das Schnellladegeschäft von BP in Frankreich. Zum Paket gehören mehr als 600 bestehende Ladepunkte, knapp 200 weitere in Entwicklung sowie die dazugehörige Technik und das Betriebsteam."
     },
     {
-      "title": "Erster Elektro-Bentley: Der Torcal gleitet ins Rampenlicht",
-      "text": "Bentley stellt den Torcal vor – die erste Elektro-Karosse der britischen Luxusmarke. Das strombetriebene Luxus-SUV steht auf der PPE-Plattform des Volkswagen-Konzerns und teilt sich Batterie und 800-Volt-Architektur mit dem elektrischen Porsche Cayenne. Klingen soll es allerdings wie ein Bentley 6¾-Liter-V8."
+      "title": "PowerCo eröffnet seine Zellfabrik in Kanada frühestens 2029",
+      "text": "Die Volkswagen-Tochter PowerCo hat den Zeitplan für ihre Batteriezellproduktion im kanadischen St. Thomas deutlich nach hinten verschoben. Das Unternehmen geht nun von einer voraussichtlichen Betriebsaufnahme in 2029 aus, während beim Baubeginn noch von 2027 die Rede war."
     },
     {
-      "title": "Mehr als jeder vierte Neuwagen in der EU im August ein BEV",
-      "text": "Der Elektroauto-Absatz hat in der EU im August deutlich zugelegt. 27,7 Prozent der neu zugelassenen Pkw waren Batterie-elektrisch, weitere 11,1 Prozent Plug-in-Hybride, so der ACEA. Damit entfielen fast 39 Prozent des Marktes auf Fahrzeuge mit externer Lademöglichkeit. Auch im bisherigen Jahresverlauf wächst der BEV-Markt kräftig."
+      "title": "Renault investiert 600 Mio. Euro in spanische Werke",
+      "text": "Der französische Autohersteller Renault hat bekanntgegeben, dass er bis zum Jahr 2030 insgesamt 600 Millionen Euro investieren wird, um seine spanischen Werke in Valladolid und Palencia umzurüsten. Dort sollen fünf neue Modelle gebaut werden, darunter zwei E-Autos. Zudem soll eine Batteriemontagelinie in Valladolid errichtet werden."
     }
   ],
   "tech": [
     {
-      "title": "Umfrage: Widerstand der US-Amerikaner gegen KI-Datencenter wächst",
-      "text": "Donald Trump findet KI-Datencenter gut, die US-Amerikaner eher nicht - auch Republikaner tendieren verstärkt zu negativen Ansichten."
+      "title": "Musk: Trailer zur fast vierstündigen Elon-Musk-Dokumentation ist da",
+      "text": "Der Oscar-Preisträger und Dokumentarfilmer Alex Gibney hat einen Film über Elon Musk gedreht - der ihn schon als \"Arschloch\" bezeichnete."
     },
     {
-      "title": "KI-Angriff auf Australien: OpenAI-Agent hat sich in Regierungsportal gehackt",
-      "text": "Ein KI-Agent von OpenAI sollte australische Gesundheitsstatistiken recherchieren. Dabei ist er aber zu weit gegangen und hat geschützte Daten abgerufen."
+      "title": "EEG-Reform: Maximale Einspeisung kleiner PV-Anlagen wird halbiert",
+      "text": "Private Solaranlagen sollen nur noch die Hälfte ihrer Leistung ins Netz abgeben können. Das soll die Mittagsspitze abmildern und hat weitere Effekte. Von Mario Petzold"
     },
     {
-      "title": "Microsoft: Surface Pro 12 verwendet neuen ARM-Chip von Qualcomm",
-      "text": "Die neue Version des Surface Pro 12 soll vor allem eine lange Akkulaufzeit und mehr KI-Leistung erhalten. Das ist aber teuer."
+      "title": "Muse leakt Systemdateien: Metas KI-Agent gibt auf Anfrage sein Dateisystem aus",
+      "text": "Ein Entwickler hat Metas KI-Agent Muse 6,8 GByte an Daten aus seiner Betriebsumgebung entlockt. Laut Meta ist das ein erwartetes Verhalten."
     }
   ],
   "local": [
     {
-      "title": "Polizeieinsatz in Heidenheim: Einschusslöcher in Hauswand?",
-      "text": "In Heidenheim läuft seit mehreren Stunden ein Polizeieinsatz. Worum genau es geht, geben die Ermittler noch nicht bekannt. Laut einem Sprecher ist die Spurensicherung vor Ort."
+      "title": "Schüsse, Böller, Benzin: Polizei ermittelt nach zwei Vorfällen in Heidenheim",
+      "text": "In Heidenheim ermittelt die Polizei wegen Schüssen und einer möglichen Brandstiftung. Ein Zeuge rief die Einsatzkräfte in der Nacht auf Donnerstag. Hintergründe sind noch unklar."
     },
     {
       "title": "Frontalzusammenstoß auf der B29 bei Schwäbisch Gmünd",
@@ -82,8 +82,8 @@
       "text": "Die Polizei hat am Dienstag im Alb-Donau-Kreis einen 36-jährigen Mann festgenommen. Er soll einen 59-Jährigen getötet haben, der am Freitag tot in seiner Wohnung gefunden wurde."
     },
     {
-      "title": "Tausende Mitarbeiter von Audi Neckarsulm protestieren für Erhalt des Standorts",
-      "text": "Die IG Metall hat am Montag zu einem bundesweiten Aktionstag aufgerufen. Hintergrund ist der Stellenabbau in der Automobilindustrie."
+      "title": "Überlinger Waldrappe haben die Alpen erfolgreich überquert",
+      "text": "Die Überlinger Waldrappe sind in Norditalien angekommen. Dass die Tiere erneut selbstständig losgeflogen sind, ist ein Erfolg. Auch die menschengeführte Migration steht kurz vor dem Ziel."
     }
   ]
 }
