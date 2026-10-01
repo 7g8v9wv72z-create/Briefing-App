@@ -1,74 +1,82 @@
 {
-  "generatedAt": "2026-09-30T10:38:40.991Z",
+  "generatedAt": "2026-10-01T11:05:58.294Z",
   "world": [
+    {
+      "title": "Wadephul für schnellen EU-Beitritt der Westbalkan-Länder",
+      "text": "Außenminister Wadephul sieht einen EU-Beitritt der westlichen Balkanstaaten als ein Kerninteresse Europas. Er verweist vor Gesprächen in Montenegro dabei auf eine Einflussnahme von Russland und Chinas. Von Georg Schwarte."
+    },
+    {
+      "title": "Burkaverbot und Sprachquote an Italiens Schulen in Kraft",
+      "text": "Nicht nur Schüler, sondern auch Eltern sind betroffen: In Italien gilt jetzt an Schulen ein Verschleierungsverbot und eine Sprachquote. Staatschef Mattarella unterschrieb am Abend ein Gesetzesdekret der rechten Meloni-Regierung."
+    },
+    {
+      "title": "Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt",
+      "text": "Großbritannien hat nach Angaben von Premier Burnham Hinweise, dass Iran in den Vorfall nahe dem Luftwaffenstützpunkt Fairford verwickelt ist. Teheran bestreitet jegliche Beteiligung. Viele Details sind weiter unklar."
+    },
+    {
+      "title": "Frankreich: Antisemitismus-Vorwürfe gegen LePens Parteichef Bardella",
+      "text": "Ein investigatives Portal erhebt schwere Vorwürfe gegen Jordan Bardella, Chef des rechtsnationalen Rassemblement National. In seinen Anfängen als Politiker soll er antisemitische Textnachrichten verschickt haben. Von J. Borutta."
+    },
+    {
+      "title": "EU will krisenfeste Kommunikation für Europas Rettungsdienste",
+      "text": "Meist scheitert die grenzübergreifende Kommunikation von Polizei und Rettungsdiensten in Europa an technischen Problemen. Das will die EU-Kommission jetzt ändern - gerade auch für Krisenfälle. Von Andreas Meyer-Feist."
+    },
     {
       "title": "Preisträgerinnen des Alternativen Nobelpreises bekannt gegeben",
       "text": "In Stockholm sind die Preisträgerinnen des Right Livelihood Award bekannt gegeben worden - oft auch Alternativer Nobelpreis genannt. Die Auszeichnung geht in diesem Jahr ausschließlich an Frauen und von Frauen geführte Organisationen. Von J. Sinram."
-    },
-    {
-      "title": "Burnham kündigt auf Labour-Parteitag Reformen an",
-      "text": "Burnham könnte für Labour ein Wendepunkt sein: Seine Nahbarkeit kommt an, mit ihm als Premier wird die Partei wieder beliebter. Nach kleineren Projekten sollen nun große Reformen zeigen, dass er auch anpacken kann. Von Lisa-Maria Röhling."
-    },
-    {
-      "title": "Schüler und Beamte protestieren gegen Sparkurs in Frankreich",
-      "text": "Schlechte Ausstattung, zu große Klassen, Ungleichheit: Seit Tagen machen Schüler in Frankreich bei Protesten ihrem Unmut Luft. Einige schlossen sich nun Beamten an, die gegen den Sparkurs der Regierung auf die Straße gingen. Von Julia Borutta."
-    },
-    {
-      "title": "Burnham kündigt umfassende Sozialreformen für Großbritannien an",
-      "text": "Der britische Premierminister Burnham hat beim Parteitag von Labour umfassende politische Reformen angekündigt. Sie sollen langfristig die Lebenshaltungskosten senken und das Sozialsystem neu sortieren. Von Lisa-Maria Röhling."
-    },
-    {
-      "title": "Spanische Regierung will Mietverträge entfristen und Zwangsräumungen verbieten",
-      "text": "Angesichts der landesweiten Proteste hat die spanische Regierung zwei Dekrete gegen Wohnungsnot beschlossen. Die 87-Jährige, deren Zwangsräumung die Proteste ausgelöst hatte, konnte zurück in ihre Wohnung in Madrid."
-    },
-    {
-      "title": "EU: Pro Bürger landen jährlich 129 Kilo Lebensmittel im Müll",
-      "text": "Jeder EU-Bürger wirft pro Jahr Dutzende Kilogramm an Lebensmitteln weg, wie eine neue Statistik zeigt. Dagegen soll vorgegangen werden - auf europäischer und nationaler Ebene."
     }
   ],
   "economy": [
     {
-      "title": "Reiche weist staatliches Unternehmen an, mehr Gas einzuspeichern",
-      "text": "Die Gasspeicher sind aktuell nur zu etwas mehr als der Hälfte gefüllt. Nun drängt Wirtschaftsministerin Reiche alle Energieunternehmen dazu, mehr Erdgas einzuspeichern. Eine staatliche Firma erhält eine direkte Anweisung."
+      "title": "Freiwilliger Spritpreisdeckel - auch in Deutschland denkbar?",
+      "text": "In Frankreich und Italien begrenzen große Mineralölkonzerne die Preise an ihren Tankstellen. Dafür verzichten sie auf einen Teil ihrer Gewinne. Könnten Konzerne in Deutschland das auch machen? Von Michelle Goddemeier."
     },
     {
-      "title": "Tanken in Deutschland war noch nie so teuer wie im September",
-      "text": "Die durchschnittlichen Preise an Tankstellen in Deutschland waren noch nie höher als im September. Für den Rest des Jahres dürften die Preise für Autofahrerinnen und Autofahrer durch den \"Tankrabatt\" aber sinken."
+      "title": "Was Autofahrer zum Start des neuen \"Tankrabatts\" wissen müssen",
+      "text": "Ab heute gilt ein neuer \"Tankrabatt\". Wie kommen Kunden an günstigeren Sprit? Wann lohnt sich das Tanken und wie viel kann man sparen? Was man zum Start des \"Tankrabatts\" wissen muss."
     },
     {
-      "title": "Deutschlandticket wird wohl wieder teurer",
-      "text": "Heute soll über den künftigen Preis für das Deutschlandticket entschieden werden. Einem Medienbericht zufolge könnte es 2027 fast vier Euro mehr kosten. Von Verbänden kommt bereits Kritik."
+      "title": "Energieverbrauch: Anteil von Ökostrom steigt auf Rekordwert",
+      "text": "In den ersten neun Monaten des Jahres betrug der Anteil von Ökostrom am gesamten Stromverbrauch fast 61 Prozent. Das ist so viel wie nie. Gleichzeitig stieg aber auch der Strombedarf."
     }
   ],
   "automotive": [
     {
-      "title": "Geely beginnt in China den Rollout seiner 2,25-MW-Ladegeräte",
-      "text": "Kurz nachdem Geely sein Schnellladesystem mit einer Spitzenleistung von bis zu 2.250 kW vorgestellt hat, startet der Konzern bereits mit dem Aufbau eines entsprechenden Ladenetzes. In fünf chinesischen Städten sollen bereits Schnellladestationen mit dem Namen „Smart Charging C12“ aufgetaucht sein."
+      "title": "Studenten-E-Auto VENTRA soll Reifen- und Bremsabrieb auffangen",
+      "text": "Studierende der TU Eindhoven haben mit VENTRA ein Elektroauto-Konzept entwickelt, das Feinstaub aus Reifen- und Bremsabrieb während der Fahrt auffangen soll. Zusätzlich setzt das Fahrzeug auf Leichtbau und Hinweise für einen verschleißärmeren Fahrstil."
     },
     {
-      "title": "Ultium Cells rüstet Werk in Tennessee für LMR-Zellen um",
-      "text": "Ultium Cells will sein Batteriezellwerk in Spring Hill im US-Bundesstaat Tennessee für prismatische LMR-Zellen umrüsten. Die neue Zellchemie soll ab 2028 in künftigen Elektroautos von General Motors zum Einsatz kommen und bei ähnlichen Kosten rund 33 Prozent mehr Energiedichte als LFP bieten."
+      "title": "„Realitätsnäher“: Volvo Trucks setzt bei H2-Lkw auf Wasserstoff-Gas",
+      "text": "In Deutschland ziehen Daimler Truck und Volvo Trucks an einem Strang, um die Kommerzialisierung schwerer H2-Lkw und die dafür benötigte Infrastruktur anzuschieben. Doch schon beim Speicher- und Tanksystem gehen die Ansätze auseinander: Daimler Truck bevorzugt flüssiges H2, Volvo Trucks will den Wasserstoff als Gas in Drucktanks speichern."
     },
     {
-      "title": "Vianode und FAAM melden erfolgreiches Graphit-Recycling aus Batterie-Abfall",
-      "text": "Der norwegische Batteriematerial-Spezialist Vianode und der italienische Batteriehersteller FAAM demonstrieren, wie sich Graphit aus Batterie-Produktionsabfällen wieder zu leistungsfähigem Anodenmaterial recyceln lässt. Ziel beider Seiten ist nun, ihren Ansatz für den industriellen Einsatz zu skalieren."
+      "title": "Volkswagen kündigt mehrere Tarifverträge zum Jahresende",
+      "text": "Volkswagen hat nach der IG Metall ebenfalls die Revisionsklausel des Zukunftstarifvertrags genutzt und mehrere Haustarifverträge zum 31. Dezember 2026 gekündigt. Betroffen ist nach Angaben der Arbeitnehmerseite unter anderem der Manteltarifvertrag."
     }
   ],
   "tech": [
     {
-      "title": "Nicht in Arizona: TSMC plant wohl zweiten US-Standort",
-      "text": "TSMC plant nochmals mehr Werke außerhalb Taiwans - möglicherweise nicht ganz freiwillig. Das neue Werk soll noch teurer werden als das in Arizona."
+      "title": "Angeblich Pilotprojekte: Meta nutzt KI-Rechenzentren als Steuersparmodell",
+      "text": "Metas KI-Rechenzentren sind angeblich Grundlagenforschung. Das spart Steuern, aber die eigene Buchhaltung zweifelt an der Legalität."
     },
     {
-      "title": "Amazons Streaminggerät: Neuer Fire TV Stick 4K bekommt schlechtere Fernbedienung",
-      "text": "In Kürze wird ein neuer Fire TV Stick 4K erwartet. Amazon legt eine Fernbedienung bei, auf der wichtige Tasten weggelassen worden sind."
+      "title": "Golem Karrierewelt: Heute Golem-Podcast: Leben als IT-Freiberufler",
+      "text": "IT-Freiberuflichkeit bietet Freiheit und spannende Projekte, bringt aber auch Akquise und unternehmerische Verantwortung mit sich. Aaron Siller und Karsten Hentrup berichten aus der Praxis."
     },
     {
-      "title": "Kritische Schwachstelle: Google stopft 32 Löcher in Chrome",
-      "text": "Die kritische Lücke erlaubt eine Remotecodeausführung außerhalb der Sandbox. Die nächste finale Version von Chrome steht schon in den Startlöchern."
+      "title": "Stromsimulator: Batteriespeicher schaffen Platz im Stromnetz",
+      "text": "Simulationen mit mehr Großspeichern im deutschen Stromnetz zeigen, dass der Strompreis insgesamt sinkt. Ein anderer Effekt ist noch wichtiger."
     }
   ],
   "local": [
+    {
+      "title": "Junger Autofahrer ohne Führerschein rammt Streifenwagen bei Emerkingen",
+      "text": "Ein 21-Jähriger war ohne Führerschein und zu schnell unterwegs. Bei Emerkingen (Alb-Donau-Kreis) ist er frontal mit einem Streifenwagen zusammengestoßen. Zwei Polizisten wurden verletzt."
+    },
+    {
+      "title": "Cold Case kommt vor Gericht: Mordprozess 41 Jahre nach Tötung einer Frau",
+      "text": "Vor 41 Jahren wurde eine Frau bei Deggingen ermordet. DNA-Spuren führten nun zu Ermittlungen gegen einen 70-Jährigen aus Schwendi. Vor dem Landgericht Ulm beginnt nun der Mordprozess."
+    },
     {
       "title": "Die Innenstädte sterben aus? Studie kommt zu einem anderen Ergebnis",
       "text": "Eine neue Studie sieht deutsche Innenstädte im Aufwind - und am Bodensee und Oberschwaben bestätigt sich das. Woher kommt die neue Stärke der Zentren?"
@@ -76,14 +84,6 @@
     {
       "title": "Ulmer Verein \"Gute Clowns\" verliert 30.000 Euro an Trickbetrüger",
       "text": "Die Künstler vom Verein \"Gute Clowns\" heitern Menschen in Pflegeeinrichtungen, Hospizen und Palliativstationen auf. Jetzt wurde ihr Vereinskonto von Trickbetrügern geleert."
-    },
-    {
-      "title": "Mann in Blaustein von Müllauto überfahren",
-      "text": "Ein Mann ist am Montagmorgen in Blaustein im Alb-Donau-Kreis von einem Müllauto überfahren worden. Er kam mit lebensgefährlichen Verletzungen in ein Krankenhaus."
-    },
-    {
-      "title": "Feuer auf Schrottplatz in Mannheim ausgebrochen",
-      "text": "Im Mannheimer Hafengebiet brennt es. Laut Polizei ist das Feuer auf dem Gelände eines Schrottplatzes ausgebrochen. Verletzte gibt es nach ersten Erkenntnissen nicht."
     }
   ]
 }
