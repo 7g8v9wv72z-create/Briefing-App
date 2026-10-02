@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-01T11:05:58.294Z",
+  "generatedAt": "2026-10-02T10:39:11.343Z",
   "world": [
     {
+      "title": "Scheitern Spaniens Wohnungsgesetze noch im Parlament?",
+      "text": "Nach den Protesten aufgrund der Zwangsräumung der Wohnung einer Rentnerin in Madrid stimmt nun das Parlament ab - doch eine Mehrheit für stärkeren Mieterschutz ist alles andere als sicher. Von Hans-Günter Kellner."
+    },
+    {
+      "title": "Frankreichs Regierung schnürt Sparpaket, die Bevölkerung protestiert",
+      "text": "Mit einem harten Sparkurs will Frankreichs Regierung das Haushaltsdefizit wieder in den Griff bekommen. Die Bevölkerung protestiert - besonders Schüler demonstrieren mit zunehmender Gewalt gegen Missstände an Schulen."
+    },
+    {
+      "title": "EU schafft rechtliche Basis für Abschiebezentren in Drittstaaten",
+      "text": "Zwei Monate nach der Krise in Ceuta verschärfen die EU-Länder ihre Asylregeln weiter. Künftig dürfen sie umstrittene Abschiebezentren in Drittstaaten betreiben. Innenminister Dobrindt hofft noch in diesem Jahr auf eine erste Vereinbarung."
+    },
+    {
       "title": "Wadephul für schnellen EU-Beitritt der Westbalkan-Länder",
-      "text": "Außenminister Wadephul sieht einen EU-Beitritt der westlichen Balkanstaaten als ein Kerninteresse Europas. Er verweist vor Gesprächen in Montenegro dabei auf eine Einflussnahme von Russland und Chinas. Von Georg Schwarte."
+      "text": "Außenminister Wadephul sieht einen EU-Beitritt der westlichen Balkanstaaten als ein Kerninteresse Europas. Er verweist vor Gesprächen in Montenegro dabei auf eine Einflussnahme von Russland und China. Von Georg Schwarte."
     },
     {
       "title": "Burkaverbot und Sprachquote an Italiens Schulen in Kraft",
@@ -12,60 +24,48 @@
     {
       "title": "Burnham sieht starke Rolle Irans bei Vorfall nahe britischem Stützpunkt",
       "text": "Großbritannien hat nach Angaben von Premier Burnham Hinweise, dass Iran in den Vorfall nahe dem Luftwaffenstützpunkt Fairford verwickelt ist. Teheran bestreitet jegliche Beteiligung. Viele Details sind weiter unklar."
-    },
-    {
-      "title": "Frankreich: Antisemitismus-Vorwürfe gegen LePens Parteichef Bardella",
-      "text": "Ein investigatives Portal erhebt schwere Vorwürfe gegen Jordan Bardella, Chef des rechtsnationalen Rassemblement National. In seinen Anfängen als Politiker soll er antisemitische Textnachrichten verschickt haben. Von J. Borutta."
-    },
-    {
-      "title": "EU will krisenfeste Kommunikation für Europas Rettungsdienste",
-      "text": "Meist scheitert die grenzübergreifende Kommunikation von Polizei und Rettungsdiensten in Europa an technischen Problemen. Das will die EU-Kommission jetzt ändern - gerade auch für Krisenfälle. Von Andreas Meyer-Feist."
-    },
-    {
-      "title": "Preisträgerinnen des Alternativen Nobelpreises bekannt gegeben",
-      "text": "In Stockholm sind die Preisträgerinnen des Right Livelihood Award bekannt gegeben worden - oft auch Alternativer Nobelpreis genannt. Die Auszeichnung geht in diesem Jahr ausschließlich an Frauen und von Frauen geführte Organisationen. Von J. Sinram."
     }
   ],
   "economy": [
     {
-      "title": "Freiwilliger Spritpreisdeckel - auch in Deutschland denkbar?",
-      "text": "In Frankreich und Italien begrenzen große Mineralölkonzerne die Preise an ihren Tankstellen. Dafür verzichten sie auf einen Teil ihrer Gewinne. Könnten Konzerne in Deutschland das auch machen? Von Michelle Goddemeier."
+      "title": "Tankrabatt für Autofahrer, aber kein Nachlass beim Heizen: ungerecht?",
+      "text": "Autofahrer profitieren seit dem 1. Oktober vom \"Tankrabatt\". Hausbesitzer mit Ölheizung gehen leer aus. Fachleute sehen darin ein Gerechtigkeitsproblem - warnen aber vor neuen, teuren Steuernachlässen. Von O. Bemelmann und S. Groß."
     },
     {
-      "title": "Was Autofahrer zum Start des neuen \"Tankrabatts\" wissen müssen",
-      "text": "Ab heute gilt ein neuer \"Tankrabatt\". Wie kommen Kunden an günstigeren Sprit? Wann lohnt sich das Tanken und wie viel kann man sparen? Was man zum Start des \"Tankrabatts\" wissen muss."
+      "title": "Warum es schon wieder Diskussionen über die Zuckersteuer gibt",
+      "text": "Dass eine Zuckersteuer kommen soll, war eigentlich schon geklärt. Dennoch bremst das Kanzleramt jetzt bei einem Entwurf aus dem Finanzministerium. Was steckt dahinter? Warum drängt das Thema? Von Nicole Kohnert."
     },
     {
-      "title": "Energieverbrauch: Anteil von Ökostrom steigt auf Rekordwert",
-      "text": "In den ersten neun Monaten des Jahres betrug der Anteil von Ökostrom am gesamten Stromverbrauch fast 61 Prozent. Das ist so viel wie nie. Gleichzeitig stieg aber auch der Strombedarf."
+      "title": "Kanzleramt bremst beim Gesetzentwurf zur Zuckersteuer",
+      "text": "Die geplante Zuckersteuer sorgt weiter für Schlagzeilen: Der von Finanzminister Klingbeil vorgelegte Gesetzentwurf stößt auf Widerstand im Kanzleramt. Der Entwurf weiche von Empfehlungen einer Finanzkommission ab."
     }
   ],
   "automotive": [
     {
-      "title": "Studenten-E-Auto VENTRA soll Reifen- und Bremsabrieb auffangen",
-      "text": "Studierende der TU Eindhoven haben mit VENTRA ein Elektroauto-Konzept entwickelt, das Feinstaub aus Reifen- und Bremsabrieb während der Fahrt auffangen soll. Zusätzlich setzt das Fahrzeug auf Leichtbau und Hinweise für einen verschleißärmeren Fahrstil."
+      "title": "Projekt eMobiGrid: Bidirektionale Stromflüsse im Containerformat",
+      "text": "Die Partner des Bidi-Projekts eMobiGrid haben ihre Ergebnisse vorgestellt. Herzstück ihrer Entwicklung ist ein containerbasiertes Energiesystem, das elektrische Fahrzeuge, Batteriespeicher und regenerative Energiequellen über ein gekoppeltes Gleichstromnetz verbindet."
     },
     {
-      "title": "„Realitätsnäher“: Volvo Trucks setzt bei H2-Lkw auf Wasserstoff-Gas",
-      "text": "In Deutschland ziehen Daimler Truck und Volvo Trucks an einem Strang, um die Kommerzialisierung schwerer H2-Lkw und die dafür benötigte Infrastruktur anzuschieben. Doch schon beim Speicher- und Tanksystem gehen die Ansätze auseinander: Daimler Truck bevorzugt flüssiges H2, Volvo Trucks will den Wasserstoff als Gas in Drucktanks speichern."
+      "title": "Vier elektrifizierte Modellpremieren für Europas grüne Logistik von JAC Motors",
+      "text": "Der chinesische Nutzfahrzeughersteller präsentierte auf der IAA Transportation 2026 neue E-Modelle, erweiterte europäische Servicenetzwerke und flexible Finanzierungslösungen für eine nachhaltige urbane Logistik."
     },
     {
-      "title": "Volkswagen kündigt mehrere Tarifverträge zum Jahresende",
-      "text": "Volkswagen hat nach der IG Metall ebenfalls die Revisionsklausel des Zukunftstarifvertrags genutzt und mehrere Haustarifverträge zum 31. Dezember 2026 gekündigt. Betroffen ist nach Angaben der Arbeitnehmerseite unter anderem der Manteltarifvertrag."
+      "title": "Polestar erweitert Charge-Angebot um günstigeren Schnelllade-Tarif",
+      "text": "Polestar erweitert sein öffentliches Ladeangebot in Europa um zwei neue Abo-Stufen. Mit „Plus“ und „Pro“ erhalten Kunden gegen eine monatliche Gebühr Rabatte bei ausgewählten Schnellladenetzen."
     }
   ],
   "tech": [
     {
-      "title": "Angeblich Pilotprojekte: Meta nutzt KI-Rechenzentren als Steuersparmodell",
-      "text": "Metas KI-Rechenzentren sind angeblich Grundlagenforschung. Das spart Steuern, aber die eigene Buchhaltung zweifelt an der Legalität."
+      "title": "Instaffo: Erfahrene IT-Bewerber senken ihre Gehaltswünsche",
+      "text": "Laut Instaffo Gehaltsreport Deutschland 2026 gehen erfahrene IT-Fachkräfte mit deutlich niedrigeren Gehaltsvorstellungen an den Start als noch vor drei Jahren."
     },
     {
-      "title": "Golem Karrierewelt: Heute Golem-Podcast: Leben als IT-Freiberufler",
-      "text": "IT-Freiberuflichkeit bietet Freiheit und spannende Projekte, bringt aber auch Akquise und unternehmerische Verantwortung mit sich. Aaron Siller und Karsten Hentrup berichten aus der Praxis."
+      "title": "Nach Schießerei: Tesla-Fahrer können im Notfall mit angeschlossenem Ladekabel wegfahren",
+      "text": "Tesla hat einen Notfall-Wegfahrmodus für seine Autos vorgestellt: Im Ernstfall können Tesla-Fahrer mit angeschlossenem Ladekabel losfahren."
     },
     {
-      "title": "Stromsimulator: Batteriespeicher schaffen Platz im Stromnetz",
-      "text": "Simulationen mit mehr Großspeichern im deutschen Stromnetz zeigen, dass der Strompreis insgesamt sinkt. Ein anderer Effekt ist noch wichtiger."
+      "title": "Neue Kolumne Gewissenskonflikt: Ist Vibecoding okay - oder nur wenn ich es mache?",
+      "text": "Ich lasse mir selbst ab und zu Code und Bilder von KI generieren. Über KI-Slop darf ich mich trotzdem aufregen. Oder? Eine Kolumne von Tim Reinboth"
     }
   ],
   "local": [
@@ -78,12 +78,12 @@
       "text": "Vor 41 Jahren wurde eine Frau bei Deggingen ermordet. DNA-Spuren führten nun zu Ermittlungen gegen einen 70-Jährigen aus Schwendi. Vor dem Landgericht Ulm beginnt nun der Mordprozess."
     },
     {
-      "title": "Die Innenstädte sterben aus? Studie kommt zu einem anderen Ergebnis",
-      "text": "Eine neue Studie sieht deutsche Innenstädte im Aufwind - und am Bodensee und Oberschwaben bestätigt sich das. Woher kommt die neue Stärke der Zentren?"
+      "title": "Ermittlungen wegen versuchten Mordes nach schwerem Unfall: Steuerte Fahrer seinen Wagen bewusst in den Gegenverkehr?",
+      "text": "Nach der Kollision von drei Autos auf der B464 bei Reutlingen ermitteln Staatsanwaltschaft und Kripo wegen versuchten Mordes."
     },
     {
-      "title": "Ulmer Verein \"Gute Clowns\" verliert 30.000 Euro an Trickbetrüger",
-      "text": "Die Künstler vom Verein \"Gute Clowns\" heitern Menschen in Pflegeeinrichtungen, Hospizen und Palliativstationen auf. Jetzt wurde ihr Vereinskonto von Trickbetrügern geleert."
+      "title": "Warenhauskette Galeria stellt erneut Insolvenzantrag",
+      "text": "Galeria beantragt zum vierten Mal Insolvenz. Der Betrieb läuft weiter, doch 12.000 Beschäftigte und 83 Filialen stehen vor ungewisser Zukunft."
     }
   ]
 }
