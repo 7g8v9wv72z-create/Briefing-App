@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-10-05T11:44:24.202Z",
+  "generatedAt": "2026-10-06T11:25:36.183Z",
   "world": [
     {
+      "title": "Schülerdemos in Frankreich: Wütender Protest, Angst vor Eskalation",
+      "text": "Unterrichtsausfall, marode Gebäude, ungleiche Bildungschancen: Frankreichs Schüler gehen dagegen seit Tagen auf die Straße. Auch für heute sind Proteste angekündigt - begleitet von der Sorge vor weiterer Eskalation. Von J. Borutta."
+    },
+    {
+      "title": "Reformdruck nicht nur auf Beitrittskandidaten - auch auf die EU",
+      "text": "Die EU will reformbereite Beitrittskandidaten nicht endlos warten lassen. Doch da die strengen Reformkriterien noch nicht erfüllt sind, bedarf es dafür neuer Modelle. Und auch die EU selbst muss sich noch vorbereiten. Von Tina Hassel."
+    },
+    {
+      "title": "\"Hallo\" statt \"Privjet\": An Lettlands Schulen ist Russisch verboten",
+      "text": "Lettland will sich sprachlich stärker nach Europa orientieren - seit diesem Schuljahr darf Russisch an Schulen nicht mehr als Fremdsprache unterrichtet werden. Besonders populär wird stattdessen: Deutsch. Von Arne Bartram."
+    },
+    {
       "title": "Moldau: Wassermangel trifft hohe Ölpreise",
-      "text": "Moldau leidet weiter unter Dürre, die Wasserspiegel der Flüsse sind niedrig. Zugleich hat die Regierung wegen der hohen Preise einen Energienotstand ausgerufen. Die Opposition nutzt das für Signale im Sinne Russlands. Von P. Raillon."
+      "text": "Die Republik Moldau leidet weiter unter Dürre, die Pegelstände der Flüsse sind niedrig. Zugleich hat die Regierung wegen der hohen Preise einen Energienotstand ausgerufen. Die Opposition nutzt das für Signale im Sinne Russlands. Von P. Raillon."
     },
     {
       "title": "Dänisches Melderegister mit Daten von 8,8 Millionen Menschen gehackt",
@@ -12,63 +24,55 @@
     {
       "title": "Vorgezogene Wahl: Das Kalkül von Spaniens \"Überlebenskünstler\" Sánchez",
       "text": "Schon die vergangenen Regierungsjahre von Spaniens Ministerpräsident Sánchez glichen einer Achterbahnfahrt. Dass er nun vorgezogene Wahlen ausgerufen hat, dürfte mit einer Umfrage zum Thema \"Mieterschutz\" zusammenhängen. Von S. Kisters."
-    },
-    {
-      "title": "Spanien: Regierungschef Sánchez kündigt Neuwahlen an",
-      "text": "Der Streit über die Wohnungsmarktpolitik führt zu Neuwahlen in Spanien. Regierungschef Sánchez kündigte eine vorgezogene Parlamentswahl im November an. Seine Sozialisten liegen in Umfragen hinter den Konservativen."
-    },
-    {
-      "title": "Österreichs Vizekanzler und SPÖ-Chef Babler kündigt Rückzug an",
-      "text": "Der Chefposten der SPÖ in Österreich gilt als Schleudersitz. Und er wurde seinem Ruf erneut gerecht: Vizekanzler und Parteichef Babler zieht sich zurück. Damit will er eine stabile Regierung gewährleisten - und Neuwahlen verhindern. Von S. Hahne."
-    },
-    {
-      "title": "Ermittlungen wegen Terrorverdacht: USA ziehen Bomber von britischem Stützpunkt ab",
-      "text": "Washington hat seine Langstreckenbomber vom britischen Militärstützpunkt Fairford zurückbeordert - aus Sicherheitsgründen, wie das Pentagon erklärte. Vor einer Woche waren dort Männer wegen möglicher Anschlagspläne festgenommen worden."
     }
   ],
   "economy": [
     {
-      "title": "Streckensanierung Berlin-Hannover wird aufwendiger - und teurer",
-      "text": "Fast 1,5 Stunden länger brauchen nun Züge zwischen Hannover und Berlin. Und die Generalsanierung soll mehr als ein Jahr dauern - wesentlich länger als noch vor kurzem angekündigt. Das führt zu Protesten. Von Andre Kartschall."
+      "title": "Warum ein Studium keine Jobgarantie mehr ist",
+      "text": "Hunderttausende Menschen hierzulande haben einen Uniabschluss und trotzdem keinen Job. Dabei galt lange: Wer studiert, hat später die besten Berufsaussichten. Doch diese Gewissheit bröckelt. Von L.-M. Hiltscher und C. Dörr."
     },
     {
       "title": "Warum immer mehr junge Menschen einen Job in der Pflege wollen",
       "text": "Immer mehr junge Menschen entscheiden sich für eine Ausbildung im Gesundheitswesen: Kliniken melden Bewerberrekorde, Pflegeschulen haben Wartelisten. Gleichzeitig bleibt der Fachkräftemangel groß. Von Johannes Baumert."
     },
     {
-      "title": "E-Autos boomen bei deutschen Käufern",
-      "text": "Die hohen Spritpreise lassen offenbar viele Menschen umdenken: Mehr als jedes dritte neu zugelassene Auto war zuletzt ein Elektroauto. Die Zulassungen von Benzin- und Dieselautos brachen dagegen ein."
+      "title": "SPD-Basis setzt rote Linien bei der Arbeitszeitreform",
+      "text": "Die Koalition will Arbeitszeitregeln flexibler machen. Nun meldet sich die SPD-Basis zu Wort: Keine Wochenarbeitszeit ohne Tarifvertrag, heißt es in einem Positionspapier. Das könnte neuen Streit in der Koalition bedeuten. Von Jan-Peter Bartels."
     }
   ],
   "automotive": [
     {
-      "title": "Qwello übernimmt Mehrheit an Groen-Eco in den Niederlanden",
-      "text": "Qwello Benelux hat die Mehrheit am niederländischen Ladeinfrastruktur-Spezialisten Groen-Eco übernommen. Damit erweitert Qwello sein bislang stark auf öffentliche Konzessionen ausgerichtetes Geschäft gezielt."
+      "title": "Ford Transit City: E-Transporter für unter 36.000 Euro",
+      "text": "Marie-Kristin Wricke alias Madame Electric schaut sich auf der IAA Transportation den neuen Ford Transit City an. Der kompakte Transporter unterscheidet sich dabei deutlich von bisherigen Ford-Modellen: Er wird ausschließlich elektrisch angeboten und soll ganz bewusst einfach gehalten sein."
     },
     {
-      "title": "CATL eröffnet größtes Ning-Service-Zentrum außerhalb Asiens in Oslo",
-      "text": "CATL hat in Oslo sein bislang größtes Ning-Service-Zentrum außerhalb Asiens eröffnet. Der neue Standort soll Norwegen und die nordische Region mit Batterieprüfung, Wartung, Reparatur, Zweitnutzung und Recycling versorgen."
+      "title": "XPeng erweitert Handelsnetz durch Emil Frey-Partnerschaft",
+      "text": "XPeng erweitert sein deutsches Handelsnetz mit zwei Standorten des neuen Partners Emil Frey Deutschland. Das sind die Ziele des Herstellers bis Ende 2026."
     },
     {
-      "title": "BMW iX5 & iX3 40 xDrive Bestellstart und OS X-Update",
-      "text": "BMW eröffnet im Herbst 2026 die Bestellbücher für den iX5 60 xDrive und schickt zudem dem iX3 40 xDrive mit 275 kW ins Rennen. Auch der i7 und OS X erhalten Updates."
+      "title": "Fraunhofer vertieft Batterieforschung mit Partnern aus Südkorea",
+      "text": "Die Fraunhofer-Allianz Batterien baut ihre Zusammenarbeit mit Partnern aus Südkorea aus. Zwei neue Absichtserklärungen sollen gemeinsame Forschungsprojekte zu Batteriematerialien, Zellproduktion und Recycling auf den Weg bringen."
     }
   ],
   "tech": [
     {
-      "title": "PTC: Schneider Electric mit Milliardenübernahme in den USA",
-      "text": "Schneider Electric kauft für 23,7 Milliarden US-Dollar PTC, den Hersteller von Creo, Onshape und Windchill. Der Umsatz bei Schneider wächst durch Ausrüstung für KI-Rechenzentren."
+      "title": "Forschung: KI-Agenten identifizieren neue Antiferromagneten",
+      "text": "Ein Unternehmen für KI-Evaluierung hat zwei bei Raumtemperatur stabile antiferromagnetische Materialien entdeckt. Einen Haken haben aber beide."
     },
     {
-      "title": "Tesla boomt wieder: Mehr als jeder dritte Neuwagen vollelektrisch",
-      "text": "Schon 100.000 Haushalte profitieren von der Kaufprämie für E-Autos. Vor allem Teslas Verkaufszahlen sind im September 2026 stark angestiegen."
+      "title": "Firmen reagieren mit Umstellung: KI-Ausgaben steigen in Deutschland auf Milliardenhöhe",
+      "text": "Trotz sinkender Tokenpreise steigen die Kosten für KI-Anwendungen in deutschen Unternehmen weiter an. Erste Firmen reagieren darauf."
     },
     {
-      "title": "Jagex: Runescape bekommt ein neues MMORPG mit Unreal Engine",
-      "text": "Jagex arbeitet an einem neuen Runescape. Das MMORPG entsteht mit Unreal Engine und soll gemeinsam mit der Community entwickelt werden."
+      "title": "Galactic Racer: Star-Wars-Rennspiel startet mit starken Wertungen",
+      "text": "Das im Star-Wars-Universum angesiedelte Galactic Racer verbindet Arcade-Rennen mit einer ungewöhnlichen Roguelite-Kampagne."
     }
   ],
   "local": [
+    {
+      "title": "Prozess um Cold Case: Angeklagter bestreitet Mord vor 41 Jahren",
+      "text": "Im Prozess vor dem Landgericht Ulm um einen Mord vor 41 Jahren bei Deggingen hat der 70-jährige Angeklagte am Dienstag die Tat bestritten. Er habe die Frau nicht vergewaltigt und nicht getötet."
+    },
     {
       "title": "Medizin-Nobelpreis für Georg Nagel aus Weingarten",
       "text": "Der 73-jährige Biologe Georg Nagel aus Weingarten erhält den diesjährigen Medizin-Nobelpreis. Ausgezeichnet wird er gemeinsam mit Peter Hegemann aus Deutschland und Karl Deisseroth aus den USA."
@@ -80,10 +84,6 @@
     {
       "title": "Fünf Pkw und ein Lkw kollidieren im stockenden Verkehr auf der A8 - 17 Verletzte",
       "text": "Auf der A8 sind bei Ulm am Freitagmittag fünf Autos und ein Autotransporter zusammengestoßen. Zwischen Ulm-West und -Ost war die A8 voll gesperrt. Kurzurlauber standen im Stau."
-    },
-    {
-      "title": "Junger Autofahrer ohne Führerschein rammt Streifenwagen bei Emerkingen",
-      "text": "Ein 21-Jähriger war ohne Führerschein und zu schnell unterwegs. Bei Emerkingen (Alb-Donau-Kreis) ist er frontal mit einem Streifenwagen zusammengestoßen. Zwei Polizisten wurden verletzt."
     }
   ]
 }
