@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-10-06T11:25:36.183Z",
+  "generatedAt": "2026-10-07T11:15:32.362Z",
   "world": [
+    {
+      "title": "Schülerproteste in Frankreich: \"Uns wird nicht zugehört\"",
+      "text": "Die Protestwelle junger Menschen in Frankreich für bessere Lernbedingungen an Schulen hat einen neuen Höhepunkt erreicht. Laut Innenministerium beteiligten sich 256.000 Menschen an Demos, allein 56.000 in Paris. Von Carolin Dylla."
+    },
+    {
+      "title": "Vor EU-Besuch in China: Erwartungen so hoch wie das Handelsdefizit",
+      "text": "Europas Wirtschaft leidet unter Exporten aus China. Kurz vor dem Besuch des EU-Handelskommissars in Peking fordern die Regierungen in Berlin und Paris nun neue Instrumente gegenüber China. Damit sind die Erwartungen gesetzt. Von Sarah López."
+    },
+    {
+      "title": "Schülerproteste in Frankreich erreichen neuen Höhepunkt",
+      "text": "Blockierte Gymnasien und Hochschulen, landesweite Demos: In Frankreich haben sich die Schülerproteste ausgeweitet. Auch Gewerkschaften schlossen sich den Protesten an. Die Polizei ist mit einem Großaufgebot im Einsatz."
+    },
+    {
+      "title": "Separatistenführer Puigdemont kann nach Spanien zurückkehren",
+      "text": "Per Referendum wollte der katalanische Regierungschef Puigdemont 2017 die Unabhängigkeit der Region durchsetzen - und scheiterte. Es folgte die Flucht ins Ausland und Jahre im Exil. Nun ebnet das Verfassungsgericht den Weg für seine mögliche Rückkehr."
+    },
     {
       "title": "Schülerdemos in Frankreich: Wütender Protest, Angst vor Eskalation",
       "text": "Unterrichtsausfall, marode Gebäude, ungleiche Bildungschancen: Frankreichs Schüler gehen dagegen seit Tagen auf die Straße. Auch für heute sind Proteste angekündigt - begleitet von der Sorge vor weiterer Eskalation. Von J. Borutta."
@@ -8,67 +24,55 @@
     {
       "title": "Reformdruck nicht nur auf Beitrittskandidaten - auch auf die EU",
       "text": "Die EU will reformbereite Beitrittskandidaten nicht endlos warten lassen. Doch da die strengen Reformkriterien noch nicht erfüllt sind, bedarf es dafür neuer Modelle. Und auch die EU selbst muss sich noch vorbereiten. Von Tina Hassel."
-    },
-    {
-      "title": "\"Hallo\" statt \"Privjet\": An Lettlands Schulen ist Russisch verboten",
-      "text": "Lettland will sich sprachlich stärker nach Europa orientieren - seit diesem Schuljahr darf Russisch an Schulen nicht mehr als Fremdsprache unterrichtet werden. Besonders populär wird stattdessen: Deutsch. Von Arne Bartram."
-    },
-    {
-      "title": "Moldau: Wassermangel trifft hohe Ölpreise",
-      "text": "Die Republik Moldau leidet weiter unter Dürre, die Pegelstände der Flüsse sind niedrig. Zugleich hat die Regierung wegen der hohen Preise einen Energienotstand ausgerufen. Die Opposition nutzt das für Signale im Sinne Russlands. Von P. Raillon."
-    },
-    {
-      "title": "Dänisches Melderegister mit Daten von 8,8 Millionen Menschen gehackt",
-      "text": "Unbekannte haben sich Zugriff zum dänischen Melderegister verschafft. Die zuständige Ministerin spricht von einem äußerst schwerwiegenden Vorfall. Daten von 8,8 Millionen Menschen sind betroffen."
-    },
-    {
-      "title": "Vorgezogene Wahl: Das Kalkül von Spaniens \"Überlebenskünstler\" Sánchez",
-      "text": "Schon die vergangenen Regierungsjahre von Spaniens Ministerpräsident Sánchez glichen einer Achterbahnfahrt. Dass er nun vorgezogene Wahlen ausgerufen hat, dürfte mit einer Umfrage zum Thema \"Mieterschutz\" zusammenhängen. Von S. Kisters."
     }
   ],
   "economy": [
     {
-      "title": "Warum ein Studium keine Jobgarantie mehr ist",
-      "text": "Hunderttausende Menschen hierzulande haben einen Uniabschluss und trotzdem keinen Job. Dabei galt lange: Wer studiert, hat später die besten Berufsaussichten. Doch diese Gewissheit bröckelt. Von L.-M. Hiltscher und C. Dörr."
+      "title": "Selbstständige erhalten keinen Mutterschutz",
+      "text": "Für selbstständige Frauen gilt der Mutterschutz nicht. Viele können sich eine Pause rund um die Geburt deshalb kaum leisten. Ein Bündnis fordert eine gesetzliche Absicherung und hat konkrete Finanzierungsvorschläge. Von Anke Hahn."
     },
     {
-      "title": "Warum immer mehr junge Menschen einen Job in der Pflege wollen",
-      "text": "Immer mehr junge Menschen entscheiden sich für eine Ausbildung im Gesundheitswesen: Kliniken melden Bewerberrekorde, Pflegeschulen haben Wartelisten. Gleichzeitig bleibt der Fachkräftemangel groß. Von Johannes Baumert."
+      "title": "Sorgen um Geld: Frauen fühlen sich finanziell unsicherer",
+      "text": "Fast die Hälfte aller Frauen in Deutschland macht sich Sorgen um ihre finanzielle Zukunft. Ein wichtiger Grund: Vielen Frauen fehlt das Geld, um überhaupt vorsorgen zu können."
     },
     {
-      "title": "SPD-Basis setzt rote Linien bei der Arbeitszeitreform",
-      "text": "Die Koalition will Arbeitszeitregeln flexibler machen. Nun meldet sich die SPD-Basis zu Wort: Keine Wochenarbeitszeit ohne Tarifvertrag, heißt es in einem Positionspapier. Das könnte neuen Streit in der Koalition bedeuten. Von Jan-Peter Bartels."
+      "title": "Deutsche Unternehmen fahren Produktion überraschend deutlich hoch",
+      "text": "Trotz Behinderungen der Rhein-Schifffahrt durch das Niedrigwasser haben die deutschen Unternehmen ihre Produktion im August stark hochgefahren. Ein kräftigeres Plus gab es zuletzt im März 2025."
     }
   ],
   "automotive": [
     {
-      "title": "Ford Transit City: E-Transporter für unter 36.000 Euro",
-      "text": "Marie-Kristin Wricke alias Madame Electric schaut sich auf der IAA Transportation den neuen Ford Transit City an. Der kompakte Transporter unterscheidet sich dabei deutlich von bisherigen Ford-Modellen: Er wird ausschließlich elektrisch angeboten und soll ganz bewusst einfach gehalten sein."
+      "title": "TEAG Mobil eröffnet ihren ersten Lkw-Ladepark in Zella-Mehlis",
+      "text": "TEAG Mobil hat am LOMO-Autohof an der A71 bei Zella-Mehlis ihren ersten Ladepark nur für Lkw in Betrieb genommen. Der Standort umfasst vier Ladesäulen von Alpitronic, darunter auch ein 1.000-kWh-Ladesystem. Damit beherbergt der LOMO-Autohof den derzeit leistungsstärksten Ladepunkt für E-Trucker in Thüringen. Wir waren bei der Einweihung dabei."
     },
     {
-      "title": "XPeng erweitert Handelsnetz durch Emil Frey-Partnerschaft",
-      "text": "XPeng erweitert sein deutsches Handelsnetz mit zwei Standorten des neuen Partners Emil Frey Deutschland. Das sind die Ziele des Herstellers bis Ende 2026."
+      "title": "Uber steigt bei Robotaxi-Anbieter Verne ein",
+      "text": "Uber ist nun auch finanziell bei Verne eingestiegen. Die Beteiligung vertieft die seit März bestehende Zusammenarbeit rund um den Robotaxi-Dienst in Zagreb, der bereits über die Uber-App verfügbar ist."
     },
     {
-      "title": "Fraunhofer vertieft Batterieforschung mit Partnern aus Südkorea",
-      "text": "Die Fraunhofer-Allianz Batterien baut ihre Zusammenarbeit mit Partnern aus Südkorea aus. Zwei neue Absichtserklärungen sollen gemeinsame Forschungsprojekte zu Batteriematerialien, Zellproduktion und Recycling auf den Weg bringen."
+      "title": "Projekt BELLE sieht Depotladen als Schlüssel für den E-Lkw-Hochlauf",
+      "text": "Das Forschungsprojekt BELLE hat untersucht, wie sich Betriebshöfe für schwere Elektro-Lkw elektrifizieren lassen. Ein zentrales Ergebnis: Nicht allein die Fahrzeuge, sondern vor allem Netzanschluss, Ladeinfrastruktur und intelligentes Lademanagement sind entscheidend."
     }
   ],
   "tech": [
     {
-      "title": "Forschung: KI-Agenten identifizieren neue Antiferromagneten",
-      "text": "Ein Unternehmen für KI-Evaluierung hat zwei bei Raumtemperatur stabile antiferromagnetische Materialien entdeckt. Einen Haken haben aber beide."
+      "title": "Europas KI-Antwort: Mistral Large 4 ist da",
+      "text": "Mistral stellt sein größtes KI-Modell vor. Bei Sicherheitstests überzeugt es, doch beim Programmieren bleiben Fragen offen."
     },
     {
-      "title": "Firmen reagieren mit Umstellung: KI-Ausgaben steigen in Deutschland auf Milliardenhöhe",
-      "text": "Trotz sinkender Tokenpreise steigen die Kosten für KI-Anwendungen in deutschen Unternehmen weiter an. Erste Firmen reagieren darauf."
+      "title": "Jaguar Type 01 vorgestellt: Fast viermal so lang wie hoch",
+      "text": "Trotz viel Kritik am Type 00 bringt Jaguar den Type 01 kaum verändert auf den Markt. Auch im Innenraum finden sich ungewöhnliche Designelemente."
     },
     {
-      "title": "Galactic Racer: Star-Wars-Rennspiel startet mit starken Wertungen",
-      "text": "Das im Star-Wars-Universum angesiedelte Galactic Racer verbindet Arcade-Rennen mit einer ungewöhnlichen Roguelite-Kampagne."
+      "title": "Onlineshop Limango verliert: Gericht verbietet Newsletter-Zwang für Kundenkonten",
+      "text": "In zweiter Instanz haben Verbraucherschützer gesiegt: Ein Onlineshop darf ein Kundenkonto nicht mit dem Zwang zu einer Newsletter-Bestellung verknüpfen."
     }
   ],
   "local": [
+    {
+      "title": "Stadt schließt Hanfladen in Heidenheim - Drogen an Minderjährige verkauft?",
+      "text": "Die Stadt Heidenheim hat einen Hanfladen in der Innenstadt geschlossen. Die Angestellten stehen im Verdacht, illegale Drogen verkauft zu haben, wohl auch an Minderjährige."
+    },
     {
       "title": "Prozess um Cold Case: Angeklagter bestreitet Mord vor 41 Jahren",
       "text": "Im Prozess vor dem Landgericht Ulm um einen Mord vor 41 Jahren bei Deggingen hat der 70-jährige Angeklagte am Dienstag die Tat bestritten. Er habe die Frau nicht vergewaltigt und nicht getötet."
@@ -78,12 +82,8 @@
       "text": "Der 73-jährige Biologe Georg Nagel aus Weingarten erhält den diesjährigen Medizin-Nobelpreis. Ausgezeichnet wird er gemeinsam mit Peter Hegemann aus Deutschland und Karl Deisseroth aus den USA."
     },
     {
-      "title": "Tiefer Stollen in Aalen wird zum Sterne-Restaurant",
-      "text": "Sternekoch Andreas Widmann aus Königsbronn-Zang hat sein Restaurant für drei Tage an einen extravaganten Ort verlegt: 30 Gäste speisten im Tiefen Stollen bei Aalen untertage."
-    },
-    {
-      "title": "Fünf Pkw und ein Lkw kollidieren im stockenden Verkehr auf der A8 - 17 Verletzte",
-      "text": "Auf der A8 sind bei Ulm am Freitagmittag fünf Autos und ein Autotransporter zusammengestoßen. Zwischen Ulm-West und -Ost war die A8 voll gesperrt. Kurzurlauber standen im Stau."
+      "title": "Gewitter und Regen statt goldenem Herbst: Wetterumschwung in Baden-Württemberg",
+      "text": "Ab Mittwochabend ist im Land mit Unwetter und Starkregen zu rechnen. In den kommenden Tagen sinken die Temperaturen zudem spürbar und es regnet weiter."
     }
   ]
 }
