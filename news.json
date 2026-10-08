@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-10-07T11:15:32.362Z",
+  "generatedAt": "2026-10-08T11:31:57.945Z",
   "world": [
+    {
+      "title": "Italien: Melonis Machtpoker um das Wahlrecht",
+      "text": "Kann Italiens Ministerpräsidentin Meloni ihr umstrittenes neues Wahlrecht durchsetzen? Die Schlussabstimmung im Abgeordnetenhaus wird zur Zitterpartie. Meloni hat das neue Wahlrecht an die Vertrauensfrage geknüpft. Von Ivo Marusczyk."
+    },
+    {
+      "title": "Frankreichs Premier verspricht Schülern Verbesserungen, aber nicht mehr Geld",
+      "text": "Die Schulproteste in Frankreich halten weiter an. Premier Lecornu sicherte den Schülern nun bessere Lernbedingungen zu, ohne aber zusätzliche Finanzhilfen in Aussicht zu stellen. Neue Proteste sind bereits angekündigt."
+    },
+    {
+      "title": "Nach Zwangsräumung in Spanien - Rentnerin Maricarmen gestorben",
+      "text": "Ihr Name stand symbolisch für die spanische Wohnungskrise. Nach der Zwangsräumung der Wohnung der 87-jährigen Maricarmen Abascal war es zu landesweiten Protesten gekommen. Nun ist die Rentnerin gestorben."
+    },
+    {
+      "title": "EU plant Beitritt in Stufen - und Ende der Einstimmigkeit",
+      "text": "Um einen EU-Beitritt einfacher zu machen, plant die Kommission eine Mitgliedschaft in Stufen. Und damit eine erweiterte Union handlungsfähig bleibt, soll es zentrale Reformen geben: etwa beim Prinzip der Einstimmigkeit. Von Sabrina Fritz."
+    },
     {
       "title": "Schülerproteste in Frankreich: \"Uns wird nicht zugehört\"",
       "text": "Die Protestwelle junger Menschen in Frankreich für bessere Lernbedingungen an Schulen hat einen neuen Höhepunkt erreicht. Laut Innenministerium beteiligten sich 256.000 Menschen an Demos, allein 56.000 in Paris. Von Carolin Dylla."
@@ -8,82 +24,66 @@
     {
       "title": "Vor EU-Besuch in China: Erwartungen so hoch wie das Handelsdefizit",
       "text": "Europas Wirtschaft leidet unter Exporten aus China. Kurz vor dem Besuch des EU-Handelskommissars in Peking fordern die Regierungen in Berlin und Paris nun neue Instrumente gegenüber China. Damit sind die Erwartungen gesetzt. Von Sarah López."
-    },
-    {
-      "title": "Schülerproteste in Frankreich erreichen neuen Höhepunkt",
-      "text": "Blockierte Gymnasien und Hochschulen, landesweite Demos: In Frankreich haben sich die Schülerproteste ausgeweitet. Auch Gewerkschaften schlossen sich den Protesten an. Die Polizei ist mit einem Großaufgebot im Einsatz."
-    },
-    {
-      "title": "Separatistenführer Puigdemont kann nach Spanien zurückkehren",
-      "text": "Per Referendum wollte der katalanische Regierungschef Puigdemont 2017 die Unabhängigkeit der Region durchsetzen - und scheiterte. Es folgte die Flucht ins Ausland und Jahre im Exil. Nun ebnet das Verfassungsgericht den Weg für seine mögliche Rückkehr."
-    },
-    {
-      "title": "Schülerdemos in Frankreich: Wütender Protest, Angst vor Eskalation",
-      "text": "Unterrichtsausfall, marode Gebäude, ungleiche Bildungschancen: Frankreichs Schüler gehen dagegen seit Tagen auf die Straße. Auch für heute sind Proteste angekündigt - begleitet von der Sorge vor weiterer Eskalation. Von J. Borutta."
-    },
-    {
-      "title": "Reformdruck nicht nur auf Beitrittskandidaten - auch auf die EU",
-      "text": "Die EU will reformbereite Beitrittskandidaten nicht endlos warten lassen. Doch da die strengen Reformkriterien noch nicht erfüllt sind, bedarf es dafür neuer Modelle. Und auch die EU selbst muss sich noch vorbereiten. Von Tina Hassel."
     }
   ],
   "economy": [
     {
-      "title": "Selbstständige erhalten keinen Mutterschutz",
-      "text": "Für selbstständige Frauen gilt der Mutterschutz nicht. Viele können sich eine Pause rund um die Geburt deshalb kaum leisten. Ein Bündnis fordert eine gesetzliche Absicherung und hat konkrete Finanzierungsvorschläge. Von Anke Hahn."
+      "title": "Commerzbank-Übernahme: Was auf Beschäftigte und Mittelstand zukommt",
+      "text": "Die italienische Großbank UniCredit steht vor der Übernahme der Commerzbank. Jetzt beginnt die entscheidende Phase - mit gravierenden Folgen für Mitarbeiter und Firmenkunden. Von Steffen Clement."
     },
     {
-      "title": "Sorgen um Geld: Frauen fühlen sich finanziell unsicherer",
-      "text": "Fast die Hälfte aller Frauen in Deutschland macht sich Sorgen um ihre finanzielle Zukunft. Ein wichtiger Grund: Vielen Frauen fehlt das Geld, um überhaupt vorsorgen zu können."
+      "title": "Europäischer Rechnungshof warnt vor hohen Schulden",
+      "text": "Der Rechnungshof hat vor den Folgen der zunehmenden Verschuldung der EU gewarnt, die bis 2027 auf bis zu eine Billion Euro steigen könnten. Die Prüfer entdeckten auch Unregelmäßigkeiten in Milliardenhöhe."
     },
     {
-      "title": "Deutsche Unternehmen fahren Produktion überraschend deutlich hoch",
-      "text": "Trotz Behinderungen der Rhein-Schifffahrt durch das Niedrigwasser haben die deutschen Unternehmen ihre Produktion im August stark hochgefahren. Ein kräftigeres Plus gab es zuletzt im März 2025."
+      "title": "Deutsche Firmen meist nicht speziell für KI-Angriffe gewappnet",
+      "text": "Rund die Hälfte der Unternehmen in Deutschland nutzt inzwischen KI-Anwendungen. Aber viele Firmen haben nur unzureichende Schutzvorkehrungen, um sich etwa vor Cyberangriffen zu schützen. Von M. Polansky."
     }
   ],
   "automotive": [
     {
-      "title": "TEAG Mobil eröffnet ihren ersten Lkw-Ladepark in Zella-Mehlis",
-      "text": "TEAG Mobil hat am LOMO-Autohof an der A71 bei Zella-Mehlis ihren ersten Ladepark nur für Lkw in Betrieb genommen. Der Standort umfasst vier Ladesäulen von Alpitronic, darunter auch ein 1.000-kWh-Ladesystem. Damit beherbergt der LOMO-Autohof den derzeit leistungsstärksten Ladepunkt für E-Trucker in Thüringen. Wir waren bei der Einweihung dabei."
+      "title": "„Erwägen Sie denn kein LFP?“ – „Doch, durchaus!“ – Niklas Klingenberg, Head R&D von Traton",
+      "text": "Die Traton Group investiert im großen Stil in neue Antriebstechnologien. Niklas Klingenberg, oberster Entwickler der Gruppe, ist einer der zentralen Weichensteller, die bei MAN und Scania heute über die Lkw-Technologie von morgen entscheiden. …"
     },
     {
-      "title": "Uber steigt bei Robotaxi-Anbieter Verne ein",
-      "text": "Uber ist nun auch finanziell bei Verne eingestiegen. Die Beteiligung vertieft die seit März bestehende Zusammenarbeit rund um den Robotaxi-Dienst in Zagreb, der bereits über die Uber-App verfügbar ist."
+      "title": "„Wandel zur E-Mobilität erfordert einen langen Atem“ – Alexander Hewel von der Kellergroup",
+      "text": "Die Kellergroup aus Ditzingen bei Stuttgart stellt ihre eigene Lkw-Flotte auf alternative Antriebe um. Gleichzeitig ist die Familienfirma als Logistikberatung weit in der Branche vernetzt – und nah am Puls des Mittelstands. …"
     },
     {
-      "title": "Projekt BELLE sieht Depotladen als Schlüssel für den E-Lkw-Hochlauf",
-      "text": "Das Forschungsprojekt BELLE hat untersucht, wie sich Betriebshöfe für schwere Elektro-Lkw elektrifizieren lassen. Ein zentrales Ergebnis: Nicht allein die Fahrzeuge, sondern vor allem Netzanschluss, Ladeinfrastruktur und intelligentes Lademanagement sind entscheidend."
+      "title": "Weltweit fährt jeder sechste neue Mercedes-Pkw rein elektrisch",
+      "text": "Die Mercedes-Benz Group hat im dritten Quartal 78.100 elektrische Fahrzeuge verkauft. Das waren 16 Prozent aller weltweit von Mercedes abgesetzten Pkw und Van – gut sechs Prozentpunkte mehr als vor einem Jahr. China bleibt für die Stuttgarter aber ein extrem schwieriger Markt."
     }
   ],
   "tech": [
     {
-      "title": "Europas KI-Antwort: Mistral Large 4 ist da",
-      "text": "Mistral stellt sein größtes KI-Modell vor. Bei Sicherheitstests überzeugt es, doch beim Programmieren bleiben Fragen offen."
+      "title": "Angeklagter zahlte heimlich Lösegeld: Ransomware-Entschlüsselungsdienst vor Gericht",
+      "text": "Von Ransomware-Angriffen betroffenen Firmen versprach der Angeklagte, über fortschrittliche Entschlüsselungstechniken zu verfügen."
     },
     {
-      "title": "Jaguar Type 01 vorgestellt: Fast viermal so lang wie hoch",
-      "text": "Trotz viel Kritik am Type 00 bringt Jaguar den Type 01 kaum verändert auf den Markt. Auch im Innenraum finden sich ungewöhnliche Designelemente."
+      "title": "Gesetz gegen digitale Gewalt: Kabinett beschließt Strafen für Deepfakes und GPS-Tracking",
+      "text": "Die sexualisierte Aufnahme eines bekleideten Pos kann künftig strafbar sein. Vor allem Frauen sollen vor digitaler Gewalt besser geschützt werden."
     },
     {
-      "title": "Onlineshop Limango verliert: Gericht verbietet Newsletter-Zwang für Kundenkonten",
-      "text": "In zweiter Instanz haben Verbraucherschützer gesiegt: Ein Onlineshop darf ein Kundenkonto nicht mit dem Zwang zu einer Newsletter-Bestellung verknüpfen."
+      "title": "Grundlastfähig: Geothermiekraftwerk geht in Utah ans Stromnetz",
+      "text": "Bis 2027 soll die Leistung auf 100 Megawatt steigen. Google hat bereits ein Vielfaches bestellt, allein dieser Standort bietet noch mehr."
     }
   ],
   "local": [
     {
-      "title": "Stadt schließt Hanfladen in Heidenheim - Drogen an Minderjährige verkauft?",
-      "text": "Die Stadt Heidenheim hat einen Hanfladen in der Innenstadt geschlossen. Die Angestellten stehen im Verdacht, illegale Drogen verkauft zu haben, wohl auch an Minderjährige."
+      "title": "BW-Newsticker am Morgen: Eine Woche Tankrabatt: So stark kommt er bei Autofahrern an, Rassistische Parolen in Stuttgarter Straßenbahn?, Zukunft von Audi wird heute in Neckarsulm verhandelt",
+      "text": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
     },
     {
-      "title": "Prozess um Cold Case: Angeklagter bestreitet Mord vor 41 Jahren",
-      "text": "Im Prozess vor dem Landgericht Ulm um einen Mord vor 41 Jahren bei Deggingen hat der 70-jährige Angeklagte am Dienstag die Tat bestritten. Er habe die Frau nicht vergewaltigt und nicht getötet."
+      "title": "Die Zukunft von Audi in Neckarsulm: Jetzt tritt der VW-Chef vor die Belegschaft",
+      "text": "Wie geht es mit Audi in Neckarsulm weiter? VW-Vorstandsvorsitzender Blume wird darüber am Donnerstag auf der Betriebsversammlung direkt zur Belegschaft sprechen."
     },
     {
-      "title": "Medizin-Nobelpreis für Georg Nagel aus Weingarten",
-      "text": "Der 73-jährige Biologe Georg Nagel aus Weingarten erhält den diesjährigen Medizin-Nobelpreis. Ausgezeichnet wird er gemeinsam mit Peter Hegemann aus Deutschland und Karl Deisseroth aus den USA."
+      "title": "Echte Polizisten nehmen falsche Polizisten in Merklingen fest",
+      "text": "In Merklingen im Alb-Donau-Kreis durchschaut ein 69-Jähriger den Trick falscher Polizisten. Er informiert heimlich die echte Polizei, die kurz darauf zwei Tatverdächtige festnimmt."
     },
     {
-      "title": "Gewitter und Regen statt goldenem Herbst: Wetterumschwung in Baden-Württemberg",
-      "text": "Ab Mittwochabend ist im Land mit Unwetter und Starkregen zu rechnen. In den kommenden Tagen sinken die Temperaturen zudem spürbar und es regnet weiter."
+      "title": "Tarifverhandlungen starten - während es bei Audi in Neckarsulm ums Sparen geht",
+      "text": "Die Tarifverhandlungen starten, bei Audi in Neckarsulm steht die Betriebsversammlung mitsamt VW-Chef an. Außerdem kam zum ersten Mal ein Bündnis für den Erhalt des Werks zusammen."
     }
   ]
 }
