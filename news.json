@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-10-08T11:31:57.945Z",
+  "generatedAt": "2026-10-09T11:27:08.943Z",
   "world": [
+    {
+      "title": "Protest und Andenken: Zehntausende in Spanien auf der Straße für Maricarmen",
+      "text": "Der Tod einer 87-Jährigen nach der Zwangsräumung ihrer Wohnung befeuert in Spanien den Protest gegen die Wohnungsnot. Ein Streik und Neuwahlen sind schon angekündigt. Ein Ende des Unmuts ist aber nicht in Sicht."
+    },
+    {
+      "title": "Schülerproteste: Frankreich will kurzfristig 3.000 Vertretungslehrer einsetzen",
+      "text": "Nach anhaltenden Schulprotesten will Frankreich kurzfristig mehr als 3.000 Vertretungslehrer organisieren. Eine Software solle dabei die Schulen anzeigen, die sich in einer problematischen Situation befänden, so Bildungsminister Geffray."
+    },
+    {
+      "title": "Großbritannien: Burnham bietet Deutschland Kampfjet-Kooperation an",
+      "text": "Bei seinem Besuch in Berlin hat der neue britische Premier Burnham die Absicht einer engen Zusammenarbeit mit Deutschland unterstrichen. Für Überraschung sorgte ein Angebot im Verteidigungsbereich."
+    },
+    {
+      "title": "Italiens Parlament billigt umstrittene Wahlrechtsreform von Meloni",
+      "text": "Die umstrittene Wahlrechtsreform von Italiens Ministerpräsidentin Meloni ist endgültig verabschiedet worden. Die Opposition wirft der Regierung vor, damit ihre Macht sichern zu wollen. Zudem gibt es verfassungsrechtliche Bedenken."
+    },
     {
       "title": "Italien: Melonis Machtpoker um das Wahlrecht",
       "text": "Kann Italiens Ministerpräsidentin Meloni ihr umstrittenes neues Wahlrecht durchsetzen? Die Schlussabstimmung im Abgeordnetenhaus wird zur Zitterpartie. Meloni hat das neue Wahlrecht an die Vertrauensfrage geknüpft. Von Ivo Marusczyk."
@@ -8,67 +24,55 @@
     {
       "title": "Frankreichs Premier verspricht Schülern Verbesserungen, aber nicht mehr Geld",
       "text": "Die Schulproteste in Frankreich halten weiter an. Premier Lecornu sicherte den Schülern nun bessere Lernbedingungen zu, ohne aber zusätzliche Finanzhilfen in Aussicht zu stellen. Neue Proteste sind bereits angekündigt."
-    },
-    {
-      "title": "Nach Zwangsräumung in Spanien - Rentnerin Maricarmen gestorben",
-      "text": "Ihr Name stand symbolisch für die spanische Wohnungskrise. Nach der Zwangsräumung der Wohnung der 87-jährigen Maricarmen Abascal war es zu landesweiten Protesten gekommen. Nun ist die Rentnerin gestorben."
-    },
-    {
-      "title": "EU plant Beitritt in Stufen - und Ende der Einstimmigkeit",
-      "text": "Um einen EU-Beitritt einfacher zu machen, plant die Kommission eine Mitgliedschaft in Stufen. Und damit eine erweiterte Union handlungsfähig bleibt, soll es zentrale Reformen geben: etwa beim Prinzip der Einstimmigkeit. Von Sabrina Fritz."
-    },
-    {
-      "title": "Schülerproteste in Frankreich: \"Uns wird nicht zugehört\"",
-      "text": "Die Protestwelle junger Menschen in Frankreich für bessere Lernbedingungen an Schulen hat einen neuen Höhepunkt erreicht. Laut Innenministerium beteiligten sich 256.000 Menschen an Demos, allein 56.000 in Paris. Von Carolin Dylla."
-    },
-    {
-      "title": "Vor EU-Besuch in China: Erwartungen so hoch wie das Handelsdefizit",
-      "text": "Europas Wirtschaft leidet unter Exporten aus China. Kurz vor dem Besuch des EU-Handelskommissars in Peking fordern die Regierungen in Berlin und Paris nun neue Instrumente gegenüber China. Damit sind die Erwartungen gesetzt. Von Sarah López."
     }
   ],
   "economy": [
     {
-      "title": "Commerzbank-Übernahme: Was auf Beschäftigte und Mittelstand zukommt",
-      "text": "Die italienische Großbank UniCredit steht vor der Übernahme der Commerzbank. Jetzt beginnt die entscheidende Phase - mit gravierenden Folgen für Mitarbeiter und Firmenkunden. Von Steffen Clement."
+      "title": "Umsätze von Shein, Temu und AliExpress brechen in Deutschland ein",
+      "text": "Die Umsätze asiatischer Online-Plattformen wie Shein in Deutschland sind stark zurückgegangen, ihre Marktanteile sind gesunken. Hintergrund ist eine neue Zollgebühr für Warensendungen aus Nicht-EU-Staaten."
     },
     {
-      "title": "Europäischer Rechnungshof warnt vor hohen Schulden",
-      "text": "Der Rechnungshof hat vor den Folgen der zunehmenden Verschuldung der EU gewarnt, die bis 2027 auf bis zu eine Billion Euro steigen könnten. Die Prüfer entdeckten auch Unregelmäßigkeiten in Milliardenhöhe."
+      "title": "Baupreise steigen besonders stark",
+      "text": "In Deutschland fehlen Hunderttausende Wohnungen, hohe Kosten belasten die Bau-Branche. Entspannung ist nicht in Sicht: Zuletzt lag der Anstieg der Baupreise deutlich über der allgemeinen Inflationsrate."
     },
     {
-      "title": "Deutsche Firmen meist nicht speziell für KI-Angriffe gewappnet",
-      "text": "Rund die Hälfte der Unternehmen in Deutschland nutzt inzwischen KI-Anwendungen. Aber viele Firmen haben nur unzureichende Schutzvorkehrungen, um sich etwa vor Cyberangriffen zu schützen. Von M. Polansky."
+      "title": "Warum Deutschland bei Betriebsrenten Nachholbedarf hat",
+      "text": "Betriebsrenten sind in anderen Ländern viel stärker verbreitet als in Deutschland. Für Arbeitgeber werden sie angesichts des Fachkräftemangels immer wichtiger, um Mitarbeiter zu gewinnen. Von Claudia Wehrle."
     }
   ],
   "automotive": [
     {
-      "title": "„Erwägen Sie denn kein LFP?“ – „Doch, durchaus!“ – Niklas Klingenberg, Head R&D von Traton",
-      "text": "Die Traton Group investiert im großen Stil in neue Antriebstechnologien. Niklas Klingenberg, oberster Entwickler der Gruppe, ist einer der zentralen Weichensteller, die bei MAN und Scania heute über die Lkw-Technologie von morgen entscheiden. …"
+      "title": "Nissan Micra wird um 1.700 Euro günstiger",
+      "text": "Der Nissan Micra wird in Deutschland günstiger: Je nach Variante sinkt der Listenpreis für den E-Kleinwagen um bis zu 1.710 Euro. Außerdem erhält das Schwestermodell des Renault 5 neue Komfortmerkmale sowie eine verbesserte Reichweite."
     },
     {
-      "title": "„Wandel zur E-Mobilität erfordert einen langen Atem“ – Alexander Hewel von der Kellergroup",
-      "text": "Die Kellergroup aus Ditzingen bei Stuttgart stellt ihre eigene Lkw-Flotte auf alternative Antriebe um. Gleichzeitig ist die Familienfirma als Logistikberatung weit in der Branche vernetzt – und nah am Puls des Mittelstands. …"
+      "title": "E.ON Drive übernimmt BP-Pulse-Schnellladenetz in den Niederlanden",
+      "text": "E.ON Drive Infrastructure übernimmt das frühere BP-Pulse-Schnellladenetz in den Niederlanden und betreibt es künftig unter der Marke Essent. Insgesamt umfasst das Netz 79 Standorte mit 370 Ladepunkten."
     },
     {
-      "title": "Weltweit fährt jeder sechste neue Mercedes-Pkw rein elektrisch",
-      "text": "Die Mercedes-Benz Group hat im dritten Quartal 78.100 elektrische Fahrzeuge verkauft. Das waren 16 Prozent aller weltweit von Mercedes abgesetzten Pkw und Van – gut sechs Prozentpunkte mehr als vor einem Jahr. China bleibt für die Stuttgarter aber ein extrem schwieriger Markt."
+      "title": "Zell-Bypass soll E-Auto-Batterien länger nutzbar machen",
+      "text": "Eine Studie der Chalmers University of Technology untersucht rekonfigurierbare Batteriepakete, die schwächere Zellen gezielt umgehen können. Unter optimalen Bedingungen könnte sich die Lebensdauer von Batterien in bestimmten Hochvolt-Fahrzeugen dadurch um mehr als 20 Prozent verlängern."
     }
   ],
   "tech": [
     {
-      "title": "Angeklagter zahlte heimlich Lösegeld: Ransomware-Entschlüsselungsdienst vor Gericht",
-      "text": "Von Ransomware-Angriffen betroffenen Firmen versprach der Angeklagte, über fortschrittliche Entschlüsselungstechniken zu verfügen."
+      "title": "Kollisionen im Orbit: SpaceX nimmt das Problem mit Weltraumschrott nicht ernst",
+      "text": "Eine neue Plattform des Konzerns will die Positionen aller Satelliten sammeln, um Zusammenstöße zu verhindern. Das Problem ist aber ein anderes."
     },
     {
-      "title": "Gesetz gegen digitale Gewalt: Kabinett beschließt Strafen für Deepfakes und GPS-Tracking",
-      "text": "Die sexualisierte Aufnahme eines bekleideten Pos kann künftig strafbar sein. Vor allem Frauen sollen vor digitaler Gewalt besser geschützt werden."
+      "title": "Kostenlose TLS-Zertifikate: Let's Encrypt verkürzt Gültigkeit auf 64 Tage",
+      "text": "Ab 2028 sinkt die Gültigkeitsdauer auf 45 Tage. Let's Encrypt will so das Risko von Schlüsselkompromittierungen reduzieren. ( Let&#039;s Encrypt , Verschlüsselung )"
     },
     {
-      "title": "Grundlastfähig: Geothermiekraftwerk geht in Utah ans Stromnetz",
-      "text": "Bis 2027 soll die Leistung auf 100 Megawatt steigen. Google hat bereits ein Vielfaches bestellt, allein dieser Standort bietet noch mehr."
+      "title": "KI: Anthropic verbietet Nutzern, zu gemein zu Claude zu sein",
+      "text": "Künftig kann Claude Chats beenden, wenn Nutzer die KI beleidigen. In der neuen Nutzervereinbarung werden auch Propaganda und Waffenentwicklung geregelt."
     }
   ],
   "local": [
+    {
+      "title": "Audi zieht \"Schlechtwetterklausel\" für Werk in Neckarsulm",
+      "text": "Audi steckt in der Krise. Für das Werk im baden-württembergischen Neckarsulm will der Autobauer deshalb mit den Arbeitnehmern über weitere Einsparungen verhandeln - und die sogenannte Schlechtwetterklausel einsetzen."
+    },
     {
       "title": "BW-Newsticker am Morgen: Eine Woche Tankrabatt: So stark kommt er bei Autofahrern an, Rassistische Parolen in Stuttgarter Straßenbahn?, Zukunft von Audi wird heute in Neckarsulm verhandelt",
       "text": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
@@ -80,10 +84,6 @@
     {
       "title": "Echte Polizisten nehmen falsche Polizisten in Merklingen fest",
       "text": "In Merklingen im Alb-Donau-Kreis durchschaut ein 69-Jähriger den Trick falscher Polizisten. Er informiert heimlich die echte Polizei, die kurz darauf zwei Tatverdächtige festnimmt."
-    },
-    {
-      "title": "Tarifverhandlungen starten - während es bei Audi in Neckarsulm ums Sparen geht",
-      "text": "Die Tarifverhandlungen starten, bei Audi in Neckarsulm steht die Betriebsversammlung mitsamt VW-Chef an. Außerdem kam zum ersten Mal ein Bündnis für den Erhalt des Werks zusammen."
     }
   ]
 }
