@@ -1,89 +1,89 @@
 {
-  "generatedAt": "2026-10-14T09:38:48.382Z",
+  "generatedAt": "2026-10-15T09:17:20.399Z",
   "world": [
+    {
+      "title": "11KM-Podcast: EU-Comeback für Großbritannien?",
+      "text": "Andy Burnham überrascht mit kritischen Äußerungen zum Brexit. Kommt Großbritannien zurück in die EU? 11KM über den \"Soft Socialist\" Burnham und wie der neue Premier die britische Politik prägt."
+    },
+    {
+      "title": "EU-Spitzen verhandeln über Haushalt - Deutschland will kürzen",
+      "text": "Auf dem heutigen EU-Gipfel geht es um bis zu zwei Billionen Euro. Deutschland ist größter Nettozahler - nun will Kanzler Merz beim Haushalt bis 2034 kürzen. Bei anderen Verhandlern stößt das auf Unverständnis. Von J.-M. Magro."
+    },
+    {
+      "title": "Haushaltsdebatte in Frankreich: Die politische Quadratur des Kreises",
+      "text": "In Frankreich haben die Beratungen über den Haushalt begonnen. Angesichts hoher Schulden will Finanzminister Lescure deutlich sparen. Aber die Regierung hat keine eigene Mehrheit - und stößt auf Widerstand. Von C. Dylla."
+    },
+    {
+      "title": "Studentenproteste in albanischer Hauptstadt Tirana eskalieren",
+      "text": "In der albanischen Hauptstadt Tirana hat es erneut gewaltsame Proteste gegeben. Medienberichten zufolge warfen Demonstranten Brandsätze auf das Bildungsministerium und verursachten ein Feuer."
+    },
+    {
+      "title": "Verurteilter Signa-Gründer Benko darf in den Hausarrest wechseln",
+      "text": "Der wegen Betrugs verurteilte österreichische Investor René Benko darf das Gefängnis vorerst verlassen. Er soll sich mit einer Fußfessel im Hausarrest auf seinen neuen Prozess vorbereiten können."
+    },
     {
       "title": "Finnland: KI-Boom auf Kosten der Natur?",
       "text": "Google will Milliarden in Finnlands digitale Infrastruktur investieren. Für ein geplantes Rechenzentrum wurden mehr als 300 Hektar Wald gerodet - offenbar ohne die vorgeschriebenen Genehmigungen. Von A. Bartram."
-    },
-    {
-      "title": "Cyberattacken auf Hunderte französische Supermärkte",
-      "text": "Bei einem Cyberangriff sind die Tiefkühlsysteme Hunderter französischer Supermärkte lahmgelegt worden. Frankreichs Finanzminister spricht von einem \"Weckruf an alle\". Auch das deutsche Bundesamt für Sicherheit ist alarmiert."
-    },
-    {
-      "title": "US-Botschafterin in Athen tritt auf Druck der US-Regierung zurück",
-      "text": "Die US-Botschafterin in Athen, Guilfoyle, ist zurückgetreten. Zuvor hatte die US-Regierung sie wegen angeblichen Fehlverhaltens dazu aufgefordert. Es geht unter anderem um Kreditkartenschulden von 100.000 US-Dollar."
-    },
-    {
-      "title": "Ungarn streicht Anti-LGBTQ-Regeln aus Orbans Kinderschutzgesetz",
-      "text": "Bücher in schwarzer Folie, bestimmte Filme und Pride-Paraden verboten: Jahrelang schränkte Ungarn die Rechte sexueller Minderheiten ein. Nun vollzieht die neue Regierung eine Kehrtwende."
-    },
-    {
-      "title": "Landesweite Demonstrationen: Frankreichs Schüler lassen nicht locker",
-      "text": "Ihre Forderungen sind bekannt: bessere Lernbedingungen. Wieder sind in Frankreich deswegen Schulen blockiert, wieder waren mehr als 160.000 Schüler zum Protest auf der Straße. Die Zugeständnisse der Politik sind ihnen bislang zu gering."
-    },
-    {
-      "title": "Königspaar zu Besuch - Spanien will Unterstützung für Ceuta zeigen",
-      "text": "Spanien will nach dem Migrantenansturm Unterstützung für die Exklave Ceuta zeigen. Zum ersten Mal seit fast 20 Jahren kommt der König zu Besuch. Das royale Programm streift das Thema Migration aber nur."
     }
   ],
   "economy": [
     {
-      "title": "US-Staatsanleihen: Hohe Renditen und Chancen auf Kursgewinne",
-      "text": "Die Renditen von US-Staatsanleihen sind so hoch wie seit 24 Jahren nicht mehr. 1981 folgte auf ein solches Hoch eine jahrzehntelange Kursrally am Anleihemarkt. Wiederholt sich die Geschichte? Von Angela Göpfert."
+      "title": "Alkoholverbot an Bahnhöfen: Mehr Sicherheit, weniger Konflikte?",
+      "text": "Ab heute gilt das bundesweite Alkoholverbot an den Bahnhöfen der Deutschen Bahn. Der Konzern hofft, dass es damit zu weniger Konflikten kommt. In fast 40 Bahnhöfen wurde der Schritt bereits getestet. Von Jens Eberl."
     },
     {
-      "title": "EU bremst Hybrid-Importe: Können deutsche Autobauer profitieren?",
-      "text": "Chinesische Autohersteller gewinnen in Europa massiv an Gewicht. Die EU will die Konkurrenz eindämmen. Ein Import-Deckel für Hybridfahrzeuge soll heimische Hersteller stützen. Kann das funktionieren? Von Sebastian Schreiber."
+      "title": "Appell an Industriestaaten: IWF warnt vor steigenden Staatsschulden",
+      "text": "Der Internationale Währungsfonds fordert Industrieländer auf, ihre Haushaltsdefizite zu verringern und Schulden abzubauen. Steigende Zinsen und hohe Ausgaben schränkten den finanziellen Spielraum der Staaten zunehmend ein."
     },
     {
-      "title": "Bundesregierung einigt sich bei Zuckersteuer offenbar auf Zwei-Stufen-Modell",
-      "text": "Die Bundesregierung hat sich nach Angaben aus dem Finanzministerium beim Thema Zuckersteuer geeinigt. Einzelheiten sollen demnächst vorgestellt werden. Laut Medienberichten soll ab 1. Juli 2027 ein Zwei-Stufen-Modell gelten."
+      "title": "Portugal erlaubt Einstieg der Lufthansa bei staatlicher Airline TAP",
+      "text": "Die portugiesische Regierung treibt die Teilprivatisierung der Fluggesellschaft TAP voran. Im Kampf um 44,9 Prozent der Anteile setzte sich die Lufthansa gegen Air France-KLM durch. Der Einstieg dauert aber noch."
     }
   ],
   "automotive": [
     {
-      "title": "Trafigura sichert sich Zugriff auf Lithium von EnergyX",
-      "text": "Der Rohstoffhändler Trafigura hat mit EnergyX einen verbindlichen 10-Jahres-Abnahmevertrag über 100.000 Tonnen an Lithiumprodukten in Batteriequalität aus dessen Projekten in den USA und Chile unterzeichnet. Ein großer Teil des Lithiums soll an US-Batteriewerke geliefert werden."
+      "title": "Wie SuperPanther mit dem eTopas 600 in Europa skalieren will",
+      "text": "SuperPanther will seinen eTopas 600 in Europa zügig hochskalieren. Auf der IAA Transportation sprach Europavertriebschef Frank Schulz mit electrive über die ersten Kundeneinsätze, Verbrauchswerte, Dual-CCS als Brücke zu MCS und den geplanten Hochlauf auf mehrere hundert Fahrzeuge. …"
     },
     {
-      "title": "BMW investiert über 100 Mio. Euro in die E-Motoren-Produktion in Steyr",
-      "text": "In dem Werk in Österreich will BMW bis 2029 eine hochmoderne Fertigung für Leistungselektronik und Inverter-Komponenten aufbauen. Das soll die technologische Kompetenz des Standorts Steyr stärken, die Wertschöpfung im Unternehmen erhöhen und weiteres Schlüssel-Know-how für die Elektromobilität in Österreich verankern."
+      "title": "Changan und CATL wollen Batteriekapazität auf 75 GWh ausbauen",
+      "text": "Changan und CATL wollen ihre Zusammenarbeit deutlich vertiefen. Neben einem Ausbau der gemeinsamen Batteriezellkapazität auf 75 GWh planen die Partner auch eine engere Kooperation bei Feststoff- und Natrium-Ionen-Batterien."
     },
     {
-      "title": "Michelin startet EV Charge für europäische Flotten",
-      "text": "Michelin Connected Fleet führt mit Michelin EV Charge eine neue Ladelösung für Unternehmensflotten ein. Gemeinsam mit Deftpower bündelt das Unternehmen Zugang zu mehr als 1,2 Millionen Ladepunkten, Abrechnung und Telematikdaten in einer Plattform."
+      "title": "Staatliche Unterstützung für chinesische E-Autobauer gekürzt",
+      "text": "China reduziert die Rückerstattung der Exportsteuer für Fahrzeuge mit alternativen Antrieben. Chinesische Autohersteller geraten damit unter Druck, da die Exporte ein Haupttreiber ihres Wachstums darstellen. Gleichzeitig zeigen sich die Inlandsverkäufe rückläufig."
     }
   ],
   "tech": [
     {
-      "title": "Abhöreinrichtung: FBI fasst mutmaßlichen Spion bei OpenAI",
-      "text": "Versteckt in etwas Toilettenpapier, steckte eine Abhöreinrichtung in einem USB-Port eines Fernsehers im Konferenzraum von OpenAI: Das FBI hat einen Mitarbeiter festgenommen."
+      "title": "Airtag Silencer: Hersteller will Missbrauchspotenzial zu spät erkannt haben",
+      "text": "Ein Werkzeug zum Stummschalten von Apples Airtags wurde aus Eigenbedarf entwickelt und der Verkauf nach starker Kritik wieder eingestellt."
     },
     {
-      "title": "Chatbotanbieter insolvent: Character.AI scheitert an Klagen, Aufsicht und hohen Kosten",
-      "text": "Trotz einer Vereinbarung über 20 Millionen US&#8209;Dollar mit Disney könnte Character.AI Ende des Jahres komplett schließen."
+      "title": "Energiewende: Gaskrise 2026 verläuft anders als 2022",
+      "text": "Innerhalb von vier Jahren ist zweimal die Gasversorgung in Europa eingebrochen. Das Resultat auf dem Strommarkt ist heute aber ein ganz anderes."
     },
     {
-      "title": "Bildagentur: Getty Images kündigt Insolvenzverfahren an",
-      "text": "Getty Images will in den USA Chapter 11 beantragen. Die Getty-Familie und Koch Equity Development übernehmen danach alle Anteile."
+      "title": "EUDI-Wallet nachgebessert: 13-Jährige sollen künftig Onlineausweis erhalten",
+      "text": "Die Koalition reagiert auf das geplante Social-Media-Verbot für unter 13-Jährige. Kinder ab 13 sollen sich selbst im Netz ausweisen können."
     }
   ],
   "local": [
+    {
+      "title": "Fünf Tage Protestcamp vor israelischer Rüstungsfirma Elbit in Ulm",
+      "text": "Pro-Palästina-Aktivistinnen und -Aktivisten zelten bis Sonntag vor der Deutschland-Zentrale des israelischen Rüstungskonzerns Elbit in Ulm. Die Polizei beobachtet das Protestcamp."
+    },
     {
       "title": "Unbekannter Mann greift Sechstklässlerin an der Ulmer Kuhberghalle an",
       "text": "Am Schulzentrum auf dem Ulmer Kuhberg hat ein Unbekannter eine Schülerin angegriffen. Eine Fahndung blieb bislang erfolglos. Der Fall ereignete sich bereits Ende September."
     },
     {
-      "title": "Kleinbus überschlägt sich an der B30 in Ulm: drei Schwerverletzte",
-      "text": "Bei einem Unfall mit ihrem Kleinbus am Samstag in Ulm sind drei Männer schwer verletzt worden. Das Fahrzeug hat sich mehrfach überschlagen."
+      "title": "In Esslingen ist der Teufel los: Streit und Morddrohungen wegen neuer Statue",
+      "text": "Eigentlich geht es um den Apfel und die Zwiebel. Aber in Esslingen reden alle nur vom Teufel: Eine neue Statue sorgt für heftige Diskussionen und Reaktionen, vor allem im Netz."
     },
     {
-      "title": "Tödlicher Unfall in der Nacht: Auto erfasst Mann im Allgäu",
-      "text": "Ein 55 Jahre alter Mann ist in der Nacht auf Mittwoch bei einem Unfall zwischen Diepoldshofen und Reichenhofen ums Leben gekommen. Was bisher bekannt ist."
-    },
-    {
-      "title": "Alltag nach dem Polizeieinsatz? Worüber Tuttlinger nach den tödlichen Schüssen nachdenken",
-      "text": "In Tuttlingen bleibt das Sicherheitsgefühl trotz des tödlichen Polizeieinsatzes stabil. Oberbürgermeister Beck überlegt derweil, die Sicherheit für Mitarbeitende weiter zu erhöhen."
+      "title": "Wenn der Platz fehlt: Dann wird die Wärmepumpe halt auf dem Dach platziert",
+      "text": "Winzige Grundstücke, zu wenig Abstand zum Nachbarn - im Stadtgebiet ist die Installation von Wärmepumpen nicht leicht. Doch es gibt immer mehr innovative Lösungen."
     }
   ]
 }
