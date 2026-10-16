@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-15T09:17:20.399Z",
+  "generatedAt": "2026-10-16T09:11:18.511Z",
   "world": [
+    {
+      "title": "Frankreich und Deutschland wollen Verbrenner-Aus aufweichen",
+      "text": "Deutschland setzt sich dafür ein, dass weiter Neuwagen mit Verbrennungstechnologie zugelassen werden können. Frankreichs Präsident Macron hat sich bisher gesperrt - nun zeichnet sich eine Einigung ab."
+    },
+    {
+      "title": "Ringen um neuen EU-Haushalt: Showdown in Zeitlupe",
+      "text": "Die EU solle nicht so viel Geld ausgeben, findet Bundeskanzler Merz. Einige Länder sehen das genauso. Andere können den Sparvorschlägen nichts abgewinnen. Trotz klarer Fronten bleibt der große Knall im Ringen um den Haushalt aus. Von S. Stuchlik."
+    },
+    {
+      "title": "Erneut Feuer auf Handelsschiff vor Rumäniens Küste",
+      "text": "Im Schwarzen Meer vor Rumäniens Küste ist auf einem Handelsschiff ein Feuer ausgebrochen. Es sei von Drohnen getroffen worden, teilte der rumänische Präsident Dan laut der Agentur Reuters mit. Mehrere Seeleute werden noch vermisst."
+    },
     {
       "title": "11KM-Podcast: EU-Comeback für Großbritannien?",
       "text": "Andy Burnham überrascht mit kritischen Äußerungen zum Brexit. Kommt Großbritannien zurück in die EU? 11KM über den \"Soft Socialist\" Burnham und wie der neue Premier die britische Politik prägt."
@@ -12,78 +24,66 @@
     {
       "title": "Haushaltsdebatte in Frankreich: Die politische Quadratur des Kreises",
       "text": "In Frankreich haben die Beratungen über den Haushalt begonnen. Angesichts hoher Schulden will Finanzminister Lescure deutlich sparen. Aber die Regierung hat keine eigene Mehrheit - und stößt auf Widerstand. Von C. Dylla."
-    },
-    {
-      "title": "Studentenproteste in albanischer Hauptstadt Tirana eskalieren",
-      "text": "In der albanischen Hauptstadt Tirana hat es erneut gewaltsame Proteste gegeben. Medienberichten zufolge warfen Demonstranten Brandsätze auf das Bildungsministerium und verursachten ein Feuer."
-    },
-    {
-      "title": "Verurteilter Signa-Gründer Benko darf in den Hausarrest wechseln",
-      "text": "Der wegen Betrugs verurteilte österreichische Investor René Benko darf das Gefängnis vorerst verlassen. Er soll sich mit einer Fußfessel im Hausarrest auf seinen neuen Prozess vorbereiten können."
-    },
-    {
-      "title": "Finnland: KI-Boom auf Kosten der Natur?",
-      "text": "Google will Milliarden in Finnlands digitale Infrastruktur investieren. Für ein geplantes Rechenzentrum wurden mehr als 300 Hektar Wald gerodet - offenbar ohne die vorgeschriebenen Genehmigungen. Von A. Bartram."
     }
   ],
   "economy": [
     {
-      "title": "Alkoholverbot an Bahnhöfen: Mehr Sicherheit, weniger Konflikte?",
-      "text": "Ab heute gilt das bundesweite Alkoholverbot an den Bahnhöfen der Deutschen Bahn. Der Konzern hofft, dass es damit zu weniger Konflikten kommt. In fast 40 Bahnhöfen wurde der Schritt bereits getestet. Von Jens Eberl."
+      "title": "Frankreich und Deutschland wollen Verbrenner-Aus aufweichen",
+      "text": "Deutschland setzt sich dafür ein, dass weiter Neuwagen mit Verbrennungstechnologie zugelassen werden können. Frankreichs Präsident Macron hat sich bisher gesperrt - nun zeichnet sich eine Einigung ab."
     },
     {
-      "title": "Appell an Industriestaaten: IWF warnt vor steigenden Staatsschulden",
-      "text": "Der Internationale Währungsfonds fordert Industrieländer auf, ihre Haushaltsdefizite zu verringern und Schulden abzubauen. Steigende Zinsen und hohe Ausgaben schränkten den finanziellen Spielraum der Staaten zunehmend ein."
+      "title": "Altersvorsorge: Wie das mit der \"Frühstartrente\" laufen soll",
+      "text": "Der Entwurf für eine große Rentenreform liegt noch nicht vor, aber der Bundestag hat heute eine Maßnahme zur Alterssicherung beschlossen: die sogenannte Frühstartrente. Was sie beinhaltet und wer sie bekommt."
     },
     {
-      "title": "Portugal erlaubt Einstieg der Lufthansa bei staatlicher Airline TAP",
-      "text": "Die portugiesische Regierung treibt die Teilprivatisierung der Fluggesellschaft TAP voran. Im Kampf um 44,9 Prozent der Anteile setzte sich die Lufthansa gegen Air France-KLM durch. Der Einstieg dauert aber noch."
+      "title": "Bundestag beschließt Anhebung der Tabaksteuer",
+      "text": "Millionen Menschen rauchen in Deutschland, das beschert dem Bund Milliardeneinnahmen über die Tabaksteuer. Künftig soll es noch mehr werden. Raucher müssen sich daher auf höhere Preise einstellen."
     }
   ],
   "automotive": [
     {
-      "title": "Wie SuperPanther mit dem eTopas 600 in Europa skalieren will",
-      "text": "SuperPanther will seinen eTopas 600 in Europa zügig hochskalieren. Auf der IAA Transportation sprach Europavertriebschef Frank Schulz mit electrive über die ersten Kundeneinsätze, Verbrauchswerte, Dual-CCS als Brücke zu MCS und den geplanten Hochlauf auf mehrere hundert Fahrzeuge. …"
+      "title": "Belgischer Logistiker H.Essers beschafft 20 E-Lkw deutscher Marken",
+      "text": "Das Logistikunternehmen H.Essers mit Sitz im belgischen Genk vergrößert seine Elektroflotte um 20 E-Lkw. Je zehn Stück haben MAN und Mercedes-Benz Trucks übergeben. Sie sollen nun vor allem von den belgischen Standorten des Unternehmens aus zum Einsatz kommen."
     },
     {
-      "title": "Changan und CATL wollen Batteriekapazität auf 75 GWh ausbauen",
-      "text": "Changan und CATL wollen ihre Zusammenarbeit deutlich vertiefen. Neben einem Ausbau der gemeinsamen Batteriezellkapazität auf 75 GWh planen die Partner auch eine engere Kooperation bei Feststoff- und Natrium-Ionen-Batterien."
+      "title": "Teslas Expansionspläne für Grünheide werden konkret",
+      "text": "Die geplante Erweiterung des deutschen Tesla-Werks in Grünheide nimmt präzisiere Formen an. Laut Medienberichten will der US-Elektroautobauer seine Produktion in den kommenden Jahren stark ausbauen – mit einer neuen, deutlich größeren Produktionshalle und zusätzlicher Infrastruktur."
     },
     {
-      "title": "Staatliche Unterstützung für chinesische E-Autobauer gekürzt",
-      "text": "China reduziert die Rückerstattung der Exportsteuer für Fahrzeuge mit alternativen Antrieben. Chinesische Autohersteller geraten damit unter Druck, da die Exporte ein Haupttreiber ihres Wachstums darstellen. Gleichzeitig zeigen sich die Inlandsverkäufe rückläufig."
+      "title": "VW bereitet Batterie-Rückruf für mehrere ID.-Modelle in Europa vor",
+      "text": "Volkswagen soll in Deutschland und weiteren europäischen Märkten einen Rückruf mehrerer Elektrobaureihen wegen möglicher Fehler an Hochvolt-Batteriezellen vorbereiten. Betroffene Fahrzeuge sollen vorsorglich nur noch bis 80 Prozent geladen werden."
     }
   ],
   "tech": [
     {
-      "title": "Airtag Silencer: Hersteller will Missbrauchspotenzial zu spät erkannt haben",
-      "text": "Ein Werkzeug zum Stummschalten von Apples Airtags wurde aus Eigenbedarf entwickelt und der Verkauf nach starker Kritik wieder eingestellt."
+      "title": "Total War: Das Remaster von Shogun 2 überlebt nur zwei Tage",
+      "text": "Vernichtende Bewertungen, Technikprobleme und mutmaßliche KI-Grafiken: Sega nimmt die Neuauflage von Shogun 2 nach zwei Tagen aus dem Verkauf."
     },
     {
-      "title": "Energiewende: Gaskrise 2026 verläuft anders als 2022",
-      "text": "Innerhalb von vier Jahren ist zweimal die Gasversorgung in Europa eingebrochen. Das Resultat auf dem Strommarkt ist heute aber ein ganz anderes."
+      "title": "Zweites Update in einer Woche: Google schließt erneut kritische Lücke in Chrome",
+      "text": "Das Update verhindert eine Remotecodeausführung außerhalb der Sandbox von Chrome. Die Lücke entdeckte ein Mitarbeiter von Anthropic."
     },
     {
-      "title": "EUDI-Wallet nachgebessert: 13-Jährige sollen künftig Onlineausweis erhalten",
-      "text": "Die Koalition reagiert auf das geplante Social-Media-Verbot für unter 13-Jährige. Kinder ab 13 sollen sich selbst im Netz ausweisen können."
+      "title": "Mieterstrom: Wie kommt eine PV-Anlage aufs Dach einer WEG?",
+      "text": "Welche Hürden müssen Eigentümer für eine gemeinsame Solaranlage überwinden? Eine Berliner WEG zeigt anhand ihres Projekts, wie es funktioniert. Ein Erfahrungsbericht von Friedhelm Greis"
     }
   ],
   "local": [
+    {
+      "title": "Erneuter Angriff auf Schüler in der Ulmer Kuhberghalle - Polizei erhöht Präsenz",
+      "text": "In der Ulmer Kuhberghalle soll erneut ein Schüler von einem Unbekannten angegriffen worden sein. Der Vorfall ereignete sich nach Polizeiangaben am Mittwochnachmittag."
+    },
     {
       "title": "Fünf Tage Protestcamp vor israelischer Rüstungsfirma Elbit in Ulm",
       "text": "Pro-Palästina-Aktivistinnen und -Aktivisten zelten bis Sonntag vor der Deutschland-Zentrale des israelischen Rüstungskonzerns Elbit in Ulm. Die Polizei beobachtet das Protestcamp."
     },
     {
-      "title": "Unbekannter Mann greift Sechstklässlerin an der Ulmer Kuhberghalle an",
-      "text": "Am Schulzentrum auf dem Ulmer Kuhberg hat ein Unbekannter eine Schülerin angegriffen. Eine Fahndung blieb bislang erfolglos. Der Fall ereignete sich bereits Ende September."
+      "title": "Das war der BW-Newsticker am Freitag: Hunderte Handys in Gefängnisse geschmuggelt, A6 nach Unfall wieder frei, BW-Landesregierung will bis zu 600 Stellen streichen",
+      "text": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
     },
     {
-      "title": "In Esslingen ist der Teufel los: Streit und Morddrohungen wegen neuer Statue",
-      "text": "Eigentlich geht es um den Apfel und die Zwiebel. Aber in Esslingen reden alle nur vom Teufel: Eine neue Statue sorgt für heftige Diskussionen und Reaktionen, vor allem im Netz."
-    },
-    {
-      "title": "Wenn der Platz fehlt: Dann wird die Wärmepumpe halt auf dem Dach platziert",
-      "text": "Winzige Grundstücke, zu wenig Abstand zum Nachbarn - im Stadtgebiet ist die Installation von Wärmepumpen nicht leicht. Doch es gibt immer mehr innovative Lösungen."
+      "title": "Trinkwasser für drei Millionen Menschen: Wasserwerk Langenau wappnet sich gegen Stromausfall",
+      "text": "Das Wasserwerk in Langenau, das drei Millionen Menschen mit Trinkwasser versorgt, sieht zunehmende Bedrohungen. Gegen Angriffe und mögliche Stromausfälle will man sich wappnen."
     }
   ]
 }
