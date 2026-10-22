@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-21T09:29:15.885Z",
+  "generatedAt": "2026-10-22T09:32:25.459Z",
   "world": [
+    {
+      "title": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
+      "text": "Auch US-Präsident Trump hatte sich zu den Unruhen in Frankreich zu Wort gemeldet - der französische Präsident Macron hat nun offenbar genug davon. Bei einem Besuch in Katar machte er seinem Ärger Luft. Von Cai Rienäcker."
+    },
+    {
+      "title": "Polens Parlament für Lockerung des Abtreibungsrechts",
+      "text": "Die Verschärfung des Abtreibungsrechts unter der alten PiS-Regierung hatte monatelange Massenproteste in Polen ausgelöst. Nun hat das Parlament eine Lockerung eingeleitet - aber es droht ein Veto."
+    },
+    {
+      "title": "Proteste in Italien: Blockierte Autobahnen, leere Supermarktregale",
+      "text": "Die Regale in vielen Supermärkten in Süditalien sind leer - auch der Pasta-Nachschub stockt. Grund sind Proteste von Lkw-Fahrern und Landwirten aufgrund hoher Dieselpreise. Die Regierung sagte Hilfe zu - aber reicht das? Von Lisa Weiß."
+    },
     {
       "title": "Wer an den Ausschreitungen in Frankreich beteiligt war",
       "text": "Die Gewalteskalation beim landesweiten Protesttag hat Frankreich schwer erschüttert. Wer waren die Randalierer und Plünderer? Für den Premierminister ist die Antwort klar, doch die Wirklichkeit ist komplexer. Von Carolin Dylla."
@@ -12,60 +24,48 @@
     {
       "title": "EU-Parlament: Mitte-Fraktionen schließen Verbrenner-Kompromiss",
       "text": "Ziel in Europa soll der Umstieg auf E-Autos bleiben - trotzdem haben sich die Unterhändler verschiedener Parteien im EU-Parlament nun auf ein Aufweichen des \"Verbrenner-Aus'\" geeinigt. Doch die finale Abstimmung steht noch an. Von J.-M. Magro."
-    },
-    {
-      "title": "EU-Rechnungshof-Bericht: Kaum Fortschritte bei Digitalisierung",
-      "text": "Seit 2021 hat die EU fast 50 Milliarden Euro an ihre Mitgliedstaaten ausgezahlt. Geld, das darauf abzielen sollte, Behörden und Verwaltung digitaler und effizienter zu machen. Der EU-Rechnungshof zieht eine gemischte Bilanz. Von A. Mamengui"
-    },
-    {
-      "title": "EU legt neue Arktis-Strategie vor und verstärkt militärische Präsenz",
-      "text": "Die neue Arktis-Strategie der Europäischen Kommission macht deutlich: Die EU will ihre Präsenz dort verstärken, wo die \"tektonischen Platten der Geopolitik aufeinanderprallen\", wie Kommissionschefin von der Leyen sagt. Von Thomas Spickhofen."
-    },
-    {
-      "title": "Flugausfälle: EU regelt Erstattung bei Buchung über Drittanbieter",
-      "text": "In Zukunft müssen auch Drittanbieter die Kosten für die Buchung eines Fluges erstatten, wenn dieser ausfällt. Das hat das EU-Parlament beschlossen. Außerdem soll es ein einheitliches Erstattungsformular für so gut wie alle Transportmittel geben."
     }
   ],
   "economy": [
     {
-      "title": "Streaming-Gigant unter Druck: Netflix wächst langsamer",
-      "text": "Netflix war jahrelang der unumstrittene Marktführer beim Streaming. Doch der Konzern kämpft gegen immer stärkere Konkurrenz. Neue Produktionen sollen helfen, die Zuschauer wieder mehr zu fesseln - und mehr Werbung zu verkaufen."
+      "title": "Knesset-Wahl: Was die Kriegskosten für Israels Wähler bedeuten",
+      "text": "Sicherheit steht in Israels Wahlkampf im Vordergrund. Doch drei Jahre Krieg haben die Wirtschaft schwer getroffen: Für viele Menschen geht es vor der Wahl am 27. Oktober auch um die Frage, wie es wirtschaftlich weitergehen soll. Von B. Meier."
     },
     {
-      "title": "Tesla und SpaceX prüfen Zusammenschluss - noch mehr Macht für Musk?",
-      "text": "Die beiden US-Konzerne Tesla und SpaceX, die von Tech-Milliardär Elon Musk geführt werden, prüfen einen Zusammenschluss. Sollte dieser zustande kommen, wäre es die bislang größte Fusion zweier Firmen. Doch es gibt große Hürden."
+      "title": "Kanada gehen die Ahornsirup-Reserven aus",
+      "text": "Kanada hat eine strategische Ahornsirup-Reserve - und die geht zur Neige. Bis Ende Februar kommenden Jahres dürfte sie komplett leer sein. Im vergangenen Jahr hatte es Hamsterkäufe von Importeuren gegeben, vor allem aus den USA."
     },
     {
-      "title": "Klimaziele der Regierung: Die CDU, das Klima und der Luftverkehr",
-      "text": "Die CDU will den innerdeutschen Flugverkehr stärken. Dabei gilt: Kurzstreckenflüge sind pro Kilometer besonders klimaschädlich - Start und Landung verursachen den Großteil der Emissionen. Wie passt das zu den deutschen Klimazielen? Von K. Aue."
+      "title": "Ausschüsse im EU-Parlament stimmen ab zum Verbrenner-Kompromiss",
+      "text": "Nach der Einigung der Unterhändler zur Abkehr vom \"Verbrenner-Aus\" befassen sich heute Ausschüsse im EU-Parlament damit. Die Abstimmungen werden zeigen, ob der Kompromiss hält. Von Christian Feld und Jean-Marie Magro."
     }
   ],
   "automotive": [
     {
-      "title": "VWs Batterie-Rückruf betrifft 72.700 E-Autos – darunter 10.000 in Deutschland",
-      "text": "Schon vor einigen Tagen ist durchgesickert, dass VW einen Batterie-Rückruf für mehrere ID.-Modelle vorbereitet. Jetzt ist es soweit: Wegen fehlerhafter E-Auto-Akkus rufen die Wolfsburger weltweit fast 72.700 E-Autos in die Werkstätten. In Deutschland sollen 10.000 Fahrzeuge betroffen sein."
+      "title": "Nvidia umarmt europäische Autohersteller",
+      "text": "Nvidia baut sein Geschäft mit Technologien für automatisiertes Fahren in Europa aus. So setzt der Ridesharing-Dienst Bolt bei geplanten Robotaxis auf den Alpamayo-Stack des KI-Konzerns und VWN zeigt den ID. Buzz AD mit Nvidia Hyperion. Zugleich treiben Volkswagen, Porsche und weitere Partner eine gemeinsame Daten- und Simulationsplattform voran."
     },
     {
-      "title": "VW-Neustart in China mit Xpeng-Unterstützung läuft offenbar schwach",
-      "text": "Volkswagens Neustart in China mit Technologie seines lokalen Partners Xpeng läuft laut einem Agenturbericht sehr holprig. Vom ersten gemeinsam entwickelten Modell VW ID.UNYX 08 konnte Volkswagen demnach nicht mal 10 Prozent soviel verkaufen wie angepeilt. …"
+      "title": "Bochum: Graf Transporte eröffnet Lkw-Ladepark mit MCS-Ladern",
+      "text": "In Bochum ist der erste Megawatt-Ladepark für Lkw im Ruhrgebiet in Betrieb gegangen. Auf dem Gelände der Bochumer Spedition Graf Transporte können Elektro-Lkw an sechs öffentlich zugänglichen Ladepunkten laden, zwei davon mit Megawatt-Leistung. Technik-Partner ist das Kölner Startup Nanuq."
     },
     {
-      "title": "CATL stellt neue Batterielösung für schwere E-Lkw vor",
-      "text": "CATL präsentiert ein neues Swap-Batteriesystem, das mit einem fest verbauten Extra-Akku gekoppelt ist. Die Hauptbatterie bietet 432 oder 513 kWh und kann an Wechselstationen ausgetauscht werden. Hinzu kommt der fest verbaute \"Range-Extender\"-Akku mit 77 kWh, der als Reserve dient."
+      "title": "Tesla Q3-Bilanz: Volle Auftragsbücher, aber rückläufige Zahlen",
+      "text": "Teslas Umsatz stagniert und das dritte Quartal bescherte dem US-Elektroautobauer einen stattlichen Gewinnrückgang. Dabei läuft es im Autogeschäft der US-Amerikaner nicht schlecht. Die Auftragsbücher sind voll. Die Gründe liegen woanders."
     }
   ],
   "tech": [
     {
-      "title": "Quartalszahlen: Netflix wächst langsamer und senkt die Werbeprognose",
-      "text": "Netflix steigert den Umsatz im dritten Quartal um zwölf Prozent. Der Gewinn wächst, doch die Werbeprognose sinkt."
+      "title": "PHP2Shell: Zwei PHP-Lücken, Jahre an Vorarbeit und eine hektische Offenlegung",
+      "text": "Zwei kritische PHP-Lücken bringen Admins seit Mittwoch gehörig ins Schwitzen. Die PHP Foundation schwitzt deswegen schon seit zwei Jahren. Eine Analyse von Marc Stöckel"
     },
     {
-      "title": "SSH-Traffic umgeleitet: Zehn Prozent aller Tor-Exit-Nodes für MitM-Attacken gekapert",
-      "text": "Mehr als 300 Tor-Exit-Nodes fingen plötzlich an, E-Mail- und SSH-Traffic umzuleiten. Ein Angreifer hatte die Server Wochen zuvor kompromittiert."
+      "title": "Elektromobilität: Tesla verdient 43 Prozent weniger, Forschungskosten steigen",
+      "text": "Tesla hat im dritten Quartal 787 Millionen US-Dollar verdient. Der Umsatz stagniert und die Forschungskosten steigen um 69 Prozent."
     },
     {
-      "title": "ID und Cupra: VW ruft weltweit 70.000 Elektroautos zurück",
-      "text": "Es hat sich angedeutet, nun hat das Kraftfahrt-Bundesamt Rückrufe für mehrere Elektroautos von VW veröffentlicht. Vorerst gilt ein Ladelimit."
+      "title": "Apple: Das sagen erste Tester über das iPhone Duo",
+      "text": "Apples iPhone Duo ist bei den ersten Testern angekommen. Positiv wird vor allem das Display hervorgehoben, es gibt aber auch Kritik."
     }
   ],
   "local": [
@@ -82,8 +82,8 @@
       "text": "Eine Gruppe junger Männer lockt ihre Opfer in den Wald, schlagen mit Schlagringen und Schlagstöcken zu und demütigen sie vor der Kamera. Vor dem Landgericht Ellwangen wurden sie verurteilt."
     },
     {
-      "title": "Auto kracht in Ulm gegen Betonwand",
-      "text": "Ein betrunkener Autofahrer hat am späten Freitagabend auf der Neutorbrücke in Ulm eine Betonwand umgefahren. Einer der Mitfahrer kam laut Polizei verletzt ins Krankenhaus."
+      "title": "Protest für Perspektive: Warum jetzt junge Menschen auf die Straße gehen",
+      "text": "Die Bewegung \"Gen Z regelt\" mobilisiert im Netz junge Leute, um am 31.10. auf die Straße zu gehen. Auch in Stuttgart soll es Proteste für ein bezahlbares Leben geben."
     }
   ]
 }
