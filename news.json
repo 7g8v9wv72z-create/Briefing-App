@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-22T09:32:25.459Z",
+  "generatedAt": "2026-10-23T09:28:35.137Z",
   "world": [
+    {
+      "title": "In 28 Städten: Demonstrationen für liberaleres Abtreibungsrecht in Polen",
+      "text": "In 28 polnischen Städten wurde für die Liberalisierung des Abtreibungsgesetzes demonstriert. Frauenorganisationen werfen der liberalkonservativen Regierung Tusk Untätigkeit vor. Von Palina Milling."
+    },
+    {
+      "title": "Studentenbewegung: Zehntausende protestieren vor Neuwahl in Serbien",
+      "text": "An Sonntag wählen die Serben eine neues Parlament. Die oppositionelle \"Studentenliste\" tritt gegen die Partei Vucics an - Zehntausende Menschen kamen zu ihrer Abschlusskundgebung in Belgrad."
+    },
+    {
+      "title": "Bevölkerungsschutz: Wie Schweden für den Ernstfall vorsorgt",
+      "text": "Kriege, Extremwetter, Terror: Schweden bereitet seine Bevölkerung auf den möglichen Ernstfall vor - etwa mit einer Broschüre und Übungen. Denn klar ist auch: Im Fall der Fälle müssen die Menschen erstmal alleine klarkommen. Von Jana Sinram."
+    },
     {
       "title": "Macron kritisiert Trump nach Äußerungen zu Unruhen in Frankreich",
       "text": "Auch US-Präsident Trump hatte sich zu den Unruhen in Frankreich zu Wort gemeldet - der französische Präsident Macron hat nun offenbar genug davon. Bei einem Besuch in Katar machte er seinem Ärger Luft. Von Cai Rienäcker."
@@ -12,63 +24,55 @@
     {
       "title": "Proteste in Italien: Blockierte Autobahnen, leere Supermarktregale",
       "text": "Die Regale in vielen Supermärkten in Süditalien sind leer - auch der Pasta-Nachschub stockt. Grund sind Proteste von Lkw-Fahrern und Landwirten aufgrund hoher Dieselpreise. Die Regierung sagte Hilfe zu - aber reicht das? Von Lisa Weiß."
-    },
-    {
-      "title": "Wer an den Ausschreitungen in Frankreich beteiligt war",
-      "text": "Die Gewalteskalation beim landesweiten Protesttag hat Frankreich schwer erschüttert. Wer waren die Randalierer und Plünderer? Für den Premierminister ist die Antwort klar, doch die Wirklichkeit ist komplexer. Von Carolin Dylla."
-    },
-    {
-      "title": "So reagieren Frankreich und Italien auf die Ausschreitungen",
-      "text": "Ausgangssperren, Antiterror-Soldaten, neue Dekrete: Frankreich und Italien haben auf die Ausschreitungen am Wochenende reagiert. So sollen in Zukunft Unruhen verhindert werden."
-    },
-    {
-      "title": "EU-Parlament: Mitte-Fraktionen schließen Verbrenner-Kompromiss",
-      "text": "Ziel in Europa soll der Umstieg auf E-Autos bleiben - trotzdem haben sich die Unterhändler verschiedener Parteien im EU-Parlament nun auf ein Aufweichen des \"Verbrenner-Aus'\" geeinigt. Doch die finale Abstimmung steht noch an. Von J.-M. Magro."
     }
   ],
   "economy": [
     {
-      "title": "Knesset-Wahl: Was die Kriegskosten für Israels Wähler bedeuten",
-      "text": "Sicherheit steht in Israels Wahlkampf im Vordergrund. Doch drei Jahre Krieg haben die Wirtschaft schwer getroffen: Für viele Menschen geht es vor der Wahl am 27. Oktober auch um die Frage, wie es wirtschaftlich weitergehen soll. Von B. Meier."
+      "title": "Frankreichs Schuldenkrise: Droht eine neue Eurokrise?",
+      "text": "Frankreichs Anleiherenditen sind auf den höchsten Stand seit 2002 gestiegen. Wie groß ist die Ansteckungsgefahr für andere hochverschuldete Euroländer - und was kann die EZB dagegen tun? Von Angela Göpfert."
     },
     {
-      "title": "Kanada gehen die Ahornsirup-Reserven aus",
-      "text": "Kanada hat eine strategische Ahornsirup-Reserve - und die geht zur Neige. Bis Ende Februar kommenden Jahres dürfte sie komplett leer sein. Im vergangenen Jahr hatte es Hamsterkäufe von Importeuren gegeben, vor allem aus den USA."
+      "title": "Ringen um Sparkurs bei Autobauer Volkswagen geht weiter",
+      "text": "Stellenabbau, Sparrunden und drohende Werkschließungen: Die Stimmung bei Volkswagen ist aufgeheizt, die Gewerkschaft IG Metall droht mit Streiks ab Januar. Heute spricht die Konzernspitze mit der IG Metall. Worum es bei dem Krisentreffen geht."
     },
     {
-      "title": "Ausschüsse im EU-Parlament stimmen ab zum Verbrenner-Kompromiss",
-      "text": "Nach der Einigung der Unterhändler zur Abkehr vom \"Verbrenner-Aus\" befassen sich heute Ausschüsse im EU-Parlament damit. Die Abstimmungen werden zeigen, ob der Kompromiss hält. Von Christian Feld und Jean-Marie Magro."
+      "title": "Weihnachtsbäume könnten teurer werden",
+      "text": "Weihnachten ohne festlich geschmückten Baum ist für viele undenkbar. Und in wenigen Wochen beginnt bereits die Ernte. Eines zeichnet sich aber bereits ab: Wer einen natürlichen Weihnachtsbaum will, muss tiefer in die Tasche greifen."
     }
   ],
   "automotive": [
     {
-      "title": "Nvidia umarmt europäische Autohersteller",
-      "text": "Nvidia baut sein Geschäft mit Technologien für automatisiertes Fahren in Europa aus. So setzt der Ridesharing-Dienst Bolt bei geplanten Robotaxis auf den Alpamayo-Stack des KI-Konzerns und VWN zeigt den ID. Buzz AD mit Nvidia Hyperion. Zugleich treiben Volkswagen, Porsche und weitere Partner eine gemeinsame Daten- und Simulationsplattform voran."
+      "title": "Auch Chery launcht Megawatt-Ladesystem für Pkw",
+      "text": "Chery steigt in den chinesischen Bieterwettkampf um die höchsten Ladeleistungen ein. Nachdem BYD, Geely und Huawei ihre Megawatt-Ladelösungen teils schon aufbauen, präsentiert nun auch der staatliche Fahrzeughersteller Chery ein Ladegerät mit 1,44 MW Spitzenleistung."
     },
     {
-      "title": "Bochum: Graf Transporte eröffnet Lkw-Ladepark mit MCS-Ladern",
-      "text": "In Bochum ist der erste Megawatt-Ladepark für Lkw im Ruhrgebiet in Betrieb gegangen. Auf dem Gelände der Bochumer Spedition Graf Transporte können Elektro-Lkw an sechs öffentlich zugänglichen Ladepunkten laden, zwei davon mit Megawatt-Leistung. Technik-Partner ist das Kölner Startup Nanuq."
+      "title": "Hohe Nachfrage bei Mercedes: Sechs Monate Lieferzeit für CLA und GLC",
+      "text": "Mercedes-Benz ist von der hohen Nachfrage seiner vollelektrischen Modelle CLA und GLC positiv überrascht. Für beide Fahrzeuge liegt die Lieferzeit aktuell bei sechs Monaten. Das Batteriewerk in Kamenz arbeitet schon seit Juni sechs Tage pro Woche im Dreischichtsystem, um die Versorgung mit Traktionsbatterien zu sichern."
     },
     {
-      "title": "Tesla Q3-Bilanz: Volle Auftragsbücher, aber rückläufige Zahlen",
-      "text": "Teslas Umsatz stagniert und das dritte Quartal bescherte dem US-Elektroautobauer einen stattlichen Gewinnrückgang. Dabei läuft es im Autogeschäft der US-Amerikaner nicht schlecht. Die Auftragsbücher sind voll. Die Gründe liegen woanders."
+      "title": "Auto-Paket: EU-Ausschüsse votieren für Lockerung der CO2-Regeln",
+      "text": "Im Europaparlament haben erste Ausschüsse über das Auto-Paket abgestimmt. Die Voten gelten als Wegweiser, ob und wie sehr das sogenannte Verbrenner-Aus in der EU aufgeweicht wird. …"
     }
   ],
   "tech": [
     {
-      "title": "PHP2Shell: Zwei PHP-Lücken, Jahre an Vorarbeit und eine hektische Offenlegung",
-      "text": "Zwei kritische PHP-Lücken bringen Admins seit Mittwoch gehörig ins Schwitzen. Die PHP Foundation schwitzt deswegen schon seit zwei Jahren. Eine Analyse von Marc Stöckel"
+      "title": "Angriff auf US-Mobilfunk: Musk, auch mit 80.000 Funkmasten klappt es nicht!",
+      "text": "Durch den Zugriff auf die Hälfte aller US-Mobilfunk-Standorte und den Aufkauf verschiedener Frequenzpakete stellt sich SpaceX weiter für den Betrieb eines eigenen Mobilfunknetzes auf. Doch das reicht alles noch nicht aus. Eine Analyse von Achim Sawall"
     },
     {
-      "title": "Elektromobilität: Tesla verdient 43 Prozent weniger, Forschungskosten steigen",
-      "text": "Tesla hat im dritten Quartal 787 Millionen US-Dollar verdient. Der Umsatz stagniert und die Forschungskosten steigen um 69 Prozent."
+      "title": "Nintendo: Switch 2 mit KI und mechanischem Knopf geknackt",
+      "text": "Ein Entwickler hat mit Codex einen Jailbreak für die Switch 2 geschaffen. Für einige Versuche nutzte er einen Lichtschalter-Betätiger. ( Nintendo Switch 2 , Homebrew )"
     },
     {
-      "title": "Apple: Das sagen erste Tester über das iPhone Duo",
-      "text": "Apples iPhone Duo ist bei den ersten Testern angekommen. Positiv wird vor allem das Display hervorgehoben, es gibt aber auch Kritik."
+      "title": "Half-Life 3: Valve-Mitarbeiter bestätigt Existenz von HLX",
+      "text": "Seit Jahren gibt es Gerüchte über Half-Life 3. Jetzt erwähnt ein Valve-Entwickler erstmals öffentlich das mysteriöse Projekt HLX. ( Half-Life 3 , Half-Life )"
     }
   ],
   "local": [
+    {
+      "title": "Mit 94 Jahren stellt Erwin Müller die Weichen neu: Drogeriemarktkette erhält zweiten Geschäftsführer",
+      "text": "Der Ulmer Drogerie-Unternehmer Erwin Müller hat erstmals einen zweiten Geschäftsführer an seine Seite: Sascha Zahner rückt in die Führungsspitze der Müller-Drogeriemärkte auf."
+    },
     {
       "title": "Rekordjahr? Brauereien im Allgäu und in Oberschwaben steigern den Bierabsatz",
       "text": "Die Menschen in der Region Bodensee-Allgäu-Oberschwaben haben in diesem Jahr bisher mehr Bier gekauft als im Vorjahr. Vor allem alkoholfreie Sorten werden immer beliebter."
@@ -78,12 +82,8 @@
       "text": "Der VfB Stuttgart überzeugt gegen Atletico Madrid, belohnt sich aber nicht. Dennoch können die Schwaben einiges aus der Partie mitnehmen."
     },
     {
-      "title": "Misshandelt, gefilmt, ausgeraubt: Gericht verurteilt junge Männer aus Heidenheim",
-      "text": "Eine Gruppe junger Männer lockt ihre Opfer in den Wald, schlagen mit Schlagringen und Schlagstöcken zu und demütigen sie vor der Kamera. Vor dem Landgericht Ellwangen wurden sie verurteilt."
-    },
-    {
-      "title": "Protest für Perspektive: Warum jetzt junge Menschen auf die Straße gehen",
-      "text": "Die Bewegung \"Gen Z regelt\" mobilisiert im Netz junge Leute, um am 31.10. auf die Straße zu gehen. Auch in Stuttgart soll es Proteste für ein bezahlbares Leben geben."
+      "title": "Nach Unfall in den Wald gelaufen? Polizei sucht Autofahrer mit Hubschrauber",
+      "text": "Die Polizei fand in der Nacht bei Gerstetten ein Unfallauto im Wald, vom Fahrer zunächst keine Spur. Inzwischen ist die Suche eingestellt: Ein 23-Jähriger soll gefahren sein."
     }
   ]
 }
