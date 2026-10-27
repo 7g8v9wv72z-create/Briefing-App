@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-10-26T10:22:56.825Z",
+  "generatedAt": "2026-10-27T09:57:17.909Z",
   "world": [
+    {
+      "title": "Schülerproteste in Frankreich: Fünf-Punkte-Plan, aber noch kein Befreiungsschlag",
+      "text": "In Frankreich geht die Regierung mit einem Maßnahmenkatalog auf die protestierenden Schüler zu. Diese begrüßen den Fünf-Punkte-Plan des Bildungsministers, wollen am kommenden Samstag aber erneut demonstrieren. Von Julia Borutta."
+    },
+    {
+      "title": "Wahlsieg der Studentenliste: Serbien betritt politisches Neuland",
+      "text": "Absolute Mehrheit für die Studentenliste: In Serbien hat sie überraschend klar die Parlamentswahl gewonnen. Aber wie kann aus einer Protestbewegung eine Regierung werden? Vieles ist unklar - und die Aufgaben sind groß."
+    },
     {
       "title": "Auftakt der RN-Wahlkampagne: Le Pen spricht von \"Wiedergeburt\" Frankreichs",
       "text": "Die rechtspopulistische französische Präsidentschaftskandidatin Le Pen führt derzeit in den Umfragen. Zum Auftakt der Wahlkampagne ihres Rassemblement National warb sie für einen politischen Neuanfang."
@@ -16,62 +24,58 @@
     {
       "title": "Proteste in Europa - auch mit Gewalt",
       "text": "Nicht nur Frankreich - auch in vielen anderen europäischen Ländern wurde wieder protestiert. Dabei kam es mancherorts erneut zu Auseinandersetzungen mit der Polizei. Insgesamt melden die Behörden aber weniger Gewalt als am vergangenen Wochenende."
-    },
-    {
-      "title": "Hunderttausende protestieren in Frankreich - neue Unruhen",
-      "text": "Eine Woche nach den schweren Ausschreitungen in Frankreich haben am Samstag landesweit mehr als 400.000 Menschen demonstriert. Nach einem friedlichen Beginn kam es am Abend zu Zusammenstößen mit der Polizei. Fast 1.000 Menschen wurden festgenommen."
-    },
-    {
-      "title": "Anti-Terror-Staatsanwaltschaft ermittelt nach tödlichen Schüssen bei Paris",
-      "text": "Ein Toter, vier Verletzte - darunter ein zwölfjähriges Kind: Nach den Schüssen eines Autofahrers auf Passanten bei Paris ermittelt die Anti-Terror-Staatsanwaltschaft. Sie prüft auch, ob es einen rassistischen Hintergrund gibt. Von C. Dylla."
     }
   ],
   "economy": [
     {
-      "title": "Neuer Gebäudetyp E: Schnelles und günstiges Bauen per Gesetz",
-      "text": "Deutschland braucht mehr bezahlbaren Wohnraum. Das soll unter anderem mit dem Gebäudetyp E gelingen - das E steht hier für \"einfach\". Der Gesetzentwurf liegt dem ARD-Hauptstadtstudio exklusiv vor. Von Oliver Neuroth."
+      "title": "Künstliche Intelligenz: Wer kann KI-Texte erkennen?",
+      "text": "Wasserzeichen können darüber Auskunft geben, ob Künstliche Intelligenz beim Schreiben genutzt wurde. Der Literaturwelt kann das helfen. Doch noch sind sie nicht für jeden nutzbar. Von J. Petrosiute und C. Gill."
     },
     {
-      "title": "Wie die Goldsuche Natur und Lebensgrundlagen in Ghana zerstört",
-      "text": "In Ghana wird unter extremen Bedingungen Gold abgebaut - auch Kakaoplantagen müssen dafür weichen. Mit verheerenden Folgen: Zurück bleiben zerstörte Landschaften und verdreckte, belastete Flüsse. Von Judith Hartmann und Jakob Sax."
+      "title": "Audi investiert in Amerika, Neckarsulm bangt",
+      "text": "Audi will in den USA ein neues Werk bauen, der Auftritt des Firmenchefs auf einer Wahlkampfveranstaltung von Trump sorgt für heftige Kritik. Zugleich ist die Zukunft von deutschen Audi-Werken offen - wie in Neckarsulm. Von F. Siegel."
     },
     {
-      "title": "Deutsche Nachrichtendienste setzen auf Cloud-System von Google",
-      "text": "Um geheime Informationen schneller untereinander austauschen zu können, wollen BND, Verfassungsschutz und MAD ein gemeinsames Cloud-System aufbauen. Nach Recherchen von NDR und WDR soll Google dabei eine maßgebliche Rolle spielen. Von F. Flade und R. Pinkert."
+      "title": "Kommentar zu Audi-Chef Döllner: Politisch und menschlich ein fatales Signal",
+      "text": "Ist der Auftritt des Audi-Chefs beim US-Präsidenten nicht einfach nur wirtschaftlich vernünftig? Nein, meint Katharina Fuß. Der Manager macht sich zum grinsenden Statisten von Trump - und schickt fatale Signale an die Audi-Belegschaft in Deutschland."
     }
   ],
   "automotive": [
     {
-      "title": "Wegen möglichem Deal mit JSW: Volkswagen hält Investitionen in Indien zurück",
-      "text": "Volkswagen hält weitere Investitionen in ein geplantes Elektroauto-Programm für Indien offenbar vorerst zurück. Der Konzern will wohl die Verhandlungen mit der indischen JSW Group über ein Joint Venture abwarten. Die grundlegenden Entwicklungsarbeiten für ein kostengünstiges E-Auto sind demnach aber bereits abgeschlossen."
+      "title": "EVP organisiert Mehrheit gegen bindende E-Quoten für große Firmenflotten",
+      "text": "Die EU-Kommission hatte bei Vorstellung des \"Auto-Pakets\" eine Passage in ihrem Entwurf, wonach Mitgliedsländer ab 2030 konkrete Vorgaben für den Hochlauf von E-Dienstwagen erhalten sollen. Im Europaparlament dürften die vorgeschlagenen verpflichtenden Quoten nun zu freiwilligen Zielen degradiert werden."
     },
     {
-      "title": "Groß und günstig: Volvo kündigt neues Volumenmodell für Europa an",
-      "text": "Für 2027 kündigt Volvo ein neues, erschwingliches E-Volumenmodell für Europa und zwei neue Modelle für China an. Doch trotz Produktoffensive und voller Auftragsbücher für den neuen EX60 erzwingt ein spürbarer Verlust im dritten Quartal 2026 einen harten Sparkurs inklusive Stellenabbau."
+      "title": "Audi setzt in China auf „zwei Marken, zwei Partner“",
+      "text": "Audi sortiert seine Joint Ventures in China neu und setzt dort künftig auf den Ansatz \"zwei Marken, zwei Partner“. Das Joint Venture mit SAIC wird sich künftig ausschließlich auf die neue Submarke AUDI (ohne Ringe) konzentrieren, während das Geschäft mit den Fahrzeugen mit den vier Ringen im Gemeinschaftsunternehmen mit FAW gebündelt wird."
     },
     {
-      "title": "Sachsens Ministerpräsident entwirft Zukunftsidee für VW-Werk Zwickau",
-      "text": "Der Fortbestand von Volkswagens Elektroauto-Werk Zwickau steht auf der Kippe. Laut \"Zukunftsplan\" des Konzerns soll es voraussichtlich nicht in VW-Hand bleiben. Sachsens Ministerpräsident Michael Kretschmer hat nun der Staatskanzlei ein Konzept vorgelegt –mit dem Kernvorschlag, die Fabrik in den Besitz einer neuen Gesellschaft zu bringen."
+      "title": "SVOLT meldet Serienauftakt seiner halbfesten Batterie",
+      "text": "Der chinesische Batteriehersteller SVOLT hat mit der Serienproduktion von Halbfeststoffbatterien begonnen. Die erste Charge von Batteriepacks mit 100 kWh Kapazität ist in Changzhou in der Provinz Jiangsu vom Band gelaufen. Der Akku soll Schnellladen mit einer Laderate von 6C unterstützen."
     }
   ],
   "tech": [
     {
-      "title": "Cyberangriffe: Pentagon plant eine geheime Sabotagetruppe gegen Rüstungsvorhaben",
-      "text": "Eine neue Abteilung des Pentagon soll mit Cyberangriffen und Sabotage den Vorsprung der USA im militärischen Wettbewerb sichern."
+      "title": "Halbleiterproduktion: USA drohen weltweiten Heliummangel zu verschärfen",
+      "text": "Die USA wollen ihre Heliumproduktion besser schützen. Der weltweit größte Förderer des unersetzlichen Gases droht den Markt durcheinanderzubringen."
     },
     {
-      "title": "Windows 11: Microsoft testet Recall ohne automatische Screenshots",
-      "text": "Statt im Sekundentakt den gesamten Bildschirm aufzunehmen, soll die kommende Context Vault für Windows 11 mehr Kontrolle über Daten bieten. ( Windows 11 , Microsoft )"
+      "title": "Nvidia, OpenAI, Oracle: Wie sich die KI-Konzerne gegenseitig Milliarden zuschieben",
+      "text": "Nvidia investiert in eigene Kunden, die sich für neue KI-Rechenzentren hoch verschulden. Solange der Boom anhält, funktioniert das. Aber wer trägt das Risiko, wenn er endet? Eine Analyse von Björn Meschkat"
     },
     {
-      "title": "Pumpspeicherwerk: Australiens Energiewendeprojekt wird sechsmal so teuer",
-      "text": "Eines der größten Pumpspeicherwerke der Welt kostet jetzt sechsmal so viel wie bei Projektbeginn eingeplant. Und es lohnt sich immer noch."
+      "title": "Steam Frame: Valves Headset bekommt CD-ROM-Unterstützung",
+      "text": "Sony streicht die künftige Unterstützung physischer Medien, Valve fügt sie dem Steam Frame hinzu - nachdem ein Nutzer einen alten Film schauen wollte."
     }
   ],
   "local": [
     {
-      "title": "Audi plant Werk in den USA: \"Beklemmendes Gefühl\" in Neckarsulm",
-      "text": "Während das Werk in Neckarsulm vor dem Aus steht, will Audi Milliarden in ein Werk in den USA investieren. Bei Neckarsulms Oberbürgermeister weckt das ein \"beklemmendes Gefühl\"."
+      "title": "Audi-Werk in den USA geplant: \"Marionette\" - scharfe Kritik an Döllners Auftritt mit Trump",
+      "text": "Während das Werk in Neckarsulm vor dem Aus steht, will Audi in ein neues Werk in den USA investieren. Das Unternehmen wehrt sich gegen die Kritik am Auftritt von Gernot Döllner."
+    },
+    {
+      "title": "Was hinter Audis Plänen für ein neues Werk in den USA steckt",
+      "text": "Audi will ein neues Werk in den USA bauen - während die Produktion in Neckarsulm auf der Kippe steht. Was steckt dahinter? Und gibt es überhaupt genug Nachfrage nach Audis Autos?"
     },
     {
       "title": "Audi baut eigenes Werk in den USA",
@@ -80,10 +84,6 @@
     {
       "title": "Nach Angriff auf israelische Firma in Ulm: Hunderte bei \"Free the Ulm 5\"-Demo",
       "text": "Mehrere Hundert Menschen haben in Stuttgart an einer Solidaritäts-Kundgebung für fünf inhaftierte Pro-Palästina-Aktivisten teilgenommen."
-    },
-    {
-      "title": "Übernachten in Ulm wird teurer - Hotels kritisieren Bettensteuer",
-      "text": "Ulm führt ab 2030 eine Bettensteuer ein. Gäste müssen dann für Übernachtungen mehr zahlen. Sehr zum Ärger der Hotelbetreiber. Die befürchten dadurch weniger Kunden."
     }
   ]
 }
