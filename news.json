@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-10-27T09:57:17.909Z",
+  "generatedAt": "2026-10-28T10:43:41.894Z",
   "world": [
+    {
+      "title": "Serbien: Polizist vor israelischer Botschaft in Belgrad angegriffen",
+      "text": "Vor der israelischen Botschaft in Belgrad ist ein Wachmann mit Messern attackiert worden. Der Angreifer, ein mutmaßliches Mitglied des \"Islamischen Staats\", ist dabei getötet worden. Serbien und Israel werten den Angriff als Terrorakt."
+    },
+    {
+      "title": "Mindestens zehn Tote nach Zugunglück in Spanien",
+      "text": "Beim Zusammenstoß zweier Züge sind in Spanien mindestens zehn Menschen getötet worden. Die Zahl der Opfer könnte noch weiter steigen. Die Strecke zwischen der Hauptstadt Madrid und der südlichen Region Andalusien wurde gesperrt."
+    },
+    {
+      "title": "Neuer Haushalt in Großbritannien: Burnhams erster Stresstest",
+      "text": "Mit geschickter Kommunikation konnte der neue Premier Burnham bislang bei den Briten punkten. Doch nun muss er Farbe bekennen. Mit dem ersten Haushalt wird sich zeigen, wofür die Regierung Geld ausgeben will. Viel ist nicht da. Von M. Aden."
+    },
+    {
+      "title": "Nach Anschlägen in Frankreich: Sorge vor wachsendem Rassismus",
+      "text": "Nach den offenbar rassistisch motivierten Anschlägen in Frankreich gehen in Paris Menschen auf die Straße. Viele sehen rechte Medien in der Verantwortung - und den Rassemblement National. Von Carolin Dylla."
+    },
     {
       "title": "Schülerproteste in Frankreich: Fünf-Punkte-Plan, aber noch kein Befreiungsschlag",
       "text": "In Frankreich geht die Regierung mit einem Maßnahmenkatalog auf die protestierenden Schüler zu. Diese begrüßen den Fünf-Punkte-Plan des Bildungsministers, wollen am kommenden Samstag aber erneut demonstrieren. Von Julia Borutta."
@@ -8,67 +24,55 @@
     {
       "title": "Wahlsieg der Studentenliste: Serbien betritt politisches Neuland",
       "text": "Absolute Mehrheit für die Studentenliste: In Serbien hat sie überraschend klar die Parlamentswahl gewonnen. Aber wie kann aus einer Protestbewegung eine Regierung werden? Vieles ist unklar - und die Aufgaben sind groß."
-    },
-    {
-      "title": "Auftakt der RN-Wahlkampagne: Le Pen spricht von \"Wiedergeburt\" Frankreichs",
-      "text": "Die rechtspopulistische französische Präsidentschaftskandidatin Le Pen führt derzeit in den Umfragen. Zum Auftakt der Wahlkampagne ihres Rassemblement National warb sie für einen politischen Neuanfang."
-    },
-    {
-      "title": "Hohe Wahlbeteiligung und Manipulationsvorwürfe in Serbien",
-      "text": "Lange Schlangen vor den Wahllokalen in Serbien: Viele Menschen wünschen sich Veränderung. Bei der Parlamentswahl setzt die Studentenbewegung auf einen Erfolg. Doch auch Präsident Vucic hat überzeugte Anhänger."
-    },
-    {
-      "title": "Großbritannien: Burnham offen für Rückkehr zu EU-Freizügigkeit",
-      "text": "Der Brexit hat Großbritannien mehr Schaden als Nutzen gebracht - so sieht es zumindest der neue Premier Burnham. Jetzt zeigt er sich einmal mehr offen für eine Wiederannäherung an die EU - allerdings in Grenzen."
-    },
-    {
-      "title": "Proteste in Europa - auch mit Gewalt",
-      "text": "Nicht nur Frankreich - auch in vielen anderen europäischen Ländern wurde wieder protestiert. Dabei kam es mancherorts erneut zu Auseinandersetzungen mit der Polizei. Insgesamt melden die Behörden aber weniger Gewalt als am vergangenen Wochenende."
     }
   ],
   "economy": [
     {
-      "title": "Künstliche Intelligenz: Wer kann KI-Texte erkennen?",
-      "text": "Wasserzeichen können darüber Auskunft geben, ob Künstliche Intelligenz beim Schreiben genutzt wurde. Der Literaturwelt kann das helfen. Doch noch sind sie nicht für jeden nutzbar. Von J. Petrosiute und C. Gill."
+      "title": "Wie Meta-Chef Mark Zuckerberg eine Reichensteuer umgehen will",
+      "text": "Kalifornien stimmt bei den Midterms auch über die Einführung einer Reichensteuer ab. In dem US-Bundesstaat leben viele Tech-Milliardäre. Einer von ihnen macht schon mal mobil. Von Gabi Biesinger."
     },
     {
-      "title": "Audi investiert in Amerika, Neckarsulm bangt",
-      "text": "Audi will in den USA ein neues Werk bauen, der Auftritt des Firmenchefs auf einer Wahlkampfveranstaltung von Trump sorgt für heftige Kritik. Zugleich ist die Zukunft von deutschen Audi-Werken offen - wie in Neckarsulm. Von F. Siegel."
+      "title": "Wo Deutschland noch wachsen kann: Zukunftsmärkte für heimische Firmen",
+      "text": "Die deutsche Wirtschaft hat viele Probleme. Doch bei all den negativen Nachrichten gibt es auch Chancen. Denn auf einigen Märkten der Zukunft haben heimische Unternehmen gute Karten. Von Angela Göpfert."
     },
     {
-      "title": "Kommentar zu Audi-Chef Döllner: Politisch und menschlich ein fatales Signal",
-      "text": "Ist der Auftritt des Audi-Chefs beim US-Präsidenten nicht einfach nur wirtschaftlich vernünftig? Nein, meint Katharina Fuß. Der Manager macht sich zum grinsenden Statisten von Trump - und schickt fatale Signale an die Audi-Belegschaft in Deutschland."
+      "title": "Neuer Haushalt in Großbritannien: Burnhams erster Stresstest",
+      "text": "Mit geschickter Kommunikation konnte der neue Premier Burnham bislang bei den Briten punkten. Doch nun muss er Farbe bekennen. Mit dem ersten Haushalt wird sich zeigen, wofür die Regierung Geld ausgeben will. Viel ist nicht da. Von M. Aden."
     }
   ],
   "automotive": [
     {
-      "title": "EVP organisiert Mehrheit gegen bindende E-Quoten für große Firmenflotten",
-      "text": "Die EU-Kommission hatte bei Vorstellung des \"Auto-Pakets\" eine Passage in ihrem Entwurf, wonach Mitgliedsländer ab 2030 konkrete Vorgaben für den Hochlauf von E-Dienstwagen erhalten sollen. Im Europaparlament dürften die vorgeschlagenen verpflichtenden Quoten nun zu freiwilligen Zielen degradiert werden."
+      "title": "Premier Inn baut Ladeinfrastruktur an deutschen Hotels weiter aus",
+      "text": "Premier Inn will sein deutsches Hotelportfolio weiter mit Ladeinfrastruktur ausstatten. Aktuell verfügen 21 der 75 Häuser über Lademöglichkeiten für Elektroautos, bis zum Frühjahr 2027 sollen es mehr als 30 Standorte sein."
     },
     {
-      "title": "Audi setzt in China auf „zwei Marken, zwei Partner“",
-      "text": "Audi sortiert seine Joint Ventures in China neu und setzt dort künftig auf den Ansatz \"zwei Marken, zwei Partner“. Das Joint Venture mit SAIC wird sich künftig ausschließlich auf die neue Submarke AUDI (ohne Ringe) konzentrieren, während das Geschäft mit den Fahrzeugen mit den vier Ringen im Gemeinschaftsunternehmen mit FAW gebündelt wird."
+      "title": "DHL bekommt 25 elektrische Wechselbrückenumsetzer von TII Kamag",
+      "text": "TII Kamag, ein Ulmer Hersteller von Sonderfahrzeugen, liefert 25 elektrische Wechselbrückenumsetzer an DHL. Sie sollen in der Hoflogistik in verschiedenen Paketzentren von DHL in Deutschland zum Einsatz kommen. Die Fahrzeuge helfen dabei, die genormten Wechselbehälter von herkömmlichen Lkw schnell und präzise umzusetzen oder zu rangieren."
     },
     {
-      "title": "SVOLT meldet Serienauftakt seiner halbfesten Batterie",
-      "text": "Der chinesische Batteriehersteller SVOLT hat mit der Serienproduktion von Halbfeststoffbatterien begonnen. Die erste Charge von Batteriepacks mit 100 kWh Kapazität ist in Changzhou in der Provinz Jiangsu vom Band gelaufen. Der Akku soll Schnellladen mit einer Laderate von 6C unterstützen."
+      "title": "Polestar beendet Produktion des Polestar 2 in China",
+      "text": "Nach gut sechs Jahren endet die Produktion des Polestar 2 in China. Mehr als 200.000 Exemplare des elektrischen Fastbacks wurden gebaut. Ein komplett neuer Nachfolger soll Anfang 2027 starten. Für Polestar fällt der Modellwechsel in eine ohnehin anspruchsvolle Übergangsphase."
     }
   ],
   "tech": [
     {
-      "title": "Halbleiterproduktion: USA drohen weltweiten Heliummangel zu verschärfen",
-      "text": "Die USA wollen ihre Heliumproduktion besser schützen. Der weltweit größte Förderer des unersetzlichen Gases droht den Markt durcheinanderzubringen."
+      "title": "Angriff auf PXE-Boot: 16 Jahre alte Uefi-Lücke gefährdet unzählige Server",
+      "text": "Eine kritische Sicherheitslücke lässt Angreifer aus der Ferne Schadcode in PXE-Bootprozesse schleusen. Details wurden versehentlich zu früh geleakt."
     },
     {
-      "title": "Nvidia, OpenAI, Oracle: Wie sich die KI-Konzerne gegenseitig Milliarden zuschieben",
-      "text": "Nvidia investiert in eigene Kunden, die sich für neue KI-Rechenzentren hoch verschulden. Solange der Boom anhält, funktioniert das. Aber wer trägt das Risiko, wenn er endet? Eine Analyse von Björn Meschkat"
+      "title": "2.100 Passagiere: Elektrofähre nimmt Dienst in Südamerika auf",
+      "text": "Nach vier Jahren Bauzeit in Tasmanien erfolgte die offizielle Inbetriebnahme des bisher größten akkubetriebenen Schiffs."
     },
     {
-      "title": "Steam Frame: Valves Headset bekommt CD-ROM-Unterstützung",
-      "text": "Sony streicht die künftige Unterstützung physischer Medien, Valve fügt sie dem Steam Frame hinzu - nachdem ein Nutzer einen alten Film schauen wollte."
+      "title": "Rockstar Games: GTA 6 soll auf der PS5 rund 210 GByte groß sein",
+      "text": "Für GTA 6 müssen Spieler auf der Playstation 5 offenbar viel Speicherplatz freihalten. ( GTA 6 , Rockstar )"
     }
   ],
   "local": [
+    {
+      "title": "Endlagersuche für Atommüll: Raum Ulm wird nicht weiter untersucht",
+      "text": "Das Gebiet von Leipheim über Ulm bis Riedlingen wird nicht weiter für einen Standort als Atommüllendlager untersucht. Das Gestein unter dem Gebiet biete nicht genügend Sicherheit."
+    },
     {
       "title": "Audi-Werk in den USA geplant: \"Marionette\" - scharfe Kritik an Döllners Auftritt mit Trump",
       "text": "Während das Werk in Neckarsulm vor dem Aus steht, will Audi in ein neues Werk in den USA investieren. Das Unternehmen wehrt sich gegen die Kritik am Auftritt von Gernot Döllner."
@@ -80,10 +84,6 @@
     {
       "title": "Audi baut eigenes Werk in den USA",
       "text": "Für vier Milliarden Euro soll ein Audi-Werk im US-Bundesstaat Georgia entstehen. Das könnte Folgen für deutsche Werke wie das in Neckarsulm haben."
-    },
-    {
-      "title": "Nach Angriff auf israelische Firma in Ulm: Hunderte bei \"Free the Ulm 5\"-Demo",
-      "text": "Mehrere Hundert Menschen haben in Stuttgart an einer Solidaritäts-Kundgebung für fünf inhaftierte Pro-Palästina-Aktivisten teilgenommen."
     }
   ]
 }
