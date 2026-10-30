@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-10-29T11:00:56.549Z",
+  "generatedAt": "2026-10-30T10:58:13.293Z",
   "world": [
+    {
+      "title": "Zugunglück in Spanien: Fahrdatenschreiber geborgen",
+      "text": "Auf den Schock nach dem schweren Zugunglück in Spanien folgt die Suche nach der Ursache: Ermittler haben die Fahrdatenschreiber in den Wracks gefunden. Die Daten werden nun ausgewertet - und liefern hoffentlich Antworten."
+    },
+    {
+      "title": "Frankreich bereitet sich auf neue Schülerproteste vor",
+      "text": "Frankreich stellt sich auf ein unruhiges Wochenende ein: Erneut wollen Schüler im ganzen Land gegen die Bildungspolitik protestieren. Denn die ersten Zugeständnisse der Regierung reichen ihnen nicht aus. Von Julia Borutta."
+    },
+    {
+      "title": "Bosnien und Herzegowina: Militärhubschrauber abgestürzt - vier Tote",
+      "text": "Beim Absturz eines Militärhubschraubers der EU-Friedenstruppe in Bosnien und Herzegowina sind vier Menschen ums Leben gekommen. Die Insassen kamen alle aus Italien. Der genaue Hergang ist noch unklar."
+    },
+    {
+      "title": "Zugunglück in Spanien: Ein Land zwischen Trauer und Aufarbeitung",
+      "text": "Nach dem Zugunglück in Spanien sind Schock und Trauer groß. Forensiker identifizieren weiterhin Todesopfer. Zudem wurden die Gesprächsprotokolle der Leitstelle mit den Lokomotivführern veröffentlicht. Von Julia Macher."
+    },
     {
       "title": "Suche nach Opfern des Zugunglücks in Spanien geht weiter",
       "text": "In Spanien suchen die Rettungskräfte nach dem schweren Zugunglück nach weiteren Opfern in den Waggon-Trümmern. Die Regierung versprach Aufklärung, in Madrid gab es Proteste. Als Unfallursache könnte menschliches Versagen eine Rolle gespielt haben."
@@ -8,32 +24,16 @@
     {
       "title": "Hoffnung auf unabhängige Medien in Serbien",
       "text": "Nach der Niederlage der Vucic-Partei in Serbien hoffen viele Menschen wieder auf eine unabhängige Berichterstattung. Eine Initiative fordert den Entzug der Sendelizenz für Informer - einem Propagandasender im Dienste des Ex-Präsidenten. Von S. Hahne."
-    },
-    {
-      "title": "EU-Kanada-Gipfel: Kanada wird vorerst kein \"assoziiertes EU-Mitglied\"",
-      "text": "Kanzler Merz und andere EU-Regierungschefs haben die Kanada-Pläne von EU-Kommissionspräsidentin von der Leyen abgeschwächt - kurz vor dem heute beginnenden EU-Kanada-Gipfel. Von einer \"assoziierten Mitgliedschaft\" ist nicht mehr die Rede. Von S. Fritz."
-    },
-    {
-      "title": "Zugunglück in Spanien: Der Schock sitzt tief",
-      "text": "In Spanien sitzt der Schock tief über das zweite schwere Zugunglück auf der Hochgeschwindigkeitszugstrecke zwischen Madrid und Andalusien. Mindestens 68 Menschen verloren bei dem Unglück in der Region Toledo ihr Leben. Von Franka Welz."
-    },
-    {
-      "title": "Wie konnte es zu dem schweren Zugunglück in Spanien kommen?",
-      "text": "Nach dem schweren Zugunglück in Spanien gibt es erste Erkenntnisse zur Unglücksursache: Offenbar spielte menschliches Versagen eine Rolle. Vor dem Verkehrsministerium in Madrid kam es am Abend zu Protesten und Ausschreitungen."
-    },
-    {
-      "title": "Großbritannien: Burnhams Regierung stellt Haushalt vor",
-      "text": "Die Vorstellung des Haushalts war für Großbritanniens Premier Burnham der erste Härtetest. Die Erwartungen der Briten sind hoch. Die Regierung setzt vor allem auf kleine Maßnahmen, die die Menschen sofort spüren sollen. Von Lisa-Maria Röhling."
     }
   ],
   "economy": [
     {
-      "title": "EZB-Chefin Lagarde tritt im Februar vorzeitig zurück",
-      "text": "Gerüchte gab es bereits länger, nun ist es bestätigt: EZB-Chefin Lagarde gibt ihren Posten vorzeitig im Februar auf. So kann über die Nachfolge noch vor der Präsidentschaftswahl in Frankreich entschieden werden."
+      "title": "Fehlende Wohnungen: Was hat der \"Bau-Turbo\" bislang gebracht?",
+      "text": "In Deutschland werden viel zu wenig Wohnungen gebaut. Dabei versucht die Bundesregierung gegenzusteuern - etwa mit dem \"Bau-Turbo\", der seit einem Jahr gilt. Was hat das Gesetz bislang gebracht? Von Axel John."
     },
     {
-      "title": "Wie lange ist Christine Lagarde noch EZB-Chefin?",
-      "text": "In vielen Euro-Ländern stockt die Konjunktur, Proteste wie in Frankreich setzen Regierungen unter Druck. Da bräuchte die EZB eine starke Führung - doch über die Zukunft von Notenbankchefin Lagarde wird heftig spekuliert. Von Oliver Feldforth."
+      "title": "Krise in Automobilbranche: Gewinn bei Audi bricht drastisch ein",
+      "text": "Auch der Autobauer Audi steckt in der Krise: Der Gewinn brach im dritten Quartal deutlich ein. Grund ist unter anderem das schwache China-Geschäft. Neue Automodelle sollen positive Impulse bringen."
     },
     {
       "title": "Milliardenverlust bei Volkswagen",
@@ -42,44 +42,44 @@
   ],
   "automotive": [
     {
-      "title": "Fahrzeug-Recycling bei VW: Demontagelinie in Zwickau eröffnet",
-      "text": "Volkswagen hat seine Demontagelinie im Werk Zwickau eröffnet. Ab 2027 sollen in der neuen Anlage rund 4.100 Fahrzeuge zerlegt und recycelt werden. Im gesamten Geschäftsbereich \"Kreislaufwirtschaft\" am Standort Zwickau sollen aus den nun 100 neuen Arbeitsplätzen perspektivisch bis zu 1.000 neue Stellen entstehen."
+      "title": "Besitzerwechsel bei vier Ladeparks: E.ON übernimmt Smatrics EnBW Italia",
+      "text": "Smatrics EnBW zieht sich nach einem zweijährigen Intermezzo wieder aus Italien zurück und verkauft seine vier im Norden des Landes eröffneten Ladeparks an E.ON. Die Standorte beherbergen insgesamt 64 Schnellladepunkte. Zum Kaufpreis ist nichts bekannt."
     },
     {
-      "title": "Italienischer E-Bus-Boom: ATM ordert 110 Elektrobusse bei Karsan",
-      "text": "Der türkische Hersteller Karsan ist als Gewinner einer Ausschreibung des Mailänder Nahverkehrsunternehmen ATM über die Lieferung von 110 Elektrobussen hervorgegangen. Die 110 Karsan e-ATA 12 sollen schrittweise ab Ende 2027 in Betrieb gehen."
+      "title": "Rivian steigert Umsatz dank R2 und VW-Partnerschaft",
+      "text": "Rivian hat seinen Umsatz im dritten Quartal 2026 um 38 Prozent auf 2,16 Milliarden US-Dollar gesteigert. Dabei legten sowohl die Auslieferungen des E-Auto-Herstellers als auch das Geschäft mit Software und Dienstleistungen kräftig zu. Allein 16 Prozent des Umsatzes entfielen auf die Partnerschaft mit Volkswagen. …"
     },
     {
-      "title": "Volta Via untersucht Elektrifizierung von Straßenbaustellen",
-      "text": "Das Forschungsprojekt Volta Via hat untersucht, wie sich Großbaustellen im Straßenbau elektrifizieren lassen und welche Energieinfrastruktur dafür nötig ist. Für bis zu 86 Prozent der betrachteten Maschinenklassen sind bereits elektrifizierte Modelle verfügbar."
+      "title": "Allye bringt 400-kW-Schnelllader mit Second-Life-Batterien",
+      "text": "Das britische Unternehmen Allye Energy hat mit dem MEV einen batteriegepufferten Schnelllader für Depots vorgestellt. Das System nutzt komplette Second-Life-Batterien aus Elektrofahrzeugen und soll bis zu 400 kW Ladeleistung bereitstellen ohne dafür zwingend einen leistungsstärkeren Netzanschluss zu benötigen."
     }
   ],
   "tech": [
     {
-      "title": "1-zu-1-Nachbau: Student rekreiert die Schweiz in Minecraft",
-      "text": "Das Land wird maßstabsgetreu nach Geodaten erschaffen. Ein Block hat dabei eine Kantenlänge von einem Meter."
+      "title": "Angriff auf Ruby-Lücke: Alpine Linux muss Gitlab-Instanz komplett neu aufsetzen",
+      "text": "Hacker haben versucht, über eine Ruby-Lücke die Gitlab-Instanz von Alpine Linux zu kompromittieren. Der Vorfall ist ein Weckruf an andere Gitlab-Admins."
     },
     {
-      "title": "Wegen Porsche und China: Volkswagen meldet 5,82 Milliarden Euro Verlust",
-      "text": "Bei Europas größtem Autohersteller läuft es schlechter als erwartet. Was hinter den roten Zahlen von VW steckt."
+      "title": "Mistral Large 4: Mistral macht 1-Billion-Parameter-Modell frei zugänglich",
+      "text": "Mistrals aktuelles großes Modell soll die Grundlage souveräner KI bilden. Es soll eines der besten offenen Modelle sein und bei Coding herausstechen."
     },
     {
-      "title": "Forscher warnen: Millionenfach installierte Chrome-Add-ons kapern heimlich Traffic",
-      "text": "Betroffen sind 319 Erweiterungen mit mehr als 13 Millionen Installationen. Sie leiten Suchanfragen um und bescheren den Betreibern damit Werbeeinnahmen."
+      "title": "Onlineforen: Reddit will Kontozwang einführen",
+      "text": "Bald ist wohl Schluss mit dem anonymen Lesen von Reddit-Beiträgen."
     }
   ],
   "local": [
     {
+      "title": "Von Galeria genutzte Gebäude in Heilbronn und Ulm zum Verkauf: Was dahinter steckt",
+      "text": "Mehrere von Galeria genutzte Immobilien stehen zurzeit zum Verkauf, darunter in Heilbronn und Ulm. Die Auswirkungen sind noch nicht genau klar, es gibt aber Zuversicht."
+    },
+    {
+      "title": "Nur noch Geschichte: Kein Audi A8 mehr in Neckarsulm - jetzt in Leipzig und China?",
+      "text": "Der letzte A8 ist im Neckarsulmer Audi-Werk vom Band gerollt, eine über 30-jährige Ära endet damit. Womöglich geht sie in Leipzig weiter - und in China."
+    },
+    {
       "title": "Endlagersuche für Atommüll: Raum Ulm wird nicht weiter untersucht",
       "text": "Das Gebiet von Leipheim über Ulm bis Riedlingen wird nicht weiter für einen Standort als Atommüllendlager untersucht. Das Gestein unter dem Gebiet biete nicht genügend Sicherheit."
-    },
-    {
-      "title": "Audi-Werk in den USA geplant: \"Marionette\" - scharfe Kritik an Döllners Auftritt mit Trump",
-      "text": "Während das Werk in Neckarsulm vor dem Aus steht, will Audi in ein neues Werk in den USA investieren. Das Unternehmen wehrt sich gegen die Kritik am Auftritt von Gernot Döllner."
-    },
-    {
-      "title": "Was hinter Audis Plänen für ein neues Werk in den USA steckt",
-      "text": "Audi will ein neues Werk in den USA bauen - während die Produktion in Neckarsulm auf der Kippe steht. Was steckt dahinter? Und gibt es überhaupt genug Nachfrage nach Audis Autos?"
     },
     {
       "title": "Endlager-Suche: Diese Regionen in Bayern sind raus",
