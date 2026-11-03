@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-11-02T12:45:31.212Z",
+  "generatedAt": "2026-11-03T12:11:17.135Z",
   "world": [
+    {
+      "title": "Polen: Die Verfassungsgerichtskrise - kein Ende in Sicht",
+      "text": "Vor dem Verfassungsgericht in Polen hat es am Wochenende Tumulte gegeben, der Staatschef brach eine Auslandsreise ab. Zuvor wurden der Gerichtspräsident und sein Stellvertreter suspendiert. Ein Kompromiss ist nicht in Sicht. Von P. Milling."
+    },
     {
       "title": "Bulgariens amtierende Präsidentin Jotowa gewinnt Stichwahl",
       "text": "Bulgariens Amtsinhaberin Jotowa hat die Stichwahl um das Präsidentenamt nach Auszählung aller Stimmen gewonnen. Herausforderer Gjurow landete auf dem zweiten Platz. Jotowa gehört zum Lager des als russlandfreundlich geltenden Regierungschefs Radew."
@@ -20,55 +24,59 @@
     {
       "title": "Polen: Tusk beklagt Angriff auf \"Demokratie und Rechtsstaat\"",
       "text": "Polens Präsident drängt sich mit Körpereinsatz ins Verfassungsgericht und drückt eine Richterin nach unten. Nun äußert sich Regierungschef Tusk zu dem Vorfall. Der Opposition wirft er einen Angriff auf Demokratie und Rechtsstaat vor."
-    },
-    {
-      "title": "Erneut Proteste und Zusammenstöße in Frankreich",
-      "text": "Am dritten Samstag in Folge haben in Frankreich Hunderttausende Menschen protestiert - erst friedlich, doch am Ende kam es wieder zu Zusammenstößen mit der Polizei. Die bleibt auch nach Ende der Protestzüge in Alarmbereitschaft. Von J. Borutta."
     }
   ],
   "economy": [
     {
-      "title": "Binance-Kunden heben nach Hackerangriff Milliarden ab",
-      "text": "Einen Großteil der gestohlenen Kundengelder hat Binance nach dem Hackerangriff mittlerweile ersetzt. Dennoch kämpft die Kryptobörse mit einem Vertrauensverlust. Kunden haben 3,6 Milliarden Dollar abgezogen."
+      "title": "Was Polens Wirtschaft boomen lässt",
+      "text": "Jahrzehntelang galt Polen als der arme Nachbar im Osten. Ein längst veraltetes Klischee: Die polnische Wirtschaft wächst stark - was viele Menschen aus Deutschland anlockt. Von Christiane Cichy."
     },
     {
-      "title": "IG Metall weitet im Tarifstreit Warnstreiks aus",
-      "text": "Die ersten Fließbänder standen schon am Sonntag still, mit dem Wochenbeginn rollt in der Metall- und Elektroindustrie nun eine größere Streikwelle an. Nach der ergebnislosen zweiten Tarifrunde rief die IG Metall zu Arbeitsniederlegungen auf."
+      "title": "Cyberangriffe auf Kühlanlagen auch in deutschen Supermärkten",
+      "text": "Statt fünf waren es plötzlich 50 Grad: In der Nacht haben Hacker in mehreren Supermärkten die Kühlanlagen umgestellt. Große Mengen an Lebensmitteln mussten entsorgt werden. Ähnliche Cyberangriffe gab es auch in anderen Ländern."
     },
     {
-      "title": "Marktbericht: Gespannte Lage vor US-Zwischenwahlen",
-      "text": "Vor den US-Zwischenwahlen halten sich die Anleger lieber zurück. Zum Wochenstart gibt der DAX etwas nach. Mit Spannung warten die Investoren auch auf die heutigen Apple-Zahlen."
+      "title": "Cyberangriffe haben Supermärkte in Europa offenbar lahmgelegt",
+      "text": "Cyberkriminelle haben offenbar wieder Supermärkte angegriffen. Sie sorgten besonders in Belgien und Schweden dafür, dass Kühlschränke und Tiefkühltruhen wärmer wurden. Es ist nicht das erste Mal."
     }
   ],
   "automotive": [
     {
-      "title": "Smart #2: Sonderedition noch vor Marktstart vergriffen",
-      "text": "Smart meldet für seinen elektrischen Nachfolger des Fortwo einen gelungenen Einstand: Die auf 999 Exemplare limitierte Couture Edition des Smart #2 war innerhalb von 14 Tagen in ganz Europa ausverkauft. Ab dem zweiten Quartal 2027 rollt der 2,75 Meter kurze Zweisitzer ab 19.990 Euro auf die Straße."
+      "title": "CMA CGM startet Elektro-Binnenschiff in Vietnam",
+      "text": "CMA CGM, Nike und Gemadept haben Vietnams erstes vollelektrisches Binnenschiff in Betrieb genommen. Der Frachter soll jährlich mehr als 50.000 TEU zwischen Ho-Chi-Minh-Stadt und dem Tiefseehafen Gemalink transportieren. Die Batterietechnik stammt von CATL."
     },
     {
-      "title": "Vishay Siliconix baut in Itzehoe Chips für E-Autos und Co.",
-      "text": "Die Vishay Siliconix Itzehoe GmbH erhält für den Ausbau ihrer Chip-Produktionskapazitäten rund 215 Millionen Euro Fördermittel von Bund und Land. Die neu produzierten Chips können u.a. in der E-Mobilität eingesetzt werden – etwa für Fahrassistenzsysteme und das Batteriemanagement."
+      "title": "Thailand erhöht Steuer auf E-Auto-Importe drastisch",
+      "text": "Thailand erhöht die Verbrauchssteuer auf importierte Elektrofahrzeuge ab 2027 drastisch von 10 beziehungsweise 15 auf einheitlich 35 Prozent. Damit will die Regierung Fahrzeugimporte aus China eindämmen und ausländische Hersteller dazu bewegen, eigene Fabriken und Arbeitsplätze im Land aufzubauen."
     },
     {
-      "title": "Porsche holt Jörg Bartels von Mercedes-Benz",
-      "text": "Porsche stellt seine Entwicklungsspitze neu auf. Jörg Bartels übernimmt ab Mai 2027 das Vorstandsressort Forschung und Entwicklung von Michael Steiner. Der bisherige Mercedes-Manager soll die technologische Neuausrichtung des Sportwagenbauers vorantreiben."
+      "title": "EDENenergy baut Speicher aus alten E-Scooter-Akkus",
+      "text": "Das Freiburger Start-up EDENenergy entwickelt stationäre Gewerbespeicher aus gebrauchten E-Scooter- und E-Bike-Akkus. Der erste Speicher mit 70 kWh Kapazität wurde bereits ausgeliefert. Künftig sollen auch unterschiedliche Batterietypen kombiniert werden können."
     }
   ],
   "tech": [
     {
-      "title": "Ohne Nutzerinteraktion: SMS des Todes macht Android-Geräte unbrauchbar",
-      "text": "Angreifer können durch das bloße Senden spezieller SMS Android-Geräte wiederholt zum Absturz bringen. Empfänger können sich kaum dagegen wehren."
+      "title": "Versorgungssicherheit: Technologieoffenheit heißt im Stromnetz Gas",
+      "text": "Die Zuschläge für dringend benötigte Reservekraftwerke gehen durchweg an Gasturbinen. Das war absehbar, könnte aber noch sehr teuer werden."
     },
     {
-      "title": "Keine Degradation: Batteriespeicher aus vermeintlichem Elektroschrott",
-      "text": "Ein Freiburger Start-up vertreibt stationäre Speicher, die aus alten E-Scootern stammen. Die Kapazität wird zehn Jahre lang garantiert, ohne Verlust."
+      "title": "Nvidia, AMD, Intel: Grafikkarten werden knapp und fast unbezahlbar",
+      "text": "Die hohe Nachfrage nach Grafikkarten hat die Preise bei allen Herstellern noch einmal merklich nach oben getrieben."
     },
     {
-      "title": "Straßenverkehr: KI soll Handy-Sünder automatisch erkennen",
-      "text": "Bund und Länder unterstützen den Einsatz von Kameras, die Autofahrer mit Handy am Steuer per KI identifizieren."
+      "title": "Maschinenträume 5: KI-Ent-Täuschung",
+      "text": "Die KI-Apostel versprechen uns das Paradies auf Erden. Doch selbst eine Superintelligenz kann keine Wunder vollbringen. Zeit für ein wenig Realismus. Ein Deep Dive von P. R. Rhesia"
     }
   ],
   "local": [
+    {
+      "title": "In der Türkei verhafteter Ulmer Ferdi Soylu wieder freigelassen",
+      "text": "Der in der Türkei festgenommene Ulmer Ferdi Soylu ist wieder freigelassen worden. Das teilt dessen Bruder mit. Der 46-Jährige darf die Türkei allerdings vorerst nicht verlassen."
+    },
+    {
+      "title": "Kampf gegen E-Scooter-Tuning: Polizei in Ulm verstärkt Kontrollen",
+      "text": "Schnell und wild durch den Straßenverkehr: Viele E-Scooter sind getunt - und auch sonst regelwidrig unterwegs. Die Polizei in Ulm setzt auf verstärkte Kontrollen."
+    },
     {
       "title": "FCH-Trainer Frank Schmidt über Hass im Netz: \"Sowas geht mir komplett gegen den Strich\"",
       "text": "Der 1. FC Heidenheim hat beim Karlsruher SC 1:2 verloren. Nach dem Spiel ging es neben der sportlichen Analyse auch um Anfeindungen im Internet."
@@ -76,14 +84,6 @@
     {
       "title": "Das war der Liveblog zu \"Gen Z regelt\"-Protesten in BW: ++ Bislang 50 Straftaten: Mehrere Festnahmen in Stuttgart ++ Polizei Karlsruhe löst Gruppe nach Demo auf ++ Proteste in Freiburg, Mannheim und Ulm friedlich beendet ++",
       "text": "In BW haben junge Menschen für eine bessere Zukunftsperspektive protestiert. Die meisten Demonstrationen verliefen friedlich. In Stuttgart gab es Zwischenfälle."
-    },
-    {
-      "title": "\"Gen Z regelt\"- Demos in Baden-Württemberg: Das wird erwartet",
-      "text": "Die Initiative \"Gen Z regelt\" ruft am Samstag zu Protesten auf. In BW sind Demos unter anderem in Stuttgart, Mannheim, Karlsruhe, Freiburg und Ulm geplant. Ein Überblick."
-    },
-    {
-      "title": "Ulmer \"Nabada\" als Marke: Red Bull dementiert - Anmeldung entpuppt sich als mutmaßlicher Fake",
-      "text": "Das \"Nabada\", Ulms Wasserumzug auf der Donau, soll als Marke eingetragen sein - angeblich von Red Bull. Doch der Konzern widerspricht. Wer steckt hinter dem mutmaßlichen Fake?"
     }
   ]
 }
