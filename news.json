@@ -1,74 +1,78 @@
 {
-  "generatedAt": "2026-11-23T15:08:49.643Z",
+  "generatedAt": "2026-11-24T15:06:34.958Z",
   "world": [
     {
-      "title": "Istanbuler Polizei sucht nach streunendem Löwen",
-      "text": "Ausnahmezustand in Istanbul: Ein Löwe streift im Norden der türkischen Metropole umher, Anwohner sollen in ihren Häusern bleiben. Die Polizei hat das mutmaßlich weibliche Tier lokalisiert, doch woher kommt es?"
+      "title": "UN-Bericht: Partner und Verwandte Haupttäter bei Femiziden",
+      "text": "Von insgesamt 78.000 Femiziden weltweit im vergangenen Jahr gehen die meisten auf das Konto von Partnern und Angehörigen. Das geht aus einem UN-Bericht hervor. Für Frauen und Mädchen sei das eigene Zuhause der gefährlichste Ort."
     },
     {
-      "title": "Russisches Kriegsschiff versenkt: \"Für Russland ist Libyen eine Art Rückzugsort\"",
-      "text": "Die Ukraine hat ein russisches Kriegsschiff in Libyen versenkt. Damit ist in dem Krieg zum ersten Mal ein Hafen im Mittelmeer betroffen. In Libyen wächst die Sorge, in den Konflikt hineingezogen zu werden. Von M. Behrendt."
+      "title": "Urteil des EGMR: Pushbacks an Grenze zu Belarus waren teils legal",
+      "text": "Eigentlich dürfen Migranten nicht dahin zurückgeschickt werden, wo ihnen Menschenrechtsverletzungen drohen. Ein Grundsatzurteil ändert das - wenn Migranten als Druckmittel eingesetzt und nicht besonders schutzbedürftig sind."
     },
     {
-      "title": "Wer ist schuld am Scheitern des Klimagipfels?",
-      "text": "Die Klimakonferenz in Antalya ist nach zwei Wochen zäher Verhandlungen ohne Abschlusserklärung zu Ende gegangen. Woran lag das? Bei der Suche nach möglichen Schuldigen richtet sich der Blick auch auf die Doppelpräsidentschaft. Von Jakob Mayr."
+      "title": "Landminen-Monitor: Zahl der Opfer von Landminen gestiegen",
+      "text": "Fast 7.000 Menschen wurden im vergangenen Jahr weltweit Opfer von Landminen. Das ist die höchste Zahl seit fünf Jahren. Am meisten gefährdet sind Kinder - oft halten sie die Minen für Spielzeug. Von Sandra Biegger."
     },
     {
-      "title": "\"Koalition der Willigen\" absolviert Militärübung in Polen",
-      "text": "Es war die erste militärische Übung der \"Koalition der Willigen\": Hunderte Soldaten haben in Polen getestet, wie in der Ukraine Frieden gesichert werden kann. Zum Ende schlugen nahe dem Gelände russische Raketen ein. Von P. Milling."
+      "title": "Gesuchtes Tier in Istanbul wohl doch keine Löwin",
+      "text": "Nach der Sichtung eines verdächtigen Tieres hatten Behörden in Istanbul einen Tag lang nach einer angeblich freilaufenden Löwin gesucht. Nun gaben sie vorerst Entwarnung: Es streunt wohl doch keine Großkatze durch die türkische Metropole."
     },
     {
-      "title": "Umweltminister Schneider: Scheitern der COP31 kein Rückschlag für Klimaschutz",
-      "text": "Der XXL-Klimagipfel ist vorbei - ein Bekenntnis der fast 200 Staaten zum Klimaschutz gibt es nicht. Umweltminister Schneider sieht im Scheitern von Antalya aber auch eine gute Nachricht. Die Energiewende sei unumkehrbar - sagt auch China."
+      "title": "Zehn Jahre Friedensvertrag: Kolumbien so polarisiert wie lange nicht",
+      "text": "Mit dem Friedensabkommen in Kolumbien von 2016 wurden weltweit große Hoffnungen verknüpft. Er sollte ein halbes Jahrhundert Bürgerkrieg beenden. Doch zehn Jahre später ist Kolumbien polarisiert wie lange nicht. Von Jenny Barke."
     },
     {
-      "title": "\"Costa Concordia\"-Kapitän Schettino auf Bewährung aus Haft entlassen",
-      "text": "Aufgrund eines riskanten Manövers kenterte die \"Costa Concordia\" 2012 vor der Küste Italiens. 32 Menschen starben. Nun ist der ehemalige Kapitän des Schiffes aus dem Gefängnis entlassen worden. Von Anna Giordano."
+      "title": "Sanktionspaket: Keine Athleten mehr unter russischer Flagge",
+      "text": "Russische Sportlerinnen und Sportler sollen bei europäischen Wettkämpfen nicht mehr für ihr Land antreten dürfen - das hat die EU-Kommission vorgeschlagen. Weitere Sanktionen soll es in der Wirtschaft und im Energiesektor geben."
     }
   ],
   "economy": [
     {
-      "title": "Nvidia setzt Jensen Huang wieder als Chef ein",
-      "text": "Spekulationen gab es bereits, jetzt ist es offiziell: Jensen Huang kehrt an die Spitze des US-Techkonzerns Nvidia zurück. Er war erst vor wenigen Wochen wegen eines Spionageskandals zurückgetreten."
+      "title": "Wie Trump an Huangs Rückkehr zu Nvidia verdiente",
+      "text": "Die Rückkehr des Nvidia-Chefs ließ den Aktienkurs des Chipunternehmens in die Höhe schnellen. Profiteur dessen war offenbar auch US-Präsident Donald Trump - der sich zuvor für den Huang eingesetzt hatte."
     },
     {
-      "title": "Affäre von Ex-Nvidia-Chef wohl in Kontakt zu Chinas Geheimdienst",
-      "text": "Alice Huang, Geliebte des ehemaligen Nvidia-Chefs, hatte offenbar mehr als ein Jahr lang Kontakt zu einem Mitarbeiter des chinesischen Geheimdienstes. Die Chinesin steht im Mittelpunkt des Skandals um den US-Chipkonzern."
+      "title": "Nvidia hält die Märkte in Atem",
+      "text": "Nach der gestrigen Rally gehen an den Aktienmärkten Zweifel um. Die plötzliche Rückkehr von Nvidia-Chef Jensen Huang hat nur wenige Probleme gelöst - und neue Fragen aufgeworfen. Von D. Landmesser."
     },
     {
-      "title": "Kaliforniens Justiz erhöht wegen China-Geschäft Druck auf Nvidia",
-      "text": "Nach dem Rücktritt von Nvidia-Chef Huang kommt der Chiphersteller nicht zur Ruhe. Jetzt wollen kalifornische Behörden untersuchen, ob und wie KI-Chips oder Informationen illegal nach China gelangt sein könnten."
+      "title": "Rückkehr von Nvidia-Chef: \"Nie dagewesenes Verwischen von Grenzen\"",
+      "text": "Eine Rückkehr von Jensen Huang an die Spitze des Chipherstellers Nvidia haben die Wenigsten erwartet. Die Suche nach den Gründen des Comebacks führt bis zur Spitze der US-Regierung. Das kritisieren nicht nur die Demokraten. Von Antje Sieb."
     }
   ],
   "automotive": [
     {
-      "title": "Solaris liefert 13 Wasserstoffbusse nach Frankreich",
-      "text": "Solaris hat 13 Wasserstoffbusse des Typs Urbino 12 hydrogen an den Gemeindeverband Béziers Méditerranée in Südfrankreich ausgeliefert. Die Fahrzeuge sollen künftig im Nahverkehrsnetz beeMob eingesetzt werden."
+      "title": "VW und Elli starten V2G-Angebot: Bidi-Wallbox kostet 1.995 Euro",
+      "text": "Volkswagen und seine Energie-Tochter Elli bringen ihr erstes Vehicle-to-Grid-Paket im Dezember 2026 auf den deutschen Markt. Die benötigte Gleichstrom-Wallbox schlägt mit 1.995 Euro zu Buche, und zum Start gehört neben VW, VW Nutzfahrzeuge und Cupra nun auch Skoda dazu. Auch zum Stromtarif gibt es nun Details."
     },
     {
-      "title": "VW ID. Polo jetzt schon teils mit einem Jahr Wartezeit",
-      "text": "Volkswagen hat den Erfolg seiner neuen Elektro-Kleinwagenfamilie offenbar deutlich unterschätzt. Für den VW ID. Polo müssen Kunden teils mehr als ein Jahr warten und auch bei den anderen drei Modellen benötigen Kunden viel Geduld. Nun soll die Fertigung in Spanien schneller skaliert werden. Doch auch fehlende Batteriezellen bremsen die Produktion."
+      "title": "Schweiz: VMCV nimmt Yutong bis zu 47 Elektrobusse ab",
+      "text": "Der Schweizer ÖPNV-Betreiber VMCV hat mit Yutong einen Rahmenvertrag über die Lieferung von bis zu 47 Elektrobusse unterzeichnet. Die chinesische Marke setzte sich in der Ausschreibung gegen drei Mitbewerber durch. Der Kontrakt hat einen Wert von rund 30 Millionen Franken, umgerechnet knapp 33 Millionen Euro."
     },
     {
-      "title": "Mercedes erhält KBA-Zulassung für Tür-zu-Tür-Fahrassistent",
-      "text": "Mercedes-Benz hat als erster Autohersteller in Deutschland die behördliche Zulassung für einen Point-to-Point-Fahrassistenten erhalten. Das Kraftfahrt-Bundesamt (KBA) genehmigte das System MB.Drive Assist Pro auf Grundlage der UN-Regelung R171. …"
+      "title": "Exicom will Schnelllader-Hersteller Tritium verkaufen",
+      "text": "Nur rund zwei Jahre nach der Übernahme des insolventen australischen Schnelllader-Herstellers Tritium will sich der indische Ladeinfrastruktur-Anbieter Exicom wieder von dem Unternehmen trennen. Einen Interessenten gibt es wohl. Eine unverbindliche Vereinbarung sieht eine Unternehmensbewertung von 85 Millionen US-Dollar vor."
     }
   ],
   "tech": [
     {
-      "title": "Jahrhundertdeal: Crowdstrike kauft Zscaler für 44 Milliarden Dollar und fordert Microsoft heraus",
-      "text": "Der Milliardendeal vereint Endgeräte- und Cloud-Sicherheit unter einem Dach. Microsoft und Palo Alto Networks bekommen einen mächtigen Rivalen."
+      "title": "Statt Palantir: NRW setzt künftig deutsche Polizei-Software ein",
+      "text": "Zwischenzeitlich sah es so aus, als wollte NRW keine Alternative zu Palantir finden. Doch nun hat ein deutscher Anbieter den Zuschlag erhalten."
     },
     {
-      "title": "CEO: Nvidia holt Jensen Huang zurück",
-      "text": "Kommando zurück: Kurz nach seinem Abgang ist Jensen Huang wieder Chef von Nvidia. Die Entscheidung fiel einstimmig."
+      "title": "Nahe deutscher Grenze: BYD will Automobilwerk in Frankreich übernehmen",
+      "text": "Unweit der Grenze zu Deutschland will BYD eine Autofabrik kaufen. Mit in der EU produzierten Fahrzeugen würden Zölle umgangen."
     },
     {
-      "title": "Sonnensystem: Masse und Bahn von Planet hinter dem Neptun errechnet",
-      "text": "Überraschend groß und mit ungewöhnlicher Bahnkurve würde die Existenz des Planeten das Verhalten der Objekte am Rand des Sonnensystems erklären."
+      "title": "Änderungen im Bildungssystem gefordert: Deutschland verliert immer mehr MINT-Nachwuchs",
+      "text": "In Deutschland fehlen nicht nur Akademiker im MINT-Bereich, sondern auch Meister und Techniker."
     }
   ],
   "local": [
+    {
+      "title": "Lkw in Iggingen ausgebrannt - zwei Verletzte",
+      "text": "In Iggingen im Ostalbkreis ist am Montagmittag ein Lkw in Vollbrand geraten. Der Fahrer konnte sich aus dem brennenden Führerhaus retten. Ein Feuerwehrmann erlitt eine Rauchgasvergiftung."
+    },
     {
       "title": "Das war der BW-Newsticker am Montagmorgen: Lkw-Unfall: Feuerwehr pumpt tausende Liter Orangensaft ab, Großbrand in Königheim - Häuser unbewohnbar, Täter nach Messerangriff in Ulm auf der Flucht",
       "text": "Kurz und informativ - das Wichtigste für den Morgen und den Tag. Aktuelle Nachrichten für Baden-Württemberg live in unserem SWR Aktuell Newsticker."
@@ -76,10 +80,6 @@
     {
       "title": "Kaufland ruft bundesweit Kartoffeln zurück",
       "text": "Der Lebensmitteldiscounter Kaufland aus Neckarsulm ruft eine bestimmte Charge von Kartoffeln zurück. Es wurden erhöhte Gehalte an den Glykoalkaloiden nachgewiesen."
-    },
-    {
-      "title": "Tierische Begegnung in Täferrot: War es ein Wolf oder ein \"wolfsähnlicher Hund\"?",
-      "text": "Rätselraten in Täferrot im Ostalbkreis: Dort ist ein Wolf gesichtet und fotografiert worden. Die Fotos sind etwas unscharf. War es vielleicht doch nur ein \"wolfsähnlicher Hund\"?"
     },
     {
       "title": "Heimischer Kabelhersteller entwickelt Maßnahmen gegen Sabotage",
